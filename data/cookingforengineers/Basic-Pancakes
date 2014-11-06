@@ -1,0 +1,1029 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+	<head>
+		<title>Basic Pancakes - Recipe File - Cooking For Engineers</title>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="description" content="Step by step recipe instructions for basic pancakes complete with photographs and reader comments and discussion" />
+		<meta name="keywords" content="cooking,recipes,techniques,photos,discussion,basic pancakes" />
+		
+		
+		<link href="/stylesheets/style.css?1381092548" media="screen" rel="Stylesheet" type="text/css" /><link href="/stylesheets/frontpage.css?1204359954" media="screen" rel="Stylesheet" type="text/css" />
+		
+		
+		
+		<script src="/javascripts/prototype.js?1204375576" type="text/javascript"></script><script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript" src="http://s.sharethis.com/loader.js"></script>
+
+		
+<script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + 
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
+
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+
+googletag.defineSlot('/1057967/Article_160x600', [160, 600], 'dfp_gpt_1').addService(googletag.pubads());
+
+googletag.defineSlot('/1057967/Article_300x250', [300, 250], 'dfp_gpt_2').addService(googletag.pubads());
+
+googletag.defineSlot('/1057967/Article_728x90', [728, 90], 'dfp_gpt_3').addService(googletag.pubads());
+
+googletag.defineSlot('/1057967/Article_Footer_728x90', [728, 90], 'dfp_gpt_4').addService(googletag.pubads());
+
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+});
+</script>
+
+		<link href="http://www.cookingforengineers.com/atom.xml" rel="alternate" title="Atom 1.0 Feed" type="application/atom+xml" />
+		
+		<link rel="shortcut icon" href="http://www.cookingforengineers.com/favicon.ico" />
+	</head>
+	<body>
+		
+		
+		
+			<div class="navbar">
+	<div style="float:left">
+		<div class="sitetitle"><a href="/">Cooking For Engineers<span class="trademark">&reg;</span></a></div>
+		<div class="subtitle">Have an analytical mind? Like to cook? This is the site to read!</div>
+	</div>
+	<div style="float:right; margin: 15px 8px 0 0">
+		<form method="get" action="/searchform" style="margin: 0pt; display: inline;">
+		  <input style="margin: 0pt 0pt 2px; font-size: 90%;" name="terms" size="25" maxlength="255" value="" type="text">
+		  <input style="margin: 0pt 0pt 2px; font-size: 90%;" name="search" value="Search" type="submit">
+	  </form>
+	  <br>
+	  <!-- Google Search -->
+	  <form target="_blank" action="http://www.google.com/search" style="margin: 0pt; display: inline;">
+		  <input style="font-size: 90%;" size="24" maxlength="255" value="half cup in milliliters" name="q" type="text">
+		  <input style="font-size: 90%;" name="sa" value="Convert" type="submit">
+		</form>
+	</div>	
+	<div class="clear"></div>
+	<table class="nav" cellpadding="0" cellspacing="1">
+		<tr><td width="11%" id="categorytd_Books"><a href="#" onClick="showcat('Books');return false">Books</a></td>
+			<td width="11%" id="categorytd_CookingTests"><a href="#" onClick="showcat('CookingTests');return false">Cooking&nbsp;Tests</a></td>
+			<td width="11%" id="categorytd_DiningOut"><a href="#" onClick="showcat('DiningOut');return false">Dining&nbsp;Out</a></td>
+			<td width="11%" id="categorytd_EquipmentGear"><a href="#" onClick="showcat('EquipmentGear');return false">Equipment&nbsp;&amp;&nbsp;Gear</a></td>
+			<td width="11%" id="categorytd_KitchenNotes"><a href="#" onClick="showcat('KitchenNotes');return false">Kitchen&nbsp;Notes</a></td>
+			<td width="11%" id="categorytd_OffTopic"><a href="#" onClick="showcat('OffTopic');return false">Off&nbsp;Topic</a></td>
+			<td width="11%" id="categorytd_RecipeFile"><a href="#" onClick="showcat('RecipeFile');return false">Recipe&nbsp;File</a></td>
+			<td width="11%" id="categorytd_SousVide"><a href="#" onClick="showcat('SousVide');return false">Sous&nbsp;Vide</a></td>
+			<td width="12%" id="categorytd_TestRecipes"><a href="#" onClick="showcat('TestRecipes');return false">Test&nbsp;Recipes</a></td>
+			</tr>
+	</table>
+	<script type="text/javascript">
+//<![CDATA[
+
+	function lb(id)
+	{
+		document.getElementById(id).style.border='1px solid #FFFF00';
+	}
+	function db(id)
+	{
+		document.getElementById(id).style.border='1px solid #99FF99';
+	}
+	function showcat(id)
+	{
+		var curdisplay = document.getElementById('navcat_'+id).style.display;
+		document.getElementById('navcat_Books').style.display='none';
+document.getElementById('navcat_CookingTests').style.display='none';
+document.getElementById('navcat_DiningOut').style.display='none';
+document.getElementById('navcat_EquipmentGear').style.display='none';
+document.getElementById('navcat_KitchenNotes').style.display='none';
+document.getElementById('navcat_OffTopic').style.display='none';
+document.getElementById('navcat_RecipeFile').style.display='none';
+document.getElementById('navcat_SousVide').style.display='none';
+document.getElementById('navcat_TestRecipes').style.display='none';
+
+		document.getElementById('categorytd_Books').style.border='1px solid #99FF99';
+document.getElementById('categorytd_Books').style.backgroundColor='transparent';
+document.getElementById('categorytd_CookingTests').style.border='1px solid #99FF99';
+document.getElementById('categorytd_CookingTests').style.backgroundColor='transparent';
+document.getElementById('categorytd_DiningOut').style.border='1px solid #99FF99';
+document.getElementById('categorytd_DiningOut').style.backgroundColor='transparent';
+document.getElementById('categorytd_EquipmentGear').style.border='1px solid #99FF99';
+document.getElementById('categorytd_EquipmentGear').style.backgroundColor='transparent';
+document.getElementById('categorytd_KitchenNotes').style.border='1px solid #99FF99';
+document.getElementById('categorytd_KitchenNotes').style.backgroundColor='transparent';
+document.getElementById('categorytd_OffTopic').style.border='1px solid #99FF99';
+document.getElementById('categorytd_OffTopic').style.backgroundColor='transparent';
+document.getElementById('categorytd_RecipeFile').style.border='1px solid #99FF99';
+document.getElementById('categorytd_RecipeFile').style.backgroundColor='transparent';
+document.getElementById('categorytd_SousVide').style.border='1px solid #99FF99';
+document.getElementById('categorytd_SousVide').style.backgroundColor='transparent';
+document.getElementById('categorytd_TestRecipes').style.border='1px solid #99FF99';
+document.getElementById('categorytd_TestRecipes').style.backgroundColor='transparent';
+
+		if (curdisplay != 'block')
+		{
+			document.getElementById('categorytd_'+id).style.border='1px solid #9999FF';
+			document.getElementById('categorytd_'+id).style.backgroundColor='#000060';
+			document.getElementById('navcat_'+id).style.display='block';
+		}
+		else
+		{
+			document.getElementById('navcat_'+id).style.display='none';
+		}
+	}
+	
+//]]>
+</script>
+	<div id="navcat_Books" style="display:none"><table width="100%" class="navlinks" cellpadding="0" cellspacing="1"><tr><td width="25%" id="nl248" onclick="window.location='/article/248/Everybody-Eats-Lunch-by-Cricket-Azima'" onMouseOver="lb('nl248')" onMouseOut="db('nl248')" ><a href="/article/248/Everybody-Eats-Lunch-by-Cricket-Azima" title="Books: Everybody Eats Lunch by Cricket Azima">Everybody Eats Lunch by Cricket Azima</a></td><td width="25%" id="nl229" onclick="window.location='/article/229/Joy-of-Cooking-75th-Anniversary-Edition-2006'" onMouseOver="lb('nl229')" onMouseOut="db('nl229')" ><a href="/article/229/Joy-of-Cooking-75th-Anniversary-Edition-2006" title="Books: Joy of Cooking (75th Anniversary Edition; 2006)">Joy of Cooking (75th Anniversary Edition; 2006)</a></td><td width="25%" id="nl307" onclick="window.location='/article/307/Ten-Great-Gifts-for-Cooking-For-Engineers-Fans'" onMouseOver="lb('nl307')" onMouseOut="db('nl307')" ><a href="/article/307/Ten-Great-Gifts-for-Cooking-For-Engineers-Fans" title="Books: Ten Great Gifts for Cooking For Engineers' Fans">Ten Great Gifts for Cooking For Engineers' Fans</a></td><td width="25%" id="nl241" onclick="window.location='/article/241/The-Story-of-Tea-by-Mary-Lou-and-Robert-Heiss'" onMouseOver="lb('nl241')" onMouseOut="db('nl241')" ><a href="/article/241/The-Story-of-Tea-by-Mary-Lou-and-Robert-Heiss" title="Books: The Story of Tea by Mary Lou and Robert Heiss">The Story of Tea by Mary Lou and Robert Heiss</a></td></tr><tr><td id="nl270" onclick="window.location='/article/270/Fun-Food-Facts-by-Mike-Bellino'" onMouseOver="lb('nl270')" onMouseOut="db('nl270')" ><a href="/article/270/Fun-Food-Facts-by-Mike-Bellino" title="Books: Fun Food Facts by Mike Bellino">Fun Food Facts by Mike Bellino</a></td><td id="nl242" onclick="window.location='/article/242/Kitchen-Mysteries-by-Herve-This'" onMouseOver="lb('nl242')" onMouseOut="db('nl242')" ><a href="/article/242/Kitchen-Mysteries-by-Herve-This" title="Books: Kitchen Mysteries by Herve This">Kitchen Mysteries by Herve This</a></td><td id="nl254" onclick="window.location='/article/254/The-Science-of-Good-Food'" onMouseOver="lb('nl254')" onMouseOut="db('nl254')" ><a href="/article/254/The-Science-of-Good-Food" title="Books: The Science of Good Food">The Science of Good Food</a></td><td id="nl220" onclick="window.location='/article/220/Toast-by-Nigel-Slater'" onMouseOver="lb('nl220')" onMouseOut="db('nl220')" ><a href="/article/220/Toast-by-Nigel-Slater" title="Books: Toast by Nigel Slater">Toast by Nigel Slater</a></td></tr><tr><td id="nl201" onclick="window.location='/article/201/Heat-by-Bill-Buford'" onMouseOver="lb('nl201')" onMouseOut="db('nl201')" ><a href="/article/201/Heat-by-Bill-Buford" title="Books: Heat by Bill Buford">Heat by Bill Buford</a></td><td id="nl333" onclick="window.location='/article/333/Modernist-Cuisine-at-Home-on-Inkling'" onMouseOver="lb('nl333')" onMouseOut="db('nl333')" ><a href="/article/333/Modernist-Cuisine-at-Home-on-Inkling" title="Books: Modernist Cuisine at Home on Inkling">Modernist Cuisine at Home on Inkling</a></td><td id="nl292" onclick="window.location='/article/292/The-Sorcerers-Apprentices-by-Lisa-Abend'" onMouseOver="lb('nl292')" onMouseOut="db('nl292')" ><a href="/article/292/The-Sorcerers-Apprentices-by-Lisa-Abend" title="Books: The Sorcerer's Apprentices by Lisa Abend">The Sorcerer's Apprentices by Lisa Abend</a></td><td id="nl233" onclick="window.location='/article/233/Vegetables-The-Culinary-Institute-of-America'" onMouseOver="lb('nl233')" onMouseOut="db('nl233')" ><a href="/article/233/Vegetables-The-Culinary-Institute-of-America" title="Books: Vegetables (The Culinary Institute of America)">Vegetables (The Culinary Institute of America)</a></td></tr></table></div>
+	<div id="navcat_CookingTests" style="display:none"><table width="100%" class="navlinks" cellpadding="0" cellspacing="1"><tr><td width="25%" id="nl3" onclick="window.location='/article/3/Bacon-Part-I'" onMouseOver="lb('nl3')" onMouseOut="db('nl3')" ><a href="/article/3/Bacon-Part-I" title="Cooking Tests: Bacon (Part I)">Bacon (Part I)</a></td><td width="25%" id="nl171" onclick="window.location='/article/171/Beer-Can-Chicken'" onMouseOver="lb('nl171')" onMouseOut="db('nl171')" ><a href="/article/171/Beer-Can-Chicken" title="Cooking Tests: Beer Can Chicken">Beer Can Chicken</a></td><td width="25%" id="nl173" onclick="window.location='/article/173/HFCS-Free-Cream-Sodas'" onMouseOver="lb('nl173')" onMouseOut="db('nl173')" ><a href="/article/173/HFCS-Free-Cream-Sodas" title="Cooking Tests: HFCS-Free Cream Sodas">HFCS-Free Cream Sodas</a></td><td width="25%" id="nl249" onclick="window.location='/article/249/Soft-Boiled-Eggs'" onMouseOver="lb('nl249')" onMouseOut="db('nl249')" ><a href="/article/249/Soft-Boiled-Eggs" title="Cooking Tests: Soft Boiled Eggs">Soft Boiled Eggs</a></td></tr><tr><td id="nl110" onclick="window.location='/article/110/Bacon-Part-II'" onMouseOver="lb('nl110')" onMouseOut="db('nl110')" ><a href="/article/110/Bacon-Part-II" title="Cooking Tests: Bacon (Part II)">Bacon (Part II)</a></td><td id="nl5" onclick="window.location='/article/5/Eggplant-Taste-Test'" onMouseOver="lb('nl5')" onMouseOut="db('nl5')" ><a href="/article/5/Eggplant-Taste-Test" title="Cooking Tests: Eggplant Taste Test">Eggplant Taste Test</a></td></tr></table></div>
+	<div id="navcat_DiningOut" style="display:none"><table width="100%" class="navlinks" cellpadding="0" cellspacing="1"><tr><td width="25%" id="nl202" onclick="window.location='/article/202/Ad-Hoc-Yountville-California'" onMouseOver="lb('nl202')" onMouseOut="db('nl202')" ><a href="/article/202/Ad-Hoc-Yountville-California" title="Dining Out: Ad Hoc (Yountville, California)">Ad Hoc (Yountville, California)</a></td><td width="25%" id="nl299" onclick="window.location='/article/299/Chicago-2011-Part-4-Gibsons-Bar-Steakhouse'" onMouseOver="lb('nl299')" onMouseOut="db('nl299')" ><a href="/article/299/Chicago-2011-Part-4-Gibsons-Bar-Steakhouse" title="Dining Out: Chicago 2011 Part 4 - Gibson's Bar &amp; Steakhouse">Chicago 2011 Part 4 - Gibson's Bar &amp; Steakhouse</a></td><td width="25%" id="nl330" onclick="window.location='/article/330/Cook-Taste-Barcelona-Spain'" onMouseOver="lb('nl330')" onMouseOut="db('nl330')" ><a href="/article/330/Cook-Taste-Barcelona-Spain" title="Dining Out: Cook &amp; Taste (Barcelona, Spain)">Cook &amp; Taste (Barcelona, Spain)</a></td><td width="25%" id="nl329" onclick="window.location='/article/329/Pakta-Barcelona-Spain'" onMouseOver="lb('nl329')" onMouseOut="db('nl329')" ><a href="/article/329/Pakta-Barcelona-Spain" title="Dining Out: Pakta (Barcelona, Spain)">Pakta (Barcelona, Spain)</a></td></tr><tr><td id="nl88" onclick="window.location='/article/88/Ahwahnee-Hotel-Kitchen-Yosemite-California'" onMouseOver="lb('nl88')" onMouseOut="db('nl88')" ><a href="/article/88/Ahwahnee-Hotel-Kitchen-Yosemite-California" title="Dining Out: Ahwahnee Hotel Kitchen (Yosemite, California)">Ahwahnee Hotel Kitchen (Yosemite, California)</a></td><td id="nl300" onclick="window.location='/article/300/Chicago-2011-Part-5-Frontera-Grill-XOCO'" onMouseOver="lb('nl300')" onMouseOut="db('nl300')" ><a href="/article/300/Chicago-2011-Part-5-Frontera-Grill-XOCO" title="Dining Out: Chicago 2011 Part 5 - Frontera Grill, XOCO">Chicago 2011 Part 5 - Frontera Grill, XOCO</a></td><td id="nl253" onclick="window.location='/article/253/Elements-Napa-California'" onMouseOver="lb('nl253')" onMouseOut="db('nl253')" ><a href="/article/253/Elements-Napa-California" title="Dining Out: Elements (Napa, California)">Elements (Napa, California)</a></td><td id="nl260" onclick="window.location='/article/260/Parcel-104-Santa-Clara-California'" onMouseOver="lb('nl260')" onMouseOut="db('nl260')" ><a href="/article/260/Parcel-104-Santa-Clara-California" title="Dining Out: Parcel 104 (Santa Clara, California)">Parcel 104 (Santa Clara, California)</a></td></tr><tr><td id="nl311" onclick="window.location='/article/311/Blue-Bell-Creamery-Factory-Tour'" onMouseOver="lb('nl311')" onMouseOut="db('nl311')" ><a href="/article/311/Blue-Bell-Creamery-Factory-Tour" title="Dining Out: Blue Bell Creamery Factory Tour">Blue Bell Creamery Factory Tour</a></td><td id="nl301" onclick="window.location='/article/301/Chicago-2011-Part-6-Noodles-by-Takashi-Yagihashi-Frontera-Fresco-Marc-Burger'" onMouseOver="lb('nl301')" onMouseOut="db('nl301')" ><a href="/article/301/Chicago-2011-Part-6-Noodles-by-Takashi-Yagihashi-Frontera-Fresco-Marc-Burger" title="Dining Out: Chicago 2011 Part 6 - Noodles by Takashi Yagihashi, Frontera Fresco, Marc Burger">Chicago 2011 Part 6 - Noodles by Takashi Yagihashi, Frontera Fresco, Marc Burger</a></td><td id="nl316" onclick="window.location='/article/316/Georges-San-Francisco-California'" onMouseOver="lb('nl316')" onMouseOut="db('nl316')" ><a href="/article/316/Georges-San-Francisco-California" title="Dining Out: Georges (San Francisco, California)">Georges (San Francisco, California)</a></td><td id="nl281" onclick="window.location='/article/281/Per-Se-New-York-New-York'" onMouseOver="lb('nl281')" onMouseOut="db('nl281')" ><a href="/article/281/Per-Se-New-York-New-York" title="Dining Out: Per Se (New York, New York)">Per Se (New York, New York)</a></td></tr><tr><td id="nl91" onclick="window.location='/article/91/Cafe-Terigo-Park-City-Utah'" onMouseOver="lb('nl91')" onMouseOut="db('nl91')" ><a href="/article/91/Cafe-Terigo-Park-City-Utah" title="Dining Out: Cafe Terigo (Park City, Utah)">Cafe Terigo (Park City, Utah)</a></td><td id="nl302" onclick="window.location='/article/302/Chicago-2011-Part-7-Alinea'" onMouseOver="lb('nl302')" onMouseOut="db('nl302')" ><a href="/article/302/Chicago-2011-Part-7-Alinea" title="Dining Out: Chicago 2011 Part 7 - Alinea">Chicago 2011 Part 7 - Alinea</a></td><td id="nl240" onclick="window.location='/article/240/Hard-Knox-Cafe-San-Francisco-California'" onMouseOver="lb('nl240')" onMouseOut="db('nl240')" ><a href="/article/240/Hard-Knox-Cafe-San-Francisco-California" title="Dining Out: Hard Knox Cafe (San Francisco, California)">Hard Knox Cafe (San Francisco, California)</a></td><td id="nl324" onclick="window.location='/article/324/Ramen-in-Austin-Michi-Ramen-and-Ramen-Tatsuya'" onMouseOver="lb('nl324')" onMouseOut="db('nl324')" ><a href="/article/324/Ramen-in-Austin-Michi-Ramen-and-Ramen-Tatsuya" title="Dining Out: Ramen in Austin (Michi Ramen and Ramen Tatsuya)">Ramen in Austin (Michi Ramen and Ramen Tatsuya)</a></td></tr><tr><td id="nl231" onclick="window.location='/article/231/Chads-Fish-Chips-Willits-California'" onMouseOver="lb('nl231')" onMouseOut="db('nl231')" ><a href="/article/231/Chads-Fish-Chips-Willits-California" title="Dining Out: Chad's Fish &amp; Chips (Willits, California)">Chad's Fish &amp; Chips (Willits, California)</a></td><td id="nl303" onclick="window.location='/article/303/Chicago-2011-Part-8-Vienna-Beef-Factory'" onMouseOver="lb('nl303')" onMouseOut="db('nl303')" ><a href="/article/303/Chicago-2011-Part-8-Vienna-Beef-Factory" title="Dining Out: Chicago 2011 Part 8 - Vienna Beef Factory">Chicago 2011 Part 8 - Vienna Beef Factory</a></td><td id="nl247" onclick="window.location='/article/247/Jai-Yun-San-Francisco'" onMouseOver="lb('nl247')" onMouseOut="db('nl247')" ><a href="/article/247/Jai-Yun-San-Francisco" title="Dining Out: Jai Yun (San Francisco)">Jai Yun (San Francisco)</a></td><td id="nl153" onclick="window.location='/article/153/Shadowbrook-Restaurant-Capitola-California'" onMouseOver="lb('nl153')" onMouseOut="db('nl153')" ><a href="/article/153/Shadowbrook-Restaurant-Capitola-California" title="Dining Out: Shadowbrook Restaurant (Capitola, California)">Shadowbrook Restaurant (Capitola, California)</a></td></tr><tr><td id="nl295" onclick="window.location='/article/295/Chicago-2011-Part-1a-Overview'" onMouseOver="lb('nl295')" onMouseOut="db('nl295')" ><a href="/article/295/Chicago-2011-Part-1a-Overview" title="Dining Out: Chicago 2011 Part 1a - Overview">Chicago 2011 Part 1a - Overview</a></td><td id="nl304" onclick="window.location='/article/304/Chicago-2011-Part-9-Girl-and-the-Goat'" onMouseOver="lb('nl304')" onMouseOut="db('nl304')" ><a href="/article/304/Chicago-2011-Part-9-Girl-and-the-Goat" title="Dining Out: Chicago 2011 Part 9 - Girl and the Goat">Chicago 2011 Part 9 - Girl and the Goat</a></td><td id="nl204" onclick="window.location='/article/204/Maverick-San-Francisco-California'" onMouseOver="lb('nl204')" onMouseOut="db('nl204')" ><a href="/article/204/Maverick-San-Francisco-California" title="Dining Out: Maverick (San Francisco, California)">Maverick (San Francisco, California)</a></td><td id="nl216" onclick="window.location='/article/216/Soul-Bar-Bistro-Auckland-New-Zealand'" onMouseOver="lb('nl216')" onMouseOut="db('nl216')" ><a href="/article/216/Soul-Bar-Bistro-Auckland-New-Zealand" title="Dining Out: Soul Bar &amp; Bistro (Auckland, New Zealand)">Soul Bar &amp; Bistro (Auckland, New Zealand)</a></td></tr><tr><td id="nl296" onclick="window.location='/article/296/Chicago-2011-Part-1b-Overview'" onMouseOver="lb('nl296')" onMouseOut="db('nl296')" ><a href="/article/296/Chicago-2011-Part-1b-Overview" title="Dining Out: Chicago 2011 Part 1b - Overview">Chicago 2011 Part 1b - Overview</a></td><td id="nl267" onclick="window.location='/article/267/Coi-San-Francisco-California'" onMouseOver="lb('nl267')" onMouseOut="db('nl267')" ><a href="/article/267/Coi-San-Francisco-California" title="Dining Out: Coi (San Francisco, California)">Coi (San Francisco, California)</a></td><td id="nl235" onclick="window.location='/article/235/Michelin-Rated-Restaurants-San-Francisco-2007'" onMouseOver="lb('nl235')" onMouseOut="db('nl235')" ><a href="/article/235/Michelin-Rated-Restaurants-San-Francisco-2007" title="Dining Out: Michelin Rated Restaurants (San Francisco 2007)">Michelin Rated Restaurants (San Francisco 2007)</a></td><td id="nl293" onclick="window.location='/article/293/The-Noble-Pig-Austin-Texas'" onMouseOver="lb('nl293')" onMouseOut="db('nl293')" ><a href="/article/293/The-Noble-Pig-Austin-Texas" title="Dining Out: The Noble Pig (Austin, Texas)">The Noble Pig (Austin, Texas)</a></td></tr><tr><td id="nl297" onclick="window.location='/article/297/Chicago-2011-Part-2-Shui-Wah-Santa-Anna-Bakery'" onMouseOver="lb('nl297')" onMouseOut="db('nl297')" ><a href="/article/297/Chicago-2011-Part-2-Shui-Wah-Santa-Anna-Bakery" title="Dining Out: Chicago 2011 Part 2 - Shui Wah, Santa Anna Bakery">Chicago 2011 Part 2 - Shui Wah, Santa Anna Bakery</a></td><td id="nl291" onclick="window.location='/article/291/Congress-Austin-Texas'" onMouseOver="lb('nl291')" onMouseOut="db('nl291')" ><a href="/article/291/Congress-Austin-Texas" title="Dining Out: Congress (Austin, Texas)">Congress (Austin, Texas)</a></td><td id="nl236" onclick="window.location='/article/236/Michelin-Rated-Restaurants-San-Francisco-2008'" onMouseOver="lb('nl236')" onMouseOut="db('nl236')" ><a href="/article/236/Michelin-Rated-Restaurants-San-Francisco-2008" title="Dining Out: Michelin Rated Restaurants (San Francisco 2008)">Michelin Rated Restaurants (San Francisco 2008)</a></td><td id="nl245" onclick="window.location='/article/245/Uchi-Austin-Texas'" onMouseOver="lb('nl245')" onMouseOut="db('nl245')" ><a href="/article/245/Uchi-Austin-Texas" title="Dining Out: Uchi (Austin, Texas)">Uchi (Austin, Texas)</a></td></tr><tr><td id="nl298" onclick="window.location='/article/298/Chicago-2011-Part-3-Pizzeria-Uno-Giordanos'" onMouseOver="lb('nl298')" onMouseOut="db('nl298')" ><a href="/article/298/Chicago-2011-Part-3-Pizzeria-Uno-Giordanos" title="Dining Out: Chicago 2011 Part 3 - Pizzeria Uno, Giordano's">Chicago 2011 Part 3 - Pizzeria Uno, Giordano's</a></td></tr></table></div>
+	<div id="navcat_EquipmentGear" style="display:none"><table width="100%" class="navlinks" cellpadding="0" cellspacing="1"><tr><td width="25%" id="nl319" onclick="window.location='/article/319/Anolon-Nouvelle-Copper-Stainless-Steel-3-qt-Covered-Saute-Pan'" onMouseOver="lb('nl319')" onMouseOut="db('nl319')" ><a href="/article/319/Anolon-Nouvelle-Copper-Stainless-Steel-3-qt-Covered-Saute-Pan" title="Equipment &amp; Gear: Anolon Nouvelle Copper Stainless Steel 3-qt Covered Saute Pan">Anolon Nouvelle Copper Stainless Steel 3-qt Covered Saute Pan</a></td><td width="25%" id="nl17" onclick="window.location='/article/17/Cutting-Boards'" onMouseOver="lb('nl17')" onMouseOut="db('nl17')" ><a href="/article/17/Cutting-Boards" title="Equipment &amp; Gear: Cutting Boards">Cutting Boards</a></td><td width="25%" id="nl95" onclick="window.location='/article/95/Kitchen-Thermometers'" onMouseOver="lb('nl95')" onMouseOut="db('nl95')" ><a href="/article/95/Kitchen-Thermometers" title="Equipment &amp; Gear: Kitchen Thermometers">Kitchen Thermometers</a></td><td width="25%" id="nl99" onclick="window.location='/article/99/Microwave-Safe-Containers'" onMouseOver="lb('nl99')" onMouseOut="db('nl99')" ><a href="/article/99/Microwave-Safe-Containers" title="Equipment &amp; Gear: Microwave Safe Containers">Microwave Safe Containers</a></td></tr><tr><td id="nl205" onclick="window.location='/article/205/Bakers-Edge'" onMouseOver="lb('nl205')" onMouseOut="db('nl205')" ><a href="/article/205/Bakers-Edge" title="Equipment &amp; Gear: Baker's Edge">Baker's Edge</a></td><td id="nl222" onclick="window.location='/article/222/Fathers-Day-Gift-Ideas'" onMouseOver="lb('nl222')" onMouseOut="db('nl222')" ><a href="/article/222/Fathers-Day-Gift-Ideas" title="Equipment &amp; Gear: Father's Day Gift Ideas">Father's Day Gift Ideas</a></td><td id="nl187" onclick="window.location='/article/187/Knife-and-Sharpening-Steel-Hardness'" onMouseOver="lb('nl187')" onMouseOut="db('nl187')" ><a href="/article/187/Knife-and-Sharpening-Steel-Hardness" title="Equipment &amp; Gear: Knife and Sharpening Steel Hardness">Knife and Sharpening Steel Hardness</a></td><td id="nl84" onclick="window.location='/article/84/NSF-Certification'" onMouseOver="lb('nl84')" onMouseOut="db('nl84')" ><a href="/article/84/NSF-Certification" title="Equipment &amp; Gear: NSF Certification">NSF Certification</a></td></tr><tr><td id="nl290" onclick="window.location='/article/290/Ceramic-Chefs-Knives-Rated'" onMouseOver="lb('nl290')" onMouseOut="db('nl290')" ><a href="/article/290/Ceramic-Chefs-Knives-Rated" title="Equipment &amp; Gear: Ceramic Chef's Knives Rated">Ceramic Chef's Knives Rated</a></td><td id="nl256" onclick="window.location='/article/256/GelPro-Mat'" onMouseOver="lb('nl256')" onMouseOut="db('nl256')" ><a href="/article/256/GelPro-Mat" title="Equipment &amp; Gear: GelPro Mat">GelPro Mat</a></td><td id="nl135" onclick="window.location='/article/135/Knife-Covers'" onMouseOver="lb('nl135')" onMouseOut="db('nl135')" ><a href="/article/135/Knife-Covers" title="Equipment &amp; Gear: Knife Covers">Knife Covers</a></td><td id="nl275" onclick="window.location='/article/275/Saber-Kitchen-Knives'" onMouseOver="lb('nl275')" onMouseOut="db('nl275')" ><a href="/article/275/Saber-Kitchen-Knives" title="Equipment &amp; Gear: Saber Kitchen Knives">Saber Kitchen Knives</a></td></tr><tr><td id="nl129" onclick="window.location='/article/129/Chefs-Knives-Rated'" onMouseOver="lb('nl129')" onMouseOut="db('nl129')" ><a href="/article/129/Chefs-Knives-Rated" title="Equipment &amp; Gear: Chef's Knives Rated">Chef's Knives Rated</a></td><td id="nl117" onclick="window.location='/article/117/Hefty-Serve-n-Store'" onMouseOver="lb('nl117')" onMouseOut="db('nl117')" ><a href="/article/117/Hefty-Serve-n-Store" title="Equipment &amp; Gear: Hefty Serve 'n Store">Hefty Serve 'n Store</a></td><td id="nl130" onclick="window.location='/article/130/Knife-Parts'" onMouseOver="lb('nl130')" onMouseOut="db('nl130')" ><a href="/article/130/Knife-Parts" title="Equipment &amp; Gear: Knife Parts">Knife Parts</a></td><td id="nl234" onclick="window.location='/article/234/Soda-Club-SodaStream'" onMouseOver="lb('nl234')" onMouseOut="db('nl234')" ><a href="/article/234/Soda-Club-SodaStream" title="Equipment &amp; Gear: Soda-Club (SodaStream)">Soda-Club (SodaStream)</a></td></tr><tr><td id="nl120" onclick="window.location='/article/120/Common-Materials-of-Cookware'" onMouseOver="lb('nl120')" onMouseOut="db('nl120')" ><a href="/article/120/Common-Materials-of-Cookware" title="Equipment &amp; Gear: Common Materials of Cookware">Common Materials of Cookware</a></td><td id="nl272" onclick="window.location='/article/272/Kapoosh-Knife-Block-not-recommended'" onMouseOver="lb('nl272')" onMouseOut="db('nl272')" ><a href="/article/272/Kapoosh-Knife-Block-not-recommended" title="Equipment &amp; Gear: Kapoosh Knife Block (not recommended)">Kapoosh Knife Block (not recommended)</a></td><td id="nl85" onclick="window.location='/article/85/Krups-Spice-Grinder'" onMouseOver="lb('nl85')" onMouseOut="db('nl85')" ><a href="/article/85/Krups-Spice-Grinder" title="Equipment &amp; Gear: Krups Spice Grinder">Krups Spice Grinder</a></td><td id="nl287" onclick="window.location='/article/287/Understanding-Blender-Specifications'" onMouseOver="lb('nl287')" onMouseOut="db('nl287')" ><a href="/article/287/Understanding-Blender-Specifications" title="Equipment &amp; Gear: Understanding Blender Specifications">Understanding Blender Specifications</a></td></tr><tr><td id="nl232" onclick="window.location='/article/232/Cooking-With-Aluminum'" onMouseOver="lb('nl232')" onMouseOut="db('nl232')" ><a href="/article/232/Cooking-With-Aluminum" title="Equipment &amp; Gear: Cooking With Aluminum">Cooking With Aluminum</a></td><td id="nl39" onclick="window.location='/article/39/Kitchen-Knives'" onMouseOver="lb('nl39')" onMouseOut="db('nl39')" ><a href="/article/39/Kitchen-Knives" title="Equipment &amp; Gear: Kitchen Knives">Kitchen Knives</a></td><td id="nl269" onclick="window.location='/article/269/Metrokane-Mighty-OJ-Not-recommended'" onMouseOver="lb('nl269')" onMouseOut="db('nl269')" ><a href="/article/269/Metrokane-Mighty-OJ-Not-recommended" title="Equipment &amp; Gear: Metrokane Mighty OJ (Not recommended)">Metrokane Mighty OJ (Not recommended)</a></td><td id="nl326" onclick="window.location='/article/326/Whats-In-Your-Non-Stick'" onMouseOver="lb('nl326')" onMouseOut="db('nl326')" ><a href="/article/326/Whats-In-Your-Non-Stick" title="Equipment &amp; Gear: What's In Your Non-Stick?">What's In Your Non-Stick?</a></td></tr><tr><td id="nl175" onclick="window.location='/article/175/CoolCover'" onMouseOver="lb('nl175')" onMouseOut="db('nl175')" ><a href="/article/175/CoolCover" title="Equipment &amp; Gear: CoolCover">CoolCover</a></td><td id="nl82" onclick="window.location='/article/82/Kitchen-Scales'" onMouseOver="lb('nl82')" onMouseOut="db('nl82')" ><a href="/article/82/Kitchen-Scales" title="Equipment &amp; Gear: Kitchen Scales">Kitchen Scales</a></td></tr></table></div>
+	<div id="navcat_KitchenNotes" style="display:none"><table width="100%" class="navlinks" cellpadding="0" cellspacing="1"><tr><td width="25%" id="nl90" onclick="window.location='/article/90/Additives'" onMouseOver="lb('nl90')" onMouseOut="db('nl90')" ><a href="/article/90/Additives" title="Kitchen Notes: Additives">Additives</a></td><td width="25%" id="nl131" onclick="window.location='/article/131/Clarified-Butter'" onMouseOver="lb('nl131')" onMouseOut="db('nl131')" ><a href="/article/131/Clarified-Butter" title="Kitchen Notes: Clarified Butter">Clarified Butter</a></td><td width="25%" id="nl51" onclick="window.location='/article/51/Glossary'" onMouseOver="lb('nl51')" onMouseOut="db('nl51')" ><a href="/article/51/Glossary" title="Kitchen Notes: Glossary">Glossary</a></td><td width="25%" id="nl40" onclick="window.location='/article/40/Saturated-Fats-Cholesterol-and-Heart-Disease'" onMouseOver="lb('nl40')" onMouseOut="db('nl40')" ><a href="/article/40/Saturated-Fats-Cholesterol-and-Heart-Disease" title="Kitchen Notes: Saturated Fats, Cholesterol, and Heart Disease">Saturated Fats, Cholesterol, and Heart Disease</a></td></tr><tr><td id="nl280" onclick="window.location='/article/280/Analyzing-a-Baking-Recipe'" onMouseOver="lb('nl280')" onMouseOut="db('nl280')" ><a href="/article/280/Analyzing-a-Baking-Recipe" title="Kitchen Notes: Analyzing a Baking Recipe">Analyzing a Baking Recipe</a></td><td id="nl198" onclick="window.location='/article/198/Clarified-Butter-II'" onMouseOver="lb('nl198')" onMouseOut="db('nl198')" ><a href="/article/198/Clarified-Butter-II" title="Kitchen Notes: Clarified Butter II">Clarified Butter II</a></td><td id="nl209" onclick="window.location='/article/209/Heat-Transfer-and-Browning-Foods'" onMouseOver="lb('nl209')" onMouseOut="db('nl209')" ><a href="/article/209/Heat-Transfer-and-Browning-Foods" title="Kitchen Notes: Heat Transfer and Browning Foods">Heat Transfer and Browning Foods</a></td><td id="nl78" onclick="window.location='/article/78/Scoville-Units'" onMouseOver="lb('nl78')" onMouseOut="db('nl78')" ><a href="/article/78/Scoville-Units" title="Kitchen Notes: Scoville Units">Scoville Units</a></td></tr><tr><td id="nl199" onclick="window.location='/article/199/Baguettes-Deconstructed'" onMouseOver="lb('nl199')" onMouseOut="db('nl199')" ><a href="/article/199/Baguettes-Deconstructed" title="Kitchen Notes: Baguettes Deconstructed">Baguettes Deconstructed</a></td><td id="nl184" onclick="window.location='/article/184/Curry'" onMouseOver="lb('nl184')" onMouseOut="db('nl184')" ><a href="/article/184/Curry" title="Kitchen Notes: Curry">Curry</a></td><td id="nl224" onclick="window.location='/article/224/Heat-Transfer-and-Cooking'" onMouseOver="lb('nl224')" onMouseOut="db('nl224')" ><a href="/article/224/Heat-Transfer-and-Cooking" title="Kitchen Notes: Heat Transfer and Cooking">Heat Transfer and Cooking</a></td><td id="nl50" onclick="window.location='/article/50/Smoke-Points-of-Various-Fats'" onMouseOver="lb('nl50')" onMouseOut="db('nl50')" ><a href="/article/50/Smoke-Points-of-Various-Fats" title="Kitchen Notes: Smoke Points of Various Fats">Smoke Points of Various Fats</a></td></tr><tr><td id="nl213" onclick="window.location='/article/213/Bakers-Yeast'" onMouseOver="lb('nl213')" onMouseOut="db('nl213')" ><a href="/article/213/Bakers-Yeast" title="Kitchen Notes: Baker's Yeast">Baker's Yeast</a></td><td id="nl97" onclick="window.location='/article/97/Cutting-Up-Chicken'" onMouseOver="lb('nl97')" onMouseOut="db('nl97')" ><a href="/article/97/Cutting-Up-Chicken" title="Kitchen Notes: Cutting Up Chicken">Cutting Up Chicken</a></td><td id="nl52" onclick="window.location='/article/52/Ingredient-Substitutions'" onMouseOver="lb('nl52')" onMouseOut="db('nl52')" ><a href="/article/52/Ingredient-Substitutions" title="Kitchen Notes: Ingredient Substitutions">Ingredient Substitutions</a></td><td id="nl155" onclick="window.location='/article/155/Tempering-Chocolate'" onMouseOver="lb('nl155')" onMouseOut="db('nl155')" ><a href="/article/155/Tempering-Chocolate" title="Kitchen Notes: Tempering Chocolate">Tempering Chocolate</a></td></tr><tr><td id="nl123" onclick="window.location='/article/123/Boning-Chicken-Breast'" onMouseOver="lb('nl123')" onMouseOut="db('nl123')" ><a href="/article/123/Boning-Chicken-Breast" title="Kitchen Notes: Boning Chicken Breast">Boning Chicken Breast</a></td><td id="nl211" onclick="window.location='/article/211/European-Designation-of-Quality-Labels'" onMouseOver="lb('nl211')" onMouseOut="db('nl211')" ><a href="/article/211/European-Designation-of-Quality-Labels" title="Kitchen Notes: European Designation of Quality Labels">European Designation of Quality Labels</a></td><td id="nl113" onclick="window.location='/article/113/Making-Butter'" onMouseOver="lb('nl113')" onMouseOut="db('nl113')" ><a href="/article/113/Making-Butter" title="Kitchen Notes: Making Butter">Making Butter</a></td><td id="nl30" onclick="window.location='/article/30/USDA-Beef-Quality-Grades'" onMouseOver="lb('nl30')" onMouseOut="db('nl30')" ><a href="/article/30/USDA-Beef-Quality-Grades" title="Kitchen Notes: USDA Beef Quality Grades">USDA Beef Quality Grades</a></td></tr><tr><td id="nl70" onclick="window.location='/article/70/Brining'" onMouseOver="lb('nl70')" onMouseOut="db('nl70')" ><a href="/article/70/Brining" title="Kitchen Notes: Brining">Brining</a></td><td id="nl244" onclick="window.location='/article/244/Fond-of-Fond'" onMouseOver="lb('nl244')" onMouseOut="db('nl244')" ><a href="/article/244/Fond-of-Fond" title="Kitchen Notes: Fond of Fond">Fond of Fond</a></td><td id="nl16" onclick="window.location='/article/16/Maple-Syrup-Grades'" onMouseOver="lb('nl16')" onMouseOut="db('nl16')" ><a href="/article/16/Maple-Syrup-Grades" title="Kitchen Notes: Maple Syrup Grades">Maple Syrup Grades</a></td><td id="nl63" onclick="window.location='/article/63/Wheat-Flour'" onMouseOver="lb('nl63')" onMouseOut="db('nl63')" ><a href="/article/63/Wheat-Flour" title="Kitchen Notes: Wheat Flour">Wheat Flour</a></td></tr><tr><td id="nl73" onclick="window.location='/article/73/Buying-Whole-Turkeys'" onMouseOver="lb('nl73')" onMouseOut="db('nl73')" ><a href="/article/73/Buying-Whole-Turkeys" title="Kitchen Notes: Buying Whole Turkeys">Buying Whole Turkeys</a></td><td id="nl27" onclick="window.location='/article/27/Freezing-Meats'" onMouseOver="lb('nl27')" onMouseOut="db('nl27')" ><a href="/article/27/Freezing-Meats" title="Kitchen Notes: Freezing Meats">Freezing Meats</a></td><td id="nl134" onclick="window.location='/article/134/Oven-Temperatures'" onMouseOver="lb('nl134')" onMouseOut="db('nl134')" ><a href="/article/134/Oven-Temperatures" title="Kitchen Notes: Oven Temperatures">Oven Temperatures</a></td><td id="nl294" onclick="window.location='/article/294/White-Wheat-Grinder-Comparison'" onMouseOver="lb('nl294')" onMouseOut="db('nl294')" ><a href="/article/294/White-Wheat-Grinder-Comparison" title="Kitchen Notes: White Wheat Grinder Comparison">White Wheat Grinder Comparison</a></td></tr><tr><td id="nl156" onclick="window.location='/article/156/Caviar'" onMouseOver="lb('nl156')" onMouseOut="db('nl156')" ><a href="/article/156/Caviar" title="Kitchen Notes: Caviar">Caviar</a></td><td id="nl315" onclick="window.location='/article/315/Fruit-Ripening'" onMouseOver="lb('nl315')" onMouseOut="db('nl315')" ><a href="/article/315/Fruit-Ripening" title="Kitchen Notes: Fruit Ripening">Fruit Ripening</a></td><td id="nl96" onclick="window.location='/article/96/Pears'" onMouseOver="lb('nl96')" onMouseOut="db('nl96')" ><a href="/article/96/Pears" title="Kitchen Notes: Pears">Pears</a></td></tr></table></div>
+	<div id="navcat_OffTopic" style="display:none"><table width="100%" class="navlinks" cellpadding="0" cellspacing="1"><tr><td width="25%" id="nl133" onclick="window.location='/article/133/African-Horned-Melon-or-Kiwano'" onMouseOver="lb('nl133')" onMouseOut="db('nl133')" ><a href="/article/133/African-Horned-Melon-or-Kiwano" title="Off Topic: African Horned Melon or Kiwano">African Horned Melon or Kiwano</a></td><td width="25%" id="nl206" onclick="window.location='/article/206/Fancy-Food-Show-Winter-2007'" onMouseOver="lb('nl206')" onMouseOut="db('nl206')" ><a href="/article/206/Fancy-Food-Show-Winter-2007" title="Off Topic: Fancy Food Show Winter 2007">Fancy Food Show Winter 2007</a></td><td width="25%" id="nl119" onclick="window.location='/article/119/Iron-Chef-America'" onMouseOver="lb('nl119')" onMouseOut="db('nl119')" ><a href="/article/119/Iron-Chef-America" title="Off Topic: Iron Chef America">Iron Chef America</a></td><td width="25%" id="nl25" onclick="window.location='/article/25/Some-Quotes'" onMouseOver="lb('nl25')" onMouseOut="db('nl25')" ><a href="/article/25/Some-Quotes" title="Off Topic: Some Quotes">Some Quotes</a></td></tr><tr><td id="nl279" onclick="window.location='/article/279/Amano-Chocolate-Contest'" onMouseOver="lb('nl279')" onMouseOut="db('nl279')" ><a href="/article/279/Amano-Chocolate-Contest" title="Off Topic: Amano Chocolate Contest">Amano Chocolate Contest</a></td><td id="nl262" onclick="window.location='/article/262/Fancy-Food-Show-Winter-2009'" onMouseOver="lb('nl262')" onMouseOut="db('nl262')" ><a href="/article/262/Fancy-Food-Show-Winter-2009" title="Off Topic: Fancy Food Show Winter 2009">Fancy Food Show Winter 2009</a></td><td id="nl286" onclick="window.location='/article/286/Johnsonville-Pastaville-Italian-Sausage-Recipe-Contest'" onMouseOver="lb('nl286')" onMouseOut="db('nl286')" ><a href="/article/286/Johnsonville-Pastaville-Italian-Sausage-Recipe-Contest" title="Off Topic: Johnsonville Pastaville Italian Sausage Recipe Contest">Johnsonville Pastaville Italian Sausage Recipe Contest</a></td><td id="nl57" onclick="window.location='/article/57/Surprises-In-Snacks'" onMouseOver="lb('nl57')" onMouseOut="db('nl57')" ><a href="/article/57/Surprises-In-Snacks" title="Off Topic: Surprises In Snacks">Surprises In Snacks</a></td></tr><tr><td id="nl321" onclick="window.location='/article/321/Anolon-Nouvelle-Copper-Stainless-Steel-Cookware-Set-2012-Giveaway'" onMouseOver="lb('nl321')" onMouseOut="db('nl321')" ><a href="/article/321/Anolon-Nouvelle-Copper-Stainless-Steel-Cookware-Set-2012-Giveaway" title="Off Topic: Anolon Nouvelle Copper Stainless Steel Cookware Set 2012 Giveaway!">Anolon Nouvelle Copper Stainless Steel Cookware Set 2012 Giveaway!</a></td><td id="nl334" onclick="window.location='/article/334/Fancy-Food-Show-Winter-2014'" onMouseOver="lb('nl334')" onMouseOut="db('nl334')" ><a href="/article/334/Fancy-Food-Show-Winter-2014" title="Off Topic: Fancy Food Show Winter 2014">Fancy Food Show Winter 2014</a></td><td id="nl165" onclick="window.location='/article/165/LASIK'" onMouseOver="lb('nl165')" onMouseOut="db('nl165')" ><a href="/article/165/LASIK" title="Off Topic: LASIK">LASIK</a></td><td id="nl149" onclick="window.location='/article/149/Thanksgiving-Dinner'" onMouseOver="lb('nl149')" onMouseOut="db('nl149')" ><a href="/article/149/Thanksgiving-Dinner" title="Off Topic: Thanksgiving Dinner">Thanksgiving Dinner</a></td></tr><tr><td id="nl179" onclick="window.location='/article/179/Asparagus-Festival'" onMouseOver="lb('nl179')" onMouseOut="db('nl179')" ><a href="/article/179/Asparagus-Festival" title="Off Topic: Asparagus Festival">Asparagus Festival</a></td><td id="nl182" onclick="window.location='/article/182/Fanpop'" onMouseOver="lb('nl182')" onMouseOut="db('nl182')" ><a href="/article/182/Fanpop" title="Off Topic: Fanpop">Fanpop</a></td><td id="nl312" onclick="window.location='/article/312/LEGO-Heavy-Weapons-Book-Review'" onMouseOver="lb('nl312')" onMouseOut="db('nl312')" ><a href="/article/312/LEGO-Heavy-Weapons-Book-Review" title="Off Topic: LEGO Heavy Weapons Book Review">LEGO Heavy Weapons Book Review</a></td><td id="nl251" onclick="window.location='/article/251/The-HP-Freshman-15-Contest-Win-a-Notebook-Computer'" onMouseOver="lb('nl251')" onMouseOut="db('nl251')" ><a href="/article/251/The-HP-Freshman-15-Contest-Win-a-Notebook-Computer" title="Off Topic: The HP Freshman 15 Contest - Win a Notebook Computer">The HP Freshman 15 Contest - Win a Notebook Computer</a></td></tr><tr><td id="nl243" onclick="window.location='/article/243/Chilis-Bacon-Burger'" onMouseOver="lb('nl243')" onMouseOut="db('nl243')" ><a href="/article/243/Chilis-Bacon-Burger" title="Off Topic: Chili's Bacon Burger">Chili's Bacon Burger</a></td><td id="nl323" onclick="window.location='/article/323/Food-Fete-2013'" onMouseOver="lb('nl323')" onMouseOut="db('nl323')" ><a href="/article/323/Food-Fete-2013" title="Off Topic: Food Fete 2013">Food Fete 2013</a></td><td id="nl67" onclick="window.location='/article/67/Lunar-Eclipse'" onMouseOver="lb('nl67')" onMouseOut="db('nl67')" ><a href="/article/67/Lunar-Eclipse" title="Off Topic: Lunar Eclipse">Lunar Eclipse</a></td><td id="nl322" onclick="window.location='/article/322/The-Unofficial-LEGO-Technic-Builders-Guide-Book-Review'" onMouseOver="lb('nl322')" onMouseOut="db('nl322')" ><a href="/article/322/The-Unofficial-LEGO-Technic-Builders-Guide-Book-Review" title="Off Topic: The Unofficial LEGO Technic Builder's Guide Book Review">The Unofficial LEGO Technic Builder's Guide Book Review</a></td></tr><tr><td id="nl284" onclick="window.location='/article/284/Christmas-Gift-Ideas'" onMouseOver="lb('nl284')" onMouseOut="db('nl284')" ><a href="/article/284/Christmas-Gift-Ideas" title="Off Topic: Christmas Gift Ideas">Christmas Gift Ideas</a></td><td id="nl335" onclick="window.location='/article/335/Food-Fete-2014'" onMouseOver="lb('nl335')" onMouseOut="db('nl335')" ><a href="/article/335/Food-Fete-2014" title="Off Topic: Food Fete 2014">Food Fete 2014</a></td><td id="nl309" onclick="window.location='/article/309/Michael-Ohenes-Cookie-Recipe-Generator'" onMouseOver="lb('nl309')" onMouseOut="db('nl309')" ><a href="/article/309/Michael-Ohenes-Cookie-Recipe-Generator" title="Off Topic: Michael Ohene's Cookie Recipe Generator">Michael Ohene's Cookie Recipe Generator</a></td><td id="nl336" onclick="window.location='/article/336/Thermoworks-Fathers-Day-2014-Giveaway'" onMouseOver="lb('nl336')" onMouseOut="db('nl336')" ><a href="/article/336/Thermoworks-Fathers-Day-2014-Giveaway" title="Off Topic: Thermoworks Father's Day 2014 Giveaway!">Thermoworks Father's Day 2014 Giveaway!</a></td></tr><tr><td id="nl328" onclick="window.location='/article/328/Codlo-Sous-Vide-Controller-Kickstarter'" onMouseOver="lb('nl328')" onMouseOut="db('nl328')" ><a href="/article/328/Codlo-Sous-Vide-Controller-Kickstarter" title="Off Topic: Codlo Sous Vide Controller Kickstarter">Codlo Sous Vide Controller Kickstarter</a></td><td id="nl271" onclick="window.location='/article/271/Food-Inc'" onMouseOver="lb('nl271')" onMouseOut="db('nl271')" ><a href="/article/271/Food-Inc" title="Off Topic: Food, Inc">Food, Inc</a></td><td id="nl7" onclick="window.location='/article/7/Orange-Juice-Shelf-Life'" onMouseOver="lb('nl7')" onMouseOut="db('nl7')" ><a href="/article/7/Orange-Juice-Shelf-Life" title="Off Topic: Orange Juice Shelf Life">Orange Juice Shelf Life</a></td><td id="nl332" onclick="window.location='/article/332/Thermoworks-Thermapen-2013-Giveaway'" onMouseOver="lb('nl332')" onMouseOut="db('nl332')" ><a href="/article/332/Thermoworks-Thermapen-2013-Giveaway" title="Off Topic: Thermoworks Thermapen 2013 Giveaway!">Thermoworks Thermapen 2013 Giveaway!</a></td></tr><tr><td id="nl116" onclick="window.location='/article/116/Comments-and-Forums'" onMouseOver="lb('nl116')" onMouseOut="db('nl116')" ><a href="/article/116/Comments-and-Forums" title="Off Topic: Comments and Forums">Comments and Forums</a></td><td id="nl263" onclick="window.location='/article/263/Foodoro'" onMouseOver="lb('nl263')" onMouseOut="db('nl263')" ><a href="/article/263/Foodoro" title="Off Topic: Foodoro">Foodoro</a></td><td id="nl217" onclick="window.location='/article/217/Orthogonal-Thought-A-New-Blog'" onMouseOver="lb('nl217')" onMouseOut="db('nl217')" ><a href="/article/217/Orthogonal-Thought-A-New-Blog" title="Off Topic: Orthogonal Thought - A New Blog">Orthogonal Thought - A New Blog</a></td><td id="nl318" onclick="window.location='/article/318/Thermoworks-Thermapen-and-Oven-Thermometer-2012-Giveaway'" onMouseOver="lb('nl318')" onMouseOut="db('nl318')" ><a href="/article/318/Thermoworks-Thermapen-and-Oven-Thermometer-2012-Giveaway" title="Off Topic: Thermoworks Thermapen and Oven Thermometer 2012 Giveaway!">Thermoworks Thermapen and Oven Thermometer 2012 Giveaway!</a></td></tr><tr><td id="nl118" onclick="window.location='/article/118/Comments-and-Forums-Back-Online'" onMouseOver="lb('nl118')" onMouseOut="db('nl118')" ><a href="/article/118/Comments-and-Forums-Back-Online" title="Off Topic: Comments and Forums Back Online">Comments and Forums Back Online</a></td><td id="nl278" onclick="window.location='/article/278/Free-Cookbook-from-Snubbr'" onMouseOver="lb('nl278')" onMouseOut="db('nl278')" ><a href="/article/278/Free-Cookbook-from-Snubbr" title="Off Topic: Free Cookbook from Snubbr">Free Cookbook from Snubbr</a></td><td id="nl228" onclick="window.location='/article/228/Pixars-Ratatouille'" onMouseOver="lb('nl228')" onMouseOut="db('nl228')" ><a href="/article/228/Pixars-Ratatouille" title="Off Topic: Pixar's Ratatouille">Pixar's Ratatouille</a></td><td id="nl214" onclick="window.location='/article/214/Two-New-Shows-on-Discovery-Health'" onMouseOver="lb('nl214')" onMouseOut="db('nl214')" ><a href="/article/214/Two-New-Shows-on-Discovery-Health" title="Off Topic: Two New Shows on Discovery Health">Two New Shows on Discovery Health</a></td></tr><tr><td id="nl196" onclick="window.location='/article/196/Cooking-With-Passion'" onMouseOver="lb('nl196')" onMouseOut="db('nl196')" ><a href="/article/196/Cooking-With-Passion" title="Off Topic: Cooking With Passion">Cooking With Passion</a></td><td id="nl282" onclick="window.location='/article/282/Hefty-Kitchen-Bags-with-Unscented-Odor-Block-Technology'" onMouseOver="lb('nl282')" onMouseOut="db('nl282')" ><a href="/article/282/Hefty-Kitchen-Bags-with-Unscented-Odor-Block-Technology" title="Off Topic: Hefty Kitchen Bags with Unscented Odor Block Technology">Hefty Kitchen Bags with Unscented Odor Block Technology</a></td><td id="nl1" onclick="window.location='/article/1/Pumpkin-Carving'" onMouseOver="lb('nl1')" onMouseOut="db('nl1')" ><a href="/article/1/Pumpkin-Carving" title="Off Topic: Pumpkin Carving">Pumpkin Carving</a></td><td id="nl143" onclick="window.location='/article/143/University-Chickens-911-Challenge'" onMouseOver="lb('nl143')" onMouseOut="db('nl143')" ><a href="/article/143/University-Chickens-911-Challenge" title="Off Topic: University Chicken's 911 Challenge">University Chicken's 911 Challenge</a></td></tr><tr><td id="nl183" onclick="window.location='/article/183/Cosentinos-Markets-Good-News-and-Bad-News'" onMouseOver="lb('nl183')" onMouseOut="db('nl183')" ><a href="/article/183/Cosentinos-Markets-Good-News-and-Bad-News" title="Off Topic: Cosentino's Markets - Good News and Bad News">Cosentino's Markets - Good News and Bad News</a></td><td id="nl197" onclick="window.location='/article/197/IEEE-Spectrum-Radio-Looking-for-Engineers-Who-Cook'" onMouseOver="lb('nl197')" onMouseOut="db('nl197')" ><a href="/article/197/IEEE-Spectrum-Radio-Looking-for-Engineers-Who-Cook" title="Off Topic: IEEE Spectrum Radio Looking for Engineers Who Cook">IEEE Spectrum Radio Looking for Engineers Who Cook</a></td><td id="nl29" onclick="window.location='/article/29/Recipe-Summaries-Standards-and-Microsoft'" onMouseOver="lb('nl29')" onMouseOut="db('nl29')" ><a href="/article/29/Recipe-Summaries-Standards-and-Microsoft" title="Off Topic: Recipe Summaries - Standards and Microsoft">Recipe Summaries - Standards and Microsoft</a></td><td id="nl22" onclick="window.location='/article/22/Welcome-to-the-New-Server'" onMouseOver="lb('nl22')" onMouseOut="db('nl22')" ><a href="/article/22/Welcome-to-the-New-Server" title="Off Topic: Welcome to the New Server">Welcome to the New Server</a></td></tr><tr><td id="nl64" onclick="window.location='/article/64/Details-of-the-Pumpkin-Carving'" onMouseOver="lb('nl64')" onMouseOut="db('nl64')" ><a href="/article/64/Details-of-the-Pumpkin-Carving" title="Off Topic: Details of the Pumpkin Carving">Details of the Pumpkin Carving</a></td><td id="nl24" onclick="window.location='/article/24/Increased-Readership-and-Traffic-Woes'" onMouseOver="lb('nl24')" onMouseOut="db('nl24')" ><a href="/article/24/Increased-Readership-and-Traffic-Woes" title="Off Topic: Increased Readership and Traffic Woes">Increased Readership and Traffic Woes</a></td><td id="nl331" onclick="window.location='/article/331/Robot-Turtles-Board-Game-Kickstarter'" onMouseOver="lb('nl331')" onMouseOut="db('nl331')" ><a href="/article/331/Robot-Turtles-Board-Game-Kickstarter" title="Off Topic: Robot Turtles Board Game Kickstarter">Robot Turtles Board Game Kickstarter</a></td><td id="nl192" onclick="window.location='/article/192/Whats-the-Most-Trans-Fat-Youve-Seen'" onMouseOver="lb('nl192')" onMouseOut="db('nl192')" ><a href="/article/192/Whats-the-Most-Trans-Fat-Youve-Seen" title="Off Topic: What's the Most Trans Fat You've Seen?">What's the Most Trans Fat You've Seen?</a></td></tr><tr><td id="nl23" onclick="window.location='/article/23/Donations-Please'" onMouseOver="lb('nl23')" onMouseOut="db('nl23')" ><a href="/article/23/Donations-Please" title="Off Topic: Donations Please!">Donations Please!</a></td><td id="nl210" onclick="window.location='/article/210/Inside-the-CIA'" onMouseOver="lb('nl210')" onMouseOut="db('nl210')" ><a href="/article/210/Inside-the-CIA" title="Off Topic: Inside the CIA">Inside the CIA</a></td><td id="nl167" onclick="window.location='/article/167/Santa-Cruz-Clam-Chowder-Cook-Off-2006'" onMouseOver="lb('nl167')" onMouseOut="db('nl167')" ><a href="/article/167/Santa-Cruz-Clam-Chowder-Cook-Off-2006" title="Off Topic: Santa Cruz Clam Chowder Cook Off 2006">Santa Cruz Clam Chowder Cook Off 2006</a></td><td id="nl325" onclick="window.location='/article/325/Wolfgang-Puck-Phone-Interview'" onMouseOver="lb('nl325')" onMouseOut="db('nl325')" ><a href="/article/325/Wolfgang-Puck-Phone-Interview" title="Off Topic: Wolfgang Puck Phone Interview">Wolfgang Puck Phone Interview</a></td></tr><tr><td id="nl157" onclick="window.location='/article/157/Fancy-Food-Show-Winter-2006'" onMouseOver="lb('nl157')" onMouseOut="db('nl157')" ><a href="/article/157/Fancy-Food-Show-Winter-2006" title="Off Topic: Fancy Food Show Winter 2006">Fancy Food Show Winter 2006</a></td></tr></table></div>
+	<div id="navcat_RecipeFile" style="display:none"><table width="100%" class="navlinks" cellpadding="0" cellspacing="1"><tr><td width="25%" id="nl188" onclick="window.location='/recipe/188/Anghelikas-Tsatsiki-Tzatziki'" onMouseOver="lb('nl188')" onMouseOut="db('nl188')" ><a href="/recipe/188/Anghelikas-Tsatsiki-Tzatziki" title="Recipe File: Anghelika's Tsatsiki (Tzatziki)">Anghelika's Tsatsiki (Tzatziki)</a></td><td width="25%" id="nl98" onclick="window.location='/recipe/98/Condensed-Milk-Fudge'" onMouseOver="lb('nl98')" onMouseOut="db('nl98')" ><a href="/recipe/98/Condensed-Milk-Fudge" title="Recipe File: Condensed Milk Fudge">Condensed Milk Fudge</a></td><td width="25%" id="nl305" onclick="window.location='/recipe/305/Honey-Pecan-Pralines'" onMouseOver="lb('nl305')" onMouseOut="db('nl305')" ><a href="/recipe/305/Honey-Pecan-Pralines" title="Recipe File: Honey Pecan Pralines">Honey Pecan Pralines</a></td><td width="25%" id="nl92" onclick="window.location='/recipe/92/Poached-Fish'" onMouseOver="lb('nl92')" onMouseOut="db('nl92')" ><a href="/recipe/92/Poached-Fish" title="Recipe File: Poached Fish">Poached Fish</a></td></tr><tr><td id="nl163" onclick="window.location='/recipe/163/Asparagus-with-Almonds'" onMouseOver="lb('nl163')" onMouseOut="db('nl163')" ><a href="/recipe/163/Asparagus-with-Almonds" title="Recipe File: Asparagus with Almonds">Asparagus with Almonds</a></td><td id="nl152" onclick="window.location='/recipe/152/Cooked-Egg-Nog'" onMouseOver="lb('nl152')" onMouseOut="db('nl152')" ><a href="/recipe/152/Cooked-Egg-Nog" title="Recipe File: Cooked Egg Nog">Cooked Egg Nog</a></td><td id="nl308" onclick="window.location='/recipe/308/Hot-Chocolate'" onMouseOver="lb('nl308')" onMouseOut="db('nl308')" ><a href="/recipe/308/Hot-Chocolate" title="Recipe File: Hot Chocolate">Hot Chocolate</a></td><td id="nl38" onclick="window.location='/recipe/38/Prime-Rib-or-Standing-Rib-Roast'" onMouseOver="lb('nl38')" onMouseOut="db('nl38')" ><a href="/recipe/38/Prime-Rib-or-Standing-Rib-Roast" title="Recipe File: Prime Rib or Standing Rib Roast">Prime Rib or Standing Rib Roast</a></td></tr><tr><td id="nl103" onclick="window.location='/recipe/103/Baked-Cinnamon-Apple'" onMouseOver="lb('nl103')" onMouseOut="db('nl103')" ><a href="/recipe/103/Baked-Cinnamon-Apple" title="Recipe File: Baked Cinnamon Apple">Baked Cinnamon Apple</a></td><td id="nl48" onclick="window.location='/recipe/48/Corn-Fritters'" onMouseOver="lb('nl48')" onMouseOut="db('nl48')" ><a href="/recipe/48/Corn-Fritters" title="Recipe File: Corn Fritters">Corn Fritters</a></td><td id="nl104" onclick="window.location='/recipe/104/Kelloggs-Rice-Krispies-Treats'" onMouseOver="lb('nl104')" onMouseOut="db('nl104')" ><a href="/recipe/104/Kelloggs-Rice-Krispies-Treats" title="Recipe File: Kellogg's Rice Krispies Treats">Kellogg's Rice Krispies Treats</a></td><td id="nl189" onclick="window.location='/recipe/189/Prosciutto-e-Melone'" onMouseOver="lb('nl189')" onMouseOut="db('nl189')" ><a href="/recipe/189/Prosciutto-e-Melone" title="Recipe File: Prosciutto e Melone">Prosciutto e Melone</a></td></tr><tr><td id="nl108" onclick="window.location='/recipe/108/Banana-Nut-Bread'" onMouseOver="lb('nl108')" onMouseOut="db('nl108')" ><a href="/recipe/108/Banana-Nut-Bread" title="Recipe File: Banana Nut Bread">Banana Nut Bread</a></td><td id="nl79" onclick="window.location='/recipe/79/Cranberry-Sauce'" onMouseOver="lb('nl79')" onMouseOut="db('nl79')" ><a href="/recipe/79/Cranberry-Sauce" title="Recipe File: Cranberry Sauce">Cranberry Sauce</a></td><td id="nl33" onclick="window.location='/recipe/33/Lemon-Bars'" onMouseOver="lb('nl33')" onMouseOut="db('nl33')" ><a href="/recipe/33/Lemon-Bars" title="Recipe File: Lemon Bars">Lemon Bars</a></td><td id="nl65" onclick="window.location='/recipe/65/Pumpkin-Pie'" onMouseOver="lb('nl65')" onMouseOut="db('nl65')" ><a href="/recipe/65/Pumpkin-Pie" title="Recipe File: Pumpkin Pie">Pumpkin Pie</a></td></tr><tr><td id="nl246" onclick="window.location='/recipe/246/Barbecue-Pork-Ribs-Baby-Back-or-Spare'" onMouseOver="lb('nl246')" onMouseOut="db('nl246')" ><a href="/recipe/246/Barbecue-Pork-Ribs-Baby-Back-or-Spare" title="Recipe File: Barbecue Pork Ribs (Baby Back or Spare)">Barbecue Pork Ribs (Baby Back or Spare)</a></td><td id="nl194" onclick="window.location='/recipe/194/Cream-of-Mushroom-Soup'" onMouseOver="lb('nl194')" onMouseOut="db('nl194')" ><a href="/recipe/194/Cream-of-Mushroom-Soup" title="Recipe File: Cream of Mushroom Soup">Cream of Mushroom Soup</a></td><td id="nl121" onclick="window.location='/recipe/121/Lemon-Iced-Tea'" onMouseOver="lb('nl121')" onMouseOut="db('nl121')" ><a href="/recipe/121/Lemon-Iced-Tea" title="Recipe File: Lemon Iced Tea">Lemon Iced Tea</a></td><td id="nl227" onclick="window.location='/recipe/227/Ratatouille'" onMouseOver="lb('nl227')" onMouseOut="db('nl227')" ><a href="/recipe/227/Ratatouille" title="Recipe File: Ratatouille">Ratatouille</a></td></tr><tr><td id="nl35" onclick="window.location='/recipe/35/Basic-Granita'" onMouseOver="lb('nl35')" onMouseOut="db('nl35')" ><a href="/recipe/35/Basic-Granita" title="Recipe File: Basic Granita">Basic Granita</a></td><td id="nl107" onclick="window.location='/recipe/107/Creamy-Garlic-Mashed-Potatoes'" onMouseOver="lb('nl107')" onMouseOut="db('nl107')" ><a href="/recipe/107/Creamy-Garlic-Mashed-Potatoes" title="Recipe File: Creamy Garlic Mashed Potatoes">Creamy Garlic Mashed Potatoes</a></td><td id="nl124" onclick="window.location='/recipe/124/Lime-Marinated-Grilled-Chicken'" onMouseOver="lb('nl124')" onMouseOut="db('nl124')" ><a href="/recipe/124/Lime-Marinated-Grilled-Chicken" title="Recipe File: Lime Marinated Grilled Chicken">Lime Marinated Grilled Chicken</a></td><td id="nl101" onclick="window.location='/recipe/101/Roasted-Asparagus-Spears'" onMouseOver="lb('nl101')" onMouseOut="db('nl101')" ><a href="/recipe/101/Roasted-Asparagus-Spears" title="Recipe File: Roasted Asparagus Spears">Roasted Asparagus Spears</a></td></tr><tr><td id="nl47" onclick="window.location='/recipe/47/Basic-Pancakes'" onMouseOver="lb('nl47')" onMouseOut="db('nl47')" ><a href="/recipe/47/Basic-Pancakes" title="Recipe File: Basic Pancakes">Basic Pancakes</a></td><td id="nl32" onclick="window.location='/recipe/32/Creme-Brulee-Cregraveme-Brucircleacutee'" onMouseOver="lb('nl32')" onMouseOut="db('nl32')" ><a href="/recipe/32/Creme-Brulee-Cregraveme-Brucircleacutee" title="Recipe File: Creme Brulee (Cr&egrave;me Br&ucirc;l&eacute;e)">Creme Brulee (Cr&egrave;me Br&ucirc;l&eacute;e)</a></td><td id="nl66" onclick="window.location='/recipe/66/Limeade'" onMouseOver="lb('nl66')" onMouseOut="db('nl66')" ><a href="/recipe/66/Limeade" title="Recipe File: Limeade">Limeade</a></td><td id="nl174" onclick="window.location='/recipe/174/Rosemary-Lamb-Chops'" onMouseOver="lb('nl174')" onMouseOut="db('nl174')" ><a href="/recipe/174/Rosemary-Lamb-Chops" title="Recipe File: Rosemary Lamb Chops">Rosemary Lamb Chops</a></td></tr><tr><td id="nl44" onclick="window.location='/recipe/44/Basic-Vinaigrette-Salad-Dressing'" onMouseOver="lb('nl44')" onMouseOut="db('nl44')" ><a href="/recipe/44/Basic-Vinaigrette-Salad-Dressing" title="Recipe File: Basic Vinaigrette Salad Dressing">Basic Vinaigrette Salad Dressing</a></td><td id="nl317" onclick="window.location='/recipe/317/Crunchy-Bloody-Mary'" onMouseOver="lb('nl317')" onMouseOut="db('nl317')" ><a href="/recipe/317/Crunchy-Bloody-Mary" title="Recipe File: Crunchy Bloody Mary">Crunchy Bloody Mary</a></td><td id="nl230" onclick="window.location='/recipe/230/Macaroni-and-Cheese-Bake'" onMouseOver="lb('nl230')" onMouseOut="db('nl230')" ><a href="/recipe/230/Macaroni-and-Cheese-Bake" title="Recipe File: Macaroni and Cheese Bake">Macaroni and Cheese Bake</a></td><td id="nl53" onclick="window.location='/recipe/53/Salsa-Cruda'" onMouseOver="lb('nl53')" onMouseOut="db('nl53')" ><a href="/recipe/53/Salsa-Cruda" title="Recipe File: Salsa Cruda">Salsa Cruda</a></td></tr><tr><td id="nl122" onclick="window.location='/recipe/122/Beef-Stroganoff'" onMouseOver="lb('nl122')" onMouseOut="db('nl122')" ><a href="/recipe/122/Beef-Stroganoff" title="Recipe File: Beef Stroganoff">Beef Stroganoff</a></td><td id="nl158" onclick="window.location='/recipe/158/Dark-Chocolate-Brownies'" onMouseOver="lb('nl158')" onMouseOut="db('nl158')" ><a href="/recipe/158/Dark-Chocolate-Brownies" title="Recipe File: Dark Chocolate Brownies">Dark Chocolate Brownies</a></td><td id="nl177" onclick="window.location='/recipe/177/Matzo-Matzah-Ball-Soup'" onMouseOver="lb('nl177')" onMouseOut="db('nl177')" ><a href="/recipe/177/Matzo-Matzah-Ball-Soup" title="Recipe File: Matzo (Matzah) Ball Soup">Matzo (Matzah) Ball Soup</a></td><td id="nl8" onclick="window.location='/recipe/8/Sauteed-Okra-with-Roasted-Red-Peppers'" onMouseOver="lb('nl8')" onMouseOut="db('nl8')" ><a href="/recipe/8/Sauteed-Okra-with-Roasted-Red-Peppers" title="Recipe File: Sauteed Okra with Roasted Red Peppers">Sauteed Okra with Roasted Red Peppers</a></td></tr><tr><td id="nl154" onclick="window.location='/recipe/154/Biscotti'" onMouseOver="lb('nl154')" onMouseOut="db('nl154')" ><a href="/recipe/154/Biscotti" title="Recipe File: Biscotti">Biscotti</a></td><td id="nl160" onclick="window.location='/recipe/160/Dark-Chocolate-Souffle'" onMouseOver="lb('nl160')" onMouseOut="db('nl160')" ><a href="/recipe/160/Dark-Chocolate-Souffle" title="Recipe File: Dark Chocolate Souffle">Dark Chocolate Souffle</a></td><td id="nl36" onclick="window.location='/recipe/36/Meat-Lasagna'" onMouseOver="lb('nl36')" onMouseOut="db('nl36')" ><a href="/recipe/36/Meat-Lasagna" title="Recipe File: Meat Lasagna">Meat Lasagna</a></td><td id="nl320" onclick="window.location='/recipe/320/Sauteed-Spinach'" onMouseOver="lb('nl320')" onMouseOut="db('nl320')" ><a href="/recipe/320/Sauteed-Spinach" title="Recipe File: Sauteed Spinach">Sauteed Spinach</a></td></tr><tr><td id="nl288" onclick="window.location='/recipe/288/Biscuits-Southern-Buttermilk-Biscuits'" onMouseOver="lb('nl288')" onMouseOut="db('nl288')" ><a href="/recipe/288/Biscuits-Southern-Buttermilk-Biscuits" title="Recipe File: Biscuits (Southern Buttermilk Biscuits)">Biscuits (Southern Buttermilk Biscuits)</a></td><td id="nl147" onclick="window.location='/recipe/147/Dirty-Rice'" onMouseOver="lb('nl147')" onMouseOut="db('nl147')" ><a href="/recipe/147/Dirty-Rice" title="Recipe File: Dirty Rice">Dirty Rice</a></td><td id="nl55" onclick="window.location='/recipe/55/Mini-Hamburgers'" onMouseOver="lb('nl55')" onMouseOut="db('nl55')" ><a href="/recipe/55/Mini-Hamburgers" title="Recipe File: Mini Hamburgers">Mini Hamburgers</a></td><td id="nl127" onclick="window.location='/recipe/127/Shepherds-Pie-Cottage-Pie'" onMouseOver="lb('nl127')" onMouseOut="db('nl127')" ><a href="/recipe/127/Shepherds-Pie-Cottage-Pie" title="Recipe File: Shepherd's Pie (Cottage Pie)">Shepherd's Pie (Cottage Pie)</a></td></tr><tr><td id="nl136" onclick="window.location='/recipe/136/Braised-Brussels-Sprouts'" onMouseOver="lb('nl136')" onMouseOut="db('nl136')" ><a href="/recipe/136/Braised-Brussels-Sprouts" title="Recipe File: Braised Brussels Sprouts">Braised Brussels Sprouts</a></td><td id="nl255" onclick="window.location='/recipe/255/Dulce-de-Leche'" onMouseOver="lb('nl255')" onMouseOut="db('nl255')" ><a href="/recipe/255/Dulce-de-Leche" title="Recipe File: Dulce de Leche">Dulce de Leche</a></td><td id="nl151" onclick="window.location='/recipe/151/Mulled-Cider-Spiced-Apple-Cider'" onMouseOver="lb('nl151')" onMouseOut="db('nl151')" ><a href="/recipe/151/Mulled-Cider-Spiced-Apple-Cider" title="Recipe File: Mulled Cider (Spiced Apple Cider)">Mulled Cider (Spiced Apple Cider)</a></td><td id="nl15" onclick="window.location='/recipe/15/Shrimp-Scampi'" onMouseOver="lb('nl15')" onMouseOut="db('nl15')" ><a href="/recipe/15/Shrimp-Scampi" title="Recipe File: Shrimp Scampi">Shrimp Scampi</a></td></tr><tr><td id="nl268" onclick="window.location='/recipe/268/Buffalo-Chicken-Chili'" onMouseOver="lb('nl268')" onMouseOut="db('nl268')" ><a href="/recipe/268/Buffalo-Chicken-Chili" title="Recipe File: Buffalo Chicken Chili">Buffalo Chicken Chili</a></td><td id="nl203" onclick="window.location='/recipe/203/Egg-Custard-with-Clams'" onMouseOver="lb('nl203')" onMouseOut="db('nl203')" ><a href="/recipe/203/Egg-Custard-with-Clams" title="Recipe File: Egg Custard with Clams">Egg Custard with Clams</a></td><td id="nl185" onclick="window.location='/recipe/185/Nestle-Toll-House-Chocolate-Chip-Cookies'" onMouseOver="lb('nl185')" onMouseOut="db('nl185')" ><a href="/recipe/185/Nestle-Toll-House-Chocolate-Chip-Cookies" title="Recipe File: Nestle Toll House Chocolate Chip Cookies">Nestle Toll House Chocolate Chip Cookies</a></td><td id="nl26" onclick="window.location='/recipe/26/Simple-Tiramisu'" onMouseOver="lb('nl26')" onMouseOut="db('nl26')" ><a href="/recipe/26/Simple-Tiramisu" title="Recipe File: Simple Tiramisu">Simple Tiramisu</a></td></tr><tr><td id="nl306" onclick="window.location='/recipe/306/Butter-Pecan-Ice-Cream'" onMouseOver="lb('nl306')" onMouseOut="db('nl306')" ><a href="/recipe/306/Butter-Pecan-Ice-Cream" title="Recipe File: Butter Pecan Ice Cream">Butter Pecan Ice Cream</a></td><td id="nl159" onclick="window.location='/recipe/159/English-Toffee'" onMouseOver="lb('nl159')" onMouseOut="db('nl159')" ><a href="/recipe/159/English-Toffee" title="Recipe File: English Toffee">English Toffee</a></td><td id="nl86" onclick="window.location='/recipe/86/Okra-Stew-Fast-Gumbo'" onMouseOver="lb('nl86')" onMouseOut="db('nl86')" ><a href="/recipe/86/Okra-Stew-Fast-Gumbo" title="Recipe File: Okra Stew (Fast Gumbo)">Okra Stew (Fast Gumbo)</a></td><td id="nl28" onclick="window.location='/recipe/28/Slow-Simmered-Spicy-Barbeque-Sauce'" onMouseOver="lb('nl28')" onMouseOut="db('nl28')" ><a href="/recipe/28/Slow-Simmered-Spicy-Barbeque-Sauce" title="Recipe File: Slow Simmered Spicy Barbeque Sauce">Slow Simmered Spicy Barbeque Sauce</a></td></tr><tr><td id="nl180" onclick="window.location='/recipe/180/Buttercream-Frosting-American'" onMouseOver="lb('nl180')" onMouseOut="db('nl180')" ><a href="/recipe/180/Buttercream-Frosting-American" title="Recipe File: Buttercream Frosting (American)">Buttercream Frosting (American)</a></td><td id="nl327" onclick="window.location='/recipe/327/Espresso-Brownies'" onMouseOver="lb('nl327')" onMouseOut="db('nl327')" ><a href="/recipe/327/Espresso-Brownies" title="Recipe File: Espresso Brownies">Espresso Brownies</a></td><td id="nl200" onclick="window.location='/recipe/200/Osso-Buco'" onMouseOver="lb('nl200')" onMouseOut="db('nl200')" ><a href="/recipe/200/Osso-Buco" title="Recipe File: Osso Buco">Osso Buco</a></td><td id="nl144" onclick="window.location='/recipe/144/Smoked-Beer-Can-Turkey'" onMouseOver="lb('nl144')" onMouseOut="db('nl144')" ><a href="/recipe/144/Smoked-Beer-Can-Turkey" title="Recipe File: Smoked Beer Can Turkey">Smoked Beer Can Turkey</a></td></tr><tr><td id="nl9" onclick="window.location='/recipe/9/Campbells-Green-Bean-Casserole'" onMouseOver="lb('nl9')" onMouseOut="db('nl9')" ><a href="/recipe/9/Campbells-Green-Bean-Casserole" title="Recipe File: Campbell's Green Bean Casserole">Campbell's Green Bean Casserole</a></td><td id="nl34" onclick="window.location='/recipe/34/Garlic-Roasted-Potatoes'" onMouseOver="lb('nl34')" onMouseOut="db('nl34')" ><a href="/recipe/34/Garlic-Roasted-Potatoes" title="Recipe File: Garlic Roasted Potatoes">Garlic Roasted Potatoes</a></td><td id="nl81" onclick="window.location='/recipe/81/Oven-Baked-Chicken-and-Rice'" onMouseOver="lb('nl81')" onMouseOut="db('nl81')" ><a href="/recipe/81/Oven-Baked-Chicken-and-Rice" title="Recipe File: Oven Baked Chicken and Rice">Oven Baked Chicken and Rice</a></td><td id="nl239" onclick="window.location='/recipe/239/Soft-Boiled-Eggs'" onMouseOver="lb('nl239')" onMouseOut="db('nl239')" ><a href="/recipe/239/Soft-Boiled-Eggs" title="Recipe File: Soft Boiled Eggs">Soft Boiled Eggs</a></td></tr><tr><td id="nl181" onclick="window.location='/recipe/181/Cheesecake-Cupcakes'" onMouseOver="lb('nl181')" onMouseOut="db('nl181')" ><a href="/recipe/181/Cheesecake-Cupcakes" title="Recipe File: Cheesecake Cupcakes">Cheesecake Cupcakes</a></td><td id="nl132" onclick="window.location='/recipe/132/Gravlax'" onMouseOver="lb('nl132')" onMouseOut="db('nl132')" ><a href="/recipe/132/Gravlax" title="Recipe File: Gravlax">Gravlax</a></td><td id="nl45" onclick="window.location='/recipe/45/Oven-Baked-Spare-Ribs-Two-Ways'" onMouseOver="lb('nl45')" onMouseOut="db('nl45')" ><a href="/recipe/45/Oven-Baked-Spare-Ribs-Two-Ways" title="Recipe File: Oven Baked Spare Ribs - Two Ways">Oven Baked Spare Ribs - Two Ways</a></td><td id="nl83" onclick="window.location='/recipe/83/Strawberry-Glazed-Angel-Food-Cake'" onMouseOver="lb('nl83')" onMouseOut="db('nl83')" ><a href="/recipe/83/Strawberry-Glazed-Angel-Food-Cake" title="Recipe File: Strawberry Glazed Angel Food Cake">Strawberry Glazed Angel Food Cake</a></td></tr><tr><td id="nl89" onclick="window.location='/recipe/89/Cheesecake-Plain-New-York-Style'" onMouseOver="lb('nl89')" onMouseOut="db('nl89')" ><a href="/recipe/89/Cheesecake-Plain-New-York-Style" title="Recipe File: Cheesecake, Plain New York Style">Cheesecake, Plain New York Style</a></td><td id="nl111" onclick="window.location='/recipe/111/Grilled-Artichokes'" onMouseOver="lb('nl111')" onMouseOut="db('nl111')" ><a href="/recipe/111/Grilled-Artichokes" title="Recipe File: Grilled Artichokes">Grilled Artichokes</a></td><td id="nl37" onclick="window.location='/recipe/37/Pan-Fried-Fish-Fillets'" onMouseOver="lb('nl37')" onMouseOut="db('nl37')" ><a href="/recipe/37/Pan-Fried-Fish-Fillets" title="Recipe File: Pan Fried Fish Fillets">Pan Fried Fish Fillets</a></td><td id="nl4" onclick="window.location='/recipe/4/Sweet-Corn-Bread'" onMouseOver="lb('nl4')" onMouseOut="db('nl4')" ><a href="/recipe/4/Sweet-Corn-Bread" title="Recipe File: Sweet Corn Bread">Sweet Corn Bread</a></td></tr><tr><td id="nl59" onclick="window.location='/recipe/59/Chicken-Mushroom-Marsala'" onMouseOver="lb('nl59')" onMouseOut="db('nl59')" ><a href="/recipe/59/Chicken-Mushroom-Marsala" title="Recipe File: Chicken &amp; Mushroom Marsala">Chicken &amp; Mushroom Marsala</a></td><td id="nl20" onclick="window.location='/recipe/20/Grilled-Pork-Chops'" onMouseOver="lb('nl20')" onMouseOut="db('nl20')" ><a href="/recipe/20/Grilled-Pork-Chops" title="Recipe File: Grilled Pork Chops">Grilled Pork Chops</a></td><td id="nl71" onclick="window.location='/recipe/71/Pan-Seared-Scallops-with-Roasted-Red-Pepper-Sauce'" onMouseOver="lb('nl71')" onMouseOut="db('nl71')" ><a href="/recipe/71/Pan-Seared-Scallops-with-Roasted-Red-Pepper-Sauce" title="Recipe File: Pan Seared Scallops with Roasted Red Pepper Sauce">Pan Seared Scallops with Roasted Red Pepper Sauce</a></td><td id="nl42" onclick="window.location='/recipe/42/Traditional-Chicken-Pot-Pie'" onMouseOver="lb('nl42')" onMouseOut="db('nl42')" ><a href="/recipe/42/Traditional-Chicken-Pot-Pie" title="Recipe File: Traditional Chicken Pot Pie">Traditional Chicken Pot Pie</a></td></tr><tr><td id="nl178" onclick="window.location='/recipe/178/Chocolate-Cake'" onMouseOver="lb('nl178')" onMouseOut="db('nl178')" ><a href="/recipe/178/Chocolate-Cake" title="Recipe File: Chocolate Cake">Chocolate Cake</a></td><td id="nl31" onclick="window.location='/recipe/31/Grilled-Porterhouse-or-T-Bone-Steak'" onMouseOver="lb('nl31')" onMouseOut="db('nl31')" ><a href="/recipe/31/Grilled-Porterhouse-or-T-Bone-Steak" title="Recipe File: Grilled Porterhouse or T-Bone Steak">Grilled Porterhouse or T-Bone Steak</a></td><td id="nl164" onclick="window.location='/recipe/164/Parmesan-Garlic-Bread'" onMouseOver="lb('nl164')" onMouseOut="db('nl164')" ><a href="/recipe/164/Parmesan-Garlic-Bread" title="Recipe File: Parmesan Garlic Bread">Parmesan Garlic Bread</a></td><td id="nl18" onclick="window.location='/recipe/18/Traditional-Pecan-Pie'" onMouseOver="lb('nl18')" onMouseOut="db('nl18')" ><a href="/recipe/18/Traditional-Pecan-Pie" title="Recipe File: Traditional Pecan Pie">Traditional Pecan Pie</a></td></tr><tr><td id="nl195" onclick="window.location='/recipe/195/Chocolate-Truffles'" onMouseOver="lb('nl195')" onMouseOut="db('nl195')" ><a href="/recipe/195/Chocolate-Truffles" title="Recipe File: Chocolate Truffles">Chocolate Truffles</a></td><td id="nl10" onclick="window.location='/recipe/10/Grilled-Salmon'" onMouseOver="lb('nl10')" onMouseOut="db('nl10')" ><a href="/recipe/10/Grilled-Salmon" title="Recipe File: Grilled Salmon">Grilled Salmon</a></td><td id="nl58" onclick="window.location='/recipe/58/Peanut-Butter-Cookies'" onMouseOver="lb('nl58')" onMouseOut="db('nl58')" ><a href="/recipe/58/Peanut-Butter-Cookies" title="Recipe File: Peanut Butter Cookies">Peanut Butter Cookies</a></td><td id="nl62" onclick="window.location='/recipe/62/Tuna-Noodle-Casserole'" onMouseOver="lb('nl62')" onMouseOut="db('nl62')" ><a href="/recipe/62/Tuna-Noodle-Casserole" title="Recipe File: Tuna Noodle Casserole">Tuna Noodle Casserole</a></td></tr><tr><td id="nl112" onclick="window.location='/recipe/112/Clam-Chowder-New-England-Style'" onMouseOver="lb('nl112')" onMouseOut="db('nl112')" ><a href="/recipe/112/Clam-Chowder-New-England-Style" title="Recipe File: Clam Chowder, New England Style">Clam Chowder, New England Style</a></td><td id="nl6" onclick="window.location='/recipe/6/Grilled-Skinless-Chicken-Breast'" onMouseOver="lb('nl6')" onMouseOut="db('nl6')" ><a href="/recipe/6/Grilled-Skinless-Chicken-Breast" title="Recipe File: Grilled Skinless Chicken Breast">Grilled Skinless Chicken Breast</a></td><td id="nl168" onclick="window.location='/recipe/168/Pecan-Coffee-Cake'" onMouseOver="lb('nl168')" onMouseOut="db('nl168')" ><a href="/recipe/168/Pecan-Coffee-Cake" title="Recipe File: Pecan Coffee Cake">Pecan Coffee Cake</a></td><td id="nl75" onclick="window.location='/recipe/75/Turkey-or-Chicken-Stock'" onMouseOver="lb('nl75')" onMouseOut="db('nl75')" ><a href="/recipe/75/Turkey-or-Chicken-Stock" title="Recipe File: Turkey or Chicken Stock">Turkey or Chicken Stock</a></td></tr><tr><td id="nl74" onclick="window.location='/recipe/74/Classic-Roast-Turkey'" onMouseOver="lb('nl74')" onMouseOut="db('nl74')" ><a href="/recipe/74/Classic-Roast-Turkey" title="Recipe File: Classic Roast Turkey">Classic Roast Turkey</a></td><td id="nl43" onclick="window.location='/recipe/43/Homemade-Mayonnaise'" onMouseOver="lb('nl43')" onMouseOut="db('nl43')" ><a href="/recipe/43/Homemade-Mayonnaise" title="Recipe File: Homemade Mayonnaise">Homemade Mayonnaise</a></td></tr></table></div>
+	<div id="navcat_SousVide" style="display:none"><table width="100%" class="navlinks" cellpadding="0" cellspacing="1"><tr><td width="25%" id="nl283" onclick="window.location='/article/283/An-Introduction-to-Sous-Vide-Cooking'" onMouseOver="lb('nl283')" onMouseOut="db('nl283')" ><a href="/article/283/An-Introduction-to-Sous-Vide-Cooking" title="Sous Vide: An Introduction to Sous Vide Cooking">An Introduction to Sous Vide Cooking</a></td><td width="25%" id="nl289" onclick="window.location='/article/289/Sous-Vide-Cooking-at-Home-Setup-Guide'" onMouseOver="lb('nl289')" onMouseOut="db('nl289')" ><a href="/article/289/Sous-Vide-Cooking-at-Home-Setup-Guide" title="Sous Vide: Sous Vide Cooking at Home Setup Guide">Sous Vide Cooking at Home Setup Guide</a></td></tr></table></div>
+	<div id="navcat_TestRecipes" style="display:none"><table width="100%" class="navlinks" cellpadding="0" cellspacing="1"><tr><td width="25%" id="nl14" onclick="window.location='/recipe/14/Albers-Corn-Bread'" onMouseOver="lb('nl14')" onMouseOut="db('nl14')" ><a href="/recipe/14/Albers-Corn-Bread" title="Test Recipes: Albers Corn Bread">Albers Corn Bread</a></td><td width="25%" id="nl19" onclick="window.location='/recipe/19/Erics-Chocolate-Pecan-Pie'" onMouseOver="lb('nl19')" onMouseOut="db('nl19')" ><a href="/recipe/19/Erics-Chocolate-Pecan-Pie" title="Test Recipes: Eric's Chocolate Pecan Pie">Eric's Chocolate Pecan Pie</a></td><td width="25%" id="nl215" onclick="window.location='/recipe/215/Hot-Cross-Buns-Delia-Smiths'" onMouseOver="lb('nl215')" onMouseOut="db('nl215')" ><a href="/recipe/215/Hot-Cross-Buns-Delia-Smiths" title="Test Recipes: Hot Cross Buns (Delia Smith's)">Hot Cross Buns (Delia Smith's)</a></td><td width="25%" id="nl172" onclick="window.location='/recipe/172/Pan-Pizza'" onMouseOver="lb('nl172')" onMouseOut="db('nl172')" ><a href="/recipe/172/Pan-Pizza" title="Test Recipes: Pan Pizza">Pan Pizza</a></td></tr><tr><td id="nl77" onclick="window.location='/recipe/77/Asian-Taco'" onMouseOver="lb('nl77')" onMouseOut="db('nl77')" ><a href="/recipe/77/Asian-Taco" title="Test Recipes: Asian Taco">Asian Taco</a></td><td id="nl46" onclick="window.location='/recipe/46/Faux-BBQ-Beef-Ribs'" onMouseOver="lb('nl46')" onMouseOut="db('nl46')" ><a href="/recipe/46/Faux-BBQ-Beef-Ribs" title="Test Recipes: Faux BBQ Beef Ribs">Faux BBQ Beef Ribs</a></td><td id="nl49" onclick="window.location='/recipe/49/Joy-of-Cookings-Peanut-Butter-Cookies-14-in-one'" onMouseOver="lb('nl49')" onMouseOut="db('nl49')" ><a href="/recipe/49/Joy-of-Cookings-Peanut-Butter-Cookies-14-in-one" title="Test Recipes: Joy of Cooking's Peanut Butter Cookies (14-in-one)">Joy of Cooking's Peanut Butter Cookies (14-in-one)</a></td><td id="nl252" onclick="window.location='/recipe/252/Quick-Gazpacho'" onMouseOver="lb('nl252')" onMouseOut="db('nl252')" ><a href="/recipe/252/Quick-Gazpacho" title="Test Recipes: Quick Gazpacho">Quick Gazpacho</a></td></tr><tr><td id="nl12" onclick="window.location='/recipe/12/Avocado-Pork-Stuffed-Peppers'" onMouseOver="lb('nl12')" onMouseOut="db('nl12')" ><a href="/recipe/12/Avocado-Pork-Stuffed-Peppers" title="Test Recipes: Avocado Pork Stuffed Peppers">Avocado Pork Stuffed Peppers</a></td><td id="nl76" onclick="window.location='/recipe/76/Giblet-Pan-Gravy'" onMouseOver="lb('nl76')" onMouseOut="db('nl76')" ><a href="/recipe/76/Giblet-Pan-Gravy" title="Test Recipes: Giblet Pan Gravy">Giblet Pan Gravy</a></td><td id="nl80" onclick="window.location='/recipe/80/Leftover-Cranberry-Sauce-Pie'" onMouseOver="lb('nl80')" onMouseOut="db('nl80')" ><a href="/recipe/80/Leftover-Cranberry-Sauce-Pie" title="Test Recipes: Leftover Cranberry Sauce Pie">Leftover Cranberry Sauce Pie</a></td><td id="nl13" onclick="window.location='/recipe/13/Sauteed-Zucchini-with-Mushrooms'" onMouseOver="lb('nl13')" onMouseOut="db('nl13')" ><a href="/recipe/13/Sauteed-Zucchini-with-Mushrooms" title="Test Recipes: Sauteed Zucchini with Mushrooms">Sauteed Zucchini with Mushrooms</a></td></tr><tr><td id="nl41" onclick="window.location='/recipe/41/Basic-Biscuits'" onMouseOver="lb('nl41')" onMouseOut="db('nl41')" ><a href="/recipe/41/Basic-Biscuits" title="Test Recipes: Basic Biscuits">Basic Biscuits</a></td><td id="nl72" onclick="window.location='/recipe/72/Good-Eats-Peanut-Brittle'" onMouseOver="lb('nl72')" onMouseOut="db('nl72')" ><a href="/recipe/72/Good-Eats-Peanut-Brittle" title="Test Recipes: Good Eats Peanut Brittle">Good Eats Peanut Brittle</a></td><td id="nl106" onclick="window.location='/recipe/106/Marshmallows'" onMouseOver="lb('nl106')" onMouseOut="db('nl106')" ><a href="/recipe/106/Marshmallows" title="Test Recipes: Marshmallows">Marshmallows</a></td><td id="nl60" onclick="window.location='/recipe/60/The-Classic-Tiramisu-original-recipe'" onMouseOver="lb('nl60')" onMouseOut="db('nl60')" ><a href="/recipe/60/The-Classic-Tiramisu-original-recipe" title="Test Recipes: The Classic Tiramisu (original recipe?)">The Classic Tiramisu (original recipe?)</a></td></tr><tr><td id="nl87" onclick="window.location='/recipe/87/Carrot-Pulp-Cake-Part-I'" onMouseOver="lb('nl87')" onMouseOut="db('nl87')" ><a href="/recipe/87/Carrot-Pulp-Cake-Part-I" title="Test Recipes: Carrot Pulp Cake, Part I">Carrot Pulp Cake, Part I</a></td><td id="nl69" onclick="window.location='/recipe/69/Halloween-Green-Slime-Spinach-Dip'" onMouseOver="lb('nl69')" onMouseOut="db('nl69')" ><a href="/recipe/69/Halloween-Green-Slime-Spinach-Dip" title="Test Recipes: Halloween Green Slime Spinach Dip">Halloween Green Slime Spinach Dip</a></td><td id="nl161" onclick="window.location='/recipe/161/Orzo-Risotto-with-Buttery-Shrimp'" onMouseOver="lb('nl161')" onMouseOut="db('nl161')" ><a href="/recipe/161/Orzo-Risotto-with-Buttery-Shrimp" title="Test Recipes: Orzo Risotto with Buttery Shrimp">Orzo Risotto with Buttery Shrimp</a></td><td id="nl193" onclick="window.location='/recipe/193/TrailBlaze-Bake-At-Home-Energy-Bars'" onMouseOver="lb('nl193')" onMouseOut="db('nl193')" ><a href="/recipe/193/TrailBlaze-Bake-At-Home-Energy-Bars" title="Test Recipes: TrailBlaze Bake-At-Home Energy Bars">TrailBlaze Bake-At-Home Energy Bars</a></td></tr><tr><td id="nl170" onclick="window.location='/recipe/170/Chinese-Almond-Cookies'" onMouseOver="lb('nl170')" onMouseOut="db('nl170')" ><a href="/recipe/170/Chinese-Almond-Cookies" title="Test Recipes: Chinese Almond Cookies">Chinese Almond Cookies</a></td><td id="nl274" onclick="window.location='/recipe/274/Hatch-Chile-Infused-Chocolate-Truffles'" onMouseOver="lb('nl274')" onMouseOut="db('nl274')" ><a href="/recipe/274/Hatch-Chile-Infused-Chocolate-Truffles" title="Test Recipes: Hatch Chile Infused Chocolate Truffles">Hatch Chile Infused Chocolate Truffles</a></td><td id="nl176" onclick="window.location='/recipe/176/Oven-Fried-Onion-Rings'" onMouseOver="lb('nl176')" onMouseOut="db('nl176')" ><a href="/recipe/176/Oven-Fried-Onion-Rings" title="Test Recipes: Oven-Fried Onion Rings">Oven-Fried Onion Rings</a></td></tr></table></div>
+	
+</div>
+<div class="navbarbottom"></div>
+			<table class="tl_table" cellpadding="0" cellspacing="1" border="0">
+	<tr align="center">
+		<td class="indexsummary">
+			<a href="/toc.php?sort=date">Table of Contents</a>
+		</td>
+		<td class="indexsummary">
+			<a href="/forums">Forums</a>
+		</td>
+		<td class="indexsummary">
+			<a href="/dictionary">Dictionary</a>
+		</td>
+		<td class="indexsummary">
+			<a href="/books">Recommended Reading</a>
+		</td>
+		<td class="indexsummary">
+			<a href="http://astore.amazon.com/themichaelupdate">Marketplace</a>
+		</td>
+		<td class="indexsummary">
+			<a href="http://www.cafepress.com/cookingengineer">Giftshop</a>
+		</td>
+		<td class="indexsummary">
+			<a href="/what_i_ate">What I Ate</a>
+		</td>
+		<td class="indexsummary" style="border:1px solid #C00000">
+			<a href="http://www.orthogonalthought.com/blog" title="Read Michael's Blog: Orthogonal Thought" style="background-color:#FFFFC0">Michael's Blog</a>
+		</td>
+	</tr>
+</table>
+
+
+		
+		
+		
+
+
+		
+	<div id="orthogonalthought" onclick="window.location='http://www.orthogonalthought.com/blog/index.php/2014/08/fall-television-season-2014-grid/';" style="cursor:pointer">
+		Latest Post on Michael's Blog: <a href="http://www.orthogonalthought.com/blog/index.php/2014/08/fall-television-season-2014-grid/">Fall Television Season 2014 Grid</a>
+	</div>	
+	
+
+
+		
+		<div class="mainbody">
+			
+
+<table cellpadding="0" cellspacing="2" border="0" style="margin:0 auto 0 auto">
+	<tr>
+		
+		<td style="background: #000000 url(http://www.cookingforengineers.com/pics/160/DSC_3362_crop.jpg) no-repeat center center; cursor:pointer;border:2px solid #FFFFA0;padding:0">
+			<a href="/recipe/92/Poached-Fish" title="Recipe File: Poached Fish"><div style="height:100px;width:100px;cursor:pointer"></div></a>
+		</td>
+		
+		<td style="background: #000000 url(http://www.cookingforengineers.com/pics6/nonstick/saute_320.jpg) no-repeat center center; cursor:pointer;border:2px solid #FFFFA0;padding:0">
+			<a href="/article/326/Whats-In-Your-Non-Stick" title="Equipment & Gear: What's In Your Non-Stick?"><div style="height:100px;width:100px;cursor:pointer"></div></a>
+		</td>
+		
+		<td style="background: #000000 url(http://www.cookingforengineers.com/hello/259/958/160/IMG_3333_crop.jpg) no-repeat center center; cursor:pointer;border:2px solid #FFFFA0;padding:0">
+			<a href="/recipe/33/Lemon-Bars" title="Recipe File: Lemon Bars"><div style="height:100px;width:100px;cursor:pointer"></div></a>
+		</td>
+		
+		<td style="background: #000000 url(http://www.cookingforengineers.com/pics3/160/ND2_4179.jpg) no-repeat center center; cursor:pointer;border:2px solid #FFFFA0;padding:0">
+			<a href="/article/213/Bakers-Yeast" title="Kitchen Notes: Baker's Yeast"><div style="height:100px;width:100px;cursor:pointer"></div></a>
+		</td>
+		
+		<td style="background: #000000 url(http://www.cookingforengineers.com/pics2/160/DSC_1603_crop.jpg) no-repeat center center; cursor:pointer;border:2px solid #FFFFA0;padding:0">
+			<a href="/article/171/Beer-Can-Chicken" title="Cooking Tests: Beer Can Chicken"><div style="height:100px;width:100px;cursor:pointer"></div></a>
+		</td>
+		
+		<td style="background: #000000 url(http://www.cookingforengineers.com/hello/259/958/160/IMG_3345_crop.jpg) no-repeat center center; cursor:pointer;border:2px solid #FFFFA0;padding:0">
+			<a href="/recipe/31/Grilled-Porterhouse-or-T-Bone-Steak" title="Recipe File: Grilled Porterhouse or T-Bone Steak"><div style="height:100px;width:100px;cursor:pointer"></div></a>
+		</td>
+		
+		<td style="background: #000000 url(http://www.cookingforengineers.com/pics5a/160/DSC_8440_LR.jpg) no-repeat center center; cursor:pointer;border:2px solid #FFFFA0;padding:0">
+			<a href="/article/275/Saber-Kitchen-Knives" title="Equipment & Gear: Saber Kitchen Knives"><div style="height:100px;width:100px;cursor:pointer"></div></a>
+		</td>
+		
+		<td style="background: #000000 url(http://www.cookingforengineers.com/hello/259/958/160/IMG_3369_crop.jpg) no-repeat center center; cursor:pointer;border:2px solid #FFFFA0;padding:0">
+			<a href="/recipe/28/Slow-Simmered-Spicy-Barbeque-Sauce" title="Recipe File: Slow Simmered Spicy Barbeque Sauce"><div style="height:100px;width:100px;cursor:pointer"></div></a>
+		</td>
+		
+	</tr>
+</table>
+
+
+<div itemscope itemtype="http://data-vocabulary.org/Recipe">
+	<div id="articleheader">
+			<div class="headertitle"><div>
+				<span class="category">
+					Recipe File
+				</span><br />
+				<h1 class="title" style="display:inline" itemprop="name">
+					Basic Pancakes
+				</h1>
+				<span class="author">
+					by <span itemprop="author">Michael Chu</span>
+				</span>
+			</div></div>
+		<div class="formatbutton"><a href="/recipe/47/Basic-Pancakes/trn">Recipe Card</a></div>
+		<div class="formatbutton"><a href="/recipe/47/Basic-Pancakes/print">Printer-friendly</a></div>
+		
+		<div class="selectedformatbutton">Normal view</div>
+		
+		<div class="hr"></div>
+	</div>
+
+	<div id="articlebody">
+		
+		
+			<div style="font-size:12pt;font-weight:bold;float:right;margin:0px -6px 0 0;padding:0 4px 6px 8px;background-color:#FFFFA0"><a href="/recipe/46/Faux-BBQ-Beef-Ribs">Next &#187;</a></div>
+			<div style="font-size:12pt;font-weight:bold;float:left;margin:0px 0 0 -6px;padding:0 8px 6px 4px;background-color:#FFFFA0"><a href="/recipe/48/Corn-Fritters">&#171; Prev</a></div>
+			
+			<div style="clear:both"></div>
+			<div style="float:right;clear:right;padding:4px 0 12px 8px;" class="nothing">
+				
+<!-- Google DFP Article_160x600-->
+<center>
+<div id='dfp_gpt_1' style='width:160px; height:600px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('dfp_gpt_1'); });
+</script>
+</div>
+</center>
+
+				<div style="margin:30px 0 0 0;line-height:0px"><!-- --></div>
+				
+			</div>
+			
+<!-- Google DFP Article_300x250-->
+<div class="adsense-left">
+<div id='dfp_gpt_2' style='width:300px; height:250px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('dfp_gpt_2'); });
+</script>
+</div>
+</div>
+
+
+		
+		
+			
+			I make a great buttermilk pancake, but I don't usually keep buttermilk in stock. That means an extra trip to the store Saturday morning if I feel like making pancakes. So, this Saturday, I decided to test the <A HREF="http://www.amazon.com/exec/obidos/ASIN/0684818701/themichaelupdate">The New Joy of Cooking</A>'s Basic Pancakes recipe which uses ingredients every kitchen should always have in stock.<span class="fullpost"><?if($fullpost==1){?><br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/hello/259/958/640/IMG_3088_sharp.jpg'><img border='0'  src='http://www.cookingforengineers.com/hello/259/958/320/IMG_3088_sharp.jpg'  width='320' height='240' class='left' alt='' /></a>
+I used (from the top, clockwise) 1-1/2&nbsp;cups all purpose flour, 3&nbsp;tablespoons sugar, 1-1/2&nbsp;teaspoons baking powder, 1/2&nbsp;teaspoon salt, 1-1/2&nbsp;cup milk, 3&nbsp;tablespoons unsalted butter (melted), 2&nbsp;large eggs, and 1/2&nbsp;teaspoon vanilla extract.<br /><div style='clear:left'></div><br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/hello/259/958/640/IMG_3090_sharp.jpg'><img border='0'  src='http://www.cookingforengineers.com/hello/259/958/320/IMG_3090_sharp.jpg'  width='320' height='240' class='left' alt='' /></a>
+I combined the dry ingredients (flour, sugar, baking powder, and salt) into a large bowl and whisked a little.<br /><div style='clear:left'></div><br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/hello/259/958/640/IMG_3093_sharp.jpg'><img border='0'  src='http://www.cookingforengineers.com/hello/259/958/320/IMG_3093_sharp.jpg'  width='320' height='240' class='left' alt='' /></a>
+Now, I whisked the wet ingredients (milk, butter, eggs, and vanilla) together.<br /><div style='clear:left'></div><br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/hello/259/958/640/IMG_3102_crop.jpg'><img border='0'  src='http://www.cookingforengineers.com/hello/259/958/320/IMG_3102_crop.jpg'  width='320' height='226' class='left' alt='' /></a>
+I then poured the wet ingredients onto the dry and whisk, but not too long. Just enough to combine thoroughly. If there are some lumps left, it's okay. When the batter cooks it'll smooth out and you won't taste it.<br /><div style='clear:left'></div><br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/hello/259/958/640/IMG_3103_sharp.jpg'><img border='0'  src='http://www.cookingforengineers.com/hello/259/958/320/IMG_3103_sharp.jpg'  width='320' height='240' class='left' alt='' /></a>
+Joy of Cooking now says to fold in any additions now. I added some frozen blueberries that I thawed quickly in a some warm water and drained. This is where the recipe makes a fatal mistake. More on that later.<br /><div style='clear:left'></div><br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/hello/259/958/640/IMG_3094_sharp.jpg'><img border='0'  src='http://www.cookingforengineers.com/hello/259/958/320/IMG_3094_sharp.jpg'  width='320' height='240' class='left' alt='' /></a>
+I then quickly prepare my two burner griddle. You can use an electric griddle as well. In both cases, the surface should be smooth and non-stick.<br /><div style='clear:left'></div><br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/hello/259/958/640/IMG_3097_sharp.jpg'><img border='0'  src='http://www.cookingforengineers.com/hello/259/958/320/IMG_3097_sharp.jpg'  width='320' height='309' class='left' alt='' /></a>
+Turning both burners on, I heated the griddle until a few drops of water tossed onto the surface ran around franticly. (If the water jumps off the griddle, then turn down the heat. If the water just sits there, increase the heat.) Now, I melted a pad of butter onto the griddle to lubricate it.<br /><div style='clear:left'></div><br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/hello/259/958/640/IMG_3100_sharp.jpg'><img border='0'  src='http://www.cookingforengineers.com/hello/259/958/320/IMG_3100_sharp.jpg'  width='320' height='240' class='left' alt='' /></a>
+Using a paper towel, I rubbed the butter around until it evenly coated the pan and I couldn't see any butter. You don't want too much fat on the griddle or you'll be frying the pancakes.<br /><div style='clear:left'></div><br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/hello/259/958/640/IMG_3104_sharp.jpg'><img border='0'  src='http://www.cookingforengineers.com/hello/259/958/320/IMG_3104_sharp.jpg'  width='240' height='320' class='left' alt='' /></a>
+I scooped 1/3 cups of batter onto the griddle to make a pancake. This is when I discovered that the blueberries impeded the flow of the batter. Usually, when I make my buttermilk pancakes, I pour the batter out steadily onto one spot and it forms a near perfect circle. I then sprinkle my filling on top of the batter on the griddle. Now I know why. First, the batter doesn't flow evenly and forms alien shapes on the griddle because of the blueberries. Second, the blueberries are unevenly distributed and some pancakes have some and some have a lot. Don't make this mistake - put the fillings in after the batter hits the griddle, not in the batter. You might notice in this picture there's a big lump in the batter of the second pancake. Don't worry about that, it evens out and can't be tasted. The pancake will be tough if we over mix.<br /><div style='clear:left'></div><br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/hello/259/958/640/IMG_3107_sharp.jpg'><img border='0'  src='http://www.cookingforengineers.com/hello/259/958/320/IMG_3107_sharp.jpg'  width='320' height='240' class='left' alt='' /></a>
+I cooked the first side until bubbles covered the pancake surface and begin to pop. I then flipped the pancake over.<br /><div style='clear:left'></div><br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/hello/259/958/640/IMG_3109_sharp.jpg'><img border='0'  src='http://www.cookingforengineers.com/hello/259/958/320/IMG_3109_sharp.jpg'  width='195' height='320' class='left' alt='' /></a>
+Once the second side has lightly browned (about half the time it took to cook the first side), I removed and served. If you need to make a lot of pancakes, you can stack them on a plate in a 200&#176;F oven. On Good Eats, Alton Brown recommends placing paper towels between each layer of pancake, but I find that it works for me to stack without the paper towel waste. Usually, Tina and I can't eat too many pancakes at a time, but I still make a full batch.<br /><div style='clear:left'></div><br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/hello/259/958/640/IMG_3111_sharp.jpg'><img itemprop="photo" border='0'  src='http://www.cookingforengineers.com/hello/259/958/320/IMG_3111_sharp.jpg'  width='320' height='240' class='left' alt='' /></a>
+Extra pancakes can then be frozen. A quick trip to the toaster or toaster oven will produce homemade pancakes much better than the supermarket frozen kind. This picture is of a buttermilk pancake that came out very circular because the filling was added after the batter was poured on the griddle.<br /><div style='clear:left'></div><br />
+<br />
+The results of the tasting proved that these pancakes were quite good - on par with the buttermilk pancakes. A little fruit topping or maple syrup and they resulted in a delicious breakfast. So, I've decided to promote this recipe from a Test Recipe to one for the Recipe File.<?}?></span><br />
+<br />
+<div class="larticles">
+	<div class="title">Related Articles</div>
+	<div class="link">
+			<a href="/recipe/48/Corn-Fritters">Corn Fritters</a>
+		</div><div class="link">
+			<a href="/recipe/46/Faux-BBQ-Beef-Ribs">Faux BBQ Beef Ribs</a>
+		</div><div class="link">
+			<a href="/recipe/41/Basic-Biscuits">Basic Biscuits</a>
+		</div><div class="link">
+			<a href="/recipe/230/Macaroni-and-Cheese-Bake">Macaroni and Cheese Bake</a>
+		</div><div class="link">
+			<a href="/recipe/178/Chocolate-Cake">Chocolate Cake</a>
+		</div>
+	
+</div>
+	<b>Basic Pancakes</b><br />
+Batter<br />
+<table><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">1-1/2 cups (190 g)</span> <span itemprop="name">all purpose flour</span></span></td><td rowspan=4 class="vertical">mix</td><td rowspan=8 class="vertical">whisk&nbsp;briefly</td></tr><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">3 Tbs. (38 g)</span> <span itemprop="name">sugar</span></span></td></tr><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">1-1/2 tsp. (7 g)</span> <span itemprop="name">baking powder</span></span></td></tr><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">1/2 tsp. (3 g)</span> <span itemprop="name">salt</span></span></td></tr><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">3 Tbs. (45 g)</span> <span itemprop="name">melted, unsalted butter</span></span></td><td rowspan=4 class="vertical">whisk</td></tr><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">1-1/2 cup (355 mL)</span> <span itemprop="name">milk</span></span></td></tr><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">2 large</span> <span itemprop="name">eggs</span></span></td></tr><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">1/2 tsp. (2.5 mL)</span> <span itemprop="name">vanilla extract</span></span></td></tr></table><span class="copy">Copyright Michael Chu 2004</span><br />
+<div class="larticles">
+	<div class="title">Related Articles</div>
+	<div class="link">
+			<a href="/recipe/48/Corn-Fritters">Corn Fritters</a>
+		</div><div class="link">
+			<a href="/recipe/46/Faux-BBQ-Beef-Ribs">Faux BBQ Beef Ribs</a>
+		</div><div class="link">
+			<a href="/recipe/41/Basic-Biscuits">Basic Biscuits</a>
+		</div><div class="link">
+			<a href="/recipe/230/Macaroni-and-Cheese-Bake">Macaroni and Cheese Bake</a>
+		</div><div class="link">
+			<a href="/recipe/178/Chocolate-Cake">Chocolate Cake</a>
+		</div>
+	
+</div>
+	<div style="clear:both;margin-bottom:8px"></div>
+			
+		
+		
+		<div class="clear"></div>
+		
+			<div style="font-size:12pt;font-weight:bold;float:right;margin:0 -6px -4px 0;padding:0 2px 2px 6px;background-color:#FFFFA0"><a href="/recipe/46/Faux-BBQ-Beef-Ribs">Next &#187;</a></div>
+			<div style="font-size:12pt;font-weight:bold;float:left;margin:0 0 -4px -6px;padding:0 6px 2px 2px;background-color:#FFFFA0"><a href="/recipe/48/Corn-Fritters">&#171; Prev</a></div>
+		
+		<div class="clear"></div>
+	</div>
+	
+	<div id="articlefooter">
+		<div class="author">Written by Michael Chu</div>
+		<div class="timestamp">Published on <time itemprop="publishDate" itemprop="published" datetime="2004-06-18">June 18, 2004 at 12:38 AM</time></div>
+		<div class="clear"></div>
+	</div>
+	
+</div>
+
+
+
+
+
+	<div class="spacer3"></div>
+		
+<!-- Google DFP Article_728x90-->
+<center>
+<div id='dfp_gpt_3' style='width:728px; height:90px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('dfp_gpt_3'); });
+</script>
+</div>
+</center>
+
+		
+	
+	
+  <div id="comments">
+		<div id="articlecomments">
+			<div class="header">64 comments on <b>Basic Pancakes</b>:<span class="commentlink">(<a href="/forums/posting.php?mode=reply&t=42" style="font-size:12pt" title="Comments are managed in the Cooking For Engineers Forums">Post a comment</a>)</span></div>
+			
+					<hr size="1" noshade />
+					<div class="commentheading">On May 14, 2005 at 07:27 AM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">how many pancakes at what diameter does this recipe create?</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On May 14, 2005 at 07:27 AM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">p.s. pictures are not coming up.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On May 14, 2005 at 07:28 AM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">Fortunately my mother taught me how to cook. All I usally need is a push toward an idea.<br />
+<br />
+Buttermilk,<br />
+a) use week old milk, that has just spoilt to taste. If there are chucks it is way to late. Just the bad tasting milk.<br />
+b) Or add roughly a tablespoon of vinger to a cup of milk. and leave out for 10-20 minutes(I usally set up the milk, then prep and use the other ingredients).</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On May 14, 2005 at 07:29 AM, Eric (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">It's good to point out that you should mix the wet and dry ingredients together as little as possible to avoid producing making them tough. The batter should be quite lumpy and if there are lumps of dry, don't worry, they will cook out. Ten seconds is about as much as you need to mix, and use more of a folding action than a stir.<br />
+<br />
+Also, if you want to substitute buttermilk or soured milk (see your recipe substitutions page) reduce the baking powder to about 1t and add about 1/4t of baking soda to counter the added acidity.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On May 14, 2005 at 07:30 AM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">For a lighter pancake, try separating the eggs. Use the yolks as per normal, beat the whites until thickened and glossy.<br />
+<br />
+Then fold in 1/3rd of the white into the pancake batter to lighten it, then the next 1/3rd and the final third.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On May 14, 2005 at 07:31 AM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">You can freeze buttermilk for later use. I freeze in 1/2 cup increments, using freezer baggies. Works like a charm! I never throw unused buttermilk away, and no more running to the grocery store at 7 am on a Saturday, either!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On May 14, 2005 at 07:31 AM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">Instead of buttermilk, I squeeze half a lemon in the milk - be sure to use a large cup because it get bubbly and rises.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On May 14, 2005 at 07:32 AM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">I guess that there is a mistake in the summary at the end. Instead of "3 tsp. sugar" it should be "3 Tbs. sugar".</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On May 14, 2005 at 07:32 AM, pena (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">power topping: tiny bits of apple, salami and cheese<br />
+<br />
+also, this recipe works in my waffle maker</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On May 14, 2005 at 07:32 AM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">This was super to read! We are going to make this recipe tomorrow morning for sure! Nothing better then planning your Breky for Sat. morning on the night before! Wish us luck, ( though not needed with this Kickin' run down).</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On May 15, 2005 at 06:52 AM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">8P hey this is really kool. i can understand it and everything.. its real simple.. thanx alot.. hope it nice gonna go make it now... try to anyways..  :D</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On May 27, 2005 at 06:28 PM, an anonymous reader said...</div>
+					<div class="commentsubject">Subject: <span>Cinnamon is good too</span><br /></div>
+					<div class="commentbody">I've been using this pancake recipe for a while now, and I always add some Cinnamon to it.  I never measure how much I put in, I just add it to the dry ingredients before mixing with the wet ingredients, enough so it discolours the mixture a bit.  <br />
+<br />
+The result is the best cinnamon pancakes ever!!!  Awsome with just some syrup.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On June 02, 2005 at 05:31 PM, Mike (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Pancake recipe</span><br /></div>
+					<div class="commentbody">Just wanted to say as an Expat now living in The Netherlands that I went looking for what we at home would assume was a "Basic"(baking soda and baking powder) remembering from Sunday mornings with Mom that I needed one or the other to make mouth watering pancakes...Several hours later, I'm now looking at a familiar mustard colored box of baking soda(The funny thing is all of the writing...is in CHINESE, seriously!!) and the familiar maroon can of baking powder is now contained in a plastic jar with some oddly sounding chemical name. (but I was assured that the was the real deal), so Now looking foreward to next Sunday's breakfast now that I have your recipe in hand.  Thanks, Mike<br />
+PS I also have a serious craving for freezer jam, any suggestions for Certo? Written to Kraft to see if they can give me another name here, but as of yet, no reply...</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On July 09, 2005 at 06:50 PM, butterlite (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Souring milk for buttermil substitute</span><br /></div>
+					<div class="commentbody">the best way i found to sour milk is to use fresh lemon juice. it adds a beautiful flavor and tartness to the batter.  i would never use spoiled milk.<br />
+<br />
+mix 1tablespoon fresh lemon juice into 1 cup of milk. Let is 'sour" for 20 minutes. i prefer this to buttermilk.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On September 07, 2005 at 03:17 AM, cjmarks67 (guest) said...</div>
+					<div class="commentsubject">Subject: <span>types of flour</span><br /></div>
+					<div class="commentbody">Hay guys you can use self raising flour in stead of plain flour &amp; baking soda any way good cooking all the best CJ :)</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On October 10, 2005 at 06:09 PM, an anonymous reader said...</div>
+					<div class="commentsubject">Subject: <span>Pancakes - From Joy of Cooking</span><br /></div>
+					<div class="commentbody">This has been my basic recipe for pancakes for years, since the 70's.  One tip that I just learned, is to wait until the griddle is almost hot to mix the dry and wet ingredients together.  The chemical reaction starts then, so the first batch or two will be the fluffiest pancakes.  I made these last night for supper, and they were great.<br />
+I also make a compote of mixed berries for on the top - strawberries, blueberries, and black raspberries, with a touch of sugar.  Maple syrup is then optional.<br />
+Enjoy!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On October 23, 2005 at 04:24 PM, Andross (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Pancake additions</span><br /></div>
+					<div class="commentbody">Two things that make great additions to any pancake recipe:<br />
+<ul style="margin:0 0 0 0;padding:0 0 0 0">Black Pepper<br />
+Bacon Grease</ul><br />
+Just add to taste, I always add some to my buttermilk pancakes</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 29, 2005 at 05:35 AM, vegangel (guest) said...</div>
+					<div class="commentsubject">Subject: <span>[b]vegan, wheat-free, sugar-free version of recipe[/b]</span><br /></div>
+					<div class="commentbody">I made my own version of this recipe a week ago, with a few substitutions:<br />
+<br />
+[color=red:300a2ffd96]1/2 cup rye flour, 1/2 cup oat flour, 1/2 cup barley flour sifted together<br />
+5 packets Splenda<br />
+1/4 tsp salt (not 1/2)<br />
+1-1/2 cups unsweetened soy milk (<i>Silk</i> or <i>Vitasoy</i>)<br />
+3 Tbs melted <i>Earth Balance</i> margarine (vegan)<br />
+Egg Replacer (by <i>Ener-G</i>) for 2 eggs[/color:300a2ffd96]<br />
+<br />
+Other ingredients remain the same, and prep &amp; cooking are the same as well.  They were phenomenal!  I didn't put <i>anything</i> on them, and they were the best pancakes I've ever tasted.  FYI: You can also sour soy milk with vinegar or lemon juice to use as a buttermilk substitute for baking.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 16, 2005 at 03:07 PM, an anonymous reader said...</div>
+					<div class="commentsubject">Subject: <span>A smooth/sour variation</span><br /></div>
+					<div class="commentbody">I tried this with some sourcream last year with good results. I wanted the buttermilk tartness and had some sourcream in the fridge. Alone the sourcream is a bit thick for the recipe, so I use a mix of sourcream and milk (2% or less) to thin. This mixture should equal the ammount of regular milk the original recipe calls for. <br />
+<br />
+I've also inadvertantly left out the butter before, and been pleased with the results. Both of these variations do affect the texture, something you may or may not like. Specifically, the sourcream variation makes the cakes a little denser  but with more lasting moisture than regular pancakes. (Think poundcake verses genoise.) This makes them really wondeful when you plan on saving some for later in the day.<br />
+<br />
+<br />
+S</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On January 26, 2006 at 03:51 PM, Swelter (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Pancakes</span><br /></div>
+					<div class="commentbody">I don't use any baking powder or sour the milk, and my pancakes taste great. I come from England and so I serve them the British way, sprinkled with caster sugar and drenched with fresh lemon juice then rolled up.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On January 28, 2006 at 07:14 PM, oyo said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody"><div class='commentquote'>vegangel wrote:<div class='commentquotebody'>I made my own version of this recipe a week ago, with a few substitutions:</div></div><br />
+<br />
+i substitute some oat flour too; it gives them a great texture.<br />
+<br />
+<div class='commentquote'>Swelter wrote:<div class='commentquotebody'>I don't use any baking powder or sour the milk, and my pancakes taste great. I come from England and so I serve them the British way, sprinkled with caster sugar and drenched with fresh lemon juice then rolled up.</div></div><br />
+<br />
+sounds like some good crepes (:</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On January 28, 2006 at 10:51 PM, skunkworks (guest) said...</div>
+					<div class="commentsubject">Subject: <span>pancakes</span><br /></div>
+					<div class="commentbody">I've been using the "Joy of Cooking" pancake recipe for many years, and have adjusted it to my taste by trial and error.  I think that 3 Tbs sugar is far too sweet; i use only 1 Tbs.  Since i use a soapstone griddle I also reduce the butter to a single Tbs; this should also work well for other non-stick cooking surfaces.  The reduced butter makes for a fluffier texture.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On February 28, 2006 at 09:35 PM, *morningstar said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">I tried this recipe this morning with very good results. The pancakes were light and fluffy, but still firm. They were sweet, but not overwhelmingly so and there was a nice taste from the butter. There was a noticable egg flavor to the pancakes, but since I like egg, this wasn't an issue. However, serving these to someone who doesn't like eggs might not be a good idea.<br />
+<br />
+I froze the leftovers and plan on heating them in my Hello Kitty toaster for quick breakfast.<br />
+<br />
+I'm never using pancake mix ever again.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On April 18, 2006 at 01:06 PM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">YUM! I made these pancakes this morning but I substituted .5 cups of flour for whole wheat flour. They turned out wonderfully and my husband thought they tasted like french toast-pancakes. Oh and your site rocks!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On April 22, 2006 at 03:24 PM, an anonymous reader said...</div>
+					<div class="commentsubject">Subject: <span>Whole Wheat Pancakes</span><br /></div>
+					<div class="commentbody">One great way I've found to make somewhat heartier pancakes is to use whole wheat flour and some rolled oats instead of all purpose flour as well as using brown sugar instead of normal granulated sugar. Also if you add some cinnamon to taste and about 1/2 to 3/4 of finely chopped apple (use a tart apple such as a granny smith) it makes a great addition. This is a great meal that will stick to your ribs.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On May 01, 2006 at 10:49 AM, Popeye (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Naming &amp; ingredients</span><br /></div>
+					<div class="commentbody">This recipe should be called "Pancakes" instead of "Basic Pancakes". It will be easier to find when the amount of recipes grows.<br />
+The blueberries are not listed under ingredients. Why? Why? Why?<br />
+And it's much better to use frozen blueberries (unless you actually [u:0fec031caa]want[/u:0fec031caa] blue pancakes)</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On May 22, 2006 at 03:39 PM, Robert (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Pancakes</span><br /></div>
+					<div class="commentbody">I've been making an older version of this recipe for years with great results.  However, it's much better if you separate the eggs.  Add the yolks to the melted butter, milk, etc., and then combine with the dry ingredients.  Whip the egg whites with a mixer until stiff and then fold into the mixture.  I add banana slices and/or chocolate chips after pouring the batter onto the griddle.  I find that if I use a teflon or other non-stick surfance, I don't need to butter it.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On June 24, 2006 at 09:42 AM, inzane (guest) said...</div>
+					<div class="commentsubject">Subject: <span>even bluberries</span><br /></div>
+					<div class="commentbody">if you want to mix the blueberries evenly in the batter, crush them in a separate bowl before mixing them in.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On July 08, 2006 at 05:04 PM, rykthia (guest) said...</div>
+					<div class="commentsubject">Subject: <span>two comments</span><br /></div>
+					<div class="commentbody">two comments<br />
+<br />
+(1) my favorite "fruity" pancakes are apple-cakes. They're fabulous. You can either dump finely chopped apples right into the batter, or, better yet, slice apples super thin and place them on top of the uncooked pancake side once you've already poured the batter. You can also sprinkle a little sugar (just a tad) on the thin apple slices, then flip and wait for the pancakes to cook. They're fabulous. The apple gets carmelized and melty, and now I'm almost drooling just thinking about it. I prefer having sugar/sweet stuff as a topping, so I skip any sugar in the batter and just sprinkle it on the apple sided cake.<br />
+<br />
+(2) my favorite substitution is to use plain yogurt instead of milk. I got this idea after eating some really delicious "ricotta pancakes" at a restaurant - they have a dense, almost chewy texture with lemon that is quite nice. I haven't tried ricotta at home, but I have found that the plain yogurt duplicates this dense texture quite nicely. How the substitution goes depends on the brand of yogurt (some are more watery than others) - use your best guess and dilute with a little milk. Typically I do about 1:1 and add a tablespoon or milk. Alternately, if you make apple cakes with yogurt, add a little applesauce too. That's yummy. I've also found when I'm not in the mood for maple syrup, mixing a little yogurt and jam makes a good topping too.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 09, 2006 at 05:12 PM, cookin' engineer (guest) said...</div>
+					<div class="commentsubject">Subject: <span>joy of cooking pancakes</span><br /></div>
+					<div class="commentbody">When using a non-stick pan or griddle, I have found it totally unnecessary to butter or grease the pan.  The amount of butter in the batter is more than enough to do the job.<br />
+<br />
+Also, when melting the butter in the microwave, try putting the milk in along side.  You then get warm milk and melted butter to mix together and it keeps the butter from congealing (as it does when you mix it with cold milk).</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On October 27, 2006 at 10:38 AM, an anonymous reader said...</div>
+					<div class="commentsubject">Subject: <span>other variations</span><br /></div>
+					<div class="commentbody">I have been delegated the role of making pancakes on sunday mornings, and have had the following finds<br />
+Use of wholmeal self raising flour gives a stronger flavour<br />
+Add a bit of olive oil instead of butter for a bit of oomph<br />
+Prepare the batter the night before - allows it to relax<br />
+I prefer vegetarian fed eggs<br />
+<br />
+In addition I will try the apple recipe this sunday it sounds really good, but the girls like theirs with yougurt ice cream</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 26, 2006 at 03:02 PM, an anonymous reader said...</div>
+					<div class="commentsubject">Subject: <span>add flour</span><br /></div>
+					<div class="commentbody">when adding any berry to a batter.muffin, pancake, etc.  Do not unthaw them the heat in the pan or oven will defrost them.  your first mistake was thawing them in water, this thinned your batter.  Second, a baker taught me that if you shake the berries in a little flour before you put them in the batter this will allow the berries to latch to the batter instead of falling to the bottom."</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On March 08, 2007 at 04:28 AM, Friend (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Even color</span><br /></div>
+					<div class="commentbody">Anyone know what determines whether or not you get an even color on your pancakes?  I tend to get the splotchy surfaces with bubble-shaped areas like <a href='http://www.plainsfolk.com/weblog/Pancakes.jpg'>here</a>.<br />
+<br />
+What I'm looking for are:<br />
+<br />
+<a href='http://www.pmachinehowto.com/howtogallery/pancakes.jpg'>http://www.pmachinehowto.com/howtogallery/pancakes.jpg</a><br />
+<a href='http://www.sportalicious.com/Images/pancakes.jpg'>http://www.sportalicious.com/Images/pancakes.jpg</a><br />
+<br />
+That kind of even browning.  Is it simply finding the right temperature?</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On March 10, 2007 at 07:34 PM, Renzukoken (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Wow</span><br /></div>
+					<div class="commentbody">Wow, these pancakes were amazing! I'm a 16 year old with possibly no cooking skills what-so-ever and I tried your recipe because everyone was out of the house when I woke up and I wanted food. :] Now, I am unoffically the Pancake King of the house. &gt;_&gt;</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On March 12, 2007 at 03:58 AM, GaryProtein said...</div>
+					<div class="commentsubject">Subject: <span>Re: Even color</span><br /></div>
+					<div class="commentbody"><div class='commentquote'>Friend wrote:<div class='commentquotebody'>Anyone know what determines whether or not you get an even color on your pancakes?  I tend to get the splotchy surfaces with bubble-shaped areas like <a href='http://www.plainsfolk.com/weblog/Pancakes.jpg'>here</a>.<br />
+<br />
+What I'm looking for are:<br />
+<br />
+<a href='http://www.pmachinehowto.com/howtogallery/pancakes.jpg'>http://www.pmachinehowto.com/howtogallery/pancakes.jpg</a><br />
+<a href='http://www.sportalicious.com/Images/pancakes.jpg'>http://www.sportalicious.com/Images/pancakes.jpg</a><br />
+<br />
+That kind of even browning.  Is it simply finding the right temperature?</div></div><br />
+<br />
+My guess is the uneven browning is caused by uneven bubbling of the batter and loss of surface contact with the pan as it cooks and starts to rise.  I believe you didn't have the baking powder evenly mixed into your batter.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On March 13, 2007 at 06:27 AM, Michael Chu said...</div>
+					<div class="commentsubject">Subject: <span>Re: Even color</span><br /></div>
+					<div class="commentbody"><div class='commentquote'>Friend wrote:<div class='commentquotebody'>Anyone know what determines whether or not you get an even color on your pancakes?  I tend to get the splotchy surfaces with bubble-shaped areas like <a href='http://www.plainsfolk.com/weblog/Pancakes.jpg'>here</a>.</div></div><br />
+Did both your sides look like that? Most pancakes have a pretty side (the side that hit the griddle first) and a not as pretty side.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On March 26, 2007 at 02:39 AM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">i tried to solve the "blueberries being unevenly distributed among pancakes" problem by dropping blueberries on the batter after it's poured on the frying pan....and the berries ended up getting singed when i turned the pancakes over, because the berries stuck out above the batter, and had no coating of batter to protect them.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On April 17, 2007 at 11:30 AM, an anonymous reader said...</div>
+					<div class="commentsubject">Subject: <span>Re: Even color</span><br /></div>
+					<div class="commentbody">After many years of cooking pancakes using plain mixes, "doctored up" mixes, and "from scratch" recipes (as presented here) I have found that they can produce a wide variety of pancakes textures.  In my experience, the variation is color I find is caused by three factors:  temperature, grease and batter viscosity.<br />
+<br />
+1) Temperature of the griddle.  Your picture looks as if the pancakes were fried at high temperature.  I use an electric griddle and keep it set 375-400F.  When I have tried to make pancakes while camping (where the temperature is difficult to control), mine frequently come out looking like your picture.  <br />
+<br />
+2) Amount of grease.  Remember that the recipe said, "You don't want too much fat on the griddle or you'll be frying the pancakes"?   I take a paper towel and put a small amount of vegetable oil on it (I presume you could do the same with any fat - i.e. butter, margarine, etc.), then thinly coat the griddle.  Do this before it gets hot and you'll find that it take a very small amount of oil indeed (especially if your recipe already includes a fat - i.e. oil or butter).  <br />
+<br />
+3) Thickness of the batter.  I find this to be the most variable thing about pancake batter.  A thick batter will produce very thick, fluffy (sometime crumbly or cake-y) pancakes, whereas a thin batter will produce thin, tougher pancakes (a very thin batter will make a crepe!).  In general, the thicker batter pancakes will brown more evenly (notice in your pictures that the 'even color' pancakes are all thicker?)  The key that I have found is that the difference between "thick" and "thin" batter can be as little as 1-2 Tbsp of liquid (milk is usually what I use to thin).  So, after I make up the batter, I take a look at the viscosity and add a SMALL amount of milk if necessary.  <br />
+<br />
+Of course, this is very subjective and requires some experience as "how thin" the batter should be (not to mention variability in personal preferences), but hopefully some of this will be useful.<br />
+<br />
+Good luck, and I love the site.  Reminds me a lot of AB's GEs!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On April 18, 2007 at 01:37 PM, youngcook said...</div>
+					<div class="commentsubject">Subject: <span>Cool</span><br /></div>
+					<div class="commentbody">Excellent,Michael. Looks great. Will try to do. :D</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On April 19, 2007 at 12:51 AM, opqdan said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">My wife used to complain to no end how I would buy buttermilk, use a little for some recipe, and then the rest would spoil in the fridge (spoiling bittermilk takes a long time, but I use it so rarely that it happens).  I was having a tough time keeping buttermilk in the house for the once-in-a-blue-moon that I needed it.<br />
+<br />
+The America's Test kitchen cookbook had a great suggestion to use dried buttermilk as a substitute in baked goods.  I've only been able to find a single company that makes it (the same one they show), but fortunately it seems to be almost universally available in grocery stores (at least in Cleveland, OH and Seattle, WA).<br />
+<br />
+I can notice no difference at all when I use it in baked goods (pancakes, bread, biscuits etc), but I would not recomend using it if you are making a dressing or something, as the texture is off.<br />
+<br />
+Once opened, the package says that you need to keep it in the fridge, but it should keep indefinately (I suppose).<br />
+<br />
+It comes in a cylindrical white container found in the baking aisle, and has a chef face on it.  Sorry I can't remember the brand.<br />
+<br />
+Anyways, this is a great way to keep buttermilk on hand to make wonderfull pancakes without having to worry about actual buttermilk or squeezing lemons into normal milk.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On April 19, 2007 at 12:58 AM, youngcook said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">Yep, you are right, man.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On April 19, 2007 at 02:17 AM, cloud_swift said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">I've used that recipe for years. It works fine with a seasoned steel pan or stainless or anodized aluminum. It needs a bit of butter in the pan to get started, but after that the butter in the recipe is enough to keep it from sticking even when I reduce the butter by half. <br />
+<br />
+I agree that uneven browning can be caused by too much grease on the pan. The first pan full usually comes out a little uneven (but I haven't been toweling off the pan as Michael suggests) but it still tastes good. <br />
+<br />
+When my kids were little, I would sometimes make a simple design like a smiley face by pouring the eyes and smile first than pouring the pancake around it so it the color difference makes the design.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On May 06, 2007 at 03:50 PM, Gmoney (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Pancakes</span><br /></div>
+					<div class="commentbody">This recipe from [u:a3de008bf9]The Joy of Cooking[/u:a3de008bf9] has been a family favourite for three generations. I've never found a better recipe! <br />
+<br />
+BTW, who <i>doesn't[u:a3de008bf9] like <font color='blue'>blue</font> pancakes?[/u:a3de008bf9]</i></div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On October 05, 2007 at 05:06 PM, an anonymous reader said...</div>
+					<div class="commentsubject">Subject: <span>Donot turn out</span><br /></div>
+					<div class="commentbody">Ijust tried thesespancake and they did noy turn out good. I cooked them to dark brown and there still not done in the middle. there gos my breakfast.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On October 05, 2007 at 06:05 PM, Michael Chu said...</div>
+					<div class="commentsubject">Subject: <span>Re: Donot turn out</span><br /></div>
+					<div class="commentbody"><div class='commentquote'>Anonymous wrote:<div class='commentquotebody'>I cooked them to dark brown and there still not done in the middle. there gos my breakfast.</div></div><br />
+How much batter did you use for each pancake? Thick batter works best with smaller sized pancakes (6-8 inches). Also, how high was your heat? (How long did it take to brown the pancakes?) If the heat is too high, the pancakes will brown faster than it can cook through. The first side should take about 2-3 minutes (before bubbles cover the top).</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On October 20, 2007 at 04:12 AM, tomfy said...</div>
+					<div class="commentsubject">Subject: <span>buttermilk for pancakes</span><br /></div>
+					<div class="commentbody">My experience with buttermilk has been that it keeps very well in the fridge, much longer than the date printed on carton, maybe one month more. Even so we get a quart, and use about 1/2 or 1 cup for pancakes each weekend and it is hard to use it up. But I agree I wouldn't use milk soured by whatever organism happened to be in your milk (and which had survived pasteurization), and using vinegar or lemon juice, although it works well is not really the same...</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 12, 2007 at 07:47 PM, Chris PP Jr (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Pancake Recipe</span><br /></div>
+					<div class="commentbody">I used it in Denver, which we cool high altitude. It worked great.  They were on the thin side but very tasty.   <br />
+<br />
+It makes about 12patties  6" Inch in Diameter Pancakes</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On May 02, 2008 at 05:54 PM, Naomi (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Basic Pancakes to Buttermilk Sour Cream Pancakes</span><br /></div>
+					<div class="commentbody">Almost my recipe. I have developed a pancake recipe that my family and friends covet. The Basic Pancake recipe you used would be altered a bit.<br />
+<br />
+Increase the Baking Powder to 2 teaspoons<br />
+Add 1/2 teaspoon of cream of tartar<br />
+<br />
+Do use 1 1/2 cups of buttermilk<br />
+<br />
+Add 2 Tablespoons of Real Sour Cream. Do Not use low/non fat versions<br />
+Instead of the butter use 3 Tablesppons of vegetable oil<br />
+<br />
+I always have all my dry ingredients in one larger bowl and mix all the wet ingreients in another bowl thoroughly then pour all at once into the dry, then blend well and let sit about 3 minutes. The batter will kind of fluff and get a touch airy, don't stir it down.  Just ladle out the batter on your griddle and cook as usual.<br />
+<br />
+These pancakes properly made are fluffy and light with a wonderful flavor.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 18, 2008 at 10:21 AM, toshiro (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">Things I found while making pancakes using this recipe (about 20 iterations so far, no precise notes, I have to admit, much to my shame):<br />
+<br />
+I use less milk and more flour (200g flour, 0.33l milk, last step in my iteration, worked out pretty well so far), but very large eggs (53g+). If I use 190g flour, 0.355l milk, the batter gets a bit too runny and produces too large pancakes for my taste. I also use twice as much baking powder (the little envelopes over here hold exactly twice as much, and I'm somewhat loathe to leave them open, since I suspect them of reacting with the water in the surrounding air).<br />
+<br />
+I usually use powdered sugar or, if unavailable, I dissolve the sugar in the milk, together with the salt, to achieve a more even distribution.<br />
+<br />
+I add the melted butter last (on the danger of overmixing the batter), since it hardens and does not mix as well if I put it into the milk/egg mix directly, which usually come straight from the fridge and has lower heat than the batter without the butter.<br />
+<br />
+I use very high heat, which does not allow the pancakes to cook through; but I leave the pancakes in the oven at 120°C for a bit, on a plate. The top pancake dries out a bit, but the ones below cook through nicely and have added fluff.<br />
+<br />
+White flour is better than whole-grain flour, since the latter produces overly moist pancakes that take too long to cook through. Or maybe I added too many blueberries.<br />
+<br />
+Personally, I prefer blueberries the most as filling, since they have a consistency very similar to the pancake body, especially if frozen and thawed (the cell walls are already broken by the ice crystals).<br />
+<br />
+/rant</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On January 18, 2009 at 08:03 PM, hopensmiles (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Delicious pancakes</span><br /></div>
+					<div class="commentbody">Just made those blueberry pancakes and they came out delicious. Thanks!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On January 29, 2009 at 12:55 PM, neeki (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">if you're having problems with the blueberries or other fillings burning or sticking, then pour a circle of batter first, immediately put the fillings in, then cover lightly with some more batter. i've done this with bananas and cinnamon apples, and it creates a nice little pocket of flavour in the pancake.  the extra bit of batter protects the fillings really nicely.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On February 25, 2009 at 09:20 PM, Majesty said...</div>
+					<div class="commentsubject">Subject: <span>My first Amerian pancakes</span><br /></div>
+					<div class="commentbody">COOL! I finally, for the first time in my life, made the American pancakes that I have eaten so often in the US and Perú. With the variation of putting a tablespoon of vinegar through the milk, less sugar (which I slightly regret), whisked egg-whites and sliced apple. <br />
+When you're used, like I am, to making the normal Dutch pancakes, it's psychologically weird to this time nót whisk it well, but just let the batter be lumpy. I have to admit though that the resulting pancakes have no lumps at all. It makes about 6 pancakes with a diameter of about 14 centimeters.<br />
+Of course I'm a day to late making them: yesterday was Shrove Tuesday (Pancake Day), today is Ash Wednesday. <br />
+Next time I want to make it with ginger. Does someone know if that involve real ginger lumps, or just the ginger syrup?<br />
+<br />
+I do have to admit though that Dutch pancakes are slightly more practical when you want to combine sweet and savoury. There is nothing better than a Dutch pancake with cheese (Gouda of course) or bacon.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On March 13, 2009 at 04:26 PM, neeki (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">hi, another way of storing these in the freezer is to use one large sandwich bag that fits all, or half, the batch, and placing cut up pieces of baking (parchment) paper to put between them.  it saves a lot of little sandwich bags, and you can just save used parchment paper from when you bake cookies to use as pancake liners.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On March 28, 2009 at 05:21 PM, jenis (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Awesome pancakes</span><br /></div>
+					<div class="commentbody">LOVED these pancakes.  Forgot what good pancakes tasted like ;)</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On July 07, 2009 at 07:06 AM, ddmcc said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">I got tired of searching for buttermilk for pancakes, but I love that tang. Even after the effort and success, the only time I used buttermilk was to make a few pancakes. The remainder would sit around until I have to dump it out.<br />
+<br />
+So instead of a cup of buttermilk, I sub with 1/2 cup half &amp; half, half cup of sour cream. I have many more uses for those two ingredients.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 07, 2009 at 07:14 AM, an anonymous reader said...</div>
+					<div class="commentsubject">Subject: <span>using frozen blueberries</span><br /></div>
+					<div class="commentbody">When using frozen blueberries in pancakes it is better to thaw them first, contrary to what a previous poster wrote. Depending on the concentration of blueberries in the pancake, frozen ones can sometimes result in undercooked pockets of batter in the middle, even if the pancake looks golden and done. I usually thaw mine in the microwave and then drain them well before using.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On September 17, 2009 at 11:28 AM, Anita (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Perfection!</span><br /></div>
+					<div class="commentbody">This is a fantastic recipe - I have been using it for years and it does truly make some of the best pancakes I have ever tasted.<br />
+<br />
+Just ensure you seperate the eggs and make sure the whites are ultra glossy before adding them to the mixture bit by bit at the end. <br />
+<br />
+Thumbs up! :D</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On February 09, 2010 at 11:53 PM, Scott Brown (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Organic, high protein, survival brancakes</span><br /></div>
+					<div class="commentbody">Just for grins, I've been toying with survival recipes...stuff you can make mainly out of storable basics like dried goods hoarded for survival over the long haul.  I've focused upon ingredients with high protein (legume/grain complementarity), omega-3s (chia &amp; flax), minerals (molasses &amp; mined sea salt), and dried fruit (raisins, cherries, apples).  <br />
+<br />
+I used Mr. Chu's excellent basic recipe, here, to see what I could manage assuming I was stuck with only a frying pan and a cookfire (and a farmer-neighbor's egg supply, but you could probably substitute for egg with a little more milk/water), and also assuming I was physically dependent upon the highest quality balanced nutrition obtainable from a pancake under rigorous survival circumstances.  My personal survival stash obviously spares little room for sugary breakfast treats, bleached flour and other empty calories.<br />
+<br />
+Raisin/cherry/apple Protein Brancakes<br />
+				<br />
+Premix:<br />
+	<br />
+Lentil flour cups....................1/3	<br />
+Multigrain flour cups..............2/3	<br />
+Oat bran cups.......................1/4<br />
+Chia seeds cups....................1/4<br />
+Mined sea salt tsp..................3/4<br />
+Baking powder tsp. rounded....3     	<br />
+Ginger tsp. rounded................1<br />
+Cinnamon tsp. rounded...........1<br />
+<br />
+Have on hand as needed:<br />
+	<br />
+Molasses tbsp.............3<br />
+Olive oil tbsp..............3<br />
+Powdered goat milk....1  1/2 (cups liquid)<br />
+Eggs..........................2<br />
+Raisins (or etc.) cups......1/2<br />
+<br />
+The quantities are mainly based on Mr. Chu's basic recipe, except the baking powder--I'm tinkering upward with that, owing to the heaviness of the other ingredients.<br />
+<br />
+The lentil/grain ratio here gives a good 1:2 digestible protein mix, and a surprisingly un-beany taste.  I cheated and used my electric coffee grinder to make the lentil flour, but this can also be done with a mortar and pestle.  You can use the chia seeds whole, or grind them into flour (but use flour before the omega-3 oils turn rancid).  The multigrain flour can be a mix of just about anything from wheat to masa (mine had quinoa and oats in it, as well).  All ingredients are organic where possible.<br />
+<br />
+Result?  Assuredly not what my grandmother used to make, but surprisingly edible (and filling).  I've read many of the comments here, and plan to see if use of some of them help make these hi-pro healthfood pancakes even better.  (For you Tolkien fans, no, this stuff is not <i>lembas</i>, but it certainly makes for a good, sustaining trail bread.)</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On February 10, 2010 at 12:09 AM, Scott Brown (guest) said...</div>
+					<div class="commentsubject">Subject: <span>High Protein Pancakes CORRECTION!</span><br /></div>
+					<div class="commentbody">Where it says 1 teaspoon each of cinnamon and ginger...sorry, THAT SHOULD READ <i>1/2 tsp</i>.<br />
+<br />
+These are, of course, optional, but there are actually nutritional benefits to be gained from using either or both.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On February 15, 2010 at 01:38 AM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">Pancake batter is too thin. Came out more like crepes. Very little flavor to these pancakes.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On June 06, 2010 at 02:28 PM, Jia (guest) said...</div>
+					<div class="commentsubject">Subject: <span>just made the recipe</span><br /></div>
+					<div class="commentbody">OK so I just devoured TWO of these pancakes but changed the recipe a little bit:[b:f4c406ebef]<br />
+1.5 cups of skim milk<br />
+1 Tbsp. of sun crystals sugar + (2 regular)<br />
+2 egg whites 1/2 cup of unbleached flour (something organic)[/b:f4c406ebef]<br />
+<br />
+And after I cooked them they felt like heaven in your mouth I was soooo surprised... thank you sooo much for the recipe...i have batter for days now  :) now to go work off the lbs I just added to my life lol</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 06, 2010 at 08:32 AM, McViking (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Breakfast is important</span><br /></div>
+					<div class="commentbody">When home, I would always make this and other simple nutritious breakfasts in 20 minutes or less...<br />
+Pancakes...Waffles...Crepes...Bacon, Hash-browns, Eggs...Hash &amp; Eggs...Chorizo &amp; Eggs...Vegetable Omelets...and Oatmeal, Cream of Wheat, and Cold Cereal sometimes too...<br />
+then off to school for Regan, Kelly and Miles, then wake up Mom.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On January 01, 2011 at 01:26 AM, joni (guest) said...</div>
+					<div class="commentsubject">Subject: <span>pancakes and other recipes</span><br /></div>
+					<div class="commentbody">i just found this website.  i love it.  i suffered head trauma a few years ago and forgot everything i knew about cooking.  i used to have recipes i had tried and loved, and perfected.  this explains everything properly, and has excellent recipes!!  thank you :)</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On February 12, 2011 at 03:12 PM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">It would be nice if this recipe included the yielding amount. That is a VERY important part to ANY recipe, considering that one person may only be cooking for a single household or a household of two, where-as another, like myself, is cooking for a house of five, and it is very inconvenient to cook out a recipe only to find I have to make an entirely separate batch because the original recipe didn't yield enough.</div>
+					<hr size="1" noshade />
+				
+		<div class="commentlink">
+			<a href="/forums/posting.php?mode=reply&t=42" title="Comments are managed in the Cooking For Engineers Forums">Post a comment on <i>Basic Pancakes</i></a>
+		</div>
+	</div>
+	
+</div>
+	
+  
+	<div class="spacer3"></div>
+	
+<!-- Google DFP Article_Footer_728x90-->
+<center>
+<div id='dfp_gpt_4' style='width:728px; height:90px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('dfp_gpt_4'); });
+</script>
+</div>
+</center>
+
+	<div class="spacer3"></div>
+
+
+		</div>
+		
+		
+			
+<table class="fl_table" cellspacing="2" cellpadding="0" border="0">
+	<tr>
+		<td width="16%">
+			<a href="/article/138/About-Cooking-For-Engineers" title="About Cooking For Engineers">About CfE</a>
+		</td>
+		<td width="17%">
+			<a href="/article/139/Contact-Cooking-For-Engineers" title="Contact Cooking For Engineers">Contact</a>
+		</td>
+		<td width="17%">
+			<a href="/article/190/User-Agreement" title="User Agreement">User Agreement</a>
+		</td>
+		<td width="16%">
+			<a href="/article/140/Frequently-Asked-Questions" title="Frequently Asked Questions">FAQ's</a>
+		</td>
+		<td width="17%">
+			<a href="/article/141/In-the-Press" title="Cooking For Engineers in the Press">In the Press</a>
+		</td>
+		<td width="17%">
+			<a href="/article/191/Article-Submission-Program" title="Article Submission Program">Write for CfE</a>
+		</td>
+	</tr>
+</table>
+			
+		
+		<div id="footer">
+	
+  <center><span style="font-size: 85%; line-height: 110%;">All content published by CFE Enterprises, Inc. under license with copyright holders<br>Tabular Recipe Notation Patent Pending (Michael Chu)</span></center>
+
+	<center><a href="/atom.xml">Syndicate</a> <a href="/atom.xml"><img src="/pics/xml.gif" alt="(XML)" style="vertical-align: middle;" border="0" /></a></center>
+
+	
+
+	
+
+	
+	
+	  <!-- Google Analytics -->
+	<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+	</script>
+	<script type="text/javascript">
+	_uacct = "UA-254248-1";
+	urchinTracker();
+	</script>
+
+		
+	<script type="text/javascript">stLight.options({publisher: "b3ed4fb7-bc1d-41a0-b780-15d3cf6b7561"});</script>
+<script>
+var options={ "publisher": "b3ed4fb7-bc1d-41a0-b780-15d3cf6b7561", "position": "left", "ad": { "visible": false, "openDelay": 5, "closeDelay": 0}, "chicklets": { "items": ["facebook", "pinterest", "twitter", "googleplus", "stumbleupon", "email"]}};
+var st_hover_widget = new sharethis.widgets.hoverbuttons(options);
+</script>
+ </div>
+		
+	</body>
+</html>

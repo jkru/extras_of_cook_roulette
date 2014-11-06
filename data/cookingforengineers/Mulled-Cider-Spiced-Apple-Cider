@@ -1,0 +1,936 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+	<head>
+		<title>Mulled Cider (Spiced Apple Cider) - Recipe File - Cooking For Engineers</title>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="description" content="Step by step recipe instructions for mulled cider (spiced apple cider) complete with photographs and reader comments and discussion" />
+		<meta name="keywords" content="cooking,recipes,techniques,photos,discussion,mulled cider (spiced apple cider)" />
+		
+		
+		<link href="/stylesheets/style.css?1381092548" media="screen" rel="Stylesheet" type="text/css" /><link href="/stylesheets/frontpage.css?1204359954" media="screen" rel="Stylesheet" type="text/css" />
+		
+		
+		
+		<script src="/javascripts/prototype.js?1204375576" type="text/javascript"></script><script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript" src="http://s.sharethis.com/loader.js"></script>
+
+		
+<script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + 
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
+
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+
+googletag.defineSlot('/1057967/Article_160x600', [160, 600], 'dfp_gpt_1').addService(googletag.pubads());
+
+googletag.defineSlot('/1057967/Article_300x250', [300, 250], 'dfp_gpt_2').addService(googletag.pubads());
+
+googletag.defineSlot('/1057967/Article_728x90', [728, 90], 'dfp_gpt_3').addService(googletag.pubads());
+
+googletag.defineSlot('/1057967/Article_Footer_728x90', [728, 90], 'dfp_gpt_4').addService(googletag.pubads());
+
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+});
+</script>
+
+		<link href="http://www.cookingforengineers.com/atom.xml" rel="alternate" title="Atom 1.0 Feed" type="application/atom+xml" />
+		
+		<link rel="shortcut icon" href="http://www.cookingforengineers.com/favicon.ico" />
+	</head>
+	<body>
+		
+		
+		
+			<div class="navbar">
+	<div style="float:left">
+		<div class="sitetitle"><a href="/">Cooking For Engineers<span class="trademark">&reg;</span></a></div>
+		<div class="subtitle">Have an analytical mind? Like to cook? This is the site to read!</div>
+	</div>
+	<div style="float:right; margin: 15px 8px 0 0">
+		<form method="get" action="/searchform" style="margin: 0pt; display: inline;">
+		  <input style="margin: 0pt 0pt 2px; font-size: 90%;" name="terms" size="25" maxlength="255" value="" type="text">
+		  <input style="margin: 0pt 0pt 2px; font-size: 90%;" name="search" value="Search" type="submit">
+	  </form>
+	  <br>
+	  <!-- Google Search -->
+	  <form target="_blank" action="http://www.google.com/search" style="margin: 0pt; display: inline;">
+		  <input style="font-size: 90%;" size="24" maxlength="255" value="half cup in milliliters" name="q" type="text">
+		  <input style="font-size: 90%;" name="sa" value="Convert" type="submit">
+		</form>
+	</div>	
+	<div class="clear"></div>
+	<table class="nav" cellpadding="0" cellspacing="1">
+		<tr><td width="11%" id="categorytd_Books"><a href="#" onClick="showcat('Books');return false">Books</a></td>
+			<td width="11%" id="categorytd_CookingTests"><a href="#" onClick="showcat('CookingTests');return false">Cooking&nbsp;Tests</a></td>
+			<td width="11%" id="categorytd_DiningOut"><a href="#" onClick="showcat('DiningOut');return false">Dining&nbsp;Out</a></td>
+			<td width="11%" id="categorytd_EquipmentGear"><a href="#" onClick="showcat('EquipmentGear');return false">Equipment&nbsp;&amp;&nbsp;Gear</a></td>
+			<td width="11%" id="categorytd_KitchenNotes"><a href="#" onClick="showcat('KitchenNotes');return false">Kitchen&nbsp;Notes</a></td>
+			<td width="11%" id="categorytd_OffTopic"><a href="#" onClick="showcat('OffTopic');return false">Off&nbsp;Topic</a></td>
+			<td width="11%" id="categorytd_RecipeFile"><a href="#" onClick="showcat('RecipeFile');return false">Recipe&nbsp;File</a></td>
+			<td width="11%" id="categorytd_SousVide"><a href="#" onClick="showcat('SousVide');return false">Sous&nbsp;Vide</a></td>
+			<td width="12%" id="categorytd_TestRecipes"><a href="#" onClick="showcat('TestRecipes');return false">Test&nbsp;Recipes</a></td>
+			</tr>
+	</table>
+	<script type="text/javascript">
+//<![CDATA[
+
+	function lb(id)
+	{
+		document.getElementById(id).style.border='1px solid #FFFF00';
+	}
+	function db(id)
+	{
+		document.getElementById(id).style.border='1px solid #99FF99';
+	}
+	function showcat(id)
+	{
+		var curdisplay = document.getElementById('navcat_'+id).style.display;
+		document.getElementById('navcat_Books').style.display='none';
+document.getElementById('navcat_CookingTests').style.display='none';
+document.getElementById('navcat_DiningOut').style.display='none';
+document.getElementById('navcat_EquipmentGear').style.display='none';
+document.getElementById('navcat_KitchenNotes').style.display='none';
+document.getElementById('navcat_OffTopic').style.display='none';
+document.getElementById('navcat_RecipeFile').style.display='none';
+document.getElementById('navcat_SousVide').style.display='none';
+document.getElementById('navcat_TestRecipes').style.display='none';
+
+		document.getElementById('categorytd_Books').style.border='1px solid #99FF99';
+document.getElementById('categorytd_Books').style.backgroundColor='transparent';
+document.getElementById('categorytd_CookingTests').style.border='1px solid #99FF99';
+document.getElementById('categorytd_CookingTests').style.backgroundColor='transparent';
+document.getElementById('categorytd_DiningOut').style.border='1px solid #99FF99';
+document.getElementById('categorytd_DiningOut').style.backgroundColor='transparent';
+document.getElementById('categorytd_EquipmentGear').style.border='1px solid #99FF99';
+document.getElementById('categorytd_EquipmentGear').style.backgroundColor='transparent';
+document.getElementById('categorytd_KitchenNotes').style.border='1px solid #99FF99';
+document.getElementById('categorytd_KitchenNotes').style.backgroundColor='transparent';
+document.getElementById('categorytd_OffTopic').style.border='1px solid #99FF99';
+document.getElementById('categorytd_OffTopic').style.backgroundColor='transparent';
+document.getElementById('categorytd_RecipeFile').style.border='1px solid #99FF99';
+document.getElementById('categorytd_RecipeFile').style.backgroundColor='transparent';
+document.getElementById('categorytd_SousVide').style.border='1px solid #99FF99';
+document.getElementById('categorytd_SousVide').style.backgroundColor='transparent';
+document.getElementById('categorytd_TestRecipes').style.border='1px solid #99FF99';
+document.getElementById('categorytd_TestRecipes').style.backgroundColor='transparent';
+
+		if (curdisplay != 'block')
+		{
+			document.getElementById('categorytd_'+id).style.border='1px solid #9999FF';
+			document.getElementById('categorytd_'+id).style.backgroundColor='#000060';
+			document.getElementById('navcat_'+id).style.display='block';
+		}
+		else
+		{
+			document.getElementById('navcat_'+id).style.display='none';
+		}
+	}
+	
+//]]>
+</script>
+	<div id="navcat_Books" style="display:none"><table width="100%" class="navlinks" cellpadding="0" cellspacing="1"><tr><td width="25%" id="nl248" onclick="window.location='/article/248/Everybody-Eats-Lunch-by-Cricket-Azima'" onMouseOver="lb('nl248')" onMouseOut="db('nl248')" ><a href="/article/248/Everybody-Eats-Lunch-by-Cricket-Azima" title="Books: Everybody Eats Lunch by Cricket Azima">Everybody Eats Lunch by Cricket Azima</a></td><td width="25%" id="nl229" onclick="window.location='/article/229/Joy-of-Cooking-75th-Anniversary-Edition-2006'" onMouseOver="lb('nl229')" onMouseOut="db('nl229')" ><a href="/article/229/Joy-of-Cooking-75th-Anniversary-Edition-2006" title="Books: Joy of Cooking (75th Anniversary Edition; 2006)">Joy of Cooking (75th Anniversary Edition; 2006)</a></td><td width="25%" id="nl307" onclick="window.location='/article/307/Ten-Great-Gifts-for-Cooking-For-Engineers-Fans'" onMouseOver="lb('nl307')" onMouseOut="db('nl307')" ><a href="/article/307/Ten-Great-Gifts-for-Cooking-For-Engineers-Fans" title="Books: Ten Great Gifts for Cooking For Engineers' Fans">Ten Great Gifts for Cooking For Engineers' Fans</a></td><td width="25%" id="nl241" onclick="window.location='/article/241/The-Story-of-Tea-by-Mary-Lou-and-Robert-Heiss'" onMouseOver="lb('nl241')" onMouseOut="db('nl241')" ><a href="/article/241/The-Story-of-Tea-by-Mary-Lou-and-Robert-Heiss" title="Books: The Story of Tea by Mary Lou and Robert Heiss">The Story of Tea by Mary Lou and Robert Heiss</a></td></tr><tr><td id="nl270" onclick="window.location='/article/270/Fun-Food-Facts-by-Mike-Bellino'" onMouseOver="lb('nl270')" onMouseOut="db('nl270')" ><a href="/article/270/Fun-Food-Facts-by-Mike-Bellino" title="Books: Fun Food Facts by Mike Bellino">Fun Food Facts by Mike Bellino</a></td><td id="nl242" onclick="window.location='/article/242/Kitchen-Mysteries-by-Herve-This'" onMouseOver="lb('nl242')" onMouseOut="db('nl242')" ><a href="/article/242/Kitchen-Mysteries-by-Herve-This" title="Books: Kitchen Mysteries by Herve This">Kitchen Mysteries by Herve This</a></td><td id="nl254" onclick="window.location='/article/254/The-Science-of-Good-Food'" onMouseOver="lb('nl254')" onMouseOut="db('nl254')" ><a href="/article/254/The-Science-of-Good-Food" title="Books: The Science of Good Food">The Science of Good Food</a></td><td id="nl220" onclick="window.location='/article/220/Toast-by-Nigel-Slater'" onMouseOver="lb('nl220')" onMouseOut="db('nl220')" ><a href="/article/220/Toast-by-Nigel-Slater" title="Books: Toast by Nigel Slater">Toast by Nigel Slater</a></td></tr><tr><td id="nl201" onclick="window.location='/article/201/Heat-by-Bill-Buford'" onMouseOver="lb('nl201')" onMouseOut="db('nl201')" ><a href="/article/201/Heat-by-Bill-Buford" title="Books: Heat by Bill Buford">Heat by Bill Buford</a></td><td id="nl333" onclick="window.location='/article/333/Modernist-Cuisine-at-Home-on-Inkling'" onMouseOver="lb('nl333')" onMouseOut="db('nl333')" ><a href="/article/333/Modernist-Cuisine-at-Home-on-Inkling" title="Books: Modernist Cuisine at Home on Inkling">Modernist Cuisine at Home on Inkling</a></td><td id="nl292" onclick="window.location='/article/292/The-Sorcerers-Apprentices-by-Lisa-Abend'" onMouseOver="lb('nl292')" onMouseOut="db('nl292')" ><a href="/article/292/The-Sorcerers-Apprentices-by-Lisa-Abend" title="Books: The Sorcerer's Apprentices by Lisa Abend">The Sorcerer's Apprentices by Lisa Abend</a></td><td id="nl233" onclick="window.location='/article/233/Vegetables-The-Culinary-Institute-of-America'" onMouseOver="lb('nl233')" onMouseOut="db('nl233')" ><a href="/article/233/Vegetables-The-Culinary-Institute-of-America" title="Books: Vegetables (The Culinary Institute of America)">Vegetables (The Culinary Institute of America)</a></td></tr></table></div>
+	<div id="navcat_CookingTests" style="display:none"><table width="100%" class="navlinks" cellpadding="0" cellspacing="1"><tr><td width="25%" id="nl3" onclick="window.location='/article/3/Bacon-Part-I'" onMouseOver="lb('nl3')" onMouseOut="db('nl3')" ><a href="/article/3/Bacon-Part-I" title="Cooking Tests: Bacon (Part I)">Bacon (Part I)</a></td><td width="25%" id="nl171" onclick="window.location='/article/171/Beer-Can-Chicken'" onMouseOver="lb('nl171')" onMouseOut="db('nl171')" ><a href="/article/171/Beer-Can-Chicken" title="Cooking Tests: Beer Can Chicken">Beer Can Chicken</a></td><td width="25%" id="nl173" onclick="window.location='/article/173/HFCS-Free-Cream-Sodas'" onMouseOver="lb('nl173')" onMouseOut="db('nl173')" ><a href="/article/173/HFCS-Free-Cream-Sodas" title="Cooking Tests: HFCS-Free Cream Sodas">HFCS-Free Cream Sodas</a></td><td width="25%" id="nl249" onclick="window.location='/article/249/Soft-Boiled-Eggs'" onMouseOver="lb('nl249')" onMouseOut="db('nl249')" ><a href="/article/249/Soft-Boiled-Eggs" title="Cooking Tests: Soft Boiled Eggs">Soft Boiled Eggs</a></td></tr><tr><td id="nl110" onclick="window.location='/article/110/Bacon-Part-II'" onMouseOver="lb('nl110')" onMouseOut="db('nl110')" ><a href="/article/110/Bacon-Part-II" title="Cooking Tests: Bacon (Part II)">Bacon (Part II)</a></td><td id="nl5" onclick="window.location='/article/5/Eggplant-Taste-Test'" onMouseOver="lb('nl5')" onMouseOut="db('nl5')" ><a href="/article/5/Eggplant-Taste-Test" title="Cooking Tests: Eggplant Taste Test">Eggplant Taste Test</a></td></tr></table></div>
+	<div id="navcat_DiningOut" style="display:none"><table width="100%" class="navlinks" cellpadding="0" cellspacing="1"><tr><td width="25%" id="nl202" onclick="window.location='/article/202/Ad-Hoc-Yountville-California'" onMouseOver="lb('nl202')" onMouseOut="db('nl202')" ><a href="/article/202/Ad-Hoc-Yountville-California" title="Dining Out: Ad Hoc (Yountville, California)">Ad Hoc (Yountville, California)</a></td><td width="25%" id="nl299" onclick="window.location='/article/299/Chicago-2011-Part-4-Gibsons-Bar-Steakhouse'" onMouseOver="lb('nl299')" onMouseOut="db('nl299')" ><a href="/article/299/Chicago-2011-Part-4-Gibsons-Bar-Steakhouse" title="Dining Out: Chicago 2011 Part 4 - Gibson's Bar &amp; Steakhouse">Chicago 2011 Part 4 - Gibson's Bar &amp; Steakhouse</a></td><td width="25%" id="nl330" onclick="window.location='/article/330/Cook-Taste-Barcelona-Spain'" onMouseOver="lb('nl330')" onMouseOut="db('nl330')" ><a href="/article/330/Cook-Taste-Barcelona-Spain" title="Dining Out: Cook &amp; Taste (Barcelona, Spain)">Cook &amp; Taste (Barcelona, Spain)</a></td><td width="25%" id="nl329" onclick="window.location='/article/329/Pakta-Barcelona-Spain'" onMouseOver="lb('nl329')" onMouseOut="db('nl329')" ><a href="/article/329/Pakta-Barcelona-Spain" title="Dining Out: Pakta (Barcelona, Spain)">Pakta (Barcelona, Spain)</a></td></tr><tr><td id="nl88" onclick="window.location='/article/88/Ahwahnee-Hotel-Kitchen-Yosemite-California'" onMouseOver="lb('nl88')" onMouseOut="db('nl88')" ><a href="/article/88/Ahwahnee-Hotel-Kitchen-Yosemite-California" title="Dining Out: Ahwahnee Hotel Kitchen (Yosemite, California)">Ahwahnee Hotel Kitchen (Yosemite, California)</a></td><td id="nl300" onclick="window.location='/article/300/Chicago-2011-Part-5-Frontera-Grill-XOCO'" onMouseOver="lb('nl300')" onMouseOut="db('nl300')" ><a href="/article/300/Chicago-2011-Part-5-Frontera-Grill-XOCO" title="Dining Out: Chicago 2011 Part 5 - Frontera Grill, XOCO">Chicago 2011 Part 5 - Frontera Grill, XOCO</a></td><td id="nl253" onclick="window.location='/article/253/Elements-Napa-California'" onMouseOver="lb('nl253')" onMouseOut="db('nl253')" ><a href="/article/253/Elements-Napa-California" title="Dining Out: Elements (Napa, California)">Elements (Napa, California)</a></td><td id="nl260" onclick="window.location='/article/260/Parcel-104-Santa-Clara-California'" onMouseOver="lb('nl260')" onMouseOut="db('nl260')" ><a href="/article/260/Parcel-104-Santa-Clara-California" title="Dining Out: Parcel 104 (Santa Clara, California)">Parcel 104 (Santa Clara, California)</a></td></tr><tr><td id="nl311" onclick="window.location='/article/311/Blue-Bell-Creamery-Factory-Tour'" onMouseOver="lb('nl311')" onMouseOut="db('nl311')" ><a href="/article/311/Blue-Bell-Creamery-Factory-Tour" title="Dining Out: Blue Bell Creamery Factory Tour">Blue Bell Creamery Factory Tour</a></td><td id="nl301" onclick="window.location='/article/301/Chicago-2011-Part-6-Noodles-by-Takashi-Yagihashi-Frontera-Fresco-Marc-Burger'" onMouseOver="lb('nl301')" onMouseOut="db('nl301')" ><a href="/article/301/Chicago-2011-Part-6-Noodles-by-Takashi-Yagihashi-Frontera-Fresco-Marc-Burger" title="Dining Out: Chicago 2011 Part 6 - Noodles by Takashi Yagihashi, Frontera Fresco, Marc Burger">Chicago 2011 Part 6 - Noodles by Takashi Yagihashi, Frontera Fresco, Marc Burger</a></td><td id="nl316" onclick="window.location='/article/316/Georges-San-Francisco-California'" onMouseOver="lb('nl316')" onMouseOut="db('nl316')" ><a href="/article/316/Georges-San-Francisco-California" title="Dining Out: Georges (San Francisco, California)">Georges (San Francisco, California)</a></td><td id="nl281" onclick="window.location='/article/281/Per-Se-New-York-New-York'" onMouseOver="lb('nl281')" onMouseOut="db('nl281')" ><a href="/article/281/Per-Se-New-York-New-York" title="Dining Out: Per Se (New York, New York)">Per Se (New York, New York)</a></td></tr><tr><td id="nl91" onclick="window.location='/article/91/Cafe-Terigo-Park-City-Utah'" onMouseOver="lb('nl91')" onMouseOut="db('nl91')" ><a href="/article/91/Cafe-Terigo-Park-City-Utah" title="Dining Out: Cafe Terigo (Park City, Utah)">Cafe Terigo (Park City, Utah)</a></td><td id="nl302" onclick="window.location='/article/302/Chicago-2011-Part-7-Alinea'" onMouseOver="lb('nl302')" onMouseOut="db('nl302')" ><a href="/article/302/Chicago-2011-Part-7-Alinea" title="Dining Out: Chicago 2011 Part 7 - Alinea">Chicago 2011 Part 7 - Alinea</a></td><td id="nl240" onclick="window.location='/article/240/Hard-Knox-Cafe-San-Francisco-California'" onMouseOver="lb('nl240')" onMouseOut="db('nl240')" ><a href="/article/240/Hard-Knox-Cafe-San-Francisco-California" title="Dining Out: Hard Knox Cafe (San Francisco, California)">Hard Knox Cafe (San Francisco, California)</a></td><td id="nl324" onclick="window.location='/article/324/Ramen-in-Austin-Michi-Ramen-and-Ramen-Tatsuya'" onMouseOver="lb('nl324')" onMouseOut="db('nl324')" ><a href="/article/324/Ramen-in-Austin-Michi-Ramen-and-Ramen-Tatsuya" title="Dining Out: Ramen in Austin (Michi Ramen and Ramen Tatsuya)">Ramen in Austin (Michi Ramen and Ramen Tatsuya)</a></td></tr><tr><td id="nl231" onclick="window.location='/article/231/Chads-Fish-Chips-Willits-California'" onMouseOver="lb('nl231')" onMouseOut="db('nl231')" ><a href="/article/231/Chads-Fish-Chips-Willits-California" title="Dining Out: Chad's Fish &amp; Chips (Willits, California)">Chad's Fish &amp; Chips (Willits, California)</a></td><td id="nl303" onclick="window.location='/article/303/Chicago-2011-Part-8-Vienna-Beef-Factory'" onMouseOver="lb('nl303')" onMouseOut="db('nl303')" ><a href="/article/303/Chicago-2011-Part-8-Vienna-Beef-Factory" title="Dining Out: Chicago 2011 Part 8 - Vienna Beef Factory">Chicago 2011 Part 8 - Vienna Beef Factory</a></td><td id="nl247" onclick="window.location='/article/247/Jai-Yun-San-Francisco'" onMouseOver="lb('nl247')" onMouseOut="db('nl247')" ><a href="/article/247/Jai-Yun-San-Francisco" title="Dining Out: Jai Yun (San Francisco)">Jai Yun (San Francisco)</a></td><td id="nl153" onclick="window.location='/article/153/Shadowbrook-Restaurant-Capitola-California'" onMouseOver="lb('nl153')" onMouseOut="db('nl153')" ><a href="/article/153/Shadowbrook-Restaurant-Capitola-California" title="Dining Out: Shadowbrook Restaurant (Capitola, California)">Shadowbrook Restaurant (Capitola, California)</a></td></tr><tr><td id="nl295" onclick="window.location='/article/295/Chicago-2011-Part-1a-Overview'" onMouseOver="lb('nl295')" onMouseOut="db('nl295')" ><a href="/article/295/Chicago-2011-Part-1a-Overview" title="Dining Out: Chicago 2011 Part 1a - Overview">Chicago 2011 Part 1a - Overview</a></td><td id="nl304" onclick="window.location='/article/304/Chicago-2011-Part-9-Girl-and-the-Goat'" onMouseOver="lb('nl304')" onMouseOut="db('nl304')" ><a href="/article/304/Chicago-2011-Part-9-Girl-and-the-Goat" title="Dining Out: Chicago 2011 Part 9 - Girl and the Goat">Chicago 2011 Part 9 - Girl and the Goat</a></td><td id="nl204" onclick="window.location='/article/204/Maverick-San-Francisco-California'" onMouseOver="lb('nl204')" onMouseOut="db('nl204')" ><a href="/article/204/Maverick-San-Francisco-California" title="Dining Out: Maverick (San Francisco, California)">Maverick (San Francisco, California)</a></td><td id="nl216" onclick="window.location='/article/216/Soul-Bar-Bistro-Auckland-New-Zealand'" onMouseOver="lb('nl216')" onMouseOut="db('nl216')" ><a href="/article/216/Soul-Bar-Bistro-Auckland-New-Zealand" title="Dining Out: Soul Bar &amp; Bistro (Auckland, New Zealand)">Soul Bar &amp; Bistro (Auckland, New Zealand)</a></td></tr><tr><td id="nl296" onclick="window.location='/article/296/Chicago-2011-Part-1b-Overview'" onMouseOver="lb('nl296')" onMouseOut="db('nl296')" ><a href="/article/296/Chicago-2011-Part-1b-Overview" title="Dining Out: Chicago 2011 Part 1b - Overview">Chicago 2011 Part 1b - Overview</a></td><td id="nl267" onclick="window.location='/article/267/Coi-San-Francisco-California'" onMouseOver="lb('nl267')" onMouseOut="db('nl267')" ><a href="/article/267/Coi-San-Francisco-California" title="Dining Out: Coi (San Francisco, California)">Coi (San Francisco, California)</a></td><td id="nl235" onclick="window.location='/article/235/Michelin-Rated-Restaurants-San-Francisco-2007'" onMouseOver="lb('nl235')" onMouseOut="db('nl235')" ><a href="/article/235/Michelin-Rated-Restaurants-San-Francisco-2007" title="Dining Out: Michelin Rated Restaurants (San Francisco 2007)">Michelin Rated Restaurants (San Francisco 2007)</a></td><td id="nl293" onclick="window.location='/article/293/The-Noble-Pig-Austin-Texas'" onMouseOver="lb('nl293')" onMouseOut="db('nl293')" ><a href="/article/293/The-Noble-Pig-Austin-Texas" title="Dining Out: The Noble Pig (Austin, Texas)">The Noble Pig (Austin, Texas)</a></td></tr><tr><td id="nl297" onclick="window.location='/article/297/Chicago-2011-Part-2-Shui-Wah-Santa-Anna-Bakery'" onMouseOver="lb('nl297')" onMouseOut="db('nl297')" ><a href="/article/297/Chicago-2011-Part-2-Shui-Wah-Santa-Anna-Bakery" title="Dining Out: Chicago 2011 Part 2 - Shui Wah, Santa Anna Bakery">Chicago 2011 Part 2 - Shui Wah, Santa Anna Bakery</a></td><td id="nl291" onclick="window.location='/article/291/Congress-Austin-Texas'" onMouseOver="lb('nl291')" onMouseOut="db('nl291')" ><a href="/article/291/Congress-Austin-Texas" title="Dining Out: Congress (Austin, Texas)">Congress (Austin, Texas)</a></td><td id="nl236" onclick="window.location='/article/236/Michelin-Rated-Restaurants-San-Francisco-2008'" onMouseOver="lb('nl236')" onMouseOut="db('nl236')" ><a href="/article/236/Michelin-Rated-Restaurants-San-Francisco-2008" title="Dining Out: Michelin Rated Restaurants (San Francisco 2008)">Michelin Rated Restaurants (San Francisco 2008)</a></td><td id="nl245" onclick="window.location='/article/245/Uchi-Austin-Texas'" onMouseOver="lb('nl245')" onMouseOut="db('nl245')" ><a href="/article/245/Uchi-Austin-Texas" title="Dining Out: Uchi (Austin, Texas)">Uchi (Austin, Texas)</a></td></tr><tr><td id="nl298" onclick="window.location='/article/298/Chicago-2011-Part-3-Pizzeria-Uno-Giordanos'" onMouseOver="lb('nl298')" onMouseOut="db('nl298')" ><a href="/article/298/Chicago-2011-Part-3-Pizzeria-Uno-Giordanos" title="Dining Out: Chicago 2011 Part 3 - Pizzeria Uno, Giordano's">Chicago 2011 Part 3 - Pizzeria Uno, Giordano's</a></td></tr></table></div>
+	<div id="navcat_EquipmentGear" style="display:none"><table width="100%" class="navlinks" cellpadding="0" cellspacing="1"><tr><td width="25%" id="nl319" onclick="window.location='/article/319/Anolon-Nouvelle-Copper-Stainless-Steel-3-qt-Covered-Saute-Pan'" onMouseOver="lb('nl319')" onMouseOut="db('nl319')" ><a href="/article/319/Anolon-Nouvelle-Copper-Stainless-Steel-3-qt-Covered-Saute-Pan" title="Equipment &amp; Gear: Anolon Nouvelle Copper Stainless Steel 3-qt Covered Saute Pan">Anolon Nouvelle Copper Stainless Steel 3-qt Covered Saute Pan</a></td><td width="25%" id="nl17" onclick="window.location='/article/17/Cutting-Boards'" onMouseOver="lb('nl17')" onMouseOut="db('nl17')" ><a href="/article/17/Cutting-Boards" title="Equipment &amp; Gear: Cutting Boards">Cutting Boards</a></td><td width="25%" id="nl95" onclick="window.location='/article/95/Kitchen-Thermometers'" onMouseOver="lb('nl95')" onMouseOut="db('nl95')" ><a href="/article/95/Kitchen-Thermometers" title="Equipment &amp; Gear: Kitchen Thermometers">Kitchen Thermometers</a></td><td width="25%" id="nl99" onclick="window.location='/article/99/Microwave-Safe-Containers'" onMouseOver="lb('nl99')" onMouseOut="db('nl99')" ><a href="/article/99/Microwave-Safe-Containers" title="Equipment &amp; Gear: Microwave Safe Containers">Microwave Safe Containers</a></td></tr><tr><td id="nl205" onclick="window.location='/article/205/Bakers-Edge'" onMouseOver="lb('nl205')" onMouseOut="db('nl205')" ><a href="/article/205/Bakers-Edge" title="Equipment &amp; Gear: Baker's Edge">Baker's Edge</a></td><td id="nl222" onclick="window.location='/article/222/Fathers-Day-Gift-Ideas'" onMouseOver="lb('nl222')" onMouseOut="db('nl222')" ><a href="/article/222/Fathers-Day-Gift-Ideas" title="Equipment &amp; Gear: Father's Day Gift Ideas">Father's Day Gift Ideas</a></td><td id="nl187" onclick="window.location='/article/187/Knife-and-Sharpening-Steel-Hardness'" onMouseOver="lb('nl187')" onMouseOut="db('nl187')" ><a href="/article/187/Knife-and-Sharpening-Steel-Hardness" title="Equipment &amp; Gear: Knife and Sharpening Steel Hardness">Knife and Sharpening Steel Hardness</a></td><td id="nl84" onclick="window.location='/article/84/NSF-Certification'" onMouseOver="lb('nl84')" onMouseOut="db('nl84')" ><a href="/article/84/NSF-Certification" title="Equipment &amp; Gear: NSF Certification">NSF Certification</a></td></tr><tr><td id="nl290" onclick="window.location='/article/290/Ceramic-Chefs-Knives-Rated'" onMouseOver="lb('nl290')" onMouseOut="db('nl290')" ><a href="/article/290/Ceramic-Chefs-Knives-Rated" title="Equipment &amp; Gear: Ceramic Chef's Knives Rated">Ceramic Chef's Knives Rated</a></td><td id="nl256" onclick="window.location='/article/256/GelPro-Mat'" onMouseOver="lb('nl256')" onMouseOut="db('nl256')" ><a href="/article/256/GelPro-Mat" title="Equipment &amp; Gear: GelPro Mat">GelPro Mat</a></td><td id="nl135" onclick="window.location='/article/135/Knife-Covers'" onMouseOver="lb('nl135')" onMouseOut="db('nl135')" ><a href="/article/135/Knife-Covers" title="Equipment &amp; Gear: Knife Covers">Knife Covers</a></td><td id="nl275" onclick="window.location='/article/275/Saber-Kitchen-Knives'" onMouseOver="lb('nl275')" onMouseOut="db('nl275')" ><a href="/article/275/Saber-Kitchen-Knives" title="Equipment &amp; Gear: Saber Kitchen Knives">Saber Kitchen Knives</a></td></tr><tr><td id="nl129" onclick="window.location='/article/129/Chefs-Knives-Rated'" onMouseOver="lb('nl129')" onMouseOut="db('nl129')" ><a href="/article/129/Chefs-Knives-Rated" title="Equipment &amp; Gear: Chef's Knives Rated">Chef's Knives Rated</a></td><td id="nl117" onclick="window.location='/article/117/Hefty-Serve-n-Store'" onMouseOver="lb('nl117')" onMouseOut="db('nl117')" ><a href="/article/117/Hefty-Serve-n-Store" title="Equipment &amp; Gear: Hefty Serve 'n Store">Hefty Serve 'n Store</a></td><td id="nl130" onclick="window.location='/article/130/Knife-Parts'" onMouseOver="lb('nl130')" onMouseOut="db('nl130')" ><a href="/article/130/Knife-Parts" title="Equipment &amp; Gear: Knife Parts">Knife Parts</a></td><td id="nl234" onclick="window.location='/article/234/Soda-Club-SodaStream'" onMouseOver="lb('nl234')" onMouseOut="db('nl234')" ><a href="/article/234/Soda-Club-SodaStream" title="Equipment &amp; Gear: Soda-Club (SodaStream)">Soda-Club (SodaStream)</a></td></tr><tr><td id="nl120" onclick="window.location='/article/120/Common-Materials-of-Cookware'" onMouseOver="lb('nl120')" onMouseOut="db('nl120')" ><a href="/article/120/Common-Materials-of-Cookware" title="Equipment &amp; Gear: Common Materials of Cookware">Common Materials of Cookware</a></td><td id="nl272" onclick="window.location='/article/272/Kapoosh-Knife-Block-not-recommended'" onMouseOver="lb('nl272')" onMouseOut="db('nl272')" ><a href="/article/272/Kapoosh-Knife-Block-not-recommended" title="Equipment &amp; Gear: Kapoosh Knife Block (not recommended)">Kapoosh Knife Block (not recommended)</a></td><td id="nl85" onclick="window.location='/article/85/Krups-Spice-Grinder'" onMouseOver="lb('nl85')" onMouseOut="db('nl85')" ><a href="/article/85/Krups-Spice-Grinder" title="Equipment &amp; Gear: Krups Spice Grinder">Krups Spice Grinder</a></td><td id="nl287" onclick="window.location='/article/287/Understanding-Blender-Specifications'" onMouseOver="lb('nl287')" onMouseOut="db('nl287')" ><a href="/article/287/Understanding-Blender-Specifications" title="Equipment &amp; Gear: Understanding Blender Specifications">Understanding Blender Specifications</a></td></tr><tr><td id="nl232" onclick="window.location='/article/232/Cooking-With-Aluminum'" onMouseOver="lb('nl232')" onMouseOut="db('nl232')" ><a href="/article/232/Cooking-With-Aluminum" title="Equipment &amp; Gear: Cooking With Aluminum">Cooking With Aluminum</a></td><td id="nl39" onclick="window.location='/article/39/Kitchen-Knives'" onMouseOver="lb('nl39')" onMouseOut="db('nl39')" ><a href="/article/39/Kitchen-Knives" title="Equipment &amp; Gear: Kitchen Knives">Kitchen Knives</a></td><td id="nl269" onclick="window.location='/article/269/Metrokane-Mighty-OJ-Not-recommended'" onMouseOver="lb('nl269')" onMouseOut="db('nl269')" ><a href="/article/269/Metrokane-Mighty-OJ-Not-recommended" title="Equipment &amp; Gear: Metrokane Mighty OJ (Not recommended)">Metrokane Mighty OJ (Not recommended)</a></td><td id="nl326" onclick="window.location='/article/326/Whats-In-Your-Non-Stick'" onMouseOver="lb('nl326')" onMouseOut="db('nl326')" ><a href="/article/326/Whats-In-Your-Non-Stick" title="Equipment &amp; Gear: What's In Your Non-Stick?">What's In Your Non-Stick?</a></td></tr><tr><td id="nl175" onclick="window.location='/article/175/CoolCover'" onMouseOver="lb('nl175')" onMouseOut="db('nl175')" ><a href="/article/175/CoolCover" title="Equipment &amp; Gear: CoolCover">CoolCover</a></td><td id="nl82" onclick="window.location='/article/82/Kitchen-Scales'" onMouseOver="lb('nl82')" onMouseOut="db('nl82')" ><a href="/article/82/Kitchen-Scales" title="Equipment &amp; Gear: Kitchen Scales">Kitchen Scales</a></td></tr></table></div>
+	<div id="navcat_KitchenNotes" style="display:none"><table width="100%" class="navlinks" cellpadding="0" cellspacing="1"><tr><td width="25%" id="nl90" onclick="window.location='/article/90/Additives'" onMouseOver="lb('nl90')" onMouseOut="db('nl90')" ><a href="/article/90/Additives" title="Kitchen Notes: Additives">Additives</a></td><td width="25%" id="nl131" onclick="window.location='/article/131/Clarified-Butter'" onMouseOver="lb('nl131')" onMouseOut="db('nl131')" ><a href="/article/131/Clarified-Butter" title="Kitchen Notes: Clarified Butter">Clarified Butter</a></td><td width="25%" id="nl51" onclick="window.location='/article/51/Glossary'" onMouseOver="lb('nl51')" onMouseOut="db('nl51')" ><a href="/article/51/Glossary" title="Kitchen Notes: Glossary">Glossary</a></td><td width="25%" id="nl40" onclick="window.location='/article/40/Saturated-Fats-Cholesterol-and-Heart-Disease'" onMouseOver="lb('nl40')" onMouseOut="db('nl40')" ><a href="/article/40/Saturated-Fats-Cholesterol-and-Heart-Disease" title="Kitchen Notes: Saturated Fats, Cholesterol, and Heart Disease">Saturated Fats, Cholesterol, and Heart Disease</a></td></tr><tr><td id="nl280" onclick="window.location='/article/280/Analyzing-a-Baking-Recipe'" onMouseOver="lb('nl280')" onMouseOut="db('nl280')" ><a href="/article/280/Analyzing-a-Baking-Recipe" title="Kitchen Notes: Analyzing a Baking Recipe">Analyzing a Baking Recipe</a></td><td id="nl198" onclick="window.location='/article/198/Clarified-Butter-II'" onMouseOver="lb('nl198')" onMouseOut="db('nl198')" ><a href="/article/198/Clarified-Butter-II" title="Kitchen Notes: Clarified Butter II">Clarified Butter II</a></td><td id="nl209" onclick="window.location='/article/209/Heat-Transfer-and-Browning-Foods'" onMouseOver="lb('nl209')" onMouseOut="db('nl209')" ><a href="/article/209/Heat-Transfer-and-Browning-Foods" title="Kitchen Notes: Heat Transfer and Browning Foods">Heat Transfer and Browning Foods</a></td><td id="nl78" onclick="window.location='/article/78/Scoville-Units'" onMouseOver="lb('nl78')" onMouseOut="db('nl78')" ><a href="/article/78/Scoville-Units" title="Kitchen Notes: Scoville Units">Scoville Units</a></td></tr><tr><td id="nl199" onclick="window.location='/article/199/Baguettes-Deconstructed'" onMouseOver="lb('nl199')" onMouseOut="db('nl199')" ><a href="/article/199/Baguettes-Deconstructed" title="Kitchen Notes: Baguettes Deconstructed">Baguettes Deconstructed</a></td><td id="nl184" onclick="window.location='/article/184/Curry'" onMouseOver="lb('nl184')" onMouseOut="db('nl184')" ><a href="/article/184/Curry" title="Kitchen Notes: Curry">Curry</a></td><td id="nl224" onclick="window.location='/article/224/Heat-Transfer-and-Cooking'" onMouseOver="lb('nl224')" onMouseOut="db('nl224')" ><a href="/article/224/Heat-Transfer-and-Cooking" title="Kitchen Notes: Heat Transfer and Cooking">Heat Transfer and Cooking</a></td><td id="nl50" onclick="window.location='/article/50/Smoke-Points-of-Various-Fats'" onMouseOver="lb('nl50')" onMouseOut="db('nl50')" ><a href="/article/50/Smoke-Points-of-Various-Fats" title="Kitchen Notes: Smoke Points of Various Fats">Smoke Points of Various Fats</a></td></tr><tr><td id="nl213" onclick="window.location='/article/213/Bakers-Yeast'" onMouseOver="lb('nl213')" onMouseOut="db('nl213')" ><a href="/article/213/Bakers-Yeast" title="Kitchen Notes: Baker's Yeast">Baker's Yeast</a></td><td id="nl97" onclick="window.location='/article/97/Cutting-Up-Chicken'" onMouseOver="lb('nl97')" onMouseOut="db('nl97')" ><a href="/article/97/Cutting-Up-Chicken" title="Kitchen Notes: Cutting Up Chicken">Cutting Up Chicken</a></td><td id="nl52" onclick="window.location='/article/52/Ingredient-Substitutions'" onMouseOver="lb('nl52')" onMouseOut="db('nl52')" ><a href="/article/52/Ingredient-Substitutions" title="Kitchen Notes: Ingredient Substitutions">Ingredient Substitutions</a></td><td id="nl155" onclick="window.location='/article/155/Tempering-Chocolate'" onMouseOver="lb('nl155')" onMouseOut="db('nl155')" ><a href="/article/155/Tempering-Chocolate" title="Kitchen Notes: Tempering Chocolate">Tempering Chocolate</a></td></tr><tr><td id="nl123" onclick="window.location='/article/123/Boning-Chicken-Breast'" onMouseOver="lb('nl123')" onMouseOut="db('nl123')" ><a href="/article/123/Boning-Chicken-Breast" title="Kitchen Notes: Boning Chicken Breast">Boning Chicken Breast</a></td><td id="nl211" onclick="window.location='/article/211/European-Designation-of-Quality-Labels'" onMouseOver="lb('nl211')" onMouseOut="db('nl211')" ><a href="/article/211/European-Designation-of-Quality-Labels" title="Kitchen Notes: European Designation of Quality Labels">European Designation of Quality Labels</a></td><td id="nl113" onclick="window.location='/article/113/Making-Butter'" onMouseOver="lb('nl113')" onMouseOut="db('nl113')" ><a href="/article/113/Making-Butter" title="Kitchen Notes: Making Butter">Making Butter</a></td><td id="nl30" onclick="window.location='/article/30/USDA-Beef-Quality-Grades'" onMouseOver="lb('nl30')" onMouseOut="db('nl30')" ><a href="/article/30/USDA-Beef-Quality-Grades" title="Kitchen Notes: USDA Beef Quality Grades">USDA Beef Quality Grades</a></td></tr><tr><td id="nl70" onclick="window.location='/article/70/Brining'" onMouseOver="lb('nl70')" onMouseOut="db('nl70')" ><a href="/article/70/Brining" title="Kitchen Notes: Brining">Brining</a></td><td id="nl244" onclick="window.location='/article/244/Fond-of-Fond'" onMouseOver="lb('nl244')" onMouseOut="db('nl244')" ><a href="/article/244/Fond-of-Fond" title="Kitchen Notes: Fond of Fond">Fond of Fond</a></td><td id="nl16" onclick="window.location='/article/16/Maple-Syrup-Grades'" onMouseOver="lb('nl16')" onMouseOut="db('nl16')" ><a href="/article/16/Maple-Syrup-Grades" title="Kitchen Notes: Maple Syrup Grades">Maple Syrup Grades</a></td><td id="nl63" onclick="window.location='/article/63/Wheat-Flour'" onMouseOver="lb('nl63')" onMouseOut="db('nl63')" ><a href="/article/63/Wheat-Flour" title="Kitchen Notes: Wheat Flour">Wheat Flour</a></td></tr><tr><td id="nl73" onclick="window.location='/article/73/Buying-Whole-Turkeys'" onMouseOver="lb('nl73')" onMouseOut="db('nl73')" ><a href="/article/73/Buying-Whole-Turkeys" title="Kitchen Notes: Buying Whole Turkeys">Buying Whole Turkeys</a></td><td id="nl27" onclick="window.location='/article/27/Freezing-Meats'" onMouseOver="lb('nl27')" onMouseOut="db('nl27')" ><a href="/article/27/Freezing-Meats" title="Kitchen Notes: Freezing Meats">Freezing Meats</a></td><td id="nl134" onclick="window.location='/article/134/Oven-Temperatures'" onMouseOver="lb('nl134')" onMouseOut="db('nl134')" ><a href="/article/134/Oven-Temperatures" title="Kitchen Notes: Oven Temperatures">Oven Temperatures</a></td><td id="nl294" onclick="window.location='/article/294/White-Wheat-Grinder-Comparison'" onMouseOver="lb('nl294')" onMouseOut="db('nl294')" ><a href="/article/294/White-Wheat-Grinder-Comparison" title="Kitchen Notes: White Wheat Grinder Comparison">White Wheat Grinder Comparison</a></td></tr><tr><td id="nl156" onclick="window.location='/article/156/Caviar'" onMouseOver="lb('nl156')" onMouseOut="db('nl156')" ><a href="/article/156/Caviar" title="Kitchen Notes: Caviar">Caviar</a></td><td id="nl315" onclick="window.location='/article/315/Fruit-Ripening'" onMouseOver="lb('nl315')" onMouseOut="db('nl315')" ><a href="/article/315/Fruit-Ripening" title="Kitchen Notes: Fruit Ripening">Fruit Ripening</a></td><td id="nl96" onclick="window.location='/article/96/Pears'" onMouseOver="lb('nl96')" onMouseOut="db('nl96')" ><a href="/article/96/Pears" title="Kitchen Notes: Pears">Pears</a></td></tr></table></div>
+	<div id="navcat_OffTopic" style="display:none"><table width="100%" class="navlinks" cellpadding="0" cellspacing="1"><tr><td width="25%" id="nl133" onclick="window.location='/article/133/African-Horned-Melon-or-Kiwano'" onMouseOver="lb('nl133')" onMouseOut="db('nl133')" ><a href="/article/133/African-Horned-Melon-or-Kiwano" title="Off Topic: African Horned Melon or Kiwano">African Horned Melon or Kiwano</a></td><td width="25%" id="nl206" onclick="window.location='/article/206/Fancy-Food-Show-Winter-2007'" onMouseOver="lb('nl206')" onMouseOut="db('nl206')" ><a href="/article/206/Fancy-Food-Show-Winter-2007" title="Off Topic: Fancy Food Show Winter 2007">Fancy Food Show Winter 2007</a></td><td width="25%" id="nl119" onclick="window.location='/article/119/Iron-Chef-America'" onMouseOver="lb('nl119')" onMouseOut="db('nl119')" ><a href="/article/119/Iron-Chef-America" title="Off Topic: Iron Chef America">Iron Chef America</a></td><td width="25%" id="nl25" onclick="window.location='/article/25/Some-Quotes'" onMouseOver="lb('nl25')" onMouseOut="db('nl25')" ><a href="/article/25/Some-Quotes" title="Off Topic: Some Quotes">Some Quotes</a></td></tr><tr><td id="nl279" onclick="window.location='/article/279/Amano-Chocolate-Contest'" onMouseOver="lb('nl279')" onMouseOut="db('nl279')" ><a href="/article/279/Amano-Chocolate-Contest" title="Off Topic: Amano Chocolate Contest">Amano Chocolate Contest</a></td><td id="nl262" onclick="window.location='/article/262/Fancy-Food-Show-Winter-2009'" onMouseOver="lb('nl262')" onMouseOut="db('nl262')" ><a href="/article/262/Fancy-Food-Show-Winter-2009" title="Off Topic: Fancy Food Show Winter 2009">Fancy Food Show Winter 2009</a></td><td id="nl286" onclick="window.location='/article/286/Johnsonville-Pastaville-Italian-Sausage-Recipe-Contest'" onMouseOver="lb('nl286')" onMouseOut="db('nl286')" ><a href="/article/286/Johnsonville-Pastaville-Italian-Sausage-Recipe-Contest" title="Off Topic: Johnsonville Pastaville Italian Sausage Recipe Contest">Johnsonville Pastaville Italian Sausage Recipe Contest</a></td><td id="nl57" onclick="window.location='/article/57/Surprises-In-Snacks'" onMouseOver="lb('nl57')" onMouseOut="db('nl57')" ><a href="/article/57/Surprises-In-Snacks" title="Off Topic: Surprises In Snacks">Surprises In Snacks</a></td></tr><tr><td id="nl321" onclick="window.location='/article/321/Anolon-Nouvelle-Copper-Stainless-Steel-Cookware-Set-2012-Giveaway'" onMouseOver="lb('nl321')" onMouseOut="db('nl321')" ><a href="/article/321/Anolon-Nouvelle-Copper-Stainless-Steel-Cookware-Set-2012-Giveaway" title="Off Topic: Anolon Nouvelle Copper Stainless Steel Cookware Set 2012 Giveaway!">Anolon Nouvelle Copper Stainless Steel Cookware Set 2012 Giveaway!</a></td><td id="nl334" onclick="window.location='/article/334/Fancy-Food-Show-Winter-2014'" onMouseOver="lb('nl334')" onMouseOut="db('nl334')" ><a href="/article/334/Fancy-Food-Show-Winter-2014" title="Off Topic: Fancy Food Show Winter 2014">Fancy Food Show Winter 2014</a></td><td id="nl165" onclick="window.location='/article/165/LASIK'" onMouseOver="lb('nl165')" onMouseOut="db('nl165')" ><a href="/article/165/LASIK" title="Off Topic: LASIK">LASIK</a></td><td id="nl149" onclick="window.location='/article/149/Thanksgiving-Dinner'" onMouseOver="lb('nl149')" onMouseOut="db('nl149')" ><a href="/article/149/Thanksgiving-Dinner" title="Off Topic: Thanksgiving Dinner">Thanksgiving Dinner</a></td></tr><tr><td id="nl179" onclick="window.location='/article/179/Asparagus-Festival'" onMouseOver="lb('nl179')" onMouseOut="db('nl179')" ><a href="/article/179/Asparagus-Festival" title="Off Topic: Asparagus Festival">Asparagus Festival</a></td><td id="nl182" onclick="window.location='/article/182/Fanpop'" onMouseOver="lb('nl182')" onMouseOut="db('nl182')" ><a href="/article/182/Fanpop" title="Off Topic: Fanpop">Fanpop</a></td><td id="nl312" onclick="window.location='/article/312/LEGO-Heavy-Weapons-Book-Review'" onMouseOver="lb('nl312')" onMouseOut="db('nl312')" ><a href="/article/312/LEGO-Heavy-Weapons-Book-Review" title="Off Topic: LEGO Heavy Weapons Book Review">LEGO Heavy Weapons Book Review</a></td><td id="nl251" onclick="window.location='/article/251/The-HP-Freshman-15-Contest-Win-a-Notebook-Computer'" onMouseOver="lb('nl251')" onMouseOut="db('nl251')" ><a href="/article/251/The-HP-Freshman-15-Contest-Win-a-Notebook-Computer" title="Off Topic: The HP Freshman 15 Contest - Win a Notebook Computer">The HP Freshman 15 Contest - Win a Notebook Computer</a></td></tr><tr><td id="nl243" onclick="window.location='/article/243/Chilis-Bacon-Burger'" onMouseOver="lb('nl243')" onMouseOut="db('nl243')" ><a href="/article/243/Chilis-Bacon-Burger" title="Off Topic: Chili's Bacon Burger">Chili's Bacon Burger</a></td><td id="nl323" onclick="window.location='/article/323/Food-Fete-2013'" onMouseOver="lb('nl323')" onMouseOut="db('nl323')" ><a href="/article/323/Food-Fete-2013" title="Off Topic: Food Fete 2013">Food Fete 2013</a></td><td id="nl67" onclick="window.location='/article/67/Lunar-Eclipse'" onMouseOver="lb('nl67')" onMouseOut="db('nl67')" ><a href="/article/67/Lunar-Eclipse" title="Off Topic: Lunar Eclipse">Lunar Eclipse</a></td><td id="nl322" onclick="window.location='/article/322/The-Unofficial-LEGO-Technic-Builders-Guide-Book-Review'" onMouseOver="lb('nl322')" onMouseOut="db('nl322')" ><a href="/article/322/The-Unofficial-LEGO-Technic-Builders-Guide-Book-Review" title="Off Topic: The Unofficial LEGO Technic Builder's Guide Book Review">The Unofficial LEGO Technic Builder's Guide Book Review</a></td></tr><tr><td id="nl284" onclick="window.location='/article/284/Christmas-Gift-Ideas'" onMouseOver="lb('nl284')" onMouseOut="db('nl284')" ><a href="/article/284/Christmas-Gift-Ideas" title="Off Topic: Christmas Gift Ideas">Christmas Gift Ideas</a></td><td id="nl335" onclick="window.location='/article/335/Food-Fete-2014'" onMouseOver="lb('nl335')" onMouseOut="db('nl335')" ><a href="/article/335/Food-Fete-2014" title="Off Topic: Food Fete 2014">Food Fete 2014</a></td><td id="nl309" onclick="window.location='/article/309/Michael-Ohenes-Cookie-Recipe-Generator'" onMouseOver="lb('nl309')" onMouseOut="db('nl309')" ><a href="/article/309/Michael-Ohenes-Cookie-Recipe-Generator" title="Off Topic: Michael Ohene's Cookie Recipe Generator">Michael Ohene's Cookie Recipe Generator</a></td><td id="nl336" onclick="window.location='/article/336/Thermoworks-Fathers-Day-2014-Giveaway'" onMouseOver="lb('nl336')" onMouseOut="db('nl336')" ><a href="/article/336/Thermoworks-Fathers-Day-2014-Giveaway" title="Off Topic: Thermoworks Father's Day 2014 Giveaway!">Thermoworks Father's Day 2014 Giveaway!</a></td></tr><tr><td id="nl328" onclick="window.location='/article/328/Codlo-Sous-Vide-Controller-Kickstarter'" onMouseOver="lb('nl328')" onMouseOut="db('nl328')" ><a href="/article/328/Codlo-Sous-Vide-Controller-Kickstarter" title="Off Topic: Codlo Sous Vide Controller Kickstarter">Codlo Sous Vide Controller Kickstarter</a></td><td id="nl271" onclick="window.location='/article/271/Food-Inc'" onMouseOver="lb('nl271')" onMouseOut="db('nl271')" ><a href="/article/271/Food-Inc" title="Off Topic: Food, Inc">Food, Inc</a></td><td id="nl7" onclick="window.location='/article/7/Orange-Juice-Shelf-Life'" onMouseOver="lb('nl7')" onMouseOut="db('nl7')" ><a href="/article/7/Orange-Juice-Shelf-Life" title="Off Topic: Orange Juice Shelf Life">Orange Juice Shelf Life</a></td><td id="nl332" onclick="window.location='/article/332/Thermoworks-Thermapen-2013-Giveaway'" onMouseOver="lb('nl332')" onMouseOut="db('nl332')" ><a href="/article/332/Thermoworks-Thermapen-2013-Giveaway" title="Off Topic: Thermoworks Thermapen 2013 Giveaway!">Thermoworks Thermapen 2013 Giveaway!</a></td></tr><tr><td id="nl116" onclick="window.location='/article/116/Comments-and-Forums'" onMouseOver="lb('nl116')" onMouseOut="db('nl116')" ><a href="/article/116/Comments-and-Forums" title="Off Topic: Comments and Forums">Comments and Forums</a></td><td id="nl263" onclick="window.location='/article/263/Foodoro'" onMouseOver="lb('nl263')" onMouseOut="db('nl263')" ><a href="/article/263/Foodoro" title="Off Topic: Foodoro">Foodoro</a></td><td id="nl217" onclick="window.location='/article/217/Orthogonal-Thought-A-New-Blog'" onMouseOver="lb('nl217')" onMouseOut="db('nl217')" ><a href="/article/217/Orthogonal-Thought-A-New-Blog" title="Off Topic: Orthogonal Thought - A New Blog">Orthogonal Thought - A New Blog</a></td><td id="nl318" onclick="window.location='/article/318/Thermoworks-Thermapen-and-Oven-Thermometer-2012-Giveaway'" onMouseOver="lb('nl318')" onMouseOut="db('nl318')" ><a href="/article/318/Thermoworks-Thermapen-and-Oven-Thermometer-2012-Giveaway" title="Off Topic: Thermoworks Thermapen and Oven Thermometer 2012 Giveaway!">Thermoworks Thermapen and Oven Thermometer 2012 Giveaway!</a></td></tr><tr><td id="nl118" onclick="window.location='/article/118/Comments-and-Forums-Back-Online'" onMouseOver="lb('nl118')" onMouseOut="db('nl118')" ><a href="/article/118/Comments-and-Forums-Back-Online" title="Off Topic: Comments and Forums Back Online">Comments and Forums Back Online</a></td><td id="nl278" onclick="window.location='/article/278/Free-Cookbook-from-Snubbr'" onMouseOver="lb('nl278')" onMouseOut="db('nl278')" ><a href="/article/278/Free-Cookbook-from-Snubbr" title="Off Topic: Free Cookbook from Snubbr">Free Cookbook from Snubbr</a></td><td id="nl228" onclick="window.location='/article/228/Pixars-Ratatouille'" onMouseOver="lb('nl228')" onMouseOut="db('nl228')" ><a href="/article/228/Pixars-Ratatouille" title="Off Topic: Pixar's Ratatouille">Pixar's Ratatouille</a></td><td id="nl214" onclick="window.location='/article/214/Two-New-Shows-on-Discovery-Health'" onMouseOver="lb('nl214')" onMouseOut="db('nl214')" ><a href="/article/214/Two-New-Shows-on-Discovery-Health" title="Off Topic: Two New Shows on Discovery Health">Two New Shows on Discovery Health</a></td></tr><tr><td id="nl196" onclick="window.location='/article/196/Cooking-With-Passion'" onMouseOver="lb('nl196')" onMouseOut="db('nl196')" ><a href="/article/196/Cooking-With-Passion" title="Off Topic: Cooking With Passion">Cooking With Passion</a></td><td id="nl282" onclick="window.location='/article/282/Hefty-Kitchen-Bags-with-Unscented-Odor-Block-Technology'" onMouseOver="lb('nl282')" onMouseOut="db('nl282')" ><a href="/article/282/Hefty-Kitchen-Bags-with-Unscented-Odor-Block-Technology" title="Off Topic: Hefty Kitchen Bags with Unscented Odor Block Technology">Hefty Kitchen Bags with Unscented Odor Block Technology</a></td><td id="nl1" onclick="window.location='/article/1/Pumpkin-Carving'" onMouseOver="lb('nl1')" onMouseOut="db('nl1')" ><a href="/article/1/Pumpkin-Carving" title="Off Topic: Pumpkin Carving">Pumpkin Carving</a></td><td id="nl143" onclick="window.location='/article/143/University-Chickens-911-Challenge'" onMouseOver="lb('nl143')" onMouseOut="db('nl143')" ><a href="/article/143/University-Chickens-911-Challenge" title="Off Topic: University Chicken's 911 Challenge">University Chicken's 911 Challenge</a></td></tr><tr><td id="nl183" onclick="window.location='/article/183/Cosentinos-Markets-Good-News-and-Bad-News'" onMouseOver="lb('nl183')" onMouseOut="db('nl183')" ><a href="/article/183/Cosentinos-Markets-Good-News-and-Bad-News" title="Off Topic: Cosentino's Markets - Good News and Bad News">Cosentino's Markets - Good News and Bad News</a></td><td id="nl197" onclick="window.location='/article/197/IEEE-Spectrum-Radio-Looking-for-Engineers-Who-Cook'" onMouseOver="lb('nl197')" onMouseOut="db('nl197')" ><a href="/article/197/IEEE-Spectrum-Radio-Looking-for-Engineers-Who-Cook" title="Off Topic: IEEE Spectrum Radio Looking for Engineers Who Cook">IEEE Spectrum Radio Looking for Engineers Who Cook</a></td><td id="nl29" onclick="window.location='/article/29/Recipe-Summaries-Standards-and-Microsoft'" onMouseOver="lb('nl29')" onMouseOut="db('nl29')" ><a href="/article/29/Recipe-Summaries-Standards-and-Microsoft" title="Off Topic: Recipe Summaries - Standards and Microsoft">Recipe Summaries - Standards and Microsoft</a></td><td id="nl22" onclick="window.location='/article/22/Welcome-to-the-New-Server'" onMouseOver="lb('nl22')" onMouseOut="db('nl22')" ><a href="/article/22/Welcome-to-the-New-Server" title="Off Topic: Welcome to the New Server">Welcome to the New Server</a></td></tr><tr><td id="nl64" onclick="window.location='/article/64/Details-of-the-Pumpkin-Carving'" onMouseOver="lb('nl64')" onMouseOut="db('nl64')" ><a href="/article/64/Details-of-the-Pumpkin-Carving" title="Off Topic: Details of the Pumpkin Carving">Details of the Pumpkin Carving</a></td><td id="nl24" onclick="window.location='/article/24/Increased-Readership-and-Traffic-Woes'" onMouseOver="lb('nl24')" onMouseOut="db('nl24')" ><a href="/article/24/Increased-Readership-and-Traffic-Woes" title="Off Topic: Increased Readership and Traffic Woes">Increased Readership and Traffic Woes</a></td><td id="nl331" onclick="window.location='/article/331/Robot-Turtles-Board-Game-Kickstarter'" onMouseOver="lb('nl331')" onMouseOut="db('nl331')" ><a href="/article/331/Robot-Turtles-Board-Game-Kickstarter" title="Off Topic: Robot Turtles Board Game Kickstarter">Robot Turtles Board Game Kickstarter</a></td><td id="nl192" onclick="window.location='/article/192/Whats-the-Most-Trans-Fat-Youve-Seen'" onMouseOver="lb('nl192')" onMouseOut="db('nl192')" ><a href="/article/192/Whats-the-Most-Trans-Fat-Youve-Seen" title="Off Topic: What's the Most Trans Fat You've Seen?">What's the Most Trans Fat You've Seen?</a></td></tr><tr><td id="nl23" onclick="window.location='/article/23/Donations-Please'" onMouseOver="lb('nl23')" onMouseOut="db('nl23')" ><a href="/article/23/Donations-Please" title="Off Topic: Donations Please!">Donations Please!</a></td><td id="nl210" onclick="window.location='/article/210/Inside-the-CIA'" onMouseOver="lb('nl210')" onMouseOut="db('nl210')" ><a href="/article/210/Inside-the-CIA" title="Off Topic: Inside the CIA">Inside the CIA</a></td><td id="nl167" onclick="window.location='/article/167/Santa-Cruz-Clam-Chowder-Cook-Off-2006'" onMouseOver="lb('nl167')" onMouseOut="db('nl167')" ><a href="/article/167/Santa-Cruz-Clam-Chowder-Cook-Off-2006" title="Off Topic: Santa Cruz Clam Chowder Cook Off 2006">Santa Cruz Clam Chowder Cook Off 2006</a></td><td id="nl325" onclick="window.location='/article/325/Wolfgang-Puck-Phone-Interview'" onMouseOver="lb('nl325')" onMouseOut="db('nl325')" ><a href="/article/325/Wolfgang-Puck-Phone-Interview" title="Off Topic: Wolfgang Puck Phone Interview">Wolfgang Puck Phone Interview</a></td></tr><tr><td id="nl157" onclick="window.location='/article/157/Fancy-Food-Show-Winter-2006'" onMouseOver="lb('nl157')" onMouseOut="db('nl157')" ><a href="/article/157/Fancy-Food-Show-Winter-2006" title="Off Topic: Fancy Food Show Winter 2006">Fancy Food Show Winter 2006</a></td></tr></table></div>
+	<div id="navcat_RecipeFile" style="display:none"><table width="100%" class="navlinks" cellpadding="0" cellspacing="1"><tr><td width="25%" id="nl188" onclick="window.location='/recipe/188/Anghelikas-Tsatsiki-Tzatziki'" onMouseOver="lb('nl188')" onMouseOut="db('nl188')" ><a href="/recipe/188/Anghelikas-Tsatsiki-Tzatziki" title="Recipe File: Anghelika's Tsatsiki (Tzatziki)">Anghelika's Tsatsiki (Tzatziki)</a></td><td width="25%" id="nl98" onclick="window.location='/recipe/98/Condensed-Milk-Fudge'" onMouseOver="lb('nl98')" onMouseOut="db('nl98')" ><a href="/recipe/98/Condensed-Milk-Fudge" title="Recipe File: Condensed Milk Fudge">Condensed Milk Fudge</a></td><td width="25%" id="nl305" onclick="window.location='/recipe/305/Honey-Pecan-Pralines'" onMouseOver="lb('nl305')" onMouseOut="db('nl305')" ><a href="/recipe/305/Honey-Pecan-Pralines" title="Recipe File: Honey Pecan Pralines">Honey Pecan Pralines</a></td><td width="25%" id="nl92" onclick="window.location='/recipe/92/Poached-Fish'" onMouseOver="lb('nl92')" onMouseOut="db('nl92')" ><a href="/recipe/92/Poached-Fish" title="Recipe File: Poached Fish">Poached Fish</a></td></tr><tr><td id="nl163" onclick="window.location='/recipe/163/Asparagus-with-Almonds'" onMouseOver="lb('nl163')" onMouseOut="db('nl163')" ><a href="/recipe/163/Asparagus-with-Almonds" title="Recipe File: Asparagus with Almonds">Asparagus with Almonds</a></td><td id="nl152" onclick="window.location='/recipe/152/Cooked-Egg-Nog'" onMouseOver="lb('nl152')" onMouseOut="db('nl152')" ><a href="/recipe/152/Cooked-Egg-Nog" title="Recipe File: Cooked Egg Nog">Cooked Egg Nog</a></td><td id="nl308" onclick="window.location='/recipe/308/Hot-Chocolate'" onMouseOver="lb('nl308')" onMouseOut="db('nl308')" ><a href="/recipe/308/Hot-Chocolate" title="Recipe File: Hot Chocolate">Hot Chocolate</a></td><td id="nl38" onclick="window.location='/recipe/38/Prime-Rib-or-Standing-Rib-Roast'" onMouseOver="lb('nl38')" onMouseOut="db('nl38')" ><a href="/recipe/38/Prime-Rib-or-Standing-Rib-Roast" title="Recipe File: Prime Rib or Standing Rib Roast">Prime Rib or Standing Rib Roast</a></td></tr><tr><td id="nl103" onclick="window.location='/recipe/103/Baked-Cinnamon-Apple'" onMouseOver="lb('nl103')" onMouseOut="db('nl103')" ><a href="/recipe/103/Baked-Cinnamon-Apple" title="Recipe File: Baked Cinnamon Apple">Baked Cinnamon Apple</a></td><td id="nl48" onclick="window.location='/recipe/48/Corn-Fritters'" onMouseOver="lb('nl48')" onMouseOut="db('nl48')" ><a href="/recipe/48/Corn-Fritters" title="Recipe File: Corn Fritters">Corn Fritters</a></td><td id="nl104" onclick="window.location='/recipe/104/Kelloggs-Rice-Krispies-Treats'" onMouseOver="lb('nl104')" onMouseOut="db('nl104')" ><a href="/recipe/104/Kelloggs-Rice-Krispies-Treats" title="Recipe File: Kellogg's Rice Krispies Treats">Kellogg's Rice Krispies Treats</a></td><td id="nl189" onclick="window.location='/recipe/189/Prosciutto-e-Melone'" onMouseOver="lb('nl189')" onMouseOut="db('nl189')" ><a href="/recipe/189/Prosciutto-e-Melone" title="Recipe File: Prosciutto e Melone">Prosciutto e Melone</a></td></tr><tr><td id="nl108" onclick="window.location='/recipe/108/Banana-Nut-Bread'" onMouseOver="lb('nl108')" onMouseOut="db('nl108')" ><a href="/recipe/108/Banana-Nut-Bread" title="Recipe File: Banana Nut Bread">Banana Nut Bread</a></td><td id="nl79" onclick="window.location='/recipe/79/Cranberry-Sauce'" onMouseOver="lb('nl79')" onMouseOut="db('nl79')" ><a href="/recipe/79/Cranberry-Sauce" title="Recipe File: Cranberry Sauce">Cranberry Sauce</a></td><td id="nl33" onclick="window.location='/recipe/33/Lemon-Bars'" onMouseOver="lb('nl33')" onMouseOut="db('nl33')" ><a href="/recipe/33/Lemon-Bars" title="Recipe File: Lemon Bars">Lemon Bars</a></td><td id="nl65" onclick="window.location='/recipe/65/Pumpkin-Pie'" onMouseOver="lb('nl65')" onMouseOut="db('nl65')" ><a href="/recipe/65/Pumpkin-Pie" title="Recipe File: Pumpkin Pie">Pumpkin Pie</a></td></tr><tr><td id="nl246" onclick="window.location='/recipe/246/Barbecue-Pork-Ribs-Baby-Back-or-Spare'" onMouseOver="lb('nl246')" onMouseOut="db('nl246')" ><a href="/recipe/246/Barbecue-Pork-Ribs-Baby-Back-or-Spare" title="Recipe File: Barbecue Pork Ribs (Baby Back or Spare)">Barbecue Pork Ribs (Baby Back or Spare)</a></td><td id="nl194" onclick="window.location='/recipe/194/Cream-of-Mushroom-Soup'" onMouseOver="lb('nl194')" onMouseOut="db('nl194')" ><a href="/recipe/194/Cream-of-Mushroom-Soup" title="Recipe File: Cream of Mushroom Soup">Cream of Mushroom Soup</a></td><td id="nl121" onclick="window.location='/recipe/121/Lemon-Iced-Tea'" onMouseOver="lb('nl121')" onMouseOut="db('nl121')" ><a href="/recipe/121/Lemon-Iced-Tea" title="Recipe File: Lemon Iced Tea">Lemon Iced Tea</a></td><td id="nl227" onclick="window.location='/recipe/227/Ratatouille'" onMouseOver="lb('nl227')" onMouseOut="db('nl227')" ><a href="/recipe/227/Ratatouille" title="Recipe File: Ratatouille">Ratatouille</a></td></tr><tr><td id="nl35" onclick="window.location='/recipe/35/Basic-Granita'" onMouseOver="lb('nl35')" onMouseOut="db('nl35')" ><a href="/recipe/35/Basic-Granita" title="Recipe File: Basic Granita">Basic Granita</a></td><td id="nl107" onclick="window.location='/recipe/107/Creamy-Garlic-Mashed-Potatoes'" onMouseOver="lb('nl107')" onMouseOut="db('nl107')" ><a href="/recipe/107/Creamy-Garlic-Mashed-Potatoes" title="Recipe File: Creamy Garlic Mashed Potatoes">Creamy Garlic Mashed Potatoes</a></td><td id="nl124" onclick="window.location='/recipe/124/Lime-Marinated-Grilled-Chicken'" onMouseOver="lb('nl124')" onMouseOut="db('nl124')" ><a href="/recipe/124/Lime-Marinated-Grilled-Chicken" title="Recipe File: Lime Marinated Grilled Chicken">Lime Marinated Grilled Chicken</a></td><td id="nl101" onclick="window.location='/recipe/101/Roasted-Asparagus-Spears'" onMouseOver="lb('nl101')" onMouseOut="db('nl101')" ><a href="/recipe/101/Roasted-Asparagus-Spears" title="Recipe File: Roasted Asparagus Spears">Roasted Asparagus Spears</a></td></tr><tr><td id="nl47" onclick="window.location='/recipe/47/Basic-Pancakes'" onMouseOver="lb('nl47')" onMouseOut="db('nl47')" ><a href="/recipe/47/Basic-Pancakes" title="Recipe File: Basic Pancakes">Basic Pancakes</a></td><td id="nl32" onclick="window.location='/recipe/32/Creme-Brulee-Cregraveme-Brucircleacutee'" onMouseOver="lb('nl32')" onMouseOut="db('nl32')" ><a href="/recipe/32/Creme-Brulee-Cregraveme-Brucircleacutee" title="Recipe File: Creme Brulee (Cr&egrave;me Br&ucirc;l&eacute;e)">Creme Brulee (Cr&egrave;me Br&ucirc;l&eacute;e)</a></td><td id="nl66" onclick="window.location='/recipe/66/Limeade'" onMouseOver="lb('nl66')" onMouseOut="db('nl66')" ><a href="/recipe/66/Limeade" title="Recipe File: Limeade">Limeade</a></td><td id="nl174" onclick="window.location='/recipe/174/Rosemary-Lamb-Chops'" onMouseOver="lb('nl174')" onMouseOut="db('nl174')" ><a href="/recipe/174/Rosemary-Lamb-Chops" title="Recipe File: Rosemary Lamb Chops">Rosemary Lamb Chops</a></td></tr><tr><td id="nl44" onclick="window.location='/recipe/44/Basic-Vinaigrette-Salad-Dressing'" onMouseOver="lb('nl44')" onMouseOut="db('nl44')" ><a href="/recipe/44/Basic-Vinaigrette-Salad-Dressing" title="Recipe File: Basic Vinaigrette Salad Dressing">Basic Vinaigrette Salad Dressing</a></td><td id="nl317" onclick="window.location='/recipe/317/Crunchy-Bloody-Mary'" onMouseOver="lb('nl317')" onMouseOut="db('nl317')" ><a href="/recipe/317/Crunchy-Bloody-Mary" title="Recipe File: Crunchy Bloody Mary">Crunchy Bloody Mary</a></td><td id="nl230" onclick="window.location='/recipe/230/Macaroni-and-Cheese-Bake'" onMouseOver="lb('nl230')" onMouseOut="db('nl230')" ><a href="/recipe/230/Macaroni-and-Cheese-Bake" title="Recipe File: Macaroni and Cheese Bake">Macaroni and Cheese Bake</a></td><td id="nl53" onclick="window.location='/recipe/53/Salsa-Cruda'" onMouseOver="lb('nl53')" onMouseOut="db('nl53')" ><a href="/recipe/53/Salsa-Cruda" title="Recipe File: Salsa Cruda">Salsa Cruda</a></td></tr><tr><td id="nl122" onclick="window.location='/recipe/122/Beef-Stroganoff'" onMouseOver="lb('nl122')" onMouseOut="db('nl122')" ><a href="/recipe/122/Beef-Stroganoff" title="Recipe File: Beef Stroganoff">Beef Stroganoff</a></td><td id="nl158" onclick="window.location='/recipe/158/Dark-Chocolate-Brownies'" onMouseOver="lb('nl158')" onMouseOut="db('nl158')" ><a href="/recipe/158/Dark-Chocolate-Brownies" title="Recipe File: Dark Chocolate Brownies">Dark Chocolate Brownies</a></td><td id="nl177" onclick="window.location='/recipe/177/Matzo-Matzah-Ball-Soup'" onMouseOver="lb('nl177')" onMouseOut="db('nl177')" ><a href="/recipe/177/Matzo-Matzah-Ball-Soup" title="Recipe File: Matzo (Matzah) Ball Soup">Matzo (Matzah) Ball Soup</a></td><td id="nl8" onclick="window.location='/recipe/8/Sauteed-Okra-with-Roasted-Red-Peppers'" onMouseOver="lb('nl8')" onMouseOut="db('nl8')" ><a href="/recipe/8/Sauteed-Okra-with-Roasted-Red-Peppers" title="Recipe File: Sauteed Okra with Roasted Red Peppers">Sauteed Okra with Roasted Red Peppers</a></td></tr><tr><td id="nl154" onclick="window.location='/recipe/154/Biscotti'" onMouseOver="lb('nl154')" onMouseOut="db('nl154')" ><a href="/recipe/154/Biscotti" title="Recipe File: Biscotti">Biscotti</a></td><td id="nl160" onclick="window.location='/recipe/160/Dark-Chocolate-Souffle'" onMouseOver="lb('nl160')" onMouseOut="db('nl160')" ><a href="/recipe/160/Dark-Chocolate-Souffle" title="Recipe File: Dark Chocolate Souffle">Dark Chocolate Souffle</a></td><td id="nl36" onclick="window.location='/recipe/36/Meat-Lasagna'" onMouseOver="lb('nl36')" onMouseOut="db('nl36')" ><a href="/recipe/36/Meat-Lasagna" title="Recipe File: Meat Lasagna">Meat Lasagna</a></td><td id="nl320" onclick="window.location='/recipe/320/Sauteed-Spinach'" onMouseOver="lb('nl320')" onMouseOut="db('nl320')" ><a href="/recipe/320/Sauteed-Spinach" title="Recipe File: Sauteed Spinach">Sauteed Spinach</a></td></tr><tr><td id="nl288" onclick="window.location='/recipe/288/Biscuits-Southern-Buttermilk-Biscuits'" onMouseOver="lb('nl288')" onMouseOut="db('nl288')" ><a href="/recipe/288/Biscuits-Southern-Buttermilk-Biscuits" title="Recipe File: Biscuits (Southern Buttermilk Biscuits)">Biscuits (Southern Buttermilk Biscuits)</a></td><td id="nl147" onclick="window.location='/recipe/147/Dirty-Rice'" onMouseOver="lb('nl147')" onMouseOut="db('nl147')" ><a href="/recipe/147/Dirty-Rice" title="Recipe File: Dirty Rice">Dirty Rice</a></td><td id="nl55" onclick="window.location='/recipe/55/Mini-Hamburgers'" onMouseOver="lb('nl55')" onMouseOut="db('nl55')" ><a href="/recipe/55/Mini-Hamburgers" title="Recipe File: Mini Hamburgers">Mini Hamburgers</a></td><td id="nl127" onclick="window.location='/recipe/127/Shepherds-Pie-Cottage-Pie'" onMouseOver="lb('nl127')" onMouseOut="db('nl127')" ><a href="/recipe/127/Shepherds-Pie-Cottage-Pie" title="Recipe File: Shepherd's Pie (Cottage Pie)">Shepherd's Pie (Cottage Pie)</a></td></tr><tr><td id="nl136" onclick="window.location='/recipe/136/Braised-Brussels-Sprouts'" onMouseOver="lb('nl136')" onMouseOut="db('nl136')" ><a href="/recipe/136/Braised-Brussels-Sprouts" title="Recipe File: Braised Brussels Sprouts">Braised Brussels Sprouts</a></td><td id="nl255" onclick="window.location='/recipe/255/Dulce-de-Leche'" onMouseOver="lb('nl255')" onMouseOut="db('nl255')" ><a href="/recipe/255/Dulce-de-Leche" title="Recipe File: Dulce de Leche">Dulce de Leche</a></td><td id="nl151" onclick="window.location='/recipe/151/Mulled-Cider-Spiced-Apple-Cider'" onMouseOver="lb('nl151')" onMouseOut="db('nl151')" ><a href="/recipe/151/Mulled-Cider-Spiced-Apple-Cider" title="Recipe File: Mulled Cider (Spiced Apple Cider)">Mulled Cider (Spiced Apple Cider)</a></td><td id="nl15" onclick="window.location='/recipe/15/Shrimp-Scampi'" onMouseOver="lb('nl15')" onMouseOut="db('nl15')" ><a href="/recipe/15/Shrimp-Scampi" title="Recipe File: Shrimp Scampi">Shrimp Scampi</a></td></tr><tr><td id="nl268" onclick="window.location='/recipe/268/Buffalo-Chicken-Chili'" onMouseOver="lb('nl268')" onMouseOut="db('nl268')" ><a href="/recipe/268/Buffalo-Chicken-Chili" title="Recipe File: Buffalo Chicken Chili">Buffalo Chicken Chili</a></td><td id="nl203" onclick="window.location='/recipe/203/Egg-Custard-with-Clams'" onMouseOver="lb('nl203')" onMouseOut="db('nl203')" ><a href="/recipe/203/Egg-Custard-with-Clams" title="Recipe File: Egg Custard with Clams">Egg Custard with Clams</a></td><td id="nl185" onclick="window.location='/recipe/185/Nestle-Toll-House-Chocolate-Chip-Cookies'" onMouseOver="lb('nl185')" onMouseOut="db('nl185')" ><a href="/recipe/185/Nestle-Toll-House-Chocolate-Chip-Cookies" title="Recipe File: Nestle Toll House Chocolate Chip Cookies">Nestle Toll House Chocolate Chip Cookies</a></td><td id="nl26" onclick="window.location='/recipe/26/Simple-Tiramisu'" onMouseOver="lb('nl26')" onMouseOut="db('nl26')" ><a href="/recipe/26/Simple-Tiramisu" title="Recipe File: Simple Tiramisu">Simple Tiramisu</a></td></tr><tr><td id="nl306" onclick="window.location='/recipe/306/Butter-Pecan-Ice-Cream'" onMouseOver="lb('nl306')" onMouseOut="db('nl306')" ><a href="/recipe/306/Butter-Pecan-Ice-Cream" title="Recipe File: Butter Pecan Ice Cream">Butter Pecan Ice Cream</a></td><td id="nl159" onclick="window.location='/recipe/159/English-Toffee'" onMouseOver="lb('nl159')" onMouseOut="db('nl159')" ><a href="/recipe/159/English-Toffee" title="Recipe File: English Toffee">English Toffee</a></td><td id="nl86" onclick="window.location='/recipe/86/Okra-Stew-Fast-Gumbo'" onMouseOver="lb('nl86')" onMouseOut="db('nl86')" ><a href="/recipe/86/Okra-Stew-Fast-Gumbo" title="Recipe File: Okra Stew (Fast Gumbo)">Okra Stew (Fast Gumbo)</a></td><td id="nl28" onclick="window.location='/recipe/28/Slow-Simmered-Spicy-Barbeque-Sauce'" onMouseOver="lb('nl28')" onMouseOut="db('nl28')" ><a href="/recipe/28/Slow-Simmered-Spicy-Barbeque-Sauce" title="Recipe File: Slow Simmered Spicy Barbeque Sauce">Slow Simmered Spicy Barbeque Sauce</a></td></tr><tr><td id="nl180" onclick="window.location='/recipe/180/Buttercream-Frosting-American'" onMouseOver="lb('nl180')" onMouseOut="db('nl180')" ><a href="/recipe/180/Buttercream-Frosting-American" title="Recipe File: Buttercream Frosting (American)">Buttercream Frosting (American)</a></td><td id="nl327" onclick="window.location='/recipe/327/Espresso-Brownies'" onMouseOver="lb('nl327')" onMouseOut="db('nl327')" ><a href="/recipe/327/Espresso-Brownies" title="Recipe File: Espresso Brownies">Espresso Brownies</a></td><td id="nl200" onclick="window.location='/recipe/200/Osso-Buco'" onMouseOver="lb('nl200')" onMouseOut="db('nl200')" ><a href="/recipe/200/Osso-Buco" title="Recipe File: Osso Buco">Osso Buco</a></td><td id="nl144" onclick="window.location='/recipe/144/Smoked-Beer-Can-Turkey'" onMouseOver="lb('nl144')" onMouseOut="db('nl144')" ><a href="/recipe/144/Smoked-Beer-Can-Turkey" title="Recipe File: Smoked Beer Can Turkey">Smoked Beer Can Turkey</a></td></tr><tr><td id="nl9" onclick="window.location='/recipe/9/Campbells-Green-Bean-Casserole'" onMouseOver="lb('nl9')" onMouseOut="db('nl9')" ><a href="/recipe/9/Campbells-Green-Bean-Casserole" title="Recipe File: Campbell's Green Bean Casserole">Campbell's Green Bean Casserole</a></td><td id="nl34" onclick="window.location='/recipe/34/Garlic-Roasted-Potatoes'" onMouseOver="lb('nl34')" onMouseOut="db('nl34')" ><a href="/recipe/34/Garlic-Roasted-Potatoes" title="Recipe File: Garlic Roasted Potatoes">Garlic Roasted Potatoes</a></td><td id="nl81" onclick="window.location='/recipe/81/Oven-Baked-Chicken-and-Rice'" onMouseOver="lb('nl81')" onMouseOut="db('nl81')" ><a href="/recipe/81/Oven-Baked-Chicken-and-Rice" title="Recipe File: Oven Baked Chicken and Rice">Oven Baked Chicken and Rice</a></td><td id="nl239" onclick="window.location='/recipe/239/Soft-Boiled-Eggs'" onMouseOver="lb('nl239')" onMouseOut="db('nl239')" ><a href="/recipe/239/Soft-Boiled-Eggs" title="Recipe File: Soft Boiled Eggs">Soft Boiled Eggs</a></td></tr><tr><td id="nl181" onclick="window.location='/recipe/181/Cheesecake-Cupcakes'" onMouseOver="lb('nl181')" onMouseOut="db('nl181')" ><a href="/recipe/181/Cheesecake-Cupcakes" title="Recipe File: Cheesecake Cupcakes">Cheesecake Cupcakes</a></td><td id="nl132" onclick="window.location='/recipe/132/Gravlax'" onMouseOver="lb('nl132')" onMouseOut="db('nl132')" ><a href="/recipe/132/Gravlax" title="Recipe File: Gravlax">Gravlax</a></td><td id="nl45" onclick="window.location='/recipe/45/Oven-Baked-Spare-Ribs-Two-Ways'" onMouseOver="lb('nl45')" onMouseOut="db('nl45')" ><a href="/recipe/45/Oven-Baked-Spare-Ribs-Two-Ways" title="Recipe File: Oven Baked Spare Ribs - Two Ways">Oven Baked Spare Ribs - Two Ways</a></td><td id="nl83" onclick="window.location='/recipe/83/Strawberry-Glazed-Angel-Food-Cake'" onMouseOver="lb('nl83')" onMouseOut="db('nl83')" ><a href="/recipe/83/Strawberry-Glazed-Angel-Food-Cake" title="Recipe File: Strawberry Glazed Angel Food Cake">Strawberry Glazed Angel Food Cake</a></td></tr><tr><td id="nl89" onclick="window.location='/recipe/89/Cheesecake-Plain-New-York-Style'" onMouseOver="lb('nl89')" onMouseOut="db('nl89')" ><a href="/recipe/89/Cheesecake-Plain-New-York-Style" title="Recipe File: Cheesecake, Plain New York Style">Cheesecake, Plain New York Style</a></td><td id="nl111" onclick="window.location='/recipe/111/Grilled-Artichokes'" onMouseOver="lb('nl111')" onMouseOut="db('nl111')" ><a href="/recipe/111/Grilled-Artichokes" title="Recipe File: Grilled Artichokes">Grilled Artichokes</a></td><td id="nl37" onclick="window.location='/recipe/37/Pan-Fried-Fish-Fillets'" onMouseOver="lb('nl37')" onMouseOut="db('nl37')" ><a href="/recipe/37/Pan-Fried-Fish-Fillets" title="Recipe File: Pan Fried Fish Fillets">Pan Fried Fish Fillets</a></td><td id="nl4" onclick="window.location='/recipe/4/Sweet-Corn-Bread'" onMouseOver="lb('nl4')" onMouseOut="db('nl4')" ><a href="/recipe/4/Sweet-Corn-Bread" title="Recipe File: Sweet Corn Bread">Sweet Corn Bread</a></td></tr><tr><td id="nl59" onclick="window.location='/recipe/59/Chicken-Mushroom-Marsala'" onMouseOver="lb('nl59')" onMouseOut="db('nl59')" ><a href="/recipe/59/Chicken-Mushroom-Marsala" title="Recipe File: Chicken &amp; Mushroom Marsala">Chicken &amp; Mushroom Marsala</a></td><td id="nl20" onclick="window.location='/recipe/20/Grilled-Pork-Chops'" onMouseOver="lb('nl20')" onMouseOut="db('nl20')" ><a href="/recipe/20/Grilled-Pork-Chops" title="Recipe File: Grilled Pork Chops">Grilled Pork Chops</a></td><td id="nl71" onclick="window.location='/recipe/71/Pan-Seared-Scallops-with-Roasted-Red-Pepper-Sauce'" onMouseOver="lb('nl71')" onMouseOut="db('nl71')" ><a href="/recipe/71/Pan-Seared-Scallops-with-Roasted-Red-Pepper-Sauce" title="Recipe File: Pan Seared Scallops with Roasted Red Pepper Sauce">Pan Seared Scallops with Roasted Red Pepper Sauce</a></td><td id="nl42" onclick="window.location='/recipe/42/Traditional-Chicken-Pot-Pie'" onMouseOver="lb('nl42')" onMouseOut="db('nl42')" ><a href="/recipe/42/Traditional-Chicken-Pot-Pie" title="Recipe File: Traditional Chicken Pot Pie">Traditional Chicken Pot Pie</a></td></tr><tr><td id="nl178" onclick="window.location='/recipe/178/Chocolate-Cake'" onMouseOver="lb('nl178')" onMouseOut="db('nl178')" ><a href="/recipe/178/Chocolate-Cake" title="Recipe File: Chocolate Cake">Chocolate Cake</a></td><td id="nl31" onclick="window.location='/recipe/31/Grilled-Porterhouse-or-T-Bone-Steak'" onMouseOver="lb('nl31')" onMouseOut="db('nl31')" ><a href="/recipe/31/Grilled-Porterhouse-or-T-Bone-Steak" title="Recipe File: Grilled Porterhouse or T-Bone Steak">Grilled Porterhouse or T-Bone Steak</a></td><td id="nl164" onclick="window.location='/recipe/164/Parmesan-Garlic-Bread'" onMouseOver="lb('nl164')" onMouseOut="db('nl164')" ><a href="/recipe/164/Parmesan-Garlic-Bread" title="Recipe File: Parmesan Garlic Bread">Parmesan Garlic Bread</a></td><td id="nl18" onclick="window.location='/recipe/18/Traditional-Pecan-Pie'" onMouseOver="lb('nl18')" onMouseOut="db('nl18')" ><a href="/recipe/18/Traditional-Pecan-Pie" title="Recipe File: Traditional Pecan Pie">Traditional Pecan Pie</a></td></tr><tr><td id="nl195" onclick="window.location='/recipe/195/Chocolate-Truffles'" onMouseOver="lb('nl195')" onMouseOut="db('nl195')" ><a href="/recipe/195/Chocolate-Truffles" title="Recipe File: Chocolate Truffles">Chocolate Truffles</a></td><td id="nl10" onclick="window.location='/recipe/10/Grilled-Salmon'" onMouseOver="lb('nl10')" onMouseOut="db('nl10')" ><a href="/recipe/10/Grilled-Salmon" title="Recipe File: Grilled Salmon">Grilled Salmon</a></td><td id="nl58" onclick="window.location='/recipe/58/Peanut-Butter-Cookies'" onMouseOver="lb('nl58')" onMouseOut="db('nl58')" ><a href="/recipe/58/Peanut-Butter-Cookies" title="Recipe File: Peanut Butter Cookies">Peanut Butter Cookies</a></td><td id="nl62" onclick="window.location='/recipe/62/Tuna-Noodle-Casserole'" onMouseOver="lb('nl62')" onMouseOut="db('nl62')" ><a href="/recipe/62/Tuna-Noodle-Casserole" title="Recipe File: Tuna Noodle Casserole">Tuna Noodle Casserole</a></td></tr><tr><td id="nl112" onclick="window.location='/recipe/112/Clam-Chowder-New-England-Style'" onMouseOver="lb('nl112')" onMouseOut="db('nl112')" ><a href="/recipe/112/Clam-Chowder-New-England-Style" title="Recipe File: Clam Chowder, New England Style">Clam Chowder, New England Style</a></td><td id="nl6" onclick="window.location='/recipe/6/Grilled-Skinless-Chicken-Breast'" onMouseOver="lb('nl6')" onMouseOut="db('nl6')" ><a href="/recipe/6/Grilled-Skinless-Chicken-Breast" title="Recipe File: Grilled Skinless Chicken Breast">Grilled Skinless Chicken Breast</a></td><td id="nl168" onclick="window.location='/recipe/168/Pecan-Coffee-Cake'" onMouseOver="lb('nl168')" onMouseOut="db('nl168')" ><a href="/recipe/168/Pecan-Coffee-Cake" title="Recipe File: Pecan Coffee Cake">Pecan Coffee Cake</a></td><td id="nl75" onclick="window.location='/recipe/75/Turkey-or-Chicken-Stock'" onMouseOver="lb('nl75')" onMouseOut="db('nl75')" ><a href="/recipe/75/Turkey-or-Chicken-Stock" title="Recipe File: Turkey or Chicken Stock">Turkey or Chicken Stock</a></td></tr><tr><td id="nl74" onclick="window.location='/recipe/74/Classic-Roast-Turkey'" onMouseOver="lb('nl74')" onMouseOut="db('nl74')" ><a href="/recipe/74/Classic-Roast-Turkey" title="Recipe File: Classic Roast Turkey">Classic Roast Turkey</a></td><td id="nl43" onclick="window.location='/recipe/43/Homemade-Mayonnaise'" onMouseOver="lb('nl43')" onMouseOut="db('nl43')" ><a href="/recipe/43/Homemade-Mayonnaise" title="Recipe File: Homemade Mayonnaise">Homemade Mayonnaise</a></td></tr></table></div>
+	<div id="navcat_SousVide" style="display:none"><table width="100%" class="navlinks" cellpadding="0" cellspacing="1"><tr><td width="25%" id="nl283" onclick="window.location='/article/283/An-Introduction-to-Sous-Vide-Cooking'" onMouseOver="lb('nl283')" onMouseOut="db('nl283')" ><a href="/article/283/An-Introduction-to-Sous-Vide-Cooking" title="Sous Vide: An Introduction to Sous Vide Cooking">An Introduction to Sous Vide Cooking</a></td><td width="25%" id="nl289" onclick="window.location='/article/289/Sous-Vide-Cooking-at-Home-Setup-Guide'" onMouseOver="lb('nl289')" onMouseOut="db('nl289')" ><a href="/article/289/Sous-Vide-Cooking-at-Home-Setup-Guide" title="Sous Vide: Sous Vide Cooking at Home Setup Guide">Sous Vide Cooking at Home Setup Guide</a></td></tr></table></div>
+	<div id="navcat_TestRecipes" style="display:none"><table width="100%" class="navlinks" cellpadding="0" cellspacing="1"><tr><td width="25%" id="nl14" onclick="window.location='/recipe/14/Albers-Corn-Bread'" onMouseOver="lb('nl14')" onMouseOut="db('nl14')" ><a href="/recipe/14/Albers-Corn-Bread" title="Test Recipes: Albers Corn Bread">Albers Corn Bread</a></td><td width="25%" id="nl19" onclick="window.location='/recipe/19/Erics-Chocolate-Pecan-Pie'" onMouseOver="lb('nl19')" onMouseOut="db('nl19')" ><a href="/recipe/19/Erics-Chocolate-Pecan-Pie" title="Test Recipes: Eric's Chocolate Pecan Pie">Eric's Chocolate Pecan Pie</a></td><td width="25%" id="nl215" onclick="window.location='/recipe/215/Hot-Cross-Buns-Delia-Smiths'" onMouseOver="lb('nl215')" onMouseOut="db('nl215')" ><a href="/recipe/215/Hot-Cross-Buns-Delia-Smiths" title="Test Recipes: Hot Cross Buns (Delia Smith's)">Hot Cross Buns (Delia Smith's)</a></td><td width="25%" id="nl172" onclick="window.location='/recipe/172/Pan-Pizza'" onMouseOver="lb('nl172')" onMouseOut="db('nl172')" ><a href="/recipe/172/Pan-Pizza" title="Test Recipes: Pan Pizza">Pan Pizza</a></td></tr><tr><td id="nl77" onclick="window.location='/recipe/77/Asian-Taco'" onMouseOver="lb('nl77')" onMouseOut="db('nl77')" ><a href="/recipe/77/Asian-Taco" title="Test Recipes: Asian Taco">Asian Taco</a></td><td id="nl46" onclick="window.location='/recipe/46/Faux-BBQ-Beef-Ribs'" onMouseOver="lb('nl46')" onMouseOut="db('nl46')" ><a href="/recipe/46/Faux-BBQ-Beef-Ribs" title="Test Recipes: Faux BBQ Beef Ribs">Faux BBQ Beef Ribs</a></td><td id="nl49" onclick="window.location='/recipe/49/Joy-of-Cookings-Peanut-Butter-Cookies-14-in-one'" onMouseOver="lb('nl49')" onMouseOut="db('nl49')" ><a href="/recipe/49/Joy-of-Cookings-Peanut-Butter-Cookies-14-in-one" title="Test Recipes: Joy of Cooking's Peanut Butter Cookies (14-in-one)">Joy of Cooking's Peanut Butter Cookies (14-in-one)</a></td><td id="nl252" onclick="window.location='/recipe/252/Quick-Gazpacho'" onMouseOver="lb('nl252')" onMouseOut="db('nl252')" ><a href="/recipe/252/Quick-Gazpacho" title="Test Recipes: Quick Gazpacho">Quick Gazpacho</a></td></tr><tr><td id="nl12" onclick="window.location='/recipe/12/Avocado-Pork-Stuffed-Peppers'" onMouseOver="lb('nl12')" onMouseOut="db('nl12')" ><a href="/recipe/12/Avocado-Pork-Stuffed-Peppers" title="Test Recipes: Avocado Pork Stuffed Peppers">Avocado Pork Stuffed Peppers</a></td><td id="nl76" onclick="window.location='/recipe/76/Giblet-Pan-Gravy'" onMouseOver="lb('nl76')" onMouseOut="db('nl76')" ><a href="/recipe/76/Giblet-Pan-Gravy" title="Test Recipes: Giblet Pan Gravy">Giblet Pan Gravy</a></td><td id="nl80" onclick="window.location='/recipe/80/Leftover-Cranberry-Sauce-Pie'" onMouseOver="lb('nl80')" onMouseOut="db('nl80')" ><a href="/recipe/80/Leftover-Cranberry-Sauce-Pie" title="Test Recipes: Leftover Cranberry Sauce Pie">Leftover Cranberry Sauce Pie</a></td><td id="nl13" onclick="window.location='/recipe/13/Sauteed-Zucchini-with-Mushrooms'" onMouseOver="lb('nl13')" onMouseOut="db('nl13')" ><a href="/recipe/13/Sauteed-Zucchini-with-Mushrooms" title="Test Recipes: Sauteed Zucchini with Mushrooms">Sauteed Zucchini with Mushrooms</a></td></tr><tr><td id="nl41" onclick="window.location='/recipe/41/Basic-Biscuits'" onMouseOver="lb('nl41')" onMouseOut="db('nl41')" ><a href="/recipe/41/Basic-Biscuits" title="Test Recipes: Basic Biscuits">Basic Biscuits</a></td><td id="nl72" onclick="window.location='/recipe/72/Good-Eats-Peanut-Brittle'" onMouseOver="lb('nl72')" onMouseOut="db('nl72')" ><a href="/recipe/72/Good-Eats-Peanut-Brittle" title="Test Recipes: Good Eats Peanut Brittle">Good Eats Peanut Brittle</a></td><td id="nl106" onclick="window.location='/recipe/106/Marshmallows'" onMouseOver="lb('nl106')" onMouseOut="db('nl106')" ><a href="/recipe/106/Marshmallows" title="Test Recipes: Marshmallows">Marshmallows</a></td><td id="nl60" onclick="window.location='/recipe/60/The-Classic-Tiramisu-original-recipe'" onMouseOver="lb('nl60')" onMouseOut="db('nl60')" ><a href="/recipe/60/The-Classic-Tiramisu-original-recipe" title="Test Recipes: The Classic Tiramisu (original recipe?)">The Classic Tiramisu (original recipe?)</a></td></tr><tr><td id="nl87" onclick="window.location='/recipe/87/Carrot-Pulp-Cake-Part-I'" onMouseOver="lb('nl87')" onMouseOut="db('nl87')" ><a href="/recipe/87/Carrot-Pulp-Cake-Part-I" title="Test Recipes: Carrot Pulp Cake, Part I">Carrot Pulp Cake, Part I</a></td><td id="nl69" onclick="window.location='/recipe/69/Halloween-Green-Slime-Spinach-Dip'" onMouseOver="lb('nl69')" onMouseOut="db('nl69')" ><a href="/recipe/69/Halloween-Green-Slime-Spinach-Dip" title="Test Recipes: Halloween Green Slime Spinach Dip">Halloween Green Slime Spinach Dip</a></td><td id="nl161" onclick="window.location='/recipe/161/Orzo-Risotto-with-Buttery-Shrimp'" onMouseOver="lb('nl161')" onMouseOut="db('nl161')" ><a href="/recipe/161/Orzo-Risotto-with-Buttery-Shrimp" title="Test Recipes: Orzo Risotto with Buttery Shrimp">Orzo Risotto with Buttery Shrimp</a></td><td id="nl193" onclick="window.location='/recipe/193/TrailBlaze-Bake-At-Home-Energy-Bars'" onMouseOver="lb('nl193')" onMouseOut="db('nl193')" ><a href="/recipe/193/TrailBlaze-Bake-At-Home-Energy-Bars" title="Test Recipes: TrailBlaze Bake-At-Home Energy Bars">TrailBlaze Bake-At-Home Energy Bars</a></td></tr><tr><td id="nl170" onclick="window.location='/recipe/170/Chinese-Almond-Cookies'" onMouseOver="lb('nl170')" onMouseOut="db('nl170')" ><a href="/recipe/170/Chinese-Almond-Cookies" title="Test Recipes: Chinese Almond Cookies">Chinese Almond Cookies</a></td><td id="nl274" onclick="window.location='/recipe/274/Hatch-Chile-Infused-Chocolate-Truffles'" onMouseOver="lb('nl274')" onMouseOut="db('nl274')" ><a href="/recipe/274/Hatch-Chile-Infused-Chocolate-Truffles" title="Test Recipes: Hatch Chile Infused Chocolate Truffles">Hatch Chile Infused Chocolate Truffles</a></td><td id="nl176" onclick="window.location='/recipe/176/Oven-Fried-Onion-Rings'" onMouseOver="lb('nl176')" onMouseOut="db('nl176')" ><a href="/recipe/176/Oven-Fried-Onion-Rings" title="Test Recipes: Oven-Fried Onion Rings">Oven-Fried Onion Rings</a></td></tr></table></div>
+	
+</div>
+<div class="navbarbottom"></div>
+			<table class="tl_table" cellpadding="0" cellspacing="1" border="0">
+	<tr align="center">
+		<td class="indexsummary">
+			<a href="/toc.php?sort=date">Table of Contents</a>
+		</td>
+		<td class="indexsummary">
+			<a href="/forums">Forums</a>
+		</td>
+		<td class="indexsummary">
+			<a href="/dictionary">Dictionary</a>
+		</td>
+		<td class="indexsummary">
+			<a href="/books">Recommended Reading</a>
+		</td>
+		<td class="indexsummary">
+			<a href="http://astore.amazon.com/themichaelupdate">Marketplace</a>
+		</td>
+		<td class="indexsummary">
+			<a href="http://www.cafepress.com/cookingengineer">Giftshop</a>
+		</td>
+		<td class="indexsummary">
+			<a href="/what_i_ate">What I Ate</a>
+		</td>
+		<td class="indexsummary" style="border:1px solid #C00000">
+			<a href="http://www.orthogonalthought.com/blog" title="Read Michael's Blog: Orthogonal Thought" style="background-color:#FFFFC0">Michael's Blog</a>
+		</td>
+	</tr>
+</table>
+
+
+		
+		
+		
+
+
+		
+	<div id="orthogonalthought" onclick="window.location='http://www.orthogonalthought.com/blog/index.php/2014/08/fall-television-season-2014-grid/';" style="cursor:pointer">
+		Latest Post on Michael's Blog: <a href="http://www.orthogonalthought.com/blog/index.php/2014/08/fall-television-season-2014-grid/">Fall Television Season 2014 Grid</a>
+	</div>	
+	
+
+
+		
+		<div class="mainbody">
+			
+
+<table cellpadding="0" cellspacing="2" border="0" style="margin:0 auto 0 auto">
+	<tr>
+		
+		<td style="background: #000000 url(http://www.cookingforengineers.com/pics/160/DSC_1261_crop.jpg) no-repeat center center; cursor:pointer;border:2px solid #FFFFA0;padding:0">
+			<a href="/recipe/65/Pumpkin-Pie" title="Recipe File: Pumpkin Pie"><div style="height:100px;width:100px;cursor:pointer"></div></a>
+		</td>
+		
+		<td style="background: #000000 url(http://www.cookingforengineers.com/hello/259/958/160/DSC_0926_crop.jpg) no-repeat center center; cursor:pointer;border:2px solid #FFFFA0;padding:0">
+			<a href="/article/5/Eggplant-Taste-Test" title="Cooking Tests: Eggplant Taste Test"><div style="height:100px;width:100px;cursor:pointer"></div></a>
+		</td>
+		
+		<td style="background: #000000 url(http://www.cookingforengineers.com/pics5/160/vitamix.jpg) no-repeat center center; cursor:pointer;border:2px solid #FFFFA0;padding:0">
+			<a href="/article/287/Understanding-Blender-Specifications" title="Equipment & Gear: Understanding Blender Specifications"><div style="height:100px;width:100px;cursor:pointer"></div></a>
+		</td>
+		
+		<td style="background: #000000 url(http://www.cookingforengineers.com/pics3/160/ND2_4650_crop.jpg) no-repeat center center; cursor:pointer;border:2px solid #FFFFA0;padding:0">
+			<a href="/article/234/Soda-Club-SodaStream" title="Equipment & Gear: Soda-Club (SodaStream)"><div style="height:100px;width:100px;cursor:pointer"></div></a>
+		</td>
+		
+		<td style="background: #000000 url(http://www.cookingforengineers.com/pics/160/DSC_4505_crop.jpg) no-repeat center center; cursor:pointer;border:2px solid #FFFFA0;padding:0">
+			<a href="/recipe/108/Banana-Nut-Bread" title="Recipe File: Banana Nut Bread"><div style="height:100px;width:100px;cursor:pointer"></div></a>
+		</td>
+		
+		<td style="background: #000000 url(http://www.cookingforengineers.com/pics/160/DSC_8400_crop.jpg) no-repeat center center; cursor:pointer;border:2px solid #FFFFA0;padding:0">
+			<a href="/recipe/122/Beef-Stroganoff" title="Recipe File: Beef Stroganoff"><div style="height:100px;width:100px;cursor:pointer"></div></a>
+		</td>
+		
+		<td style="background: #000000 url(http://www.cookingforengineers.com/pics/160/DSC_1508_crop.jpg) no-repeat center center; cursor:pointer;border:2px solid #FFFFA0;padding:0">
+			<a href="/recipe/71/Pan-Seared-Scallops-with-Roasted-Red-Pepper-Sauce" title="Recipe File: Pan Seared Scallops with Roasted Red Pepper Sauce"><div style="height:100px;width:100px;cursor:pointer"></div></a>
+		</td>
+		
+		<td style="background: #000000 url(http://www.cookingforengineers.com/pics/160/DSC_4848_crop.jpg) no-repeat center center; cursor:pointer;border:2px solid #FFFFA0;padding:0">
+			<a href="/recipe/112/Clam-Chowder-New-England-Style" title="Recipe File: Clam Chowder, New England Style"><div style="height:100px;width:100px;cursor:pointer"></div></a>
+		</td>
+		
+	</tr>
+</table>
+
+
+<div itemscope itemtype="http://data-vocabulary.org/Recipe">
+	<div id="articleheader">
+			<div class="headertitle"><div>
+				<span class="category">
+					Recipe File
+				</span><br />
+				<h1 class="title" style="display:inline" itemprop="name">
+					Mulled Cider (Spiced Apple Cider)
+				</h1>
+				<span class="author">
+					by <span itemprop="author">Michael Chu</span>
+				</span>
+			</div></div>
+		<div class="formatbutton"><a href="/recipe/151/Mulled-Cider-Spiced-Apple-Cider/trn">Recipe Card</a></div>
+		<div class="formatbutton"><a href="/recipe/151/Mulled-Cider-Spiced-Apple-Cider/print">Printer-friendly</a></div>
+		
+		<div class="selectedformatbutton">Normal view</div>
+		
+		<div class="hr"></div>
+	</div>
+
+	<div id="articlebody">
+		
+		
+			<div style="font-size:12pt;font-weight:bold;float:right;margin:0px -6px 0 0;padding:0 4px 6px 8px;background-color:#FFFFA0"><a href="/recipe/152/Cooked-Egg-Nog">Next &#187;</a></div>
+			<div style="font-size:12pt;font-weight:bold;float:left;margin:0px 0 0 -6px;padding:0 8px 6px 4px;background-color:#FFFFA0"><a href="/recipe/147/Dirty-Rice">&#171; Prev</a></div>
+			
+			<div style="clear:both"></div>
+			<div style="float:right;clear:right;padding:4px 0 12px 8px;" class="nothing">
+				
+<!-- Google DFP Article_160x600-->
+<center>
+<div id='dfp_gpt_1' style='width:160px; height:600px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('dfp_gpt_1'); });
+</script>
+</div>
+</center>
+
+				<div style="margin:30px 0 0 0;line-height:0px"><!-- --></div>
+				
+			</div>
+			
+<!-- Google DFP Article_300x250-->
+<div class="adsense-left">
+<div id='dfp_gpt_2' style='width:300px; height:250px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('dfp_gpt_2'); });
+</script>
+</div>
+</div>
+
+
+		
+		
+			
+			Have you ever been enticed at a party by a wonderfully smelling mulled cider only to find that the taste was awfully bland or much too overpowering or filled with strange and unidentifiable flavors? I set out to come up with a formula for a mulled cider that had a clean, crisp taste with just the right mix of spices. Surprisingly, I found that by adding only five common ingredients, plain apple juice was transformed into the ultimate holiday beverage.<span class="fullpost"><?if($fullpost==1){?><br />
+<br />
+In the United States, apple juice and apple cider are almost exactly the same thing. Apple cider should not be confused with the products known as hard cider (which is a fermented product known to the rest of the world as "cider") or sparkling cider (a carbonated beverage made from apple juice). In fact, apple cider is a subcategory of apple juice. Apple cider is (supposed to be) the juice from apples produced by mechanical pressure. According to <a href="http://en.wikipedia.org/wiki/Apple_cider">Wikipedia</a>, apple cider is traditionally made from early-harvest apples and istherefore tangier than apple juice. In my experience and research, I haven't found any proof that this is true as a rule (although some brands will advertise that their cider is made from certain seasonal apples and prepared in a particular manner, I feel that these seem to be differentiating claims instead of applying to apple cider in general). Often, apple cider is associated with unfiltered apple juice, but you can find both unfiltered and filtered cider and juice labeled accordingly in the supermarket. In short, in the United States, there's really not much difference between apple juice and apple cider (speaking as a whole - some brands may differentiate their apple mixes to produce different flavors for their juices and ciders).<br />
+<br />
+<div class="larticles">
+	<div class="title">Related Articles</div>
+	<div class="link">
+			<a href="/recipe/147/Dirty-Rice">Dirty Rice</a>
+		</div><div class="link">
+			<a href="/recipe/152/Cooked-Egg-Nog">Cooked Egg Nog</a>
+		</div><div class="link">
+			<a href="/recipe/255/Dulce-de-Leche">Dulce de Leche</a>
+		</div><div class="link">
+			<a href="/recipe/195/Chocolate-Truffles">Chocolate Truffles</a>
+		</div><div class="link">
+			<a href="/recipe/74/Classic-Roast-Turkey">Classic Roast Turkey</a>
+		</div>
+	
+</div>
+	I like my mulled cider to be clear, so I generally use filtered apple juice or cider. I also use whole spices so they can be easily strained out before serving and don't leave a fine cloud or particulate matter and grit in my mulled cider. Some of the cider recipes that I've tried use coffee filters, the assembly of a bouquet garni, and other steps that I think are extra. This recipe uses a single pan, a strainer, and a zester or knife. I like it when it's simple.<br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/pics2/640/DSC_0614_crop.jpg'><img src='http://www.cookingforengineers.com/pics2/320/DSC_0614_crop.jpg'  width='293' height='320' class='left' alt='' /></a>
+To spice up one quart of apple juice, use one stick of cinnamon, about twenty whole black peppercorns, 3 whole cloves, and 2 tablespoons brown sugar. (The sugar quantity can be reduced down to one tablespoon, but I like it sweet.) In addition to these four ingredients, prepare some zest from a citrus fruit. In this example, I used the zest from half a Meyer lemon, but lemons, limes, and oranges all work perfectly. Use the zest from half a lemon, lime, or lemon-sized orange for each quart of apple juice. If you're using medium lemons, use about a third of the zest. Large oranges - use a quarter of the zest per quart of juice.<br /><div style='clear:left'></div><br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/pics2/640/DSC_0616_crop.jpg'><img src='http://www.cookingforengineers.com/pics2/320/DSC_0616_crop.jpg'  width='320' height='230' class='left' alt='' /></a>
+Select a pot or pan large enough to hold all the apple juice. Toast the cinnamon, cloves, and peppercorns to bring out their distinct flavors and aromas. Do this by simply heating your pan over medium heat with the spices in the pan. Toss the spices in the pan occasionally to prevent burning. The spices should become very fragrant within a minute or two.<br /><div style='clear:left'></div><br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/pics2/640/DSC_0617_crop.jpg'><img src='http://www.cookingforengineers.com/pics2/320/DSC_0617_crop.jpg'  width='320' height='239' class='left' alt='' /></a>
+Pour the apple juice into the pan and bring to a boil over high heat. When the apple juice gets warm, stir in the brown sugar so it fully dissolves.<br /><div style='clear:left'></div><br />
+<br />
+Once the apple juice is boiling, reduce the heat so it just simmers (small bubbles form and rise to the top in a steady rhythm, but not at a furious rate). Add the citrus zest at this time. We don't add the zest earlier because we don't want the brief hard boil to break up the zest to the point where we will have difficulty straining it. If you're careful, you can add the zest with the brown sugar and watch the temperature to bring the juice up to simmering but not to boiling.<br />
+<br />
+Maintain the simmer for thirty minutes. I do this with the lid off because it's easier for me to keep it at a constant simmer this way.<br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/pics2/640/DSC_0620_crop.jpg'><img itemprop="photo" src='http://www.cookingforengineers.com/pics2/320/DSC_0620_crop.jpg'  width='241' height='320' class='left' alt='' /></a>
+Pour the mulled juice/cider through a fine mesh strainer and into the container of your choice. If your cider has a great deal of particulate matter, you may want to place a cheesecloth or coffee filter in your strainer (or sandwiched between two strainers) to filter out the fine particles. Serve hot.<?}?></span><br /><div style='clear:left'></div><span class="fullpost"><?if($fullpost==1){?><br />
+<br />
+You can let the cider cool and then refrigerate for up to week. Bring it back up to a simmer before serving.<?}?></span><br />
+<br />
+<b>Mulled Cider</b> (makes 4 cups)<br />
+<table><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">1 quart</span> <span itemprop="name">apple cider or juice</span></span></td><td class="righthide"></td><td rowspan=4 class="vertical">heat</td><td rowspan=5 class="vertical">dissolve</td><td rowspan=6 class="vertical">simmer 30 min.</td><td rowspan=6 class="vertical">strain</td></tr><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">1 cinnamon</span> <span itemprop="name">stick</span></span></td><td rowspan=3 class="vertical">toast</td></tr><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">20 whole</span> <span itemprop="name">black peppercorns</span></span></td></tr><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">3 whole</span> <span itemprop="name">cloves</span></span></td></tr><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">1 to</span> <span itemprop="name">2 Tbs. brown sugar</span></span></td><td colspan=2 class="righthide"></td></tr><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">zest</span> <span itemprop="name">from 1/2 lemon</span></span></td><td colspan=3 class="righthide"></td></tr></table>This recipe can be scaled by simply scaling the ingredients. Leave the simmering time at thirty minutes.<br />
+<br />
+<div class="larticles">
+	<div class="title">Related Articles</div>
+	<div class="link">
+			<a href="/recipe/147/Dirty-Rice">Dirty Rice</a>
+		</div><div class="link">
+			<a href="/recipe/152/Cooked-Egg-Nog">Cooked Egg Nog</a>
+		</div><div class="link">
+			<a href="/recipe/255/Dulce-de-Leche">Dulce de Leche</a>
+		</div><div class="link">
+			<a href="/recipe/195/Chocolate-Truffles">Chocolate Truffles</a>
+		</div><div class="link">
+			<a href="/recipe/74/Classic-Roast-Turkey">Classic Roast Turkey</a>
+		</div>
+	
+</div>
+	<div style="clear:both;margin-bottom:8px"></div>
+			
+		
+		
+		<div class="clear"></div>
+		
+			<div style="font-size:12pt;font-weight:bold;float:right;margin:0 -6px -4px 0;padding:0 2px 2px 6px;background-color:#FFFFA0"><a href="/recipe/152/Cooked-Egg-Nog">Next &#187;</a></div>
+			<div style="font-size:12pt;font-weight:bold;float:left;margin:0 0 -4px -6px;padding:0 6px 2px 2px;background-color:#FFFFA0"><a href="/recipe/147/Dirty-Rice">&#171; Prev</a></div>
+		
+		<div class="clear"></div>
+	</div>
+	
+	<div id="articlefooter">
+		<div class="author">Written by Michael Chu</div>
+		<div class="timestamp">Published on <time itemprop="publishDate" itemprop="published" datetime="2005-12-14">December 14, 2005 at 11:35 PM</time></div>
+		<div class="clear"></div>
+	</div>
+	
+</div>
+
+
+
+
+
+	<div class="spacer3"></div>
+		
+<!-- Google DFP Article_728x90-->
+<center>
+<div id='dfp_gpt_3' style='width:728px; height:90px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('dfp_gpt_3'); });
+</script>
+</div>
+</center>
+
+		
+	
+	
+  <div id="comments">
+		<div id="articlecomments">
+			<div class="header">48 comments on <b>Mulled Cider (Spiced Apple Cider)</b>:<span class="commentlink">(<a href="/forums/posting.php?mode=reply&t=327" style="font-size:12pt" title="Comments are managed in the Cooking For Engineers Forums">Post a comment</a>)</span></div>
+			
+					<hr size="1" noshade />
+					<div class="commentheading">On December 15, 2005 at 02:38 PM, kenhutton said...</div>
+					<div class="commentsubject">Subject: <span>English Mulled Cider</span><br /></div>
+					<div class="commentbody">It is an old tradition in england to have mulled cider at christmas, but we use what you call hard cider, and preferably a good scrumpy (cider fermented with beer yeast).<br />
+If anyone knows a good recipie for this type of mulled cider, or if this recipie works, I would be interested to know.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 15, 2005 at 04:07 PM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">It may not be obvious, but this is a perfect situation for one of those french coffee presses [or "bodum coffee pots"]... instead of straining....</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 15, 2005 at 05:53 PM, Jayce (guest) said...</div>
+					<div class="commentsubject">Subject: <span>butter</span><br /></div>
+					<div class="commentbody">Besides using honey instead of brown sugar, I've always added a pat of butter at the very end.  A legacy from butter/rum combinations, but even sans rum, it adds a nice touch.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 17, 2005 at 01:01 AM, Rex (guest) said...</div>
+					<div class="commentsubject">Subject: <span>what about cider mills?</span><br /></div>
+					<div class="commentbody">I think it's a mistake to completely ignore cider from a real cidermill.  it's nothing like apple juice in the grocery store, and it's what I would call cider.<br />
+<br />
+I suppose, depending on where you live, its probably not available.  but here in Michigan, it's a Fall staple.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 17, 2005 at 06:13 PM, an anonymous reader said...</div>
+					<div class="commentsubject">Subject: <span>Apple Juice and Apple Cider are clearly not the same</span><br /></div>
+					<div class="commentbody">I live in NE with a number of Orchads a mere 15 mins down the road I grew up drinking cider. Why? Because the rich deep flavor that cider has over apple juice. <br />
+<br />
+Please reconsider, or even better, visit our area in the fall and try some fresh cider for yourself. I'm sure you'll agree, its very different. <br />
+<br />
+ ;)</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 18, 2005 at 12:31 AM, Another New Englander (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">Apple juice != Apple cider<br />
+<br />
+Still, this is a great, simple recipe. I still have some mulling spices that I got as a gift (from Crate &amp; Barrel, Williams Sonoma, or somesuch), but once I run out I'll try this recipe.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 18, 2005 at 08:29 PM, Jon (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Apple Cider, Spiced Coffee</span><br /></div>
+					<div class="commentbody">Here in Massachusetts, apple cider is definitely not apple juice. That aside, I'm going to try this recipe.<br />
+<br />
+Recently I picked up a can of spiced coffee at a specialty shop. It smells great, but didn't come out so well in the pot. I think, though, that I will try adding this simple mixture of spices to the basket of ground coffee. I think just the clove and cinnamon will do the trick.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 18, 2005 at 11:23 PM, NAFortis said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">As always, an excellent recipe, nicely presented.  My compliments. &lt;and, yes, I'll definitely try it.&gt;  Also, in some parts of the US--my childhood in the East in the Thirties comes to mind--apple cider is definitely ~= apple juice.  Best regards to all hands:  Naf</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 19, 2005 at 01:13 AM, eltonyo said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">I have never tried mulled cider, and this afternoon, whislt my two kids were home on college break, and the family was decorating the Christmas tree, I decided to give this recipe a GO.... it seemed like the right time.<br />
+<br />
+I followed the recipe exactly as written, and my whole family loved it.<br />
+<br />
+And quite frankly, I was amazed how much the cider was transformed.<br />
+<br />
+I will definately brew this up more often.<br />
+<br />
+Thanks for the treat!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 21, 2005 at 06:25 AM, eltonyo said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">One more note (having brewed this for my work commrades a second time), and the recipe should note this, though you start with 4 cups of cider/juice in this recipe, when you are finished with the simmering for 30 minutes, you are left with only a little over 2 cups... to the chagrin of the cook/engineer!<br />
+<br />
+Note:  This is a good thing however, because the simmering process (without a lid) is also a reductionism, which helps concentrate the apple juice flavor.  The recipe results should be modified, however, to reflect the fact that you get closer to 20 ounces of the final brew, and not 48.<br />
+<br />
+(I know... these are details.... but i am a SCIENTIST dammit!)<br />
+<br />
+Carry on.  ;)<br />
+<br />
+p.s. I also made the mistake of offering a small sample of this brew, from a hot thermos, to a co-worker, and i forgot to tell him it was boiling hot!  He proceeded to gulp it down, and burned the taste buds off his tongue!  He now talks with a lisp, and complains he can't taste food.  <br />
+<br />
+Such is life.... when living on the edge.  :)</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 21, 2005 at 07:35 AM, Michael Chu said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">Hmmm... I only lost about half a cup during my simmer.<br />
+<br />
+In my last batch, I used Tree Top apple juice and had to cut out a lot of the sugar because the juice started off really sweet to begin with. When using Tree Top, consider making the mulled cider without any added sugar.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 22, 2005 at 02:51 PM, an anonymous reader said...</div>
+					<div class="commentsubject">Subject: <span>Apple Cider vs. Juice</span><br /></div>
+					<div class="commentbody">I am both an engineer and a partner in an orchard/cider operation. Commercially the main difference between the two products is filtering with juice frequently undergoing a concentrating/reconstituting operation. True cider is from fresh squeezed apples and has a fine sediment (shake well before drinking, that is very good stuff!  Oxidation turns the product brown. This is objectionable to many supermarket weaned people hence the filtering/concentrating operations. This is perfectly fine for a commercial process product but we feel some of the apple is lost as do the comments from the readers from the northern apple growing states (I'm a displaced New Englander in Minnesota). Making mulled cider from juice (sometimes referred to as "cider" in supermarkets) is OK, I've done this many times myself. I especially like the idea of using zest (one of my favorite ingredients) and I would not have considered peppercorns. I will certainly give this a try and thanks! <br />
+I didn't realize a cider/beer yeast mix was called "scrumpy". We learned by accident that a beer/cider mix is quite good. We also make hard cider from our unpasteurized product.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 24, 2005 at 07:37 PM, Ben Brockert (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">I understood what you were getting at, with regards to the difference between cider and juice (or the lack thereof). Though I'm not surprised that people argued it anyway.<br />
+<br />
+Good recipe, one I'll try.<br />
+<br />
+The "buy" at the very end should be "by".</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 25, 2005 at 01:55 AM, an anonymous reader said...</div>
+					<div class="commentsubject">Subject: <span>Real apple cider</span><br /></div>
+					<div class="commentbody">"Normal" apple cider is just mediocre juice from mediocre apples.  It has no complexity nor depth the way cider apples do.  You deride "hard cider" because you don't know what a cider apple can do.  Fermented and aged cider apple juice is complex and subtley flavored, unlike "koolaid" apple-juice-cider.  Kids like it, but not mature adults who have a developed sense of taste.<br />
+Patrick</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 28, 2005 at 12:52 AM, Ergolad said...</div>
+					<div class="commentsubject">Subject: <span>The Death Star</span><br /></div>
+					<div class="commentbody">I'm no engineer, but I use The Force when I cook. My method for mulling cider, which is always a hit at my holiday gatherings, is ridiculously simple:<ul style="margin:0 0 0 0;padding:0 0 0 0">1 Big a$$ bottle of Unfiltered Apple Juice from my local Trader Joes<br />
+1 Orange<br />
+1 Stick Cinnamon<br />
+20 (or so) Whole Cloves</ul>Right or wrong, about hour or two before I want to serve it,  I take the orange, give it a good wash, stick it with cloves all over (so it looks like The Death Star), and then jab it with the cinnamon stick. I pour the entire contents of the bottle of juice into a large pasta pot and drop in The Death Star. I bring the whole mess up to a light boil and then bring it down to the lowest flame I can get out of my stove. It sits that way covered the whole night. Not only does everybody love it, but it gets better and better as the night goes on. At the end of the evening, if there is any left, I toss the orange and refrigerate the left-overs to heat another day.<br />
+<br />
+Enjoy. It hasn't killed anyone yet, so I assume it's fairly safe. <br />
+<br />
+"Keep on target."</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 30, 2005 at 07:11 AM, amrc0308 (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Cider</span><br /></div>
+					<div class="commentbody">Just thought Id toss in my $.02<br />
+<br />
+I made this mulled "liquid"-since we cannot seem to agree on cider or juice christmas eve.  I used Martinellis juice, and 3 T sugar.  After simmering the 30 mins I unintentionally let it sit on the counter with the spices in it for ~16 hours.  I reheated it and was amazed at the flavor.  It was a bit sweet because of the Martinellis, but what an amazing flavor.  I used the lemon zest, and it brought a nice edge to the drink.  I made it again using  Tree Top juiice and drank it right away, and boy does it make a difference.  It wasnt very good at all.  My opinion to anyone is to try to use the real juice not the stuff from concentrate.  Makes a huge difference.  Just make sure to cut the sugar back and try before serving to check sweetness, and let it sit overnight to allow the flavors to blend.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 31, 2005 at 12:49 AM, guest (guest) said...</div>
+					<div class="commentsubject">Subject: <span>re: mulled cider</span><br /></div>
+					<div class="commentbody"><div class='commentquote'>Quote:<div class='commentquotebody'>Select a pot or pan large enough to hold all the apple juice. Toast the cinnamon, cloves, and peppercorns to bring out their distinct flavors and aromas. Do this by simply heating your pan over medium heat with the spices in the pan. Toss the spices in the pan occasionally to prevent burning. The spices should become very fragrant within a minute or two.</div></div><br />
+<br />
+For the health-conscious who perform this step, it may be best to use a pan <i>not </i>coated with Teflon or other non-stick coatings. Examples include stainless steel and cast iron. Some concerns have arisen about toxic gases released from Teflon at temperatures required to preheat a pan. Skeptics who like their Teflon pans might consider toasting these ingredients for slightly longer times at lower temperatures.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On March 27, 2006 at 04:10 AM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">I'm not an expert, but I do know this: I'm from Missouri, and we make a sharp difference between apple juice (the clear, supersweet stuff they give you in preschool) and apple cider (the dark, rich drink you can only buy in the fall).  But I live in Canada now (Montreal, to be exact) and here everything is called apple juice - for it to be cider, it has to be alcoholic.  But you can get the dark, sediment-y apple cider (just called juice) all throughout the year here.  So maybe it's a regional difference?</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 12, 2006 at 02:21 AM, nanaverm (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Apple cider</span><br /></div>
+					<div class="commentbody">As an additional treat, if you love cheese, try tossing a piece of cheddar, colby, longhorn, or other mild, stringy-type cheese in the bottom of your cup of hot cider.  Eat it out with a spoon.  If you're the kind that likes cheddar atop your hot apple pie, you'll really enjoy it!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On October 21, 2006 at 10:00 PM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">Cheese in apple juice?<br />
+Cheese on pie?<br />
+<br />
+Are you frigging insane?! Gross...!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On October 31, 2006 at 06:06 PM, an anonymous reader said...</div>
+					<div class="commentsubject">Subject: <span>Cheese in cider?</span><br /></div>
+					<div class="commentbody">Wrong way round!<br />
+<br />
+Having cheese flavoured with cider or apple is great, but sticking cheese in your cider is just weird.<br />
+<br />
+Being British, I'm going to give this recipe a go with 'proper' (alcoholic) cider.  It's also nice to hear that Snakebite (a vicious lager/cider mixture) has been discovered in the States.  There's hope for you guys yet!<br />
+<br />
+P.s. If you put a little blackcurrant cordial in too, you make the even more deadly 'Snakebite and Black'!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 11, 2006 at 09:57 AM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">"In short, in the United States, there's really not much difference between apple juice and apple cider" Wrong, wrong, wrong. Perhaps in some very odd areas they don't get cider, but most everywhere else you can find apple cider when it's in season in the fall and year round if you look. <br />
+<br />
+Heck, you can get apple cider in Walmart! I refuse to accept that there is no difference when you can find real apple cider in Walmart. Have you looked in the produce cooler? That's where alot of places keep it. Who knows why they don't just put it with the other juice, but whatever.<br />
+<br />
+Apple Juice != Apple Cider. Clear cider can't exist. You've strained everything out...it's just apple juice then! It's the sediment that makes it cider.<br />
+<br />
+Enjoy your mulled apple juice, but call it what it is please!<br />
+<br />
+PS - The verification letters incremented by one are INCREDIBLY annoying. I'm all about fighting spam, but COME ON!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On February 03, 2007 at 02:06 AM, BigbirdMD (guest) said...</div>
+					<div class="commentsubject">Subject: <span>my recipe</span><br /></div>
+					<div class="commentbody">I have never used peppercorns (but I think I'll try next batch), but instead use 10-15 whole allspice.  I like cinnamon, so for a half-gallon, I use about 8 sticks and about 15 whole cloves.  The surface peel of half an orange goes in next and the whole half gallon simmers in the crock pot with the lid off.  The mixture gradually concentrates and my home then smells of spiced cider and the winter dry air becomes more comfortable.  <br />
+<br />
+Because I have diabetes, I make a cup of sugar-free commercially marketed spiced cider and add about a quarter cup of my highly spiced concentrate to bring it up to speed, then add a bit of extra lemon or lime juice and sweetener to taste.<br />
+<br />
+Rob McCormick, MD</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On March 11, 2007 at 11:11 AM, auntizzy (guest) said...</div>
+					<div class="commentsubject">Subject: <span>straining spices</span><br /></div>
+					<div class="commentbody">you might try placing all your spices after roasting them in a teaball, then you will only have to strain out the teaball and not have to search for the<br />
+spices. :)</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On March 12, 2007 at 04:45 PM, an anonymous reader said...</div>
+					<div class="commentsubject">Subject: <span>Cider vs. Juice</span><br /></div>
+					<div class="commentbody">In Utah (disclaimer: I am a displaced Californian, and I find Utah culinarily deprived), commercial "cider" is apple juice bottled with cinnamon.  The locals serve it tepid; it is, shall we say, less than stellar.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On September 12, 2007 at 07:40 PM, another enginerd (guest) said...</div>
+					<div class="commentsubject">Subject: <span>ground spice versus whole</span><br /></div>
+					<div class="commentbody">Another reason to use whole spices:<br />
+<br />
+I don't mind not filtering out the spices, but when it's ground, it attaches to the back of your throat when you drink and is NOT pleasant!.  I highly recommend whole spices.  I don't put sugar in mine, but sometimes a dallop of honey is great too.  <br />
+<br />
+I will put allspice in it if I have some.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On October 20, 2007 at 04:10 PM, an anonymous reader said...</div>
+					<div class="commentsubject">Subject: <span>visit a cider mill</span><br /></div>
+					<div class="commentbody">To figure out what apple cider actually is, please visit a cider mill in Michigan (or any other fruit bearing area).  The apples actually get fermented, just not fermented enough to turn into alcohol.  So it's halfway between apple juice and hard cider.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 06, 2007 at 07:43 PM, JAG (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Beer + Apple juice</span><br /></div>
+					<div class="commentbody">No comment on the difference between juice and cider.  Each to his own, as my Granpa said.<br />
+<br />
+In Munich, and I assume the rest of Germany, one can order a marvelous drink called Radler, which is a mixture of beer and- in some biergartens, lemonade is used, and in others, Sprite.  In my opinion, lemonade is better. The best is found at the Augustiner Monastery/Brewery, where the use a sparkling apple juice.  If one uses dark beer, the drink is Russen.  Prost</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 02, 2007 at 04:57 AM, Ugali (guest) said...</div>
+					<div class="commentsubject">Subject: <span>cider v. juice</span><br /></div>
+					<div class="commentbody">Big differences in cider v. juice ... cider is less filtered, and unpasteurized (hence its tendency to ferment if not drunk in short order, and the fact that it is sold refrigerated).  Juice is more filtered, pasteurized, and vacuum sealed, and tends to have additives (sugar, water, preservatives, etc).  One voter for cider in this camp!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 23, 2007 at 06:59 AM, none (guest) said...</div>
+					<div class="commentsubject">Subject: <span>cider</span><br /></div>
+					<div class="commentbody">Cider and juice are not the same thing - I have been to several apple orchards and have seen them making both - they are very different!!! However, I am glad to hear that so many people love mulled cider.  I think it is one of the most amazing drinks for a party on a cold wintry night.  I always have a bottle of whiskey, dark rum or brandy nearby so anyone interested may add a shot to their cup.  My mother will often throw a cup or 2 of cranberry juice into her apple cider which adds an interesting twist to the flavor - just another option one may try.  I agree that whole spices are the best way to go and will have to give the lemon zest and peppercorns a try this year.  I am actually having a cup right now!!!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 21, 2008 at 04:31 PM, ~j (guest) said...</div>
+					<div class="commentsubject">Subject: <span>modifications...</span><br /></div>
+					<div class="commentbody">since i am from California, i would love to try the "REAL" non-alcoholic cider but the best i can do besides picking and pressing my own apples is to buy the unfiltered organic apple juice. <br />
+<br />
+i agree a lot of juice evaporates so i only simmer it for 20 minutes (less for the "angel's share") also i'm torn if i should add any sugar at all. the juice wasn't terribly sweet and i put less than half a portion but it seemed to get sweeter as it simmered...also i wonder if allspice is better than adding peppercorns? how much allspice shoud i use?<br />
+<br />
+i like to add orange slices for a garnish.  in the end it's so nice to have a hot fruity drink when it's "cold" out and you can drive yourself home afterwards :)</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On February 18, 2009 at 11:40 AM, MissJubilee (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Other cider ideas</span><br /></div>
+					<div class="commentbody">For the cider vs juice debate, I'm something of a traitor to my side - I come from New England, but lived in Virginia most of my life, and now being in China where "real" cider (non-alcoholic) isn't available (as far as I know), I have taken to using the word as it is in this recipe - spiced juice, really, but I call it "cider" and am understood by all the expats here who always ask for re-fills!  My conscience has let me off the hook since it's such a hit :)<br />
+<br />
+So, my mix of spices is:<br />
+starting with at least two liters 100% juice, add<br />
+two or three cinnamon sticks, <br />
+a dozen or more cloves pushed into a clean small orange (sometimes I make a cut in the skin too to let out a little more juice), <br />
+4-5 medium slices crystalized ginger, <br />
+a freshly-bruised whole nutmeg, and <br />
+3-4 large slices of apple with the skin still on.<br />
+And yes, it gets better the longer it simmers!<br />
+<br />
+I also put in extra apple juice when I'm simmering apples for sauce, and then ladle the liquid out before crushing/processing the cooked apples.  The liquid I mix in small amounts with plain apple juice to make "instant cider" or freeze it in larger batches to mix in with the cider recipe above.  This adds apple particulate to the finished product, which personally I think is what makes it truly cider-ish.  I describe it as a more "raw" flavor.  (It's why I put slices of apple in the recipe above when I don't have this concentrate to work with... I don't know how much it helps, but it makes me feel better, anyway!)</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On September 25, 2009 at 03:51 PM, CA (guest) said...</div>
+					<div class="commentsubject">Subject: <span>TopsfieldFair</span><br /></div>
+					<div class="commentbody">How neat to have comments going on for three years about this recipe.<br />
+I couldn't resist giving my $.02 so here goes.<br />
+I'm also from New England (MA) where cider is certainlly made from real apples.  <br />
+If you've ever been to Topsfield Fair, every first week of October in Topsfield MA, you can see the process done right there before your very eyes and it's really cool to watch and even more delightful to drink. (watch out for the bees they love it too)  <br />
+I suspect however that folks love to enjoy a "tanged up" anything and that is why we sit here sharing our ideas on how to get that delicious cider taste from our own kitchens for lack of the right equipment.<br />
+I've never had a better cider than that at the fair.  But here is my kitchen recipe...<br />
+<br />
+Crock pot, high setting <br />
+Fill it up with apple juice Not from concentrate, like Stewarts if you've ever had that. (I've used frozen with water too, it's ok) <br />
+small orange, sliced<br />
+some clove, not too much <br />
+3-4 cinnamon sticks<br />
+add sugar; brown, splenda, stevia, cinnamon sugar whatever (start off with a little then increase as desired)<br />
+tbs ginger<br />
+tsp nutmeg<br />
+Give it a good stir and let the heat do the rest.  The longer it sits the better, but its ready to go in a few hours.  Try to strain out the clove with a mesh scoop if you have it but I wouldn't worry about straining the whole batch.  WATCH OUT, it will be hot!<br />
+The crock pot can be placed anywhere you'd like it to for entertaining, so that's a plus when preparing it this way. <br />
+Enjoy all you Autumn / holiday cider extremes!  I love it! <br />
+And I love you!!!!!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On October 11, 2009 at 11:52 PM, Guest (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Mulled Cider</span><br /></div>
+					<div class="commentbody"><font color='darkred'></font>I'm from NYC originally, where people might think of apple cider and juice as the same thing, but I lived for many years in Ulster Country, NY, where the best apple cider in the world is made (sorry Massachusetts) and have to vote strongly that there is a big difference between a cup of hardy apple cider and it's cleaned up little brother, juice. I would never think of adding rum to juice, for example.  Love all the mulling recipes here, except for adding sugar. A little rum or bourbon, perhaps, and a thermos to take it ice skating.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On October 26, 2009 at 04:08 AM, Harriets69 (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Real apple cider</span><br /></div>
+					<div class="commentbody">[b:57ec6cf015]There is nothing like real pressed apple cider! I live in Florida and have never found the kind of cider the Amish have in Pennsylvania!<br />
+Down here, to me it just tastes like plain old apple juice.<br />
+I would give anything to find the real stuff! Maybe I will have to load up the car and take a drive North soon!!!! :unsure: [/b:57ec6cf015]</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 03, 2009 at 09:57 PM, an anonymous reader said...</div>
+					<div class="commentsubject">Subject: <span>Great Recipe</span><br /></div>
+					<div class="commentbody">This is an easy and fun recipe I'm doing with my kids tonight.  My husband is a geologist, thought, so I probably won't mention where I got the recipe (the battle between the engineers and the geologists rages at his consulting firm).  Thanks for the great ideas.  Nicely presented, too.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 16, 2009 at 01:31 PM, Robin (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Northern NJ thoughts</span><br /></div>
+					<div class="commentbody"><b>LOVE the banter and the recipe!</b>  The cider-juice difference must be a pinch of semantics, a whole lot of engineering egos --and dollop of which region you're from.  I live in northern NJ (near several orchards) and what you call it truly depends upon where you grew up!  :)  Here, there's a big difference in product but the name gets confused all the time.  It seems to me that if it is freshly pressed, it is cider.  We have a deer problem in the area and sadly, many local orchards are no longer making cider because they don't have the equipment to pasturize it (to prevent bacterial issues).  Even pasturized, cider is still quite different looking and tasting than juice.  <br />
+<br />
+Regarding the recipie:  Last night was the first time I ever made it!  I didn't have peppercorns and hadn't thought of toasting all of the spices first!  I plan to go shopping today!  great IDEAS!  :D  i can't wait to taste it!!  In the past, my friends have made it with cinnamon, ginger, nutmeg, allspice, cardemom and a little coriander.  It sounds very much like pumpkin pie spices to me...I've also had it with an added touch of orange juice but no sugar.  Lemme know what you all think, if you try it that way!  By the way, the teaball works wonderfully. Don't burn yourself adding your spices to the teaball!!  :shock: Enjoy and thanks to all for sharing!!!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 09, 2009 at 11:41 AM, OsakaWebbie (guest) said...</div>
+					<div class="commentsubject">Subject: <span>&quot;Cider&quot; in Japan</span><br /></div>
+					<div class="commentbody">You guys think it's hard to define cider where <i>you</i> live - at least <i>your</i> neighbors know it comes from apples!  I don't know what happened to cause this, but in Japan the word "cider" means a carbonated soft drink, usually the kind flavored like Sprite or 7-up - the most famous brand is Mitsuya ("three arrows") Cider (see <a href='http://en.wikipedia.org/wiki/Mitsuya_Cider'>the Wikipedia article</a>).<br />
+<br />
+We have Christmas parties every year for various groups of people (a primary motivation is to tell them what Christmas means - most of them have no idea!), and when we can, we make mulled cider.  Like MissJubilee who wrote earlier from China, in Japan also there is no such thing as either the northern U.S. definition of cider (cloudy brown flavorful fresh stuff - I grew up in Indiana, so I know about that) or the British definition (Applejack), so I have to use ordinary apple juice.  I have always just used lots of cinnamon sticks and cloves, but this year I'll try the citric zest and maybe even the peppercorns (sounds daring - I may start with just a few).  Or maybe it would be fun, especially for a party with kids, to make the afore-mentioned "death star" - the winter tangerines here (called mikan) are small, great-flavored, and the skin is quite thin - almost no white pith at all, so no bitterness.<br />
+<br />
+But we always have to explain what cider is.  Since even the western world can't agree on the definition, we usually just say that is a substance similar to apple juice but a little different, and leave it at that.  Merry Christmas!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 18, 2009 at 05:42 PM, queensaltine (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Mulled cider</span><br /></div>
+					<div class="commentbody">I tried this recipe last Xmas for friends...what a hit!  The peppercorns add bite but its subtle.  After toasting the seasonings, I tied them in a cheesecloth bag and let it simmer in the REAL local cider I bought from a farm that has a cider press.  Needless to say I'm making this recipe again next week when company comes.  Oh, and don't forget to leave out a bottle of spiced rum for guests to add as needed.....YUM!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 22, 2009 at 03:55 PM, NCO (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Apple Cider Recipe</span><br /></div>
+					<div class="commentbody">Just received a new recipe, made it last night and everyone loved it.  I will add a little rum for myself...<br />
+<br />
+Hot Mulled Cider, By: P. Allen Smith<br />
+Ingredients: <br />
+2 Quarts Apple Juice or Apple Cider <br />
+2 Cups Orange Juice <br />
+1 Cup Pineapple Juice <br />
+1/2 Cup Lemon Juice <br />
+1/2 Cup Brown Sugar <br />
+2 Cinnamon Sticks <br />
+2 Teaspoons Cloves <br />
+1 Teaspoon Allspice <br />
+1 Teaspoon Powdered Ginger <br />
+Orange Slices for Garnish <br />
+<br />
+Instructions: <br />
+<br />
+Start by combining the juices in a large pot. You can substitute the apple juice with apple cider. The difference between cider and juice, officially, is the cider is slightly fermented which makes it a bit effervescent and it contains a percentage of alcohol. <br />
+<br />
+Add to the brew a half a cup of brown sugar, two cinnamon sticks, two teaspoons of cloves, one teaspoon of allspice and one teaspoon of powdered ginger. Now, cook all of this over medium heat until it begins to boil and then reduce the heat and let it simmer about 15 minutes longer. <br />
+<br />
+To finish it off, garnish with a few fresh orange slices. This recipe makes enough for ten. As you can imagine, with all of these spices, the aroma is incredible. What better way to have your entire home to smell like the holidays and what a delicious treat for friends and family when they drop in.   Enjoy!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 22, 2009 at 08:59 PM, UnclearFizzyCyst (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Hmmmm, peppercorns...mmmmmm</span><br /></div>
+					<div class="commentbody">I use a centrifugal juicer quite a bit, both for juicing and cooking.<br />
+<br />
+Use 8-10 nice fresh SCRUBBED red apples (you want that touch of pithiness) per quart of juice. <br />
+<br />
+Strain it (I use a fine strainer followed by a paper kitchen towel, be patient).<br />
+<br />
+Follow this recipe but reduce peppers to 7, add 2 star anise (whole stars), 5 allspice and toast with the rest.<br />
+<br />
+Use a tea strainer ball for the 'bitty bits'.<br />
+<br />
+Bring to a simmer in a crockpot and simmer 1/2hr or so until it tastes good.<br />
+<br />
+Strain. Return to crockpot set to 'warm'. Garnish with a clove stick, lemon slices and a death-star (nice touch). I use a Clemantine.<br />
+<br />
+Serve with brown sugar and poisonous volatile hydrocarbons of choice.<br />
+<br />
+A knob of butter during heating will trap the spice volatiles but I prefer an un-greasy drink. Do NOT boil above a gentle simmer, all the best flavors will boil off.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On January 04, 2010 at 02:19 PM, sharoni (guest) said...</div>
+					<div class="commentsubject">Subject: <span>three words for you</span><br /></div>
+					<div class="commentbody">crab apple jelly. add that to your mulled cider and it's brilliant.<br />
+<br />
+Also I don't get this whole cider/juice thing... Here in Australia proper cider is made from proper cider apples and is alcoholic. <br />
+<br />
+If pulpy apple juice is apple cider does that make pulpy orange juice orange cider?<br />
+<br />
+lol I kid.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On September 04, 2010 at 11:10 PM, Abigale (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Love the cider!</span><br /></div>
+					<div class="commentbody">I really love this recipe. Toasting the spices is key, and something I hadn't thought of. <br />
+I used cranberry juice instead of apple, and added a little honey to sweeten it, and it turned out really well.<br />
+<br />
+Thanks!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 26, 2010 at 09:13 AM, Cristal said...</div>
+					<div class="commentsubject">Subject: <span>Cider vs Juice</span><br /></div>
+					<div class="commentbody">I work in a grocery store, and when it comes right down to it, the Cider and the Juice you can buy off the market shelf is pretty much the same thing. The Companies market it both ways to draw in customers from both crowds.<br />
+Don't get me wrong, I'm not saying <b>I</b> think it's the same. We have a local Historic orcherd here and every year they do a Cider Squeeze. True Cider has a cloudy apperence and a much richer (and less processed) taste. But True cider is not processed, not strained, not pasturised, and definately not shelf-stable. So the major companies have to find a way to make it so, or loose half their consumers.<br />
+Now a days some companies are coming out with true cider, even organic stuff. But for the best stuff I would look for near the produce department, and in refrigeration.<br />
+<br />
+As for the recipe it sounds excelent. We tend to get the packets of Spiced Cider, but this might be a good alternative. I'll be giving it a try in the near future.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 31, 2010 at 09:55 PM, Fuzzychris (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Apple Cider</span><br /></div>
+					<div class="commentbody">Yes, here in Massachusetts there is definitely a difference between cider and apple juice. And I'm not sure if it should be considered cider if it's pasteurized. It's really hard to find it unpasteurized now. In Mass. (and I think in all the other New England states) it's only allowed to be sold directly from an orchard. Pasteurized cider will not ferment, and I think it needs to be just slightly fermented. Otherwise it's just too sweet.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On October 15, 2011 at 06:09 AM, trig (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Recipe</span><br /></div>
+					<div class="commentbody">I have opposite tastes, I prefer my mulled cider to be sludgy :)  I use very lightly filtered cider, extra pulp OJ, and a mix of ground / whole spices.  Here is the recipe.<br />
+<br />
+1 gallon unfiltered cider<br />
+half gallon extra pulp OJ<br />
+half gallon strong brewed orange pekoe tea<br />
+1 tbs cinnamon<br />
+1 tbs all spice (or a small handful of whole allspice whichever)<br />
+1 whole nutmeg freshly ground<br />
+20-25 whole cloves (mine are old so you might want to start at 10ish)<br />
+<br />
+The spices (especially cloves) will become stronger the longer you cook it up to a point.  I prefer the taste the cider takes from boiling so I will let it boil for a bit, 15 min or so.  Then turn it down and just let it simmer on the stove all day, makes a hearty drink and a wonderful smelling house.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On October 16, 2011 at 10:29 PM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">try mixing cider and applejuice tastes like applepie</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On October 30, 2013 at 10:15 PM, Luke (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Mulled cyder</span><br /></div>
+					<div class="commentbody">@kenhutton: I am a chef patron of a small bristol (UK) pub and one thing we know about in Bristol is Cyder!<br />
+I am happy to share my mulled cyder recipe. 3 litres dry cider, sugar (to taste) zest of 2 clementines, 1/2 nutmeg, 12 cloves, tsp peppercorns, 20g of fresh ginger, 6 cardomon pods, small sprig of fresh thyme, 1 scotch bonnet, 1 star anise<br />
+<br />
+no need to toast the spices, just gently warm them together in a pan (less than a simmer) for 1-2 hours. The scotch bonnet should be added in the last hour and will provide a beautiful floral aroma and gentle warmth but be very carful not to break the skin or the brew will take on an INTENSE heat.<br />
+<br />
+FYI: In the UK the difference between cider scrumnpy is the apples used. scrumpy is made with eating apples and consequently has a very short shelf life (not brewed with beer yeast as someone suggested) where as cider brewed of cider apples which are unfit for eating or cooking due to a very high tanin content. these tanins preserve the brew for long periods</div>
+					<hr size="1" noshade />
+				
+		<div class="commentlink">
+			<a href="/forums/posting.php?mode=reply&t=327" title="Comments are managed in the Cooking For Engineers Forums">Post a comment on <i>Mulled Cider (Spiced Apple Cider)</i></a>
+		</div>
+	</div>
+	
+</div>
+	
+  
+	<div class="spacer3"></div>
+	
+<!-- Google DFP Article_Footer_728x90-->
+<center>
+<div id='dfp_gpt_4' style='width:728px; height:90px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('dfp_gpt_4'); });
+</script>
+</div>
+</center>
+
+	<div class="spacer3"></div>
+
+
+		</div>
+		
+		
+			
+<table class="fl_table" cellspacing="2" cellpadding="0" border="0">
+	<tr>
+		<td width="16%">
+			<a href="/article/138/About-Cooking-For-Engineers" title="About Cooking For Engineers">About CfE</a>
+		</td>
+		<td width="17%">
+			<a href="/article/139/Contact-Cooking-For-Engineers" title="Contact Cooking For Engineers">Contact</a>
+		</td>
+		<td width="17%">
+			<a href="/article/190/User-Agreement" title="User Agreement">User Agreement</a>
+		</td>
+		<td width="16%">
+			<a href="/article/140/Frequently-Asked-Questions" title="Frequently Asked Questions">FAQ's</a>
+		</td>
+		<td width="17%">
+			<a href="/article/141/In-the-Press" title="Cooking For Engineers in the Press">In the Press</a>
+		</td>
+		<td width="17%">
+			<a href="/article/191/Article-Submission-Program" title="Article Submission Program">Write for CfE</a>
+		</td>
+	</tr>
+</table>
+			
+		
+		<div id="footer">
+	
+  <center><span style="font-size: 85%; line-height: 110%;">All content published by CFE Enterprises, Inc. under license with copyright holders<br>Tabular Recipe Notation Patent Pending (Michael Chu)</span></center>
+
+	<center><a href="/atom.xml">Syndicate</a> <a href="/atom.xml"><img src="/pics/xml.gif" alt="(XML)" style="vertical-align: middle;" border="0" /></a></center>
+
+	
+
+	
+
+	
+	
+	  <!-- Google Analytics -->
+	<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+	</script>
+	<script type="text/javascript">
+	_uacct = "UA-254248-1";
+	urchinTracker();
+	</script>
+
+		
+	<script type="text/javascript">stLight.options({publisher: "b3ed4fb7-bc1d-41a0-b780-15d3cf6b7561"});</script>
+<script>
+var options={ "publisher": "b3ed4fb7-bc1d-41a0-b780-15d3cf6b7561", "position": "left", "ad": { "visible": false, "openDelay": 5, "closeDelay": 0}, "chicklets": { "items": ["facebook", "pinterest", "twitter", "googleplus", "stumbleupon", "email"]}};
+var st_hover_widget = new sharethis.widgets.hoverbuttons(options);
+</script>
+ </div>
+		
+	</body>
+</html>

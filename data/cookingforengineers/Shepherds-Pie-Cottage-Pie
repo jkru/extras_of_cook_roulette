@@ -1,0 +1,1465 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+	<head>
+		<title>Shepherd's Pie (Cottage Pie) - Recipe File - Cooking For Engineers</title>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="description" content="Step by step recipe instructions for shepherd's pie (cottage pie) complete with photographs and reader comments and discussion" />
+		<meta name="keywords" content="cooking,recipes,techniques,photos,discussion,shepherd's pie (cottage pie)" />
+		
+		
+		<link href="/stylesheets/style.css?1381092548" media="screen" rel="Stylesheet" type="text/css" /><link href="/stylesheets/frontpage.css?1204359954" media="screen" rel="Stylesheet" type="text/css" />
+		
+		
+		
+		<script src="/javascripts/prototype.js?1204375576" type="text/javascript"></script><script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript" src="http://s.sharethis.com/loader.js"></script>
+
+		
+<script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + 
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
+
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+
+googletag.defineSlot('/1057967/Article_160x600', [160, 600], 'dfp_gpt_1').addService(googletag.pubads());
+
+googletag.defineSlot('/1057967/Article_300x250', [300, 250], 'dfp_gpt_2').addService(googletag.pubads());
+
+googletag.defineSlot('/1057967/Article_728x90', [728, 90], 'dfp_gpt_3').addService(googletag.pubads());
+
+googletag.defineSlot('/1057967/Article_Footer_728x90', [728, 90], 'dfp_gpt_4').addService(googletag.pubads());
+
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+});
+</script>
+
+		<link href="http://www.cookingforengineers.com/atom.xml" rel="alternate" title="Atom 1.0 Feed" type="application/atom+xml" />
+		
+		<link rel="shortcut icon" href="http://www.cookingforengineers.com/favicon.ico" />
+	</head>
+	<body>
+		
+		
+		
+			<div class="navbar">
+	<div style="float:left">
+		<div class="sitetitle"><a href="/">Cooking For Engineers<span class="trademark">&reg;</span></a></div>
+		<div class="subtitle">Have an analytical mind? Like to cook? This is the site to read!</div>
+	</div>
+	<div style="float:right; margin: 15px 8px 0 0">
+		<form method="get" action="/searchform" style="margin: 0pt; display: inline;">
+		  <input style="margin: 0pt 0pt 2px; font-size: 90%;" name="terms" size="25" maxlength="255" value="" type="text">
+		  <input style="margin: 0pt 0pt 2px; font-size: 90%;" name="search" value="Search" type="submit">
+	  </form>
+	  <br>
+	  <!-- Google Search -->
+	  <form target="_blank" action="http://www.google.com/search" style="margin: 0pt; display: inline;">
+		  <input style="font-size: 90%;" size="24" maxlength="255" value="half cup in milliliters" name="q" type="text">
+		  <input style="font-size: 90%;" name="sa" value="Convert" type="submit">
+		</form>
+	</div>	
+	<div class="clear"></div>
+	<table class="nav" cellpadding="0" cellspacing="1">
+		<tr><td width="11%" id="categorytd_Books"><a href="#" onClick="showcat('Books');return false">Books</a></td>
+			<td width="11%" id="categorytd_CookingTests"><a href="#" onClick="showcat('CookingTests');return false">Cooking&nbsp;Tests</a></td>
+			<td width="11%" id="categorytd_DiningOut"><a href="#" onClick="showcat('DiningOut');return false">Dining&nbsp;Out</a></td>
+			<td width="11%" id="categorytd_EquipmentGear"><a href="#" onClick="showcat('EquipmentGear');return false">Equipment&nbsp;&amp;&nbsp;Gear</a></td>
+			<td width="11%" id="categorytd_KitchenNotes"><a href="#" onClick="showcat('KitchenNotes');return false">Kitchen&nbsp;Notes</a></td>
+			<td width="11%" id="categorytd_OffTopic"><a href="#" onClick="showcat('OffTopic');return false">Off&nbsp;Topic</a></td>
+			<td width="11%" id="categorytd_RecipeFile"><a href="#" onClick="showcat('RecipeFile');return false">Recipe&nbsp;File</a></td>
+			<td width="11%" id="categorytd_SousVide"><a href="#" onClick="showcat('SousVide');return false">Sous&nbsp;Vide</a></td>
+			<td width="12%" id="categorytd_TestRecipes"><a href="#" onClick="showcat('TestRecipes');return false">Test&nbsp;Recipes</a></td>
+			</tr>
+	</table>
+	<script type="text/javascript">
+//<![CDATA[
+
+	function lb(id)
+	{
+		document.getElementById(id).style.border='1px solid #FFFF00';
+	}
+	function db(id)
+	{
+		document.getElementById(id).style.border='1px solid #99FF99';
+	}
+	function showcat(id)
+	{
+		var curdisplay = document.getElementById('navcat_'+id).style.display;
+		document.getElementById('navcat_Books').style.display='none';
+document.getElementById('navcat_CookingTests').style.display='none';
+document.getElementById('navcat_DiningOut').style.display='none';
+document.getElementById('navcat_EquipmentGear').style.display='none';
+document.getElementById('navcat_KitchenNotes').style.display='none';
+document.getElementById('navcat_OffTopic').style.display='none';
+document.getElementById('navcat_RecipeFile').style.display='none';
+document.getElementById('navcat_SousVide').style.display='none';
+document.getElementById('navcat_TestRecipes').style.display='none';
+
+		document.getElementById('categorytd_Books').style.border='1px solid #99FF99';
+document.getElementById('categorytd_Books').style.backgroundColor='transparent';
+document.getElementById('categorytd_CookingTests').style.border='1px solid #99FF99';
+document.getElementById('categorytd_CookingTests').style.backgroundColor='transparent';
+document.getElementById('categorytd_DiningOut').style.border='1px solid #99FF99';
+document.getElementById('categorytd_DiningOut').style.backgroundColor='transparent';
+document.getElementById('categorytd_EquipmentGear').style.border='1px solid #99FF99';
+document.getElementById('categorytd_EquipmentGear').style.backgroundColor='transparent';
+document.getElementById('categorytd_KitchenNotes').style.border='1px solid #99FF99';
+document.getElementById('categorytd_KitchenNotes').style.backgroundColor='transparent';
+document.getElementById('categorytd_OffTopic').style.border='1px solid #99FF99';
+document.getElementById('categorytd_OffTopic').style.backgroundColor='transparent';
+document.getElementById('categorytd_RecipeFile').style.border='1px solid #99FF99';
+document.getElementById('categorytd_RecipeFile').style.backgroundColor='transparent';
+document.getElementById('categorytd_SousVide').style.border='1px solid #99FF99';
+document.getElementById('categorytd_SousVide').style.backgroundColor='transparent';
+document.getElementById('categorytd_TestRecipes').style.border='1px solid #99FF99';
+document.getElementById('categorytd_TestRecipes').style.backgroundColor='transparent';
+
+		if (curdisplay != 'block')
+		{
+			document.getElementById('categorytd_'+id).style.border='1px solid #9999FF';
+			document.getElementById('categorytd_'+id).style.backgroundColor='#000060';
+			document.getElementById('navcat_'+id).style.display='block';
+		}
+		else
+		{
+			document.getElementById('navcat_'+id).style.display='none';
+		}
+	}
+	
+//]]>
+</script>
+	<div id="navcat_Books" style="display:none"><table width="100%" class="navlinks" cellpadding="0" cellspacing="1"><tr><td width="25%" id="nl248" onclick="window.location='/article/248/Everybody-Eats-Lunch-by-Cricket-Azima'" onMouseOver="lb('nl248')" onMouseOut="db('nl248')" ><a href="/article/248/Everybody-Eats-Lunch-by-Cricket-Azima" title="Books: Everybody Eats Lunch by Cricket Azima">Everybody Eats Lunch by Cricket Azima</a></td><td width="25%" id="nl229" onclick="window.location='/article/229/Joy-of-Cooking-75th-Anniversary-Edition-2006'" onMouseOver="lb('nl229')" onMouseOut="db('nl229')" ><a href="/article/229/Joy-of-Cooking-75th-Anniversary-Edition-2006" title="Books: Joy of Cooking (75th Anniversary Edition; 2006)">Joy of Cooking (75th Anniversary Edition; 2006)</a></td><td width="25%" id="nl307" onclick="window.location='/article/307/Ten-Great-Gifts-for-Cooking-For-Engineers-Fans'" onMouseOver="lb('nl307')" onMouseOut="db('nl307')" ><a href="/article/307/Ten-Great-Gifts-for-Cooking-For-Engineers-Fans" title="Books: Ten Great Gifts for Cooking For Engineers' Fans">Ten Great Gifts for Cooking For Engineers' Fans</a></td><td width="25%" id="nl241" onclick="window.location='/article/241/The-Story-of-Tea-by-Mary-Lou-and-Robert-Heiss'" onMouseOver="lb('nl241')" onMouseOut="db('nl241')" ><a href="/article/241/The-Story-of-Tea-by-Mary-Lou-and-Robert-Heiss" title="Books: The Story of Tea by Mary Lou and Robert Heiss">The Story of Tea by Mary Lou and Robert Heiss</a></td></tr><tr><td id="nl270" onclick="window.location='/article/270/Fun-Food-Facts-by-Mike-Bellino'" onMouseOver="lb('nl270')" onMouseOut="db('nl270')" ><a href="/article/270/Fun-Food-Facts-by-Mike-Bellino" title="Books: Fun Food Facts by Mike Bellino">Fun Food Facts by Mike Bellino</a></td><td id="nl242" onclick="window.location='/article/242/Kitchen-Mysteries-by-Herve-This'" onMouseOver="lb('nl242')" onMouseOut="db('nl242')" ><a href="/article/242/Kitchen-Mysteries-by-Herve-This" title="Books: Kitchen Mysteries by Herve This">Kitchen Mysteries by Herve This</a></td><td id="nl254" onclick="window.location='/article/254/The-Science-of-Good-Food'" onMouseOver="lb('nl254')" onMouseOut="db('nl254')" ><a href="/article/254/The-Science-of-Good-Food" title="Books: The Science of Good Food">The Science of Good Food</a></td><td id="nl220" onclick="window.location='/article/220/Toast-by-Nigel-Slater'" onMouseOver="lb('nl220')" onMouseOut="db('nl220')" ><a href="/article/220/Toast-by-Nigel-Slater" title="Books: Toast by Nigel Slater">Toast by Nigel Slater</a></td></tr><tr><td id="nl201" onclick="window.location='/article/201/Heat-by-Bill-Buford'" onMouseOver="lb('nl201')" onMouseOut="db('nl201')" ><a href="/article/201/Heat-by-Bill-Buford" title="Books: Heat by Bill Buford">Heat by Bill Buford</a></td><td id="nl333" onclick="window.location='/article/333/Modernist-Cuisine-at-Home-on-Inkling'" onMouseOver="lb('nl333')" onMouseOut="db('nl333')" ><a href="/article/333/Modernist-Cuisine-at-Home-on-Inkling" title="Books: Modernist Cuisine at Home on Inkling">Modernist Cuisine at Home on Inkling</a></td><td id="nl292" onclick="window.location='/article/292/The-Sorcerers-Apprentices-by-Lisa-Abend'" onMouseOver="lb('nl292')" onMouseOut="db('nl292')" ><a href="/article/292/The-Sorcerers-Apprentices-by-Lisa-Abend" title="Books: The Sorcerer's Apprentices by Lisa Abend">The Sorcerer's Apprentices by Lisa Abend</a></td><td id="nl233" onclick="window.location='/article/233/Vegetables-The-Culinary-Institute-of-America'" onMouseOver="lb('nl233')" onMouseOut="db('nl233')" ><a href="/article/233/Vegetables-The-Culinary-Institute-of-America" title="Books: Vegetables (The Culinary Institute of America)">Vegetables (The Culinary Institute of America)</a></td></tr></table></div>
+	<div id="navcat_CookingTests" style="display:none"><table width="100%" class="navlinks" cellpadding="0" cellspacing="1"><tr><td width="25%" id="nl3" onclick="window.location='/article/3/Bacon-Part-I'" onMouseOver="lb('nl3')" onMouseOut="db('nl3')" ><a href="/article/3/Bacon-Part-I" title="Cooking Tests: Bacon (Part I)">Bacon (Part I)</a></td><td width="25%" id="nl171" onclick="window.location='/article/171/Beer-Can-Chicken'" onMouseOver="lb('nl171')" onMouseOut="db('nl171')" ><a href="/article/171/Beer-Can-Chicken" title="Cooking Tests: Beer Can Chicken">Beer Can Chicken</a></td><td width="25%" id="nl173" onclick="window.location='/article/173/HFCS-Free-Cream-Sodas'" onMouseOver="lb('nl173')" onMouseOut="db('nl173')" ><a href="/article/173/HFCS-Free-Cream-Sodas" title="Cooking Tests: HFCS-Free Cream Sodas">HFCS-Free Cream Sodas</a></td><td width="25%" id="nl249" onclick="window.location='/article/249/Soft-Boiled-Eggs'" onMouseOver="lb('nl249')" onMouseOut="db('nl249')" ><a href="/article/249/Soft-Boiled-Eggs" title="Cooking Tests: Soft Boiled Eggs">Soft Boiled Eggs</a></td></tr><tr><td id="nl110" onclick="window.location='/article/110/Bacon-Part-II'" onMouseOver="lb('nl110')" onMouseOut="db('nl110')" ><a href="/article/110/Bacon-Part-II" title="Cooking Tests: Bacon (Part II)">Bacon (Part II)</a></td><td id="nl5" onclick="window.location='/article/5/Eggplant-Taste-Test'" onMouseOver="lb('nl5')" onMouseOut="db('nl5')" ><a href="/article/5/Eggplant-Taste-Test" title="Cooking Tests: Eggplant Taste Test">Eggplant Taste Test</a></td></tr></table></div>
+	<div id="navcat_DiningOut" style="display:none"><table width="100%" class="navlinks" cellpadding="0" cellspacing="1"><tr><td width="25%" id="nl202" onclick="window.location='/article/202/Ad-Hoc-Yountville-California'" onMouseOver="lb('nl202')" onMouseOut="db('nl202')" ><a href="/article/202/Ad-Hoc-Yountville-California" title="Dining Out: Ad Hoc (Yountville, California)">Ad Hoc (Yountville, California)</a></td><td width="25%" id="nl299" onclick="window.location='/article/299/Chicago-2011-Part-4-Gibsons-Bar-Steakhouse'" onMouseOver="lb('nl299')" onMouseOut="db('nl299')" ><a href="/article/299/Chicago-2011-Part-4-Gibsons-Bar-Steakhouse" title="Dining Out: Chicago 2011 Part 4 - Gibson's Bar &amp; Steakhouse">Chicago 2011 Part 4 - Gibson's Bar &amp; Steakhouse</a></td><td width="25%" id="nl330" onclick="window.location='/article/330/Cook-Taste-Barcelona-Spain'" onMouseOver="lb('nl330')" onMouseOut="db('nl330')" ><a href="/article/330/Cook-Taste-Barcelona-Spain" title="Dining Out: Cook &amp; Taste (Barcelona, Spain)">Cook &amp; Taste (Barcelona, Spain)</a></td><td width="25%" id="nl329" onclick="window.location='/article/329/Pakta-Barcelona-Spain'" onMouseOver="lb('nl329')" onMouseOut="db('nl329')" ><a href="/article/329/Pakta-Barcelona-Spain" title="Dining Out: Pakta (Barcelona, Spain)">Pakta (Barcelona, Spain)</a></td></tr><tr><td id="nl88" onclick="window.location='/article/88/Ahwahnee-Hotel-Kitchen-Yosemite-California'" onMouseOver="lb('nl88')" onMouseOut="db('nl88')" ><a href="/article/88/Ahwahnee-Hotel-Kitchen-Yosemite-California" title="Dining Out: Ahwahnee Hotel Kitchen (Yosemite, California)">Ahwahnee Hotel Kitchen (Yosemite, California)</a></td><td id="nl300" onclick="window.location='/article/300/Chicago-2011-Part-5-Frontera-Grill-XOCO'" onMouseOver="lb('nl300')" onMouseOut="db('nl300')" ><a href="/article/300/Chicago-2011-Part-5-Frontera-Grill-XOCO" title="Dining Out: Chicago 2011 Part 5 - Frontera Grill, XOCO">Chicago 2011 Part 5 - Frontera Grill, XOCO</a></td><td id="nl253" onclick="window.location='/article/253/Elements-Napa-California'" onMouseOver="lb('nl253')" onMouseOut="db('nl253')" ><a href="/article/253/Elements-Napa-California" title="Dining Out: Elements (Napa, California)">Elements (Napa, California)</a></td><td id="nl260" onclick="window.location='/article/260/Parcel-104-Santa-Clara-California'" onMouseOver="lb('nl260')" onMouseOut="db('nl260')" ><a href="/article/260/Parcel-104-Santa-Clara-California" title="Dining Out: Parcel 104 (Santa Clara, California)">Parcel 104 (Santa Clara, California)</a></td></tr><tr><td id="nl311" onclick="window.location='/article/311/Blue-Bell-Creamery-Factory-Tour'" onMouseOver="lb('nl311')" onMouseOut="db('nl311')" ><a href="/article/311/Blue-Bell-Creamery-Factory-Tour" title="Dining Out: Blue Bell Creamery Factory Tour">Blue Bell Creamery Factory Tour</a></td><td id="nl301" onclick="window.location='/article/301/Chicago-2011-Part-6-Noodles-by-Takashi-Yagihashi-Frontera-Fresco-Marc-Burger'" onMouseOver="lb('nl301')" onMouseOut="db('nl301')" ><a href="/article/301/Chicago-2011-Part-6-Noodles-by-Takashi-Yagihashi-Frontera-Fresco-Marc-Burger" title="Dining Out: Chicago 2011 Part 6 - Noodles by Takashi Yagihashi, Frontera Fresco, Marc Burger">Chicago 2011 Part 6 - Noodles by Takashi Yagihashi, Frontera Fresco, Marc Burger</a></td><td id="nl316" onclick="window.location='/article/316/Georges-San-Francisco-California'" onMouseOver="lb('nl316')" onMouseOut="db('nl316')" ><a href="/article/316/Georges-San-Francisco-California" title="Dining Out: Georges (San Francisco, California)">Georges (San Francisco, California)</a></td><td id="nl281" onclick="window.location='/article/281/Per-Se-New-York-New-York'" onMouseOver="lb('nl281')" onMouseOut="db('nl281')" ><a href="/article/281/Per-Se-New-York-New-York" title="Dining Out: Per Se (New York, New York)">Per Se (New York, New York)</a></td></tr><tr><td id="nl91" onclick="window.location='/article/91/Cafe-Terigo-Park-City-Utah'" onMouseOver="lb('nl91')" onMouseOut="db('nl91')" ><a href="/article/91/Cafe-Terigo-Park-City-Utah" title="Dining Out: Cafe Terigo (Park City, Utah)">Cafe Terigo (Park City, Utah)</a></td><td id="nl302" onclick="window.location='/article/302/Chicago-2011-Part-7-Alinea'" onMouseOver="lb('nl302')" onMouseOut="db('nl302')" ><a href="/article/302/Chicago-2011-Part-7-Alinea" title="Dining Out: Chicago 2011 Part 7 - Alinea">Chicago 2011 Part 7 - Alinea</a></td><td id="nl240" onclick="window.location='/article/240/Hard-Knox-Cafe-San-Francisco-California'" onMouseOver="lb('nl240')" onMouseOut="db('nl240')" ><a href="/article/240/Hard-Knox-Cafe-San-Francisco-California" title="Dining Out: Hard Knox Cafe (San Francisco, California)">Hard Knox Cafe (San Francisco, California)</a></td><td id="nl324" onclick="window.location='/article/324/Ramen-in-Austin-Michi-Ramen-and-Ramen-Tatsuya'" onMouseOver="lb('nl324')" onMouseOut="db('nl324')" ><a href="/article/324/Ramen-in-Austin-Michi-Ramen-and-Ramen-Tatsuya" title="Dining Out: Ramen in Austin (Michi Ramen and Ramen Tatsuya)">Ramen in Austin (Michi Ramen and Ramen Tatsuya)</a></td></tr><tr><td id="nl231" onclick="window.location='/article/231/Chads-Fish-Chips-Willits-California'" onMouseOver="lb('nl231')" onMouseOut="db('nl231')" ><a href="/article/231/Chads-Fish-Chips-Willits-California" title="Dining Out: Chad's Fish &amp; Chips (Willits, California)">Chad's Fish &amp; Chips (Willits, California)</a></td><td id="nl303" onclick="window.location='/article/303/Chicago-2011-Part-8-Vienna-Beef-Factory'" onMouseOver="lb('nl303')" onMouseOut="db('nl303')" ><a href="/article/303/Chicago-2011-Part-8-Vienna-Beef-Factory" title="Dining Out: Chicago 2011 Part 8 - Vienna Beef Factory">Chicago 2011 Part 8 - Vienna Beef Factory</a></td><td id="nl247" onclick="window.location='/article/247/Jai-Yun-San-Francisco'" onMouseOver="lb('nl247')" onMouseOut="db('nl247')" ><a href="/article/247/Jai-Yun-San-Francisco" title="Dining Out: Jai Yun (San Francisco)">Jai Yun (San Francisco)</a></td><td id="nl153" onclick="window.location='/article/153/Shadowbrook-Restaurant-Capitola-California'" onMouseOver="lb('nl153')" onMouseOut="db('nl153')" ><a href="/article/153/Shadowbrook-Restaurant-Capitola-California" title="Dining Out: Shadowbrook Restaurant (Capitola, California)">Shadowbrook Restaurant (Capitola, California)</a></td></tr><tr><td id="nl295" onclick="window.location='/article/295/Chicago-2011-Part-1a-Overview'" onMouseOver="lb('nl295')" onMouseOut="db('nl295')" ><a href="/article/295/Chicago-2011-Part-1a-Overview" title="Dining Out: Chicago 2011 Part 1a - Overview">Chicago 2011 Part 1a - Overview</a></td><td id="nl304" onclick="window.location='/article/304/Chicago-2011-Part-9-Girl-and-the-Goat'" onMouseOver="lb('nl304')" onMouseOut="db('nl304')" ><a href="/article/304/Chicago-2011-Part-9-Girl-and-the-Goat" title="Dining Out: Chicago 2011 Part 9 - Girl and the Goat">Chicago 2011 Part 9 - Girl and the Goat</a></td><td id="nl204" onclick="window.location='/article/204/Maverick-San-Francisco-California'" onMouseOver="lb('nl204')" onMouseOut="db('nl204')" ><a href="/article/204/Maverick-San-Francisco-California" title="Dining Out: Maverick (San Francisco, California)">Maverick (San Francisco, California)</a></td><td id="nl216" onclick="window.location='/article/216/Soul-Bar-Bistro-Auckland-New-Zealand'" onMouseOver="lb('nl216')" onMouseOut="db('nl216')" ><a href="/article/216/Soul-Bar-Bistro-Auckland-New-Zealand" title="Dining Out: Soul Bar &amp; Bistro (Auckland, New Zealand)">Soul Bar &amp; Bistro (Auckland, New Zealand)</a></td></tr><tr><td id="nl296" onclick="window.location='/article/296/Chicago-2011-Part-1b-Overview'" onMouseOver="lb('nl296')" onMouseOut="db('nl296')" ><a href="/article/296/Chicago-2011-Part-1b-Overview" title="Dining Out: Chicago 2011 Part 1b - Overview">Chicago 2011 Part 1b - Overview</a></td><td id="nl267" onclick="window.location='/article/267/Coi-San-Francisco-California'" onMouseOver="lb('nl267')" onMouseOut="db('nl267')" ><a href="/article/267/Coi-San-Francisco-California" title="Dining Out: Coi (San Francisco, California)">Coi (San Francisco, California)</a></td><td id="nl235" onclick="window.location='/article/235/Michelin-Rated-Restaurants-San-Francisco-2007'" onMouseOver="lb('nl235')" onMouseOut="db('nl235')" ><a href="/article/235/Michelin-Rated-Restaurants-San-Francisco-2007" title="Dining Out: Michelin Rated Restaurants (San Francisco 2007)">Michelin Rated Restaurants (San Francisco 2007)</a></td><td id="nl293" onclick="window.location='/article/293/The-Noble-Pig-Austin-Texas'" onMouseOver="lb('nl293')" onMouseOut="db('nl293')" ><a href="/article/293/The-Noble-Pig-Austin-Texas" title="Dining Out: The Noble Pig (Austin, Texas)">The Noble Pig (Austin, Texas)</a></td></tr><tr><td id="nl297" onclick="window.location='/article/297/Chicago-2011-Part-2-Shui-Wah-Santa-Anna-Bakery'" onMouseOver="lb('nl297')" onMouseOut="db('nl297')" ><a href="/article/297/Chicago-2011-Part-2-Shui-Wah-Santa-Anna-Bakery" title="Dining Out: Chicago 2011 Part 2 - Shui Wah, Santa Anna Bakery">Chicago 2011 Part 2 - Shui Wah, Santa Anna Bakery</a></td><td id="nl291" onclick="window.location='/article/291/Congress-Austin-Texas'" onMouseOver="lb('nl291')" onMouseOut="db('nl291')" ><a href="/article/291/Congress-Austin-Texas" title="Dining Out: Congress (Austin, Texas)">Congress (Austin, Texas)</a></td><td id="nl236" onclick="window.location='/article/236/Michelin-Rated-Restaurants-San-Francisco-2008'" onMouseOver="lb('nl236')" onMouseOut="db('nl236')" ><a href="/article/236/Michelin-Rated-Restaurants-San-Francisco-2008" title="Dining Out: Michelin Rated Restaurants (San Francisco 2008)">Michelin Rated Restaurants (San Francisco 2008)</a></td><td id="nl245" onclick="window.location='/article/245/Uchi-Austin-Texas'" onMouseOver="lb('nl245')" onMouseOut="db('nl245')" ><a href="/article/245/Uchi-Austin-Texas" title="Dining Out: Uchi (Austin, Texas)">Uchi (Austin, Texas)</a></td></tr><tr><td id="nl298" onclick="window.location='/article/298/Chicago-2011-Part-3-Pizzeria-Uno-Giordanos'" onMouseOver="lb('nl298')" onMouseOut="db('nl298')" ><a href="/article/298/Chicago-2011-Part-3-Pizzeria-Uno-Giordanos" title="Dining Out: Chicago 2011 Part 3 - Pizzeria Uno, Giordano's">Chicago 2011 Part 3 - Pizzeria Uno, Giordano's</a></td></tr></table></div>
+	<div id="navcat_EquipmentGear" style="display:none"><table width="100%" class="navlinks" cellpadding="0" cellspacing="1"><tr><td width="25%" id="nl319" onclick="window.location='/article/319/Anolon-Nouvelle-Copper-Stainless-Steel-3-qt-Covered-Saute-Pan'" onMouseOver="lb('nl319')" onMouseOut="db('nl319')" ><a href="/article/319/Anolon-Nouvelle-Copper-Stainless-Steel-3-qt-Covered-Saute-Pan" title="Equipment &amp; Gear: Anolon Nouvelle Copper Stainless Steel 3-qt Covered Saute Pan">Anolon Nouvelle Copper Stainless Steel 3-qt Covered Saute Pan</a></td><td width="25%" id="nl17" onclick="window.location='/article/17/Cutting-Boards'" onMouseOver="lb('nl17')" onMouseOut="db('nl17')" ><a href="/article/17/Cutting-Boards" title="Equipment &amp; Gear: Cutting Boards">Cutting Boards</a></td><td width="25%" id="nl95" onclick="window.location='/article/95/Kitchen-Thermometers'" onMouseOver="lb('nl95')" onMouseOut="db('nl95')" ><a href="/article/95/Kitchen-Thermometers" title="Equipment &amp; Gear: Kitchen Thermometers">Kitchen Thermometers</a></td><td width="25%" id="nl99" onclick="window.location='/article/99/Microwave-Safe-Containers'" onMouseOver="lb('nl99')" onMouseOut="db('nl99')" ><a href="/article/99/Microwave-Safe-Containers" title="Equipment &amp; Gear: Microwave Safe Containers">Microwave Safe Containers</a></td></tr><tr><td id="nl205" onclick="window.location='/article/205/Bakers-Edge'" onMouseOver="lb('nl205')" onMouseOut="db('nl205')" ><a href="/article/205/Bakers-Edge" title="Equipment &amp; Gear: Baker's Edge">Baker's Edge</a></td><td id="nl222" onclick="window.location='/article/222/Fathers-Day-Gift-Ideas'" onMouseOver="lb('nl222')" onMouseOut="db('nl222')" ><a href="/article/222/Fathers-Day-Gift-Ideas" title="Equipment &amp; Gear: Father's Day Gift Ideas">Father's Day Gift Ideas</a></td><td id="nl187" onclick="window.location='/article/187/Knife-and-Sharpening-Steel-Hardness'" onMouseOver="lb('nl187')" onMouseOut="db('nl187')" ><a href="/article/187/Knife-and-Sharpening-Steel-Hardness" title="Equipment &amp; Gear: Knife and Sharpening Steel Hardness">Knife and Sharpening Steel Hardness</a></td><td id="nl84" onclick="window.location='/article/84/NSF-Certification'" onMouseOver="lb('nl84')" onMouseOut="db('nl84')" ><a href="/article/84/NSF-Certification" title="Equipment &amp; Gear: NSF Certification">NSF Certification</a></td></tr><tr><td id="nl290" onclick="window.location='/article/290/Ceramic-Chefs-Knives-Rated'" onMouseOver="lb('nl290')" onMouseOut="db('nl290')" ><a href="/article/290/Ceramic-Chefs-Knives-Rated" title="Equipment &amp; Gear: Ceramic Chef's Knives Rated">Ceramic Chef's Knives Rated</a></td><td id="nl256" onclick="window.location='/article/256/GelPro-Mat'" onMouseOver="lb('nl256')" onMouseOut="db('nl256')" ><a href="/article/256/GelPro-Mat" title="Equipment &amp; Gear: GelPro Mat">GelPro Mat</a></td><td id="nl135" onclick="window.location='/article/135/Knife-Covers'" onMouseOver="lb('nl135')" onMouseOut="db('nl135')" ><a href="/article/135/Knife-Covers" title="Equipment &amp; Gear: Knife Covers">Knife Covers</a></td><td id="nl275" onclick="window.location='/article/275/Saber-Kitchen-Knives'" onMouseOver="lb('nl275')" onMouseOut="db('nl275')" ><a href="/article/275/Saber-Kitchen-Knives" title="Equipment &amp; Gear: Saber Kitchen Knives">Saber Kitchen Knives</a></td></tr><tr><td id="nl129" onclick="window.location='/article/129/Chefs-Knives-Rated'" onMouseOver="lb('nl129')" onMouseOut="db('nl129')" ><a href="/article/129/Chefs-Knives-Rated" title="Equipment &amp; Gear: Chef's Knives Rated">Chef's Knives Rated</a></td><td id="nl117" onclick="window.location='/article/117/Hefty-Serve-n-Store'" onMouseOver="lb('nl117')" onMouseOut="db('nl117')" ><a href="/article/117/Hefty-Serve-n-Store" title="Equipment &amp; Gear: Hefty Serve 'n Store">Hefty Serve 'n Store</a></td><td id="nl130" onclick="window.location='/article/130/Knife-Parts'" onMouseOver="lb('nl130')" onMouseOut="db('nl130')" ><a href="/article/130/Knife-Parts" title="Equipment &amp; Gear: Knife Parts">Knife Parts</a></td><td id="nl234" onclick="window.location='/article/234/Soda-Club-SodaStream'" onMouseOver="lb('nl234')" onMouseOut="db('nl234')" ><a href="/article/234/Soda-Club-SodaStream" title="Equipment &amp; Gear: Soda-Club (SodaStream)">Soda-Club (SodaStream)</a></td></tr><tr><td id="nl120" onclick="window.location='/article/120/Common-Materials-of-Cookware'" onMouseOver="lb('nl120')" onMouseOut="db('nl120')" ><a href="/article/120/Common-Materials-of-Cookware" title="Equipment &amp; Gear: Common Materials of Cookware">Common Materials of Cookware</a></td><td id="nl272" onclick="window.location='/article/272/Kapoosh-Knife-Block-not-recommended'" onMouseOver="lb('nl272')" onMouseOut="db('nl272')" ><a href="/article/272/Kapoosh-Knife-Block-not-recommended" title="Equipment &amp; Gear: Kapoosh Knife Block (not recommended)">Kapoosh Knife Block (not recommended)</a></td><td id="nl85" onclick="window.location='/article/85/Krups-Spice-Grinder'" onMouseOver="lb('nl85')" onMouseOut="db('nl85')" ><a href="/article/85/Krups-Spice-Grinder" title="Equipment &amp; Gear: Krups Spice Grinder">Krups Spice Grinder</a></td><td id="nl287" onclick="window.location='/article/287/Understanding-Blender-Specifications'" onMouseOver="lb('nl287')" onMouseOut="db('nl287')" ><a href="/article/287/Understanding-Blender-Specifications" title="Equipment &amp; Gear: Understanding Blender Specifications">Understanding Blender Specifications</a></td></tr><tr><td id="nl232" onclick="window.location='/article/232/Cooking-With-Aluminum'" onMouseOver="lb('nl232')" onMouseOut="db('nl232')" ><a href="/article/232/Cooking-With-Aluminum" title="Equipment &amp; Gear: Cooking With Aluminum">Cooking With Aluminum</a></td><td id="nl39" onclick="window.location='/article/39/Kitchen-Knives'" onMouseOver="lb('nl39')" onMouseOut="db('nl39')" ><a href="/article/39/Kitchen-Knives" title="Equipment &amp; Gear: Kitchen Knives">Kitchen Knives</a></td><td id="nl269" onclick="window.location='/article/269/Metrokane-Mighty-OJ-Not-recommended'" onMouseOver="lb('nl269')" onMouseOut="db('nl269')" ><a href="/article/269/Metrokane-Mighty-OJ-Not-recommended" title="Equipment &amp; Gear: Metrokane Mighty OJ (Not recommended)">Metrokane Mighty OJ (Not recommended)</a></td><td id="nl326" onclick="window.location='/article/326/Whats-In-Your-Non-Stick'" onMouseOver="lb('nl326')" onMouseOut="db('nl326')" ><a href="/article/326/Whats-In-Your-Non-Stick" title="Equipment &amp; Gear: What's In Your Non-Stick?">What's In Your Non-Stick?</a></td></tr><tr><td id="nl175" onclick="window.location='/article/175/CoolCover'" onMouseOver="lb('nl175')" onMouseOut="db('nl175')" ><a href="/article/175/CoolCover" title="Equipment &amp; Gear: CoolCover">CoolCover</a></td><td id="nl82" onclick="window.location='/article/82/Kitchen-Scales'" onMouseOver="lb('nl82')" onMouseOut="db('nl82')" ><a href="/article/82/Kitchen-Scales" title="Equipment &amp; Gear: Kitchen Scales">Kitchen Scales</a></td></tr></table></div>
+	<div id="navcat_KitchenNotes" style="display:none"><table width="100%" class="navlinks" cellpadding="0" cellspacing="1"><tr><td width="25%" id="nl90" onclick="window.location='/article/90/Additives'" onMouseOver="lb('nl90')" onMouseOut="db('nl90')" ><a href="/article/90/Additives" title="Kitchen Notes: Additives">Additives</a></td><td width="25%" id="nl131" onclick="window.location='/article/131/Clarified-Butter'" onMouseOver="lb('nl131')" onMouseOut="db('nl131')" ><a href="/article/131/Clarified-Butter" title="Kitchen Notes: Clarified Butter">Clarified Butter</a></td><td width="25%" id="nl51" onclick="window.location='/article/51/Glossary'" onMouseOver="lb('nl51')" onMouseOut="db('nl51')" ><a href="/article/51/Glossary" title="Kitchen Notes: Glossary">Glossary</a></td><td width="25%" id="nl40" onclick="window.location='/article/40/Saturated-Fats-Cholesterol-and-Heart-Disease'" onMouseOver="lb('nl40')" onMouseOut="db('nl40')" ><a href="/article/40/Saturated-Fats-Cholesterol-and-Heart-Disease" title="Kitchen Notes: Saturated Fats, Cholesterol, and Heart Disease">Saturated Fats, Cholesterol, and Heart Disease</a></td></tr><tr><td id="nl280" onclick="window.location='/article/280/Analyzing-a-Baking-Recipe'" onMouseOver="lb('nl280')" onMouseOut="db('nl280')" ><a href="/article/280/Analyzing-a-Baking-Recipe" title="Kitchen Notes: Analyzing a Baking Recipe">Analyzing a Baking Recipe</a></td><td id="nl198" onclick="window.location='/article/198/Clarified-Butter-II'" onMouseOver="lb('nl198')" onMouseOut="db('nl198')" ><a href="/article/198/Clarified-Butter-II" title="Kitchen Notes: Clarified Butter II">Clarified Butter II</a></td><td id="nl209" onclick="window.location='/article/209/Heat-Transfer-and-Browning-Foods'" onMouseOver="lb('nl209')" onMouseOut="db('nl209')" ><a href="/article/209/Heat-Transfer-and-Browning-Foods" title="Kitchen Notes: Heat Transfer and Browning Foods">Heat Transfer and Browning Foods</a></td><td id="nl78" onclick="window.location='/article/78/Scoville-Units'" onMouseOver="lb('nl78')" onMouseOut="db('nl78')" ><a href="/article/78/Scoville-Units" title="Kitchen Notes: Scoville Units">Scoville Units</a></td></tr><tr><td id="nl199" onclick="window.location='/article/199/Baguettes-Deconstructed'" onMouseOver="lb('nl199')" onMouseOut="db('nl199')" ><a href="/article/199/Baguettes-Deconstructed" title="Kitchen Notes: Baguettes Deconstructed">Baguettes Deconstructed</a></td><td id="nl184" onclick="window.location='/article/184/Curry'" onMouseOver="lb('nl184')" onMouseOut="db('nl184')" ><a href="/article/184/Curry" title="Kitchen Notes: Curry">Curry</a></td><td id="nl224" onclick="window.location='/article/224/Heat-Transfer-and-Cooking'" onMouseOver="lb('nl224')" onMouseOut="db('nl224')" ><a href="/article/224/Heat-Transfer-and-Cooking" title="Kitchen Notes: Heat Transfer and Cooking">Heat Transfer and Cooking</a></td><td id="nl50" onclick="window.location='/article/50/Smoke-Points-of-Various-Fats'" onMouseOver="lb('nl50')" onMouseOut="db('nl50')" ><a href="/article/50/Smoke-Points-of-Various-Fats" title="Kitchen Notes: Smoke Points of Various Fats">Smoke Points of Various Fats</a></td></tr><tr><td id="nl213" onclick="window.location='/article/213/Bakers-Yeast'" onMouseOver="lb('nl213')" onMouseOut="db('nl213')" ><a href="/article/213/Bakers-Yeast" title="Kitchen Notes: Baker's Yeast">Baker's Yeast</a></td><td id="nl97" onclick="window.location='/article/97/Cutting-Up-Chicken'" onMouseOver="lb('nl97')" onMouseOut="db('nl97')" ><a href="/article/97/Cutting-Up-Chicken" title="Kitchen Notes: Cutting Up Chicken">Cutting Up Chicken</a></td><td id="nl52" onclick="window.location='/article/52/Ingredient-Substitutions'" onMouseOver="lb('nl52')" onMouseOut="db('nl52')" ><a href="/article/52/Ingredient-Substitutions" title="Kitchen Notes: Ingredient Substitutions">Ingredient Substitutions</a></td><td id="nl155" onclick="window.location='/article/155/Tempering-Chocolate'" onMouseOver="lb('nl155')" onMouseOut="db('nl155')" ><a href="/article/155/Tempering-Chocolate" title="Kitchen Notes: Tempering Chocolate">Tempering Chocolate</a></td></tr><tr><td id="nl123" onclick="window.location='/article/123/Boning-Chicken-Breast'" onMouseOver="lb('nl123')" onMouseOut="db('nl123')" ><a href="/article/123/Boning-Chicken-Breast" title="Kitchen Notes: Boning Chicken Breast">Boning Chicken Breast</a></td><td id="nl211" onclick="window.location='/article/211/European-Designation-of-Quality-Labels'" onMouseOver="lb('nl211')" onMouseOut="db('nl211')" ><a href="/article/211/European-Designation-of-Quality-Labels" title="Kitchen Notes: European Designation of Quality Labels">European Designation of Quality Labels</a></td><td id="nl113" onclick="window.location='/article/113/Making-Butter'" onMouseOver="lb('nl113')" onMouseOut="db('nl113')" ><a href="/article/113/Making-Butter" title="Kitchen Notes: Making Butter">Making Butter</a></td><td id="nl30" onclick="window.location='/article/30/USDA-Beef-Quality-Grades'" onMouseOver="lb('nl30')" onMouseOut="db('nl30')" ><a href="/article/30/USDA-Beef-Quality-Grades" title="Kitchen Notes: USDA Beef Quality Grades">USDA Beef Quality Grades</a></td></tr><tr><td id="nl70" onclick="window.location='/article/70/Brining'" onMouseOver="lb('nl70')" onMouseOut="db('nl70')" ><a href="/article/70/Brining" title="Kitchen Notes: Brining">Brining</a></td><td id="nl244" onclick="window.location='/article/244/Fond-of-Fond'" onMouseOver="lb('nl244')" onMouseOut="db('nl244')" ><a href="/article/244/Fond-of-Fond" title="Kitchen Notes: Fond of Fond">Fond of Fond</a></td><td id="nl16" onclick="window.location='/article/16/Maple-Syrup-Grades'" onMouseOver="lb('nl16')" onMouseOut="db('nl16')" ><a href="/article/16/Maple-Syrup-Grades" title="Kitchen Notes: Maple Syrup Grades">Maple Syrup Grades</a></td><td id="nl63" onclick="window.location='/article/63/Wheat-Flour'" onMouseOver="lb('nl63')" onMouseOut="db('nl63')" ><a href="/article/63/Wheat-Flour" title="Kitchen Notes: Wheat Flour">Wheat Flour</a></td></tr><tr><td id="nl73" onclick="window.location='/article/73/Buying-Whole-Turkeys'" onMouseOver="lb('nl73')" onMouseOut="db('nl73')" ><a href="/article/73/Buying-Whole-Turkeys" title="Kitchen Notes: Buying Whole Turkeys">Buying Whole Turkeys</a></td><td id="nl27" onclick="window.location='/article/27/Freezing-Meats'" onMouseOver="lb('nl27')" onMouseOut="db('nl27')" ><a href="/article/27/Freezing-Meats" title="Kitchen Notes: Freezing Meats">Freezing Meats</a></td><td id="nl134" onclick="window.location='/article/134/Oven-Temperatures'" onMouseOver="lb('nl134')" onMouseOut="db('nl134')" ><a href="/article/134/Oven-Temperatures" title="Kitchen Notes: Oven Temperatures">Oven Temperatures</a></td><td id="nl294" onclick="window.location='/article/294/White-Wheat-Grinder-Comparison'" onMouseOver="lb('nl294')" onMouseOut="db('nl294')" ><a href="/article/294/White-Wheat-Grinder-Comparison" title="Kitchen Notes: White Wheat Grinder Comparison">White Wheat Grinder Comparison</a></td></tr><tr><td id="nl156" onclick="window.location='/article/156/Caviar'" onMouseOver="lb('nl156')" onMouseOut="db('nl156')" ><a href="/article/156/Caviar" title="Kitchen Notes: Caviar">Caviar</a></td><td id="nl315" onclick="window.location='/article/315/Fruit-Ripening'" onMouseOver="lb('nl315')" onMouseOut="db('nl315')" ><a href="/article/315/Fruit-Ripening" title="Kitchen Notes: Fruit Ripening">Fruit Ripening</a></td><td id="nl96" onclick="window.location='/article/96/Pears'" onMouseOver="lb('nl96')" onMouseOut="db('nl96')" ><a href="/article/96/Pears" title="Kitchen Notes: Pears">Pears</a></td></tr></table></div>
+	<div id="navcat_OffTopic" style="display:none"><table width="100%" class="navlinks" cellpadding="0" cellspacing="1"><tr><td width="25%" id="nl133" onclick="window.location='/article/133/African-Horned-Melon-or-Kiwano'" onMouseOver="lb('nl133')" onMouseOut="db('nl133')" ><a href="/article/133/African-Horned-Melon-or-Kiwano" title="Off Topic: African Horned Melon or Kiwano">African Horned Melon or Kiwano</a></td><td width="25%" id="nl206" onclick="window.location='/article/206/Fancy-Food-Show-Winter-2007'" onMouseOver="lb('nl206')" onMouseOut="db('nl206')" ><a href="/article/206/Fancy-Food-Show-Winter-2007" title="Off Topic: Fancy Food Show Winter 2007">Fancy Food Show Winter 2007</a></td><td width="25%" id="nl119" onclick="window.location='/article/119/Iron-Chef-America'" onMouseOver="lb('nl119')" onMouseOut="db('nl119')" ><a href="/article/119/Iron-Chef-America" title="Off Topic: Iron Chef America">Iron Chef America</a></td><td width="25%" id="nl25" onclick="window.location='/article/25/Some-Quotes'" onMouseOver="lb('nl25')" onMouseOut="db('nl25')" ><a href="/article/25/Some-Quotes" title="Off Topic: Some Quotes">Some Quotes</a></td></tr><tr><td id="nl279" onclick="window.location='/article/279/Amano-Chocolate-Contest'" onMouseOver="lb('nl279')" onMouseOut="db('nl279')" ><a href="/article/279/Amano-Chocolate-Contest" title="Off Topic: Amano Chocolate Contest">Amano Chocolate Contest</a></td><td id="nl262" onclick="window.location='/article/262/Fancy-Food-Show-Winter-2009'" onMouseOver="lb('nl262')" onMouseOut="db('nl262')" ><a href="/article/262/Fancy-Food-Show-Winter-2009" title="Off Topic: Fancy Food Show Winter 2009">Fancy Food Show Winter 2009</a></td><td id="nl286" onclick="window.location='/article/286/Johnsonville-Pastaville-Italian-Sausage-Recipe-Contest'" onMouseOver="lb('nl286')" onMouseOut="db('nl286')" ><a href="/article/286/Johnsonville-Pastaville-Italian-Sausage-Recipe-Contest" title="Off Topic: Johnsonville Pastaville Italian Sausage Recipe Contest">Johnsonville Pastaville Italian Sausage Recipe Contest</a></td><td id="nl57" onclick="window.location='/article/57/Surprises-In-Snacks'" onMouseOver="lb('nl57')" onMouseOut="db('nl57')" ><a href="/article/57/Surprises-In-Snacks" title="Off Topic: Surprises In Snacks">Surprises In Snacks</a></td></tr><tr><td id="nl321" onclick="window.location='/article/321/Anolon-Nouvelle-Copper-Stainless-Steel-Cookware-Set-2012-Giveaway'" onMouseOver="lb('nl321')" onMouseOut="db('nl321')" ><a href="/article/321/Anolon-Nouvelle-Copper-Stainless-Steel-Cookware-Set-2012-Giveaway" title="Off Topic: Anolon Nouvelle Copper Stainless Steel Cookware Set 2012 Giveaway!">Anolon Nouvelle Copper Stainless Steel Cookware Set 2012 Giveaway!</a></td><td id="nl334" onclick="window.location='/article/334/Fancy-Food-Show-Winter-2014'" onMouseOver="lb('nl334')" onMouseOut="db('nl334')" ><a href="/article/334/Fancy-Food-Show-Winter-2014" title="Off Topic: Fancy Food Show Winter 2014">Fancy Food Show Winter 2014</a></td><td id="nl165" onclick="window.location='/article/165/LASIK'" onMouseOver="lb('nl165')" onMouseOut="db('nl165')" ><a href="/article/165/LASIK" title="Off Topic: LASIK">LASIK</a></td><td id="nl149" onclick="window.location='/article/149/Thanksgiving-Dinner'" onMouseOver="lb('nl149')" onMouseOut="db('nl149')" ><a href="/article/149/Thanksgiving-Dinner" title="Off Topic: Thanksgiving Dinner">Thanksgiving Dinner</a></td></tr><tr><td id="nl179" onclick="window.location='/article/179/Asparagus-Festival'" onMouseOver="lb('nl179')" onMouseOut="db('nl179')" ><a href="/article/179/Asparagus-Festival" title="Off Topic: Asparagus Festival">Asparagus Festival</a></td><td id="nl182" onclick="window.location='/article/182/Fanpop'" onMouseOver="lb('nl182')" onMouseOut="db('nl182')" ><a href="/article/182/Fanpop" title="Off Topic: Fanpop">Fanpop</a></td><td id="nl312" onclick="window.location='/article/312/LEGO-Heavy-Weapons-Book-Review'" onMouseOver="lb('nl312')" onMouseOut="db('nl312')" ><a href="/article/312/LEGO-Heavy-Weapons-Book-Review" title="Off Topic: LEGO Heavy Weapons Book Review">LEGO Heavy Weapons Book Review</a></td><td id="nl251" onclick="window.location='/article/251/The-HP-Freshman-15-Contest-Win-a-Notebook-Computer'" onMouseOver="lb('nl251')" onMouseOut="db('nl251')" ><a href="/article/251/The-HP-Freshman-15-Contest-Win-a-Notebook-Computer" title="Off Topic: The HP Freshman 15 Contest - Win a Notebook Computer">The HP Freshman 15 Contest - Win a Notebook Computer</a></td></tr><tr><td id="nl243" onclick="window.location='/article/243/Chilis-Bacon-Burger'" onMouseOver="lb('nl243')" onMouseOut="db('nl243')" ><a href="/article/243/Chilis-Bacon-Burger" title="Off Topic: Chili's Bacon Burger">Chili's Bacon Burger</a></td><td id="nl323" onclick="window.location='/article/323/Food-Fete-2013'" onMouseOver="lb('nl323')" onMouseOut="db('nl323')" ><a href="/article/323/Food-Fete-2013" title="Off Topic: Food Fete 2013">Food Fete 2013</a></td><td id="nl67" onclick="window.location='/article/67/Lunar-Eclipse'" onMouseOver="lb('nl67')" onMouseOut="db('nl67')" ><a href="/article/67/Lunar-Eclipse" title="Off Topic: Lunar Eclipse">Lunar Eclipse</a></td><td id="nl322" onclick="window.location='/article/322/The-Unofficial-LEGO-Technic-Builders-Guide-Book-Review'" onMouseOver="lb('nl322')" onMouseOut="db('nl322')" ><a href="/article/322/The-Unofficial-LEGO-Technic-Builders-Guide-Book-Review" title="Off Topic: The Unofficial LEGO Technic Builder's Guide Book Review">The Unofficial LEGO Technic Builder's Guide Book Review</a></td></tr><tr><td id="nl284" onclick="window.location='/article/284/Christmas-Gift-Ideas'" onMouseOver="lb('nl284')" onMouseOut="db('nl284')" ><a href="/article/284/Christmas-Gift-Ideas" title="Off Topic: Christmas Gift Ideas">Christmas Gift Ideas</a></td><td id="nl335" onclick="window.location='/article/335/Food-Fete-2014'" onMouseOver="lb('nl335')" onMouseOut="db('nl335')" ><a href="/article/335/Food-Fete-2014" title="Off Topic: Food Fete 2014">Food Fete 2014</a></td><td id="nl309" onclick="window.location='/article/309/Michael-Ohenes-Cookie-Recipe-Generator'" onMouseOver="lb('nl309')" onMouseOut="db('nl309')" ><a href="/article/309/Michael-Ohenes-Cookie-Recipe-Generator" title="Off Topic: Michael Ohene's Cookie Recipe Generator">Michael Ohene's Cookie Recipe Generator</a></td><td id="nl336" onclick="window.location='/article/336/Thermoworks-Fathers-Day-2014-Giveaway'" onMouseOver="lb('nl336')" onMouseOut="db('nl336')" ><a href="/article/336/Thermoworks-Fathers-Day-2014-Giveaway" title="Off Topic: Thermoworks Father's Day 2014 Giveaway!">Thermoworks Father's Day 2014 Giveaway!</a></td></tr><tr><td id="nl328" onclick="window.location='/article/328/Codlo-Sous-Vide-Controller-Kickstarter'" onMouseOver="lb('nl328')" onMouseOut="db('nl328')" ><a href="/article/328/Codlo-Sous-Vide-Controller-Kickstarter" title="Off Topic: Codlo Sous Vide Controller Kickstarter">Codlo Sous Vide Controller Kickstarter</a></td><td id="nl271" onclick="window.location='/article/271/Food-Inc'" onMouseOver="lb('nl271')" onMouseOut="db('nl271')" ><a href="/article/271/Food-Inc" title="Off Topic: Food, Inc">Food, Inc</a></td><td id="nl7" onclick="window.location='/article/7/Orange-Juice-Shelf-Life'" onMouseOver="lb('nl7')" onMouseOut="db('nl7')" ><a href="/article/7/Orange-Juice-Shelf-Life" title="Off Topic: Orange Juice Shelf Life">Orange Juice Shelf Life</a></td><td id="nl332" onclick="window.location='/article/332/Thermoworks-Thermapen-2013-Giveaway'" onMouseOver="lb('nl332')" onMouseOut="db('nl332')" ><a href="/article/332/Thermoworks-Thermapen-2013-Giveaway" title="Off Topic: Thermoworks Thermapen 2013 Giveaway!">Thermoworks Thermapen 2013 Giveaway!</a></td></tr><tr><td id="nl116" onclick="window.location='/article/116/Comments-and-Forums'" onMouseOver="lb('nl116')" onMouseOut="db('nl116')" ><a href="/article/116/Comments-and-Forums" title="Off Topic: Comments and Forums">Comments and Forums</a></td><td id="nl263" onclick="window.location='/article/263/Foodoro'" onMouseOver="lb('nl263')" onMouseOut="db('nl263')" ><a href="/article/263/Foodoro" title="Off Topic: Foodoro">Foodoro</a></td><td id="nl217" onclick="window.location='/article/217/Orthogonal-Thought-A-New-Blog'" onMouseOver="lb('nl217')" onMouseOut="db('nl217')" ><a href="/article/217/Orthogonal-Thought-A-New-Blog" title="Off Topic: Orthogonal Thought - A New Blog">Orthogonal Thought - A New Blog</a></td><td id="nl318" onclick="window.location='/article/318/Thermoworks-Thermapen-and-Oven-Thermometer-2012-Giveaway'" onMouseOver="lb('nl318')" onMouseOut="db('nl318')" ><a href="/article/318/Thermoworks-Thermapen-and-Oven-Thermometer-2012-Giveaway" title="Off Topic: Thermoworks Thermapen and Oven Thermometer 2012 Giveaway!">Thermoworks Thermapen and Oven Thermometer 2012 Giveaway!</a></td></tr><tr><td id="nl118" onclick="window.location='/article/118/Comments-and-Forums-Back-Online'" onMouseOver="lb('nl118')" onMouseOut="db('nl118')" ><a href="/article/118/Comments-and-Forums-Back-Online" title="Off Topic: Comments and Forums Back Online">Comments and Forums Back Online</a></td><td id="nl278" onclick="window.location='/article/278/Free-Cookbook-from-Snubbr'" onMouseOver="lb('nl278')" onMouseOut="db('nl278')" ><a href="/article/278/Free-Cookbook-from-Snubbr" title="Off Topic: Free Cookbook from Snubbr">Free Cookbook from Snubbr</a></td><td id="nl228" onclick="window.location='/article/228/Pixars-Ratatouille'" onMouseOver="lb('nl228')" onMouseOut="db('nl228')" ><a href="/article/228/Pixars-Ratatouille" title="Off Topic: Pixar's Ratatouille">Pixar's Ratatouille</a></td><td id="nl214" onclick="window.location='/article/214/Two-New-Shows-on-Discovery-Health'" onMouseOver="lb('nl214')" onMouseOut="db('nl214')" ><a href="/article/214/Two-New-Shows-on-Discovery-Health" title="Off Topic: Two New Shows on Discovery Health">Two New Shows on Discovery Health</a></td></tr><tr><td id="nl196" onclick="window.location='/article/196/Cooking-With-Passion'" onMouseOver="lb('nl196')" onMouseOut="db('nl196')" ><a href="/article/196/Cooking-With-Passion" title="Off Topic: Cooking With Passion">Cooking With Passion</a></td><td id="nl282" onclick="window.location='/article/282/Hefty-Kitchen-Bags-with-Unscented-Odor-Block-Technology'" onMouseOver="lb('nl282')" onMouseOut="db('nl282')" ><a href="/article/282/Hefty-Kitchen-Bags-with-Unscented-Odor-Block-Technology" title="Off Topic: Hefty Kitchen Bags with Unscented Odor Block Technology">Hefty Kitchen Bags with Unscented Odor Block Technology</a></td><td id="nl1" onclick="window.location='/article/1/Pumpkin-Carving'" onMouseOver="lb('nl1')" onMouseOut="db('nl1')" ><a href="/article/1/Pumpkin-Carving" title="Off Topic: Pumpkin Carving">Pumpkin Carving</a></td><td id="nl143" onclick="window.location='/article/143/University-Chickens-911-Challenge'" onMouseOver="lb('nl143')" onMouseOut="db('nl143')" ><a href="/article/143/University-Chickens-911-Challenge" title="Off Topic: University Chicken's 911 Challenge">University Chicken's 911 Challenge</a></td></tr><tr><td id="nl183" onclick="window.location='/article/183/Cosentinos-Markets-Good-News-and-Bad-News'" onMouseOver="lb('nl183')" onMouseOut="db('nl183')" ><a href="/article/183/Cosentinos-Markets-Good-News-and-Bad-News" title="Off Topic: Cosentino's Markets - Good News and Bad News">Cosentino's Markets - Good News and Bad News</a></td><td id="nl197" onclick="window.location='/article/197/IEEE-Spectrum-Radio-Looking-for-Engineers-Who-Cook'" onMouseOver="lb('nl197')" onMouseOut="db('nl197')" ><a href="/article/197/IEEE-Spectrum-Radio-Looking-for-Engineers-Who-Cook" title="Off Topic: IEEE Spectrum Radio Looking for Engineers Who Cook">IEEE Spectrum Radio Looking for Engineers Who Cook</a></td><td id="nl29" onclick="window.location='/article/29/Recipe-Summaries-Standards-and-Microsoft'" onMouseOver="lb('nl29')" onMouseOut="db('nl29')" ><a href="/article/29/Recipe-Summaries-Standards-and-Microsoft" title="Off Topic: Recipe Summaries - Standards and Microsoft">Recipe Summaries - Standards and Microsoft</a></td><td id="nl22" onclick="window.location='/article/22/Welcome-to-the-New-Server'" onMouseOver="lb('nl22')" onMouseOut="db('nl22')" ><a href="/article/22/Welcome-to-the-New-Server" title="Off Topic: Welcome to the New Server">Welcome to the New Server</a></td></tr><tr><td id="nl64" onclick="window.location='/article/64/Details-of-the-Pumpkin-Carving'" onMouseOver="lb('nl64')" onMouseOut="db('nl64')" ><a href="/article/64/Details-of-the-Pumpkin-Carving" title="Off Topic: Details of the Pumpkin Carving">Details of the Pumpkin Carving</a></td><td id="nl24" onclick="window.location='/article/24/Increased-Readership-and-Traffic-Woes'" onMouseOver="lb('nl24')" onMouseOut="db('nl24')" ><a href="/article/24/Increased-Readership-and-Traffic-Woes" title="Off Topic: Increased Readership and Traffic Woes">Increased Readership and Traffic Woes</a></td><td id="nl331" onclick="window.location='/article/331/Robot-Turtles-Board-Game-Kickstarter'" onMouseOver="lb('nl331')" onMouseOut="db('nl331')" ><a href="/article/331/Robot-Turtles-Board-Game-Kickstarter" title="Off Topic: Robot Turtles Board Game Kickstarter">Robot Turtles Board Game Kickstarter</a></td><td id="nl192" onclick="window.location='/article/192/Whats-the-Most-Trans-Fat-Youve-Seen'" onMouseOver="lb('nl192')" onMouseOut="db('nl192')" ><a href="/article/192/Whats-the-Most-Trans-Fat-Youve-Seen" title="Off Topic: What's the Most Trans Fat You've Seen?">What's the Most Trans Fat You've Seen?</a></td></tr><tr><td id="nl23" onclick="window.location='/article/23/Donations-Please'" onMouseOver="lb('nl23')" onMouseOut="db('nl23')" ><a href="/article/23/Donations-Please" title="Off Topic: Donations Please!">Donations Please!</a></td><td id="nl210" onclick="window.location='/article/210/Inside-the-CIA'" onMouseOver="lb('nl210')" onMouseOut="db('nl210')" ><a href="/article/210/Inside-the-CIA" title="Off Topic: Inside the CIA">Inside the CIA</a></td><td id="nl167" onclick="window.location='/article/167/Santa-Cruz-Clam-Chowder-Cook-Off-2006'" onMouseOver="lb('nl167')" onMouseOut="db('nl167')" ><a href="/article/167/Santa-Cruz-Clam-Chowder-Cook-Off-2006" title="Off Topic: Santa Cruz Clam Chowder Cook Off 2006">Santa Cruz Clam Chowder Cook Off 2006</a></td><td id="nl325" onclick="window.location='/article/325/Wolfgang-Puck-Phone-Interview'" onMouseOver="lb('nl325')" onMouseOut="db('nl325')" ><a href="/article/325/Wolfgang-Puck-Phone-Interview" title="Off Topic: Wolfgang Puck Phone Interview">Wolfgang Puck Phone Interview</a></td></tr><tr><td id="nl157" onclick="window.location='/article/157/Fancy-Food-Show-Winter-2006'" onMouseOver="lb('nl157')" onMouseOut="db('nl157')" ><a href="/article/157/Fancy-Food-Show-Winter-2006" title="Off Topic: Fancy Food Show Winter 2006">Fancy Food Show Winter 2006</a></td></tr></table></div>
+	<div id="navcat_RecipeFile" style="display:none"><table width="100%" class="navlinks" cellpadding="0" cellspacing="1"><tr><td width="25%" id="nl188" onclick="window.location='/recipe/188/Anghelikas-Tsatsiki-Tzatziki'" onMouseOver="lb('nl188')" onMouseOut="db('nl188')" ><a href="/recipe/188/Anghelikas-Tsatsiki-Tzatziki" title="Recipe File: Anghelika's Tsatsiki (Tzatziki)">Anghelika's Tsatsiki (Tzatziki)</a></td><td width="25%" id="nl98" onclick="window.location='/recipe/98/Condensed-Milk-Fudge'" onMouseOver="lb('nl98')" onMouseOut="db('nl98')" ><a href="/recipe/98/Condensed-Milk-Fudge" title="Recipe File: Condensed Milk Fudge">Condensed Milk Fudge</a></td><td width="25%" id="nl305" onclick="window.location='/recipe/305/Honey-Pecan-Pralines'" onMouseOver="lb('nl305')" onMouseOut="db('nl305')" ><a href="/recipe/305/Honey-Pecan-Pralines" title="Recipe File: Honey Pecan Pralines">Honey Pecan Pralines</a></td><td width="25%" id="nl92" onclick="window.location='/recipe/92/Poached-Fish'" onMouseOver="lb('nl92')" onMouseOut="db('nl92')" ><a href="/recipe/92/Poached-Fish" title="Recipe File: Poached Fish">Poached Fish</a></td></tr><tr><td id="nl163" onclick="window.location='/recipe/163/Asparagus-with-Almonds'" onMouseOver="lb('nl163')" onMouseOut="db('nl163')" ><a href="/recipe/163/Asparagus-with-Almonds" title="Recipe File: Asparagus with Almonds">Asparagus with Almonds</a></td><td id="nl152" onclick="window.location='/recipe/152/Cooked-Egg-Nog'" onMouseOver="lb('nl152')" onMouseOut="db('nl152')" ><a href="/recipe/152/Cooked-Egg-Nog" title="Recipe File: Cooked Egg Nog">Cooked Egg Nog</a></td><td id="nl308" onclick="window.location='/recipe/308/Hot-Chocolate'" onMouseOver="lb('nl308')" onMouseOut="db('nl308')" ><a href="/recipe/308/Hot-Chocolate" title="Recipe File: Hot Chocolate">Hot Chocolate</a></td><td id="nl38" onclick="window.location='/recipe/38/Prime-Rib-or-Standing-Rib-Roast'" onMouseOver="lb('nl38')" onMouseOut="db('nl38')" ><a href="/recipe/38/Prime-Rib-or-Standing-Rib-Roast" title="Recipe File: Prime Rib or Standing Rib Roast">Prime Rib or Standing Rib Roast</a></td></tr><tr><td id="nl103" onclick="window.location='/recipe/103/Baked-Cinnamon-Apple'" onMouseOver="lb('nl103')" onMouseOut="db('nl103')" ><a href="/recipe/103/Baked-Cinnamon-Apple" title="Recipe File: Baked Cinnamon Apple">Baked Cinnamon Apple</a></td><td id="nl48" onclick="window.location='/recipe/48/Corn-Fritters'" onMouseOver="lb('nl48')" onMouseOut="db('nl48')" ><a href="/recipe/48/Corn-Fritters" title="Recipe File: Corn Fritters">Corn Fritters</a></td><td id="nl104" onclick="window.location='/recipe/104/Kelloggs-Rice-Krispies-Treats'" onMouseOver="lb('nl104')" onMouseOut="db('nl104')" ><a href="/recipe/104/Kelloggs-Rice-Krispies-Treats" title="Recipe File: Kellogg's Rice Krispies Treats">Kellogg's Rice Krispies Treats</a></td><td id="nl189" onclick="window.location='/recipe/189/Prosciutto-e-Melone'" onMouseOver="lb('nl189')" onMouseOut="db('nl189')" ><a href="/recipe/189/Prosciutto-e-Melone" title="Recipe File: Prosciutto e Melone">Prosciutto e Melone</a></td></tr><tr><td id="nl108" onclick="window.location='/recipe/108/Banana-Nut-Bread'" onMouseOver="lb('nl108')" onMouseOut="db('nl108')" ><a href="/recipe/108/Banana-Nut-Bread" title="Recipe File: Banana Nut Bread">Banana Nut Bread</a></td><td id="nl79" onclick="window.location='/recipe/79/Cranberry-Sauce'" onMouseOver="lb('nl79')" onMouseOut="db('nl79')" ><a href="/recipe/79/Cranberry-Sauce" title="Recipe File: Cranberry Sauce">Cranberry Sauce</a></td><td id="nl33" onclick="window.location='/recipe/33/Lemon-Bars'" onMouseOver="lb('nl33')" onMouseOut="db('nl33')" ><a href="/recipe/33/Lemon-Bars" title="Recipe File: Lemon Bars">Lemon Bars</a></td><td id="nl65" onclick="window.location='/recipe/65/Pumpkin-Pie'" onMouseOver="lb('nl65')" onMouseOut="db('nl65')" ><a href="/recipe/65/Pumpkin-Pie" title="Recipe File: Pumpkin Pie">Pumpkin Pie</a></td></tr><tr><td id="nl246" onclick="window.location='/recipe/246/Barbecue-Pork-Ribs-Baby-Back-or-Spare'" onMouseOver="lb('nl246')" onMouseOut="db('nl246')" ><a href="/recipe/246/Barbecue-Pork-Ribs-Baby-Back-or-Spare" title="Recipe File: Barbecue Pork Ribs (Baby Back or Spare)">Barbecue Pork Ribs (Baby Back or Spare)</a></td><td id="nl194" onclick="window.location='/recipe/194/Cream-of-Mushroom-Soup'" onMouseOver="lb('nl194')" onMouseOut="db('nl194')" ><a href="/recipe/194/Cream-of-Mushroom-Soup" title="Recipe File: Cream of Mushroom Soup">Cream of Mushroom Soup</a></td><td id="nl121" onclick="window.location='/recipe/121/Lemon-Iced-Tea'" onMouseOver="lb('nl121')" onMouseOut="db('nl121')" ><a href="/recipe/121/Lemon-Iced-Tea" title="Recipe File: Lemon Iced Tea">Lemon Iced Tea</a></td><td id="nl227" onclick="window.location='/recipe/227/Ratatouille'" onMouseOver="lb('nl227')" onMouseOut="db('nl227')" ><a href="/recipe/227/Ratatouille" title="Recipe File: Ratatouille">Ratatouille</a></td></tr><tr><td id="nl35" onclick="window.location='/recipe/35/Basic-Granita'" onMouseOver="lb('nl35')" onMouseOut="db('nl35')" ><a href="/recipe/35/Basic-Granita" title="Recipe File: Basic Granita">Basic Granita</a></td><td id="nl107" onclick="window.location='/recipe/107/Creamy-Garlic-Mashed-Potatoes'" onMouseOver="lb('nl107')" onMouseOut="db('nl107')" ><a href="/recipe/107/Creamy-Garlic-Mashed-Potatoes" title="Recipe File: Creamy Garlic Mashed Potatoes">Creamy Garlic Mashed Potatoes</a></td><td id="nl124" onclick="window.location='/recipe/124/Lime-Marinated-Grilled-Chicken'" onMouseOver="lb('nl124')" onMouseOut="db('nl124')" ><a href="/recipe/124/Lime-Marinated-Grilled-Chicken" title="Recipe File: Lime Marinated Grilled Chicken">Lime Marinated Grilled Chicken</a></td><td id="nl101" onclick="window.location='/recipe/101/Roasted-Asparagus-Spears'" onMouseOver="lb('nl101')" onMouseOut="db('nl101')" ><a href="/recipe/101/Roasted-Asparagus-Spears" title="Recipe File: Roasted Asparagus Spears">Roasted Asparagus Spears</a></td></tr><tr><td id="nl47" onclick="window.location='/recipe/47/Basic-Pancakes'" onMouseOver="lb('nl47')" onMouseOut="db('nl47')" ><a href="/recipe/47/Basic-Pancakes" title="Recipe File: Basic Pancakes">Basic Pancakes</a></td><td id="nl32" onclick="window.location='/recipe/32/Creme-Brulee-Cregraveme-Brucircleacutee'" onMouseOver="lb('nl32')" onMouseOut="db('nl32')" ><a href="/recipe/32/Creme-Brulee-Cregraveme-Brucircleacutee" title="Recipe File: Creme Brulee (Cr&egrave;me Br&ucirc;l&eacute;e)">Creme Brulee (Cr&egrave;me Br&ucirc;l&eacute;e)</a></td><td id="nl66" onclick="window.location='/recipe/66/Limeade'" onMouseOver="lb('nl66')" onMouseOut="db('nl66')" ><a href="/recipe/66/Limeade" title="Recipe File: Limeade">Limeade</a></td><td id="nl174" onclick="window.location='/recipe/174/Rosemary-Lamb-Chops'" onMouseOver="lb('nl174')" onMouseOut="db('nl174')" ><a href="/recipe/174/Rosemary-Lamb-Chops" title="Recipe File: Rosemary Lamb Chops">Rosemary Lamb Chops</a></td></tr><tr><td id="nl44" onclick="window.location='/recipe/44/Basic-Vinaigrette-Salad-Dressing'" onMouseOver="lb('nl44')" onMouseOut="db('nl44')" ><a href="/recipe/44/Basic-Vinaigrette-Salad-Dressing" title="Recipe File: Basic Vinaigrette Salad Dressing">Basic Vinaigrette Salad Dressing</a></td><td id="nl317" onclick="window.location='/recipe/317/Crunchy-Bloody-Mary'" onMouseOver="lb('nl317')" onMouseOut="db('nl317')" ><a href="/recipe/317/Crunchy-Bloody-Mary" title="Recipe File: Crunchy Bloody Mary">Crunchy Bloody Mary</a></td><td id="nl230" onclick="window.location='/recipe/230/Macaroni-and-Cheese-Bake'" onMouseOver="lb('nl230')" onMouseOut="db('nl230')" ><a href="/recipe/230/Macaroni-and-Cheese-Bake" title="Recipe File: Macaroni and Cheese Bake">Macaroni and Cheese Bake</a></td><td id="nl53" onclick="window.location='/recipe/53/Salsa-Cruda'" onMouseOver="lb('nl53')" onMouseOut="db('nl53')" ><a href="/recipe/53/Salsa-Cruda" title="Recipe File: Salsa Cruda">Salsa Cruda</a></td></tr><tr><td id="nl122" onclick="window.location='/recipe/122/Beef-Stroganoff'" onMouseOver="lb('nl122')" onMouseOut="db('nl122')" ><a href="/recipe/122/Beef-Stroganoff" title="Recipe File: Beef Stroganoff">Beef Stroganoff</a></td><td id="nl158" onclick="window.location='/recipe/158/Dark-Chocolate-Brownies'" onMouseOver="lb('nl158')" onMouseOut="db('nl158')" ><a href="/recipe/158/Dark-Chocolate-Brownies" title="Recipe File: Dark Chocolate Brownies">Dark Chocolate Brownies</a></td><td id="nl177" onclick="window.location='/recipe/177/Matzo-Matzah-Ball-Soup'" onMouseOver="lb('nl177')" onMouseOut="db('nl177')" ><a href="/recipe/177/Matzo-Matzah-Ball-Soup" title="Recipe File: Matzo (Matzah) Ball Soup">Matzo (Matzah) Ball Soup</a></td><td id="nl8" onclick="window.location='/recipe/8/Sauteed-Okra-with-Roasted-Red-Peppers'" onMouseOver="lb('nl8')" onMouseOut="db('nl8')" ><a href="/recipe/8/Sauteed-Okra-with-Roasted-Red-Peppers" title="Recipe File: Sauteed Okra with Roasted Red Peppers">Sauteed Okra with Roasted Red Peppers</a></td></tr><tr><td id="nl154" onclick="window.location='/recipe/154/Biscotti'" onMouseOver="lb('nl154')" onMouseOut="db('nl154')" ><a href="/recipe/154/Biscotti" title="Recipe File: Biscotti">Biscotti</a></td><td id="nl160" onclick="window.location='/recipe/160/Dark-Chocolate-Souffle'" onMouseOver="lb('nl160')" onMouseOut="db('nl160')" ><a href="/recipe/160/Dark-Chocolate-Souffle" title="Recipe File: Dark Chocolate Souffle">Dark Chocolate Souffle</a></td><td id="nl36" onclick="window.location='/recipe/36/Meat-Lasagna'" onMouseOver="lb('nl36')" onMouseOut="db('nl36')" ><a href="/recipe/36/Meat-Lasagna" title="Recipe File: Meat Lasagna">Meat Lasagna</a></td><td id="nl320" onclick="window.location='/recipe/320/Sauteed-Spinach'" onMouseOver="lb('nl320')" onMouseOut="db('nl320')" ><a href="/recipe/320/Sauteed-Spinach" title="Recipe File: Sauteed Spinach">Sauteed Spinach</a></td></tr><tr><td id="nl288" onclick="window.location='/recipe/288/Biscuits-Southern-Buttermilk-Biscuits'" onMouseOver="lb('nl288')" onMouseOut="db('nl288')" ><a href="/recipe/288/Biscuits-Southern-Buttermilk-Biscuits" title="Recipe File: Biscuits (Southern Buttermilk Biscuits)">Biscuits (Southern Buttermilk Biscuits)</a></td><td id="nl147" onclick="window.location='/recipe/147/Dirty-Rice'" onMouseOver="lb('nl147')" onMouseOut="db('nl147')" ><a href="/recipe/147/Dirty-Rice" title="Recipe File: Dirty Rice">Dirty Rice</a></td><td id="nl55" onclick="window.location='/recipe/55/Mini-Hamburgers'" onMouseOver="lb('nl55')" onMouseOut="db('nl55')" ><a href="/recipe/55/Mini-Hamburgers" title="Recipe File: Mini Hamburgers">Mini Hamburgers</a></td><td id="nl127" onclick="window.location='/recipe/127/Shepherds-Pie-Cottage-Pie'" onMouseOver="lb('nl127')" onMouseOut="db('nl127')" ><a href="/recipe/127/Shepherds-Pie-Cottage-Pie" title="Recipe File: Shepherd's Pie (Cottage Pie)">Shepherd's Pie (Cottage Pie)</a></td></tr><tr><td id="nl136" onclick="window.location='/recipe/136/Braised-Brussels-Sprouts'" onMouseOver="lb('nl136')" onMouseOut="db('nl136')" ><a href="/recipe/136/Braised-Brussels-Sprouts" title="Recipe File: Braised Brussels Sprouts">Braised Brussels Sprouts</a></td><td id="nl255" onclick="window.location='/recipe/255/Dulce-de-Leche'" onMouseOver="lb('nl255')" onMouseOut="db('nl255')" ><a href="/recipe/255/Dulce-de-Leche" title="Recipe File: Dulce de Leche">Dulce de Leche</a></td><td id="nl151" onclick="window.location='/recipe/151/Mulled-Cider-Spiced-Apple-Cider'" onMouseOver="lb('nl151')" onMouseOut="db('nl151')" ><a href="/recipe/151/Mulled-Cider-Spiced-Apple-Cider" title="Recipe File: Mulled Cider (Spiced Apple Cider)">Mulled Cider (Spiced Apple Cider)</a></td><td id="nl15" onclick="window.location='/recipe/15/Shrimp-Scampi'" onMouseOver="lb('nl15')" onMouseOut="db('nl15')" ><a href="/recipe/15/Shrimp-Scampi" title="Recipe File: Shrimp Scampi">Shrimp Scampi</a></td></tr><tr><td id="nl268" onclick="window.location='/recipe/268/Buffalo-Chicken-Chili'" onMouseOver="lb('nl268')" onMouseOut="db('nl268')" ><a href="/recipe/268/Buffalo-Chicken-Chili" title="Recipe File: Buffalo Chicken Chili">Buffalo Chicken Chili</a></td><td id="nl203" onclick="window.location='/recipe/203/Egg-Custard-with-Clams'" onMouseOver="lb('nl203')" onMouseOut="db('nl203')" ><a href="/recipe/203/Egg-Custard-with-Clams" title="Recipe File: Egg Custard with Clams">Egg Custard with Clams</a></td><td id="nl185" onclick="window.location='/recipe/185/Nestle-Toll-House-Chocolate-Chip-Cookies'" onMouseOver="lb('nl185')" onMouseOut="db('nl185')" ><a href="/recipe/185/Nestle-Toll-House-Chocolate-Chip-Cookies" title="Recipe File: Nestle Toll House Chocolate Chip Cookies">Nestle Toll House Chocolate Chip Cookies</a></td><td id="nl26" onclick="window.location='/recipe/26/Simple-Tiramisu'" onMouseOver="lb('nl26')" onMouseOut="db('nl26')" ><a href="/recipe/26/Simple-Tiramisu" title="Recipe File: Simple Tiramisu">Simple Tiramisu</a></td></tr><tr><td id="nl306" onclick="window.location='/recipe/306/Butter-Pecan-Ice-Cream'" onMouseOver="lb('nl306')" onMouseOut="db('nl306')" ><a href="/recipe/306/Butter-Pecan-Ice-Cream" title="Recipe File: Butter Pecan Ice Cream">Butter Pecan Ice Cream</a></td><td id="nl159" onclick="window.location='/recipe/159/English-Toffee'" onMouseOver="lb('nl159')" onMouseOut="db('nl159')" ><a href="/recipe/159/English-Toffee" title="Recipe File: English Toffee">English Toffee</a></td><td id="nl86" onclick="window.location='/recipe/86/Okra-Stew-Fast-Gumbo'" onMouseOver="lb('nl86')" onMouseOut="db('nl86')" ><a href="/recipe/86/Okra-Stew-Fast-Gumbo" title="Recipe File: Okra Stew (Fast Gumbo)">Okra Stew (Fast Gumbo)</a></td><td id="nl28" onclick="window.location='/recipe/28/Slow-Simmered-Spicy-Barbeque-Sauce'" onMouseOver="lb('nl28')" onMouseOut="db('nl28')" ><a href="/recipe/28/Slow-Simmered-Spicy-Barbeque-Sauce" title="Recipe File: Slow Simmered Spicy Barbeque Sauce">Slow Simmered Spicy Barbeque Sauce</a></td></tr><tr><td id="nl180" onclick="window.location='/recipe/180/Buttercream-Frosting-American'" onMouseOver="lb('nl180')" onMouseOut="db('nl180')" ><a href="/recipe/180/Buttercream-Frosting-American" title="Recipe File: Buttercream Frosting (American)">Buttercream Frosting (American)</a></td><td id="nl327" onclick="window.location='/recipe/327/Espresso-Brownies'" onMouseOver="lb('nl327')" onMouseOut="db('nl327')" ><a href="/recipe/327/Espresso-Brownies" title="Recipe File: Espresso Brownies">Espresso Brownies</a></td><td id="nl200" onclick="window.location='/recipe/200/Osso-Buco'" onMouseOver="lb('nl200')" onMouseOut="db('nl200')" ><a href="/recipe/200/Osso-Buco" title="Recipe File: Osso Buco">Osso Buco</a></td><td id="nl144" onclick="window.location='/recipe/144/Smoked-Beer-Can-Turkey'" onMouseOver="lb('nl144')" onMouseOut="db('nl144')" ><a href="/recipe/144/Smoked-Beer-Can-Turkey" title="Recipe File: Smoked Beer Can Turkey">Smoked Beer Can Turkey</a></td></tr><tr><td id="nl9" onclick="window.location='/recipe/9/Campbells-Green-Bean-Casserole'" onMouseOver="lb('nl9')" onMouseOut="db('nl9')" ><a href="/recipe/9/Campbells-Green-Bean-Casserole" title="Recipe File: Campbell's Green Bean Casserole">Campbell's Green Bean Casserole</a></td><td id="nl34" onclick="window.location='/recipe/34/Garlic-Roasted-Potatoes'" onMouseOver="lb('nl34')" onMouseOut="db('nl34')" ><a href="/recipe/34/Garlic-Roasted-Potatoes" title="Recipe File: Garlic Roasted Potatoes">Garlic Roasted Potatoes</a></td><td id="nl81" onclick="window.location='/recipe/81/Oven-Baked-Chicken-and-Rice'" onMouseOver="lb('nl81')" onMouseOut="db('nl81')" ><a href="/recipe/81/Oven-Baked-Chicken-and-Rice" title="Recipe File: Oven Baked Chicken and Rice">Oven Baked Chicken and Rice</a></td><td id="nl239" onclick="window.location='/recipe/239/Soft-Boiled-Eggs'" onMouseOver="lb('nl239')" onMouseOut="db('nl239')" ><a href="/recipe/239/Soft-Boiled-Eggs" title="Recipe File: Soft Boiled Eggs">Soft Boiled Eggs</a></td></tr><tr><td id="nl181" onclick="window.location='/recipe/181/Cheesecake-Cupcakes'" onMouseOver="lb('nl181')" onMouseOut="db('nl181')" ><a href="/recipe/181/Cheesecake-Cupcakes" title="Recipe File: Cheesecake Cupcakes">Cheesecake Cupcakes</a></td><td id="nl132" onclick="window.location='/recipe/132/Gravlax'" onMouseOver="lb('nl132')" onMouseOut="db('nl132')" ><a href="/recipe/132/Gravlax" title="Recipe File: Gravlax">Gravlax</a></td><td id="nl45" onclick="window.location='/recipe/45/Oven-Baked-Spare-Ribs-Two-Ways'" onMouseOver="lb('nl45')" onMouseOut="db('nl45')" ><a href="/recipe/45/Oven-Baked-Spare-Ribs-Two-Ways" title="Recipe File: Oven Baked Spare Ribs - Two Ways">Oven Baked Spare Ribs - Two Ways</a></td><td id="nl83" onclick="window.location='/recipe/83/Strawberry-Glazed-Angel-Food-Cake'" onMouseOver="lb('nl83')" onMouseOut="db('nl83')" ><a href="/recipe/83/Strawberry-Glazed-Angel-Food-Cake" title="Recipe File: Strawberry Glazed Angel Food Cake">Strawberry Glazed Angel Food Cake</a></td></tr><tr><td id="nl89" onclick="window.location='/recipe/89/Cheesecake-Plain-New-York-Style'" onMouseOver="lb('nl89')" onMouseOut="db('nl89')" ><a href="/recipe/89/Cheesecake-Plain-New-York-Style" title="Recipe File: Cheesecake, Plain New York Style">Cheesecake, Plain New York Style</a></td><td id="nl111" onclick="window.location='/recipe/111/Grilled-Artichokes'" onMouseOver="lb('nl111')" onMouseOut="db('nl111')" ><a href="/recipe/111/Grilled-Artichokes" title="Recipe File: Grilled Artichokes">Grilled Artichokes</a></td><td id="nl37" onclick="window.location='/recipe/37/Pan-Fried-Fish-Fillets'" onMouseOver="lb('nl37')" onMouseOut="db('nl37')" ><a href="/recipe/37/Pan-Fried-Fish-Fillets" title="Recipe File: Pan Fried Fish Fillets">Pan Fried Fish Fillets</a></td><td id="nl4" onclick="window.location='/recipe/4/Sweet-Corn-Bread'" onMouseOver="lb('nl4')" onMouseOut="db('nl4')" ><a href="/recipe/4/Sweet-Corn-Bread" title="Recipe File: Sweet Corn Bread">Sweet Corn Bread</a></td></tr><tr><td id="nl59" onclick="window.location='/recipe/59/Chicken-Mushroom-Marsala'" onMouseOver="lb('nl59')" onMouseOut="db('nl59')" ><a href="/recipe/59/Chicken-Mushroom-Marsala" title="Recipe File: Chicken &amp; Mushroom Marsala">Chicken &amp; Mushroom Marsala</a></td><td id="nl20" onclick="window.location='/recipe/20/Grilled-Pork-Chops'" onMouseOver="lb('nl20')" onMouseOut="db('nl20')" ><a href="/recipe/20/Grilled-Pork-Chops" title="Recipe File: Grilled Pork Chops">Grilled Pork Chops</a></td><td id="nl71" onclick="window.location='/recipe/71/Pan-Seared-Scallops-with-Roasted-Red-Pepper-Sauce'" onMouseOver="lb('nl71')" onMouseOut="db('nl71')" ><a href="/recipe/71/Pan-Seared-Scallops-with-Roasted-Red-Pepper-Sauce" title="Recipe File: Pan Seared Scallops with Roasted Red Pepper Sauce">Pan Seared Scallops with Roasted Red Pepper Sauce</a></td><td id="nl42" onclick="window.location='/recipe/42/Traditional-Chicken-Pot-Pie'" onMouseOver="lb('nl42')" onMouseOut="db('nl42')" ><a href="/recipe/42/Traditional-Chicken-Pot-Pie" title="Recipe File: Traditional Chicken Pot Pie">Traditional Chicken Pot Pie</a></td></tr><tr><td id="nl178" onclick="window.location='/recipe/178/Chocolate-Cake'" onMouseOver="lb('nl178')" onMouseOut="db('nl178')" ><a href="/recipe/178/Chocolate-Cake" title="Recipe File: Chocolate Cake">Chocolate Cake</a></td><td id="nl31" onclick="window.location='/recipe/31/Grilled-Porterhouse-or-T-Bone-Steak'" onMouseOver="lb('nl31')" onMouseOut="db('nl31')" ><a href="/recipe/31/Grilled-Porterhouse-or-T-Bone-Steak" title="Recipe File: Grilled Porterhouse or T-Bone Steak">Grilled Porterhouse or T-Bone Steak</a></td><td id="nl164" onclick="window.location='/recipe/164/Parmesan-Garlic-Bread'" onMouseOver="lb('nl164')" onMouseOut="db('nl164')" ><a href="/recipe/164/Parmesan-Garlic-Bread" title="Recipe File: Parmesan Garlic Bread">Parmesan Garlic Bread</a></td><td id="nl18" onclick="window.location='/recipe/18/Traditional-Pecan-Pie'" onMouseOver="lb('nl18')" onMouseOut="db('nl18')" ><a href="/recipe/18/Traditional-Pecan-Pie" title="Recipe File: Traditional Pecan Pie">Traditional Pecan Pie</a></td></tr><tr><td id="nl195" onclick="window.location='/recipe/195/Chocolate-Truffles'" onMouseOver="lb('nl195')" onMouseOut="db('nl195')" ><a href="/recipe/195/Chocolate-Truffles" title="Recipe File: Chocolate Truffles">Chocolate Truffles</a></td><td id="nl10" onclick="window.location='/recipe/10/Grilled-Salmon'" onMouseOver="lb('nl10')" onMouseOut="db('nl10')" ><a href="/recipe/10/Grilled-Salmon" title="Recipe File: Grilled Salmon">Grilled Salmon</a></td><td id="nl58" onclick="window.location='/recipe/58/Peanut-Butter-Cookies'" onMouseOver="lb('nl58')" onMouseOut="db('nl58')" ><a href="/recipe/58/Peanut-Butter-Cookies" title="Recipe File: Peanut Butter Cookies">Peanut Butter Cookies</a></td><td id="nl62" onclick="window.location='/recipe/62/Tuna-Noodle-Casserole'" onMouseOver="lb('nl62')" onMouseOut="db('nl62')" ><a href="/recipe/62/Tuna-Noodle-Casserole" title="Recipe File: Tuna Noodle Casserole">Tuna Noodle Casserole</a></td></tr><tr><td id="nl112" onclick="window.location='/recipe/112/Clam-Chowder-New-England-Style'" onMouseOver="lb('nl112')" onMouseOut="db('nl112')" ><a href="/recipe/112/Clam-Chowder-New-England-Style" title="Recipe File: Clam Chowder, New England Style">Clam Chowder, New England Style</a></td><td id="nl6" onclick="window.location='/recipe/6/Grilled-Skinless-Chicken-Breast'" onMouseOver="lb('nl6')" onMouseOut="db('nl6')" ><a href="/recipe/6/Grilled-Skinless-Chicken-Breast" title="Recipe File: Grilled Skinless Chicken Breast">Grilled Skinless Chicken Breast</a></td><td id="nl168" onclick="window.location='/recipe/168/Pecan-Coffee-Cake'" onMouseOver="lb('nl168')" onMouseOut="db('nl168')" ><a href="/recipe/168/Pecan-Coffee-Cake" title="Recipe File: Pecan Coffee Cake">Pecan Coffee Cake</a></td><td id="nl75" onclick="window.location='/recipe/75/Turkey-or-Chicken-Stock'" onMouseOver="lb('nl75')" onMouseOut="db('nl75')" ><a href="/recipe/75/Turkey-or-Chicken-Stock" title="Recipe File: Turkey or Chicken Stock">Turkey or Chicken Stock</a></td></tr><tr><td id="nl74" onclick="window.location='/recipe/74/Classic-Roast-Turkey'" onMouseOver="lb('nl74')" onMouseOut="db('nl74')" ><a href="/recipe/74/Classic-Roast-Turkey" title="Recipe File: Classic Roast Turkey">Classic Roast Turkey</a></td><td id="nl43" onclick="window.location='/recipe/43/Homemade-Mayonnaise'" onMouseOver="lb('nl43')" onMouseOut="db('nl43')" ><a href="/recipe/43/Homemade-Mayonnaise" title="Recipe File: Homemade Mayonnaise">Homemade Mayonnaise</a></td></tr></table></div>
+	<div id="navcat_SousVide" style="display:none"><table width="100%" class="navlinks" cellpadding="0" cellspacing="1"><tr><td width="25%" id="nl283" onclick="window.location='/article/283/An-Introduction-to-Sous-Vide-Cooking'" onMouseOver="lb('nl283')" onMouseOut="db('nl283')" ><a href="/article/283/An-Introduction-to-Sous-Vide-Cooking" title="Sous Vide: An Introduction to Sous Vide Cooking">An Introduction to Sous Vide Cooking</a></td><td width="25%" id="nl289" onclick="window.location='/article/289/Sous-Vide-Cooking-at-Home-Setup-Guide'" onMouseOver="lb('nl289')" onMouseOut="db('nl289')" ><a href="/article/289/Sous-Vide-Cooking-at-Home-Setup-Guide" title="Sous Vide: Sous Vide Cooking at Home Setup Guide">Sous Vide Cooking at Home Setup Guide</a></td></tr></table></div>
+	<div id="navcat_TestRecipes" style="display:none"><table width="100%" class="navlinks" cellpadding="0" cellspacing="1"><tr><td width="25%" id="nl14" onclick="window.location='/recipe/14/Albers-Corn-Bread'" onMouseOver="lb('nl14')" onMouseOut="db('nl14')" ><a href="/recipe/14/Albers-Corn-Bread" title="Test Recipes: Albers Corn Bread">Albers Corn Bread</a></td><td width="25%" id="nl19" onclick="window.location='/recipe/19/Erics-Chocolate-Pecan-Pie'" onMouseOver="lb('nl19')" onMouseOut="db('nl19')" ><a href="/recipe/19/Erics-Chocolate-Pecan-Pie" title="Test Recipes: Eric's Chocolate Pecan Pie">Eric's Chocolate Pecan Pie</a></td><td width="25%" id="nl215" onclick="window.location='/recipe/215/Hot-Cross-Buns-Delia-Smiths'" onMouseOver="lb('nl215')" onMouseOut="db('nl215')" ><a href="/recipe/215/Hot-Cross-Buns-Delia-Smiths" title="Test Recipes: Hot Cross Buns (Delia Smith's)">Hot Cross Buns (Delia Smith's)</a></td><td width="25%" id="nl172" onclick="window.location='/recipe/172/Pan-Pizza'" onMouseOver="lb('nl172')" onMouseOut="db('nl172')" ><a href="/recipe/172/Pan-Pizza" title="Test Recipes: Pan Pizza">Pan Pizza</a></td></tr><tr><td id="nl77" onclick="window.location='/recipe/77/Asian-Taco'" onMouseOver="lb('nl77')" onMouseOut="db('nl77')" ><a href="/recipe/77/Asian-Taco" title="Test Recipes: Asian Taco">Asian Taco</a></td><td id="nl46" onclick="window.location='/recipe/46/Faux-BBQ-Beef-Ribs'" onMouseOver="lb('nl46')" onMouseOut="db('nl46')" ><a href="/recipe/46/Faux-BBQ-Beef-Ribs" title="Test Recipes: Faux BBQ Beef Ribs">Faux BBQ Beef Ribs</a></td><td id="nl49" onclick="window.location='/recipe/49/Joy-of-Cookings-Peanut-Butter-Cookies-14-in-one'" onMouseOver="lb('nl49')" onMouseOut="db('nl49')" ><a href="/recipe/49/Joy-of-Cookings-Peanut-Butter-Cookies-14-in-one" title="Test Recipes: Joy of Cooking's Peanut Butter Cookies (14-in-one)">Joy of Cooking's Peanut Butter Cookies (14-in-one)</a></td><td id="nl252" onclick="window.location='/recipe/252/Quick-Gazpacho'" onMouseOver="lb('nl252')" onMouseOut="db('nl252')" ><a href="/recipe/252/Quick-Gazpacho" title="Test Recipes: Quick Gazpacho">Quick Gazpacho</a></td></tr><tr><td id="nl12" onclick="window.location='/recipe/12/Avocado-Pork-Stuffed-Peppers'" onMouseOver="lb('nl12')" onMouseOut="db('nl12')" ><a href="/recipe/12/Avocado-Pork-Stuffed-Peppers" title="Test Recipes: Avocado Pork Stuffed Peppers">Avocado Pork Stuffed Peppers</a></td><td id="nl76" onclick="window.location='/recipe/76/Giblet-Pan-Gravy'" onMouseOver="lb('nl76')" onMouseOut="db('nl76')" ><a href="/recipe/76/Giblet-Pan-Gravy" title="Test Recipes: Giblet Pan Gravy">Giblet Pan Gravy</a></td><td id="nl80" onclick="window.location='/recipe/80/Leftover-Cranberry-Sauce-Pie'" onMouseOver="lb('nl80')" onMouseOut="db('nl80')" ><a href="/recipe/80/Leftover-Cranberry-Sauce-Pie" title="Test Recipes: Leftover Cranberry Sauce Pie">Leftover Cranberry Sauce Pie</a></td><td id="nl13" onclick="window.location='/recipe/13/Sauteed-Zucchini-with-Mushrooms'" onMouseOver="lb('nl13')" onMouseOut="db('nl13')" ><a href="/recipe/13/Sauteed-Zucchini-with-Mushrooms" title="Test Recipes: Sauteed Zucchini with Mushrooms">Sauteed Zucchini with Mushrooms</a></td></tr><tr><td id="nl41" onclick="window.location='/recipe/41/Basic-Biscuits'" onMouseOver="lb('nl41')" onMouseOut="db('nl41')" ><a href="/recipe/41/Basic-Biscuits" title="Test Recipes: Basic Biscuits">Basic Biscuits</a></td><td id="nl72" onclick="window.location='/recipe/72/Good-Eats-Peanut-Brittle'" onMouseOver="lb('nl72')" onMouseOut="db('nl72')" ><a href="/recipe/72/Good-Eats-Peanut-Brittle" title="Test Recipes: Good Eats Peanut Brittle">Good Eats Peanut Brittle</a></td><td id="nl106" onclick="window.location='/recipe/106/Marshmallows'" onMouseOver="lb('nl106')" onMouseOut="db('nl106')" ><a href="/recipe/106/Marshmallows" title="Test Recipes: Marshmallows">Marshmallows</a></td><td id="nl60" onclick="window.location='/recipe/60/The-Classic-Tiramisu-original-recipe'" onMouseOver="lb('nl60')" onMouseOut="db('nl60')" ><a href="/recipe/60/The-Classic-Tiramisu-original-recipe" title="Test Recipes: The Classic Tiramisu (original recipe?)">The Classic Tiramisu (original recipe?)</a></td></tr><tr><td id="nl87" onclick="window.location='/recipe/87/Carrot-Pulp-Cake-Part-I'" onMouseOver="lb('nl87')" onMouseOut="db('nl87')" ><a href="/recipe/87/Carrot-Pulp-Cake-Part-I" title="Test Recipes: Carrot Pulp Cake, Part I">Carrot Pulp Cake, Part I</a></td><td id="nl69" onclick="window.location='/recipe/69/Halloween-Green-Slime-Spinach-Dip'" onMouseOver="lb('nl69')" onMouseOut="db('nl69')" ><a href="/recipe/69/Halloween-Green-Slime-Spinach-Dip" title="Test Recipes: Halloween Green Slime Spinach Dip">Halloween Green Slime Spinach Dip</a></td><td id="nl161" onclick="window.location='/recipe/161/Orzo-Risotto-with-Buttery-Shrimp'" onMouseOver="lb('nl161')" onMouseOut="db('nl161')" ><a href="/recipe/161/Orzo-Risotto-with-Buttery-Shrimp" title="Test Recipes: Orzo Risotto with Buttery Shrimp">Orzo Risotto with Buttery Shrimp</a></td><td id="nl193" onclick="window.location='/recipe/193/TrailBlaze-Bake-At-Home-Energy-Bars'" onMouseOver="lb('nl193')" onMouseOut="db('nl193')" ><a href="/recipe/193/TrailBlaze-Bake-At-Home-Energy-Bars" title="Test Recipes: TrailBlaze Bake-At-Home Energy Bars">TrailBlaze Bake-At-Home Energy Bars</a></td></tr><tr><td id="nl170" onclick="window.location='/recipe/170/Chinese-Almond-Cookies'" onMouseOver="lb('nl170')" onMouseOut="db('nl170')" ><a href="/recipe/170/Chinese-Almond-Cookies" title="Test Recipes: Chinese Almond Cookies">Chinese Almond Cookies</a></td><td id="nl274" onclick="window.location='/recipe/274/Hatch-Chile-Infused-Chocolate-Truffles'" onMouseOver="lb('nl274')" onMouseOut="db('nl274')" ><a href="/recipe/274/Hatch-Chile-Infused-Chocolate-Truffles" title="Test Recipes: Hatch Chile Infused Chocolate Truffles">Hatch Chile Infused Chocolate Truffles</a></td><td id="nl176" onclick="window.location='/recipe/176/Oven-Fried-Onion-Rings'" onMouseOver="lb('nl176')" onMouseOut="db('nl176')" ><a href="/recipe/176/Oven-Fried-Onion-Rings" title="Test Recipes: Oven-Fried Onion Rings">Oven-Fried Onion Rings</a></td></tr></table></div>
+	
+</div>
+<div class="navbarbottom"></div>
+			<table class="tl_table" cellpadding="0" cellspacing="1" border="0">
+	<tr align="center">
+		<td class="indexsummary">
+			<a href="/toc.php?sort=date">Table of Contents</a>
+		</td>
+		<td class="indexsummary">
+			<a href="/forums">Forums</a>
+		</td>
+		<td class="indexsummary">
+			<a href="/dictionary">Dictionary</a>
+		</td>
+		<td class="indexsummary">
+			<a href="/books">Recommended Reading</a>
+		</td>
+		<td class="indexsummary">
+			<a href="http://astore.amazon.com/themichaelupdate">Marketplace</a>
+		</td>
+		<td class="indexsummary">
+			<a href="http://www.cafepress.com/cookingengineer">Giftshop</a>
+		</td>
+		<td class="indexsummary">
+			<a href="/what_i_ate">What I Ate</a>
+		</td>
+		<td class="indexsummary" style="border:1px solid #C00000">
+			<a href="http://www.orthogonalthought.com/blog" title="Read Michael's Blog: Orthogonal Thought" style="background-color:#FFFFC0">Michael's Blog</a>
+		</td>
+	</tr>
+</table>
+
+
+		
+		
+		
+
+
+		
+	<div id="orthogonalthought" onclick="window.location='http://www.orthogonalthought.com/blog/index.php/2014/08/fall-television-season-2014-grid/';" style="cursor:pointer">
+		Latest Post on Michael's Blog: <a href="http://www.orthogonalthought.com/blog/index.php/2014/08/fall-television-season-2014-grid/">Fall Television Season 2014 Grid</a>
+	</div>	
+	
+
+
+		
+		<div class="mainbody">
+			
+
+<table cellpadding="0" cellspacing="2" border="0" style="margin:0 auto 0 auto">
+	<tr>
+		
+		<td style="background: #000000 url(http://www.cookingforengineers.com/pics6/4hourchef/final_360.jpg) no-repeat center center; cursor:pointer;border:2px solid #FFFFA0;padding:0">
+			<a href="/recipe/317/Crunchy-Bloody-Mary" title="Recipe File: Crunchy Bloody Mary"><div style="height:100px;width:100px;cursor:pointer"></div></a>
+		</td>
+		
+		<td style="background: #000000 url(http://www.cookingforengineers.com/pics3/160/fd_weber.jpg) no-repeat center center; cursor:pointer;border:2px solid #FFFFA0;padding:0">
+			<a href="/article/222/Fathers-Day-Gift-Ideas" title="Equipment & Gear: Father's Day Gift Ideas"><div style="height:100px;width:100px;cursor:pointer"></div></a>
+		</td>
+		
+		<td style="background: #000000 url(http://www.cookingforengineers.com/pics2/160/DSC_1713_crop.jpg) no-repeat center center; cursor:pointer;border:2px solid #FFFFA0;padding:0">
+			<a href="/recipe/178/Chocolate-Cake" title="Recipe File: Chocolate Cake"><div style="height:100px;width:100px;cursor:pointer"></div></a>
+		</td>
+		
+		<td style="background: #000000 url(http://www.cookingforengineers.com/pics2/160/DSC_1748_crop.jpg) no-repeat center center; cursor:pointer;border:2px solid #FFFFA0;padding:0">
+			<a href="/recipe/177/Matzo-Matzah-Ball-Soup" title="Recipe File: Matzo (Matzah) Ball Soup"><div style="height:100px;width:100px;cursor:pointer"></div></a>
+		</td>
+		
+		<td style="background: #000000 url(http://www.cookingforengineers.com/pics2/160/DSC_1098_crop.jpg) no-repeat center center; cursor:pointer;border:2px solid #FFFFA0;padding:0">
+			<a href="/recipe/158/Dark-Chocolate-Brownies" title="Recipe File: Dark Chocolate Brownies"><div style="height:100px;width:100px;cursor:pointer"></div></a>
+		</td>
+		
+		<td style="background: #000000 url(http://www.cookingforengineers.com/pics6/espressobrownies/espressobrowniesfinal_320.jpg) no-repeat center center; cursor:pointer;border:2px solid #FFFFA0;padding:0">
+			<a href="/recipe/327/Espresso-Brownies" title="Recipe File: Espresso Brownies"><div style="height:100px;width:100px;cursor:pointer"></div></a>
+		</td>
+		
+		<td style="background: #000000 url(http://www.cookingforengineers.com/pics3/160/ND2_4650_crop.jpg) no-repeat center center; cursor:pointer;border:2px solid #FFFFA0;padding:0">
+			<a href="/article/234/Soda-Club-SodaStream" title="Equipment & Gear: Soda-Club (SodaStream)"><div style="height:100px;width:100px;cursor:pointer"></div></a>
+		</td>
+		
+		<td style="background: #000000 url(http://www.cookingforengineers.com/hello/259/958/160/DSC_0926_crop.jpg) no-repeat center center; cursor:pointer;border:2px solid #FFFFA0;padding:0">
+			<a href="/article/5/Eggplant-Taste-Test" title="Cooking Tests: Eggplant Taste Test"><div style="height:100px;width:100px;cursor:pointer"></div></a>
+		</td>
+		
+	</tr>
+</table>
+
+
+<div itemscope itemtype="http://data-vocabulary.org/Recipe">
+	<div id="articleheader">
+			<div class="headertitle"><div>
+				<span class="category">
+					Recipe File
+				</span><br />
+				<h1 class="title" style="display:inline" itemprop="name">
+					Shepherd's Pie (Cottage Pie)
+				</h1>
+				<span class="author">
+					by <span itemprop="author">Michael Chu</span>
+				</span>
+			</div></div>
+		<div class="formatbutton"><a href="/recipe/127/Shepherds-Pie-Cottage-Pie/trn">Recipe Card</a></div>
+		<div class="formatbutton"><a href="/recipe/127/Shepherds-Pie-Cottage-Pie/print">Printer-friendly</a></div>
+		
+		<div class="selectedformatbutton">Normal view</div>
+		
+		<div class="hr"></div>
+	</div>
+
+	<div id="articlebody">
+		
+		
+			<div style="font-size:12pt;font-weight:bold;float:right;margin:0px -6px 0 0;padding:0 4px 6px 8px;background-color:#FFFFA0"><a href="/recipe/132/Gravlax">Next &#187;</a></div>
+			<div style="font-size:12pt;font-weight:bold;float:left;margin:0px 0 0 -6px;padding:0 8px 6px 4px;background-color:#FFFFA0"><a href="/article/131/Clarified-Butter">&#171; Prev</a></div>
+			
+			<div style="clear:both"></div>
+			<div style="float:right;clear:right;padding:4px 0 12px 8px;" class="nothing">
+				
+<!-- Google DFP Article_160x600-->
+<center>
+<div id='dfp_gpt_1' style='width:160px; height:600px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('dfp_gpt_1'); });
+</script>
+</div>
+</center>
+
+				<div style="margin:30px 0 0 0;line-height:0px"><!-- --></div>
+				
+			</div>
+			
+<!-- Google DFP Article_300x250-->
+<div class="adsense-left">
+<div id='dfp_gpt_2' style='width:300px; height:250px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('dfp_gpt_2'); });
+</script>
+</div>
+</div>
+
+
+		
+		
+			
+			When the English, who seem to have a national fascination with minced meat pies, combined mashed potatoes with minced meat, a truly remarkable dish was born. For over two hundred years, Shepherd's Pie has been made by cooking chopped up lamb or mutton mixed with gravy, topped with mashed potatoes, and baked until a crispy crust forms. When made with beef, this dish is traditionally called Cottage Pie.<span class="fullpost"><?if($fullpost==1){?><br />
+<br />
+This recipe, handed down to me by a friend in the form of index cards, was originally from the beloved <a href="http://www.amazon.com/exec/obidos/ASIN/0743246268/ref%3Dnosim/themichaelupdate">Joy of Cooking</a>.<br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/pics/640/DSC_8868_crop.jpg'><img src='http://www.cookingforengineers.com/pics/320/DSC_8868_crop.jpg'  width='320' height='212' class='left' alt='' /></a>
+Start by chopping up 1-1/2 lb. potatoes into rough 1-inch cubes for boiling. Fill a large pot with enough water to cover the potatoes and bring to a boil. Once the water boils, add the potatoes to the water and return the water to a boil. Turn the heat down to medium to keep the water at a simmer. Cook the potatoes until fully tender, about fifteen minutes.<br /><div style='clear:left'></div><br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/pics/640/DSC_8869_crop.jpg'><img src='http://www.cookingforengineers.com/pics/320/DSC_8869_crop.jpg'  width='320' height='212' class='left' alt='' /></a>
+While, cooking the potatoes, prepare the vegetables. Use one medium carrot, a celery stalk, and a medium onion (a classic combination known as a mirepoix).<br /><div style='clear:left'></div><br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/pics/640/DSC_8873_crop.jpg'><img src='http://www.cookingforengineers.com/pics/320/DSC_8873_crop.jpg'  width='320' height='212' class='left' alt='' /></a>
+Dice the carrot, celery, and onion and place in a bowl. Assemble the rest of the ingredients: 1 tablespoon flour, 1 teaspoon each of dried rosemary and dried thyme, 1 cup beef broth, and 1 pound of ground lamb or beef.<br /><div style='clear:left'></div><br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/pics/640/DSC_8872_crop.jpg'><img src='http://www.cookingforengineers.com/pics/320/DSC_8872_crop.jpg'  width='320' height='212' class='left' alt='' /></a>
+When the potatoes are tender, remove them from the water into a large bowl, reserving 1/2 cup of the water. Mash the potatoes with 1 Tbs. butter, the 1/2 cup of reserved water. Add salt and ground white pepper to taste while mashing. I use white pepper in my mashed potatoes so black flecks of pepper are not visible in the finished product. Feel free to use the pepper of your choice.<br /><div style='clear:left'></div><br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/pics/640/DSC_8877_crop.jpg'><img src='http://www.cookingforengineers.com/pics/320/DSC_8877_crop.jpg'  width='320' height='212' class='left' alt='' /></a>
+After the potatoes have been mashed, set them aside. Heat 3 Tbs. vegetable oil or clarified butter in a large pot over medium heat.<br /><div style='clear:left'></div><br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/pics/640/DSC_8878_crop.jpg'><img src='http://www.cookingforengineers.com/pics/320/DSC_8878_crop.jpg'  width='320' height='212' class='left' alt='' /></a>
+Add the diced onion, carrot, and celery and stir until the vegetables are coated.<br /><div style='clear:left'></div><br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/pics/640/DSC_8879_crop.jpg'><img src='http://www.cookingforengineers.com/pics/320/DSC_8879_crop.jpg'  width='320' height='212' class='left' alt='' /></a>
+Reduce the heat to medium-low and cook, stirring occasionally, until tender, about fifteen minutes. This is a good time to preheat your oven to 400&#176;F.<br /><div style='clear:left'></div><br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/pics/640/DSC_8880_crop.jpg'><img src='http://www.cookingforengineers.com/pics/320/DSC_8880_crop.jpg'  width='320' height='212' class='left' alt='' /></a>
+Increase the heat to medium-high and add the ground meat. Use a wooden spoon (or the <a href="http://www.amazon.com/exec/obidos/ASIN/B00004OCJK/ref%3Dnosim/themichaelupdate">potato masher</a> you used on the potatoes) to break the meat apart while cooking.<br /><div style='clear:left'></div><br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/pics/640/DSC_8881_crop.jpg'><img src='http://www.cookingforengineers.com/pics/320/DSC_8881_crop.jpg'  width='320' height='212' class='left' alt='' /></a>
+Cook the ground meat while stirring until no longer pink, about five minutes.<br /><div style='clear:left'></div><br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/pics/640/DSC_8884_crop.jpg'><img src='http://www.cookingforengineers.com/pics/320/DSC_8884_crop.jpg'  width='320' height='212' class='left' alt='' /></a>
+Tilt the pot and allow the excess fat to run to one corner. Spoon off the excess fat.<br /><div style='clear:left'></div><br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/pics/640/DSC_8885_crop.jpg'><img src='http://www.cookingforengineers.com/pics/320/DSC_8885_crop.jpg'  width='320' height='212' class='left' alt='' /></a>
+Add 1 Tbs. flour to the mixture. Mix and cook for a couple minutes while stirring. The flour is added here to help thicken up the gravy that we'll prepare in this mixture. We cook it for a couple minutes during this step so there will not be a raw flour taste to our final dish.<br /><div style='clear:left'></div><br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/pics/640/DSC_8886_crop.jpg'><img src='http://www.cookingforengineers.com/pics/320/DSC_8886_crop.jpg'  width='320' height='212' class='left' alt='' /></a>
+Add the beef stock, dried thyme, dried rosemary, and nutmeg. Cook while stirring until the liquid has thickened, about 5 minutes. While the gravy thickens, add salt and ground black pepper to taste.<br /><div style='clear:left'></div><br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/pics/640/DSC_8888_crop.jpg'><img src='http://www.cookingforengineers.com/pics/320/DSC_8888_crop.jpg'  width='320' height='212' class='left' alt='' /></a>
+Pour the meat mixture into a casserole or baking pan.<br /><div style='clear:left'></div><br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/pics/640/DSC_8889_crop.jpg'><img src='http://www.cookingforengineers.com/pics/320/DSC_8889_crop.jpg'  width='320' height='212' class='left' alt='' /></a>
+Cover meat mixture with the mashed potatoes and fluff the top of the potatoes with a fork. This will allow the bits of potato sticking up to brown and form a crispy crust. Instead of fluffing the potatoes, you can use the fork to carve patterns into the potatoes producing a dramatic crust.<br /><div style='clear:left'></div><br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/pics/640/DSC_8890_crop.jpg'><img src='http://www.cookingforengineers.com/pics/320/DSC_8890_crop.jpg'  width='320' height='212' class='left' alt='' /></a>
+Cut 2 Tbs. of butter into small pieces and sprinkle over the top of the potatoes. Cover with a healthy amount of paprika. (Optionally, an ounce or two of finely grated cheese, like parmesan, can be used to top the potatoes.)<br /><div style='clear:left'></div><br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/pics/640/DSC_8911_crop.jpg'><img itemprop="photo" src='http://www.cookingforengineers.com/pics/320/DSC_8911_crop.jpg'  width='320' height='265' class='left' alt='' /></a>
+Place the shepherd's pie into the oven onto a rack in the center of the oven. After thirty minutes, the potatoes should have formed the golden brown crust. Remove from the oven and allow to rest ten minutes before serving.<?}?></span><br /><div style='clear:left'></div><span class="fullpost"><?if($fullpost==1){?><br />
+<br />
+<div class="larticles">
+	<div class="title">Related Articles</div>
+	<div class="link">
+			<a href="/recipe/227/Ratatouille">Ratatouille</a>
+		</div><div class="link">
+			<a href="/recipe/132/Gravlax">Gravlax</a>
+		</div><div class="link">
+			<a href="/article/131/Clarified-Butter">Clarified Butter</a>
+		</div><div class="link">
+			<a href="/recipe/230/Macaroni-and-Cheese-Bake">Macaroni and Cheese Bake</a>
+		</div><div class="link">
+			<a href="/recipe/26/Simple-Tiramisu">Simple Tiramisu</a>
+		</div>
+	
+</div>
+	For larger groups or potlucks, I double the portions and prepare exactly as above until the meat mixture is done cooking. Instead of transfering the meat to a baking pan, I put the potatoes into the pot to cover the meat mixture. (If I know that there will be many carb dishes at the meal, then I won't double the potato portion.) After fluffing the potatoes, I bake the whole pot for 30 minutes at 400&#176;F.<?}?></span><br />
+<br />
+<b>Shepherd's Pie</b> (serves <span itemprop="yield">four to six</span>)<br />
+Mashed potatoes<br />
+<table><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">1-1/2 lb. (700 g)</span> <span itemprop="name">russet potatoes</span></span></td><td>boil until tender (15 min.)</td><td rowspan=3 class="vertical">mash</td><td rowspan=3 class="vertical">season to taste</td></tr><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">1/2 cup (120 mL)</span> <span itemprop="name">water reserved from boiling potatoes</span></span></td><td rowspan=2 class="righthide"></td></tr><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">1 Tbs. (14 g)</span> <span itemprop="name">unsalted butter</span></span></td></tr><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="name">salt</span></span></td><td rowspan=2 colspan=2 class="righthide"></tr><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">ground</span> <span itemprop="name">white pepper</span></span></td></tr></table><br />
+Shepherd's pie<br />
+<table><tr><td colspan=11 align=center>Preheat oven to 400&#176;F (204&#176;C)</td></tr><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">3 Tbs. (45 mL)</span> <span itemprop="name">vegetable oil</span></span></td><td>heat</td><td rowspan=4 class="vertical">med-low until tender</td><td rowspan=5 class="vertical">cook until meat is no longer pink</td><td rowspan=6 class="vertical">mix and cook</td><td rowspan=10 class="vertical">stir in and cook until liquid thickens</td><td rowspan=12 class="vertical">season to taste</td><td rowspan=13 class="vertical">cover with potatoes and fluff with fork</td><td rowspan=14 class="vertical">drop butter pieces on top</td><td rowspan=15 class="vertical">cover with paprika</td><td rowspan=15 class="vertical">bake 400&#176;F (205&#176;C) 30 min.</td></tr><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">1 medium (110 g)</span> <span itemprop="name">onion</span></span></td><td rowspan=3>dice</td></tr><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">1 medium (61 g)</span> <span itemprop="name">carrot</span></span></td></tr><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">1 medium (40 g)</span> <span itemprop="name">celery stalk</span></span></td></tr><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">1 pound (450 g)</span> <span itemprop="name">ground lamb</span></span></td><td colspan=2 class="righthide"></td></tr><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">1 Tbs. (8 g)</span> <span itemprop="name">all-purpose flour</span></span></td><td colspan=3 class="righthide"></td></tr><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">1 tsp. (1.2 g)</span> <span itemprop="name">dried rosemary</span></span></td><td rowspan=4 colspan=3 class="righthide"></td></tr><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">1 tsp. (1 g)</span> <span itemprop="name">dried thyme</span></span></td></tr><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">1 pinch</span> <span itemprop="name">ground nutmeg</span></span></td></tr><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">1 cup (235 mL)</span> <span itemprop="name">beef broth</span></span></td></tr><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="name">salt</span></span></td><td rowspan=2 colspan=4 class="righthide"></td></tr><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">ground</span> <span itemprop="name">black pepper</span></span></td></tr><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">1-3/4 lb. (800 g)</span> <span itemprop="name">mashed potatoes</span></span></td><td colspan=5 class="righthide"></td></tr><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">2 Tbs. (28 g)</span> <span itemprop="name">butter</span></span></td><td colspan=7>cut up into small pieces</td></tr><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="name">paprika</span></span></td><td colspan=7 class="righthide"></td></tr></table><br />
+<br />
+<div class="larticles">
+	<div class="title">Related Articles</div>
+	<div class="link">
+			<a href="/recipe/227/Ratatouille">Ratatouille</a>
+		</div><div class="link">
+			<a href="/recipe/132/Gravlax">Gravlax</a>
+		</div><div class="link">
+			<a href="/article/131/Clarified-Butter">Clarified Butter</a>
+		</div><div class="link">
+			<a href="/recipe/230/Macaroni-and-Cheese-Bake">Macaroni and Cheese Bake</a>
+		</div><div class="link">
+			<a href="/recipe/26/Simple-Tiramisu">Simple Tiramisu</a>
+		</div>
+	
+</div>
+	<div style="clear:both;margin-bottom:8px"></div>
+			
+		
+		
+		<div class="clear"></div>
+		
+			<div style="font-size:12pt;font-weight:bold;float:right;margin:0 -6px -4px 0;padding:0 2px 2px 6px;background-color:#FFFFA0"><a href="/recipe/132/Gravlax">Next &#187;</a></div>
+			<div style="font-size:12pt;font-weight:bold;float:left;margin:0 0 -4px -6px;padding:0 6px 2px 2px;background-color:#FFFFA0"><a href="/article/131/Clarified-Butter">&#171; Prev</a></div>
+		
+		<div class="clear"></div>
+	</div>
+	
+	<div id="articlefooter">
+		<div class="author">Written by Michael Chu</div>
+		<div class="timestamp">Published on <time itemprop="publishDate" itemprop="published" datetime="2005-08-26">August 26, 2005 at 12:55 AM</time></div>
+		<div class="clear"></div>
+	</div>
+	
+</div>
+
+
+
+
+
+	<div class="spacer3"></div>
+		
+<!-- Google DFP Article_728x90-->
+<center>
+<div id='dfp_gpt_3' style='width:728px; height:90px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('dfp_gpt_3'); });
+</script>
+</div>
+</center>
+
+		
+	
+	
+  <div id="comments">
+		<div id="articlecomments">
+			<div class="header">118 comments on <b>Shepherd's Pie (Cottage Pie)</b>:<span class="commentlink">(<a href="/forums/posting.php?mode=reply&t=150" style="font-size:12pt" title="Comments are managed in the Cooking For Engineers Forums">Post a comment</a>)</span></div>
+			
+					<hr size="1" noshade />
+					<div class="commentheading">On August 26, 2005 at 02:45 PM, fwendy said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">I'm not familiar with US varieties of potato, and it was difficult to tell from the photograph - is the russet potato a waxy or floury potato? The mashed potatoes didn't look quite as smooth as we would use in Britain for a Shepherd's Pie - we would use quite a bit more butter, and milk rather than water, to give a thick, smooth purée.<br />
+<br />
+The rest of the recipe looks fine to my British eye, although most cooks I know make Shepherd's (or Cottage) Pie from the remains of a roasted joint of beef, rather than raw meat. It's a way of using leftovers for most families, rather than a dish they create from scratch.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 26, 2005 at 05:53 PM, Psystormi (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Fluffed</span><br /></div>
+					<div class="commentbody">I think the reason it look so lumpy was from fluffing them up to get the browned effects whilst baking.<br />
+<br />
+I use milk and loads of butter as well in mine, and while I typically use leftover meats, on occasion we crave the meal itself withough having any leftovers to use!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 26, 2005 at 07:23 PM, jmack (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">For variety I have made this dish with a layer of corn between the meat and potatoes and put sliced cheese on the top.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 26, 2005 at 07:23 PM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">The sheppard's pie recipe is a good one and easy to fix. We have been cooking this for years. Practically the same recipe except I add a little celery and some frozen green peas. It really make it a good complete meal.<br />
+<br />
+Thanks guys'<br />
+<br />
+Rick cast<br />
+Midland, Texas</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 26, 2005 at 08:02 PM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">I add a can of creamed corn between the beef and potatoe layer.  I also add mushrooms to the ground beef instead fo carrots.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 27, 2005 at 12:39 AM, dnash (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">I've also had some success using Guinness stout in place of the beef broth.  And I usually add peas also.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 27, 2005 at 01:10 AM, Michael Chu said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody"><div class='commentquote'>fwendy wrote:<div class='commentquotebody'>I'm not familiar with US varieties of potato, and it was difficult to tell from the photograph - is the russet potato a waxy or floury potato? The mashed potatoes didn't look quite as smooth as we would use in Britain for a Shepherd's Pie - we would use quite a bit more butter, and milk rather than water, to give a thick, smooth purée.</div></div><br />
+Russets are a starchy (floury) variety. Definitely the mashed potatoes could be made with more substantial ingredients. I don't usually both though because people (at least my guests) seem to focus more on the flavor of the meat and use the mashed potatoes for contrasting texture. Maybe even a palate cleanser - which is why I kept them simple for this particular dish. But there's probably no wrong way to make a shepherd's pie. :)<br />
+<br />
+<div class='commentquote'>fwendy wrote:<div class='commentquotebody'>The rest of the recipe looks fine to my British eye, although most cooks I know make Shepherd's (or Cottage) Pie from the remains of a roasted joint of beef, rather than raw meat. It's a way of using leftovers for most families, rather than a dish they create from scratch.</div></div><br />
+Ah, yes. I forgot to mention that Shepherd's Pie was originally intended (and for most of the world still is used) as a way to prepare leftovers in a palatable manner. If you've got flavorful meat leftovers, chop it up and toss it in! :)</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 27, 2005 at 02:01 AM, an anonymous reader said...</div>
+					<div class="commentsubject">Subject: <span>nice but wrong</span><br /></div>
+					<div class="commentbody">what you made is a Shepherd's pie.<br />
+<br />
+a cottage pie is a meat pie with mash potatoes on top, the key difference is cottage pie's have pastry base and side with no lid topped with potato's, Shepherd's pie's do not have any pastry.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 27, 2005 at 06:44 AM, fwendy said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">I should have written that Shepherd's Pie is often made from the leftovers from a joint of [u:cdc5743c13]meat[/u:cdc5743c13] (not just beef - lamb is probably more often used).<br />
+<br />
+I agree with Michael's definition of a Shepherd's and Cottage Pie - neither of them have a pastry base.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 27, 2005 at 01:02 PM, tank_girl369 (guest) said...</div>
+					<div class="commentsubject">Subject: <span>shepard's pie</span><br /></div>
+					<div class="commentbody">I cook my vegetables in with my meat and I use all different vegetables so the flavors cook in together and I also add worcestershire sauce.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 27, 2005 at 07:35 PM, Urgoll (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Quebec version...</span><br /></div>
+					<div class="commentbody">The Quebec version (called Pate Chinois in french) doesn't have the celery nor carrot, and you'd add two cans of creamed corn between the meat and the mashed potatoes...</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 28, 2005 at 01:03 PM, Shalmanese said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">Whenever I make beef stock, I always strip the leftover meat from the bones and make cottage pie with it. The meat is so tender from simmering for 8 hours and the beef stock is phenomenally good. I also use the rendered tallow that floats on top of the stock to saute the vegtables and the entire thing just ends up turning out intensely beefy and utterly delicious. Every time I've made it, I've increased the portion size by 50% and there are still no leftovers because everyone eats until they burst.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 29, 2005 at 10:53 PM, PelaLusa (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Hurray!</span><br /></div>
+					<div class="commentbody">I'm an engineer and I love cooking.  In your site I've found heaven!!!<br />
+<br />
+Robert Werner<br />
+Vancouver, BC<br />
+http://PelaLusa.blogspot.com</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On September 01, 2005 at 10:01 PM, Rossitron (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Great site!</span><br /></div>
+					<div class="commentbody">Made this lastnight, very tasty!<br />
+<br />
+Had one issue, I couldn't get the top to brown quite as nicely as your picture shows.<br />
+<br />
+Keep up the good work!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On September 02, 2005 at 06:04 AM, Chloe (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Love your chart!</span><br /></div>
+					<div class="commentbody">I'm not an engineer, but I have a passion for efficiency, and I love the way you have charted your recipes!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On September 06, 2005 at 08:52 PM, Yasminah (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Fisherman's Pie</span><br /></div>
+					<div class="commentbody">You can make a version of this called Fisherman's Pie by substituting cooked fish for the meat and making a white sauce instead of gravy.  I usually put cheese in the white sauce.  I put cooked spinach in the bottom of the baking dish, top it with cooked (or canned) fish, then the white sauce and finally on the top the mashed potatoes.  Then bake, just to warm everything.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On September 12, 2005 at 06:37 PM, Baj (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Re: nice but wrong</span><br /></div>
+					<div class="commentbody"><div class='commentquote'>Anonymous wrote:<div class='commentquotebody'>what you made is a Shepherd's pie.<br />
+<br />
+a cottage pie is a meat pie with mash potatoes on top, the key difference is cottage pie's have pastry base and side with no lid topped with potato's, Shepherd's pie's do not have any pastry.</div></div><br />
+<br />
+Shepherds pie uses Lamb (the name is a clue), cottage pie uses beef</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On September 27, 2005 at 07:11 AM, an anonymous reader said...</div>
+					<div class="commentsubject">Subject: <span>Let's join efforts...</span><br /></div>
+					<div class="commentbody">Greetings, my friend. Do you like cooking? Do you enjoy preparing a healthy and tasty meal for your family? It means we have something in common.<br />
+<br />
+When cooking for my 3 years old son I always try to balance what's good and what tastes good. And I am sure you think the same. <br />
+<br />
+So... let's join our efforts. See, alone I can only do so much. Together, with your help, we can make <a href='http://www.tasty-chicken-recipes.com'>Tasty Chicken Recipes</a> really useful.<br />
+<br />
+And, while you're there, why don't you send me your thoughts on how to make it a better place? A place where you'll really enjoy being. A place that you'll be proud of making better.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On October 12, 2005 at 10:15 AM, MikeReid (guest) said...</div>
+					<div class="commentsubject">Subject: <span>shepherds' pie</span><br /></div>
+					<div class="commentbody">I see people talking of shepherds' pie as beef and sweet corn, that is something properly called pate chinois, shepherds pie must contain lamb, other beef pies are cottage pies. (And its shepherds' not shepherd's).<br />
+<a href='&lt;a href=&quot;http://www.fellwalk.co.uk/londonfood3.htm&gt;the pie&lt;/a&gt;'>&lt;a href="http://www.fellwalk.co.uk/londonfood3.htm&gt;the pie&lt;/a&gt;</a>[/url]</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On October 12, 2005 at 06:53 PM, fwendy said...</div>
+					<div class="commentsubject">Subject: <span>Re: shepherds' pie</span><br /></div>
+					<div class="commentbody"><div class='commentquote'>MikeReid wrote:<div class='commentquotebody'>(And its shepherds' not shepherd's).<br />
+</div></div><br />
+<br />
+Surely that depends on whether the pie was made by (or belonged to) one shepherd, or several in collaboration!  :) <br />
+<br />
+As sheepherding was a solitary occupation, I'd prefer to think of 'shepherd's pie' as being correct.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 02, 2005 at 04:10 PM, sporb (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Hard to read...</span><br /></div>
+					<div class="commentbody">I'm going to cook this tonight for my family; thanks! <br />
+<br />
+I did want to mention that this grey text on black background is a little hard on the eyes of us older engineers....<br />
+<br />
+-b</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 29, 2005 at 11:16 PM, Sandra (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Shepherd's Pie</span><br /></div>
+					<div class="commentbody">Does a Shepherd's pie freeze okay?  I have a lot of family coming for Christmas and I want to be prepared ahead with lots of comfy foods in the freezer![/b]</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 30, 2005 at 09:16 PM, Michael Chu said...</div>
+					<div class="commentsubject">Subject: <span>Re: Shepherd's Pie</span><br /></div>
+					<div class="commentbody"><div class='commentquote'>Sandra wrote:<div class='commentquotebody'>Does a Shepherd's pie freeze okay?  I have a lot of family coming for Christmas and I want to be prepared ahead with lots of comfy foods in the freezer!</div></div><br />
+In my experience, shepherd's pie freezes just fine. Simply freeze it after it's been assembled (before baking) and when it's time to serve, just bake until the edges are bubbly.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 03, 2005 at 03:24 PM, an anonymous reader said...</div>
+					<div class="commentsubject">Subject: <span>Slight variation - delicious</span><br /></div>
+					<div class="commentbody">Soften some chopped leeks in butter, sprinkle on top of the mash, and grate a little cheese on top.  Grill to colo(u)r the cheese.  This is a great combination - try it :)</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On April 07, 2006 at 07:41 PM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">it is very simple. the clue is the name. a shepherds pie is made with lamb, and cottage pie with beef. both topped with mashed potato.<br />
+PhilB</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On April 29, 2006 at 08:48 PM, Crystal said...</div>
+					<div class="commentsubject">Subject: <span>Mmmm</span><br /></div>
+					<div class="commentbody">I made this a few nights ago for supper.  My boyfriend and I really enjoyed it.  It looked exactly like the picture too!  My old recipe for shephard's pie called for cottage cheese in the potato mixture, which I really enjoyed the creamyness from and would recommend it in this recipe.<br />
+<br />
+My boyfriend also made this for me one day when I came home late.  Wow!  He did it perfectly!<br />
+<br />
+Thanks for this great recipe!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On May 01, 2006 at 04:15 PM, blueannysis (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Revision for Shepherd's Pie</span><br /></div>
+					<div class="commentbody">Instead of the beef broth I use a can of Tomato soup.  I also put a can of kernel corn and a can of green beans between the layer of meat and potatoes.  I put thin slices of jalapenos on top of the potatoes for asthetic value and to add a little heat.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On May 07, 2006 at 05:36 AM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">I like to include a can of baked beans instead of the gravy, and some frozen peas and corn. Also a squirt of tomato sauce/ketchup and worcestershire sauce. I also sometimes put a layer of mashed sweet potato (yam) under the layer of potato - it's a bit fussy, but it looks &amp; tastes really good!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On May 09, 2006 at 08:42 AM, Doug (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Who hasn't tried it?</span><br /></div>
+					<div class="commentbody">First of all, thanks to whoever maintains this forum.  I cam across it by accident this morning and I am most impressed by the way it is structured.<br />
+<br />
+Admittedly, I am from a very English family, but I'm really surprised at how many people seem to be trying cottage pie for the first time!<br />
+<br />
+I was brought up on the stuff (and I hasten to add, never brought it up!), and at the ripe young age of 40, we still have it at least once every couple of weeks.<br />
+<br />
+I have to admit, though, that we don't generally wait for leftovers, as these are a rarity in our house!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On June 01, 2006 at 07:44 AM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">Since the potatoes are already mashed and warm, and the meat and vegetable portion of the dish are already fully cooked, and still hot from the range top, what do you lose by not simply broiling the dish for a few minutes, instead of a 400° oven for thirty minutes? It seems to me that you could save some time doing that, as well as perhaps saving some moisture in the lower strata of potatoes by not exposing it to the heat for so long.<br />
+<br />
+Otherwise a nice recipe, and as this is my first comment, let me congratulate you on an excellent website. If this website did not exist, mankind would be driven to create it.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On June 02, 2006 at 06:35 AM, Yasmin (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Shepherd's pie</span><br /></div>
+					<div class="commentbody">I second the comment a while back about the ground lamb rather than beef...I 've done mine with either lamb or a mixture of lamb and beef. Then again, I am partial to that "lamby" flavor that some folks aren't into...<br />
+<br />
+Great site, by the way. Very fresh among food blogs. I've been tracking them for ThisNext.com, and yours is really inventive. Looking forward to the next recipe...</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On June 25, 2006 at 10:16 PM, Liz (guest) said...</div>
+					<div class="commentsubject">Subject: <span>A bit of a twist</span><br /></div>
+					<div class="commentbody">Great website.  I added 1/4 cup very dry sherry to the mixture while it was still cooking. It added a nutty flavor.  I also used pork, as that was what was leftover.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On July 12, 2006 at 03:03 AM, stinglighter (guest) said...</div>
+					<div class="commentsubject">Subject: <span>sheppie</span><br /></div>
+					<div class="commentbody">I agree with the worschester sauce addition into the gravy...it brings out more flavor, along with 2-3 tbsp tomato paste.  I also add a layer of cheddar to the top that melts down onto the potatoes.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On July 31, 2006 at 11:08 PM, stanlees@guamcell.net (guest) said...</div>
+					<div class="commentsubject">Subject: <span>shepherds pie</span><br /></div>
+					<div class="commentbody">Almost Perfect but important you forgot Layer green peas under Potatoes about 1/2 -3/4 inch Thick Stanley</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 18, 2006 at 02:59 PM, an anonymous reader said...</div>
+					<div class="commentsubject">Subject: <span>Delicious!</span><br /></div>
+					<div class="commentbody">I have really enjoyed your website - thank you!  We had this for dinner a week or so ago.  It was enjoyable to prepare and even more enjoyable to eat.  The family decided they would like it with more meat, so I'll probably add another 1/2 pound of ground meat next time.  (sorry if that's improper in Britain, but we like our meat!)<br />
+<br />
+I did use someone's recommendation and set it under the broiler instead of baking it.  I prepared the potatoes after the meat mixture, so they were still warm.  Broiled it a few minutes until the top was golden, then sprinkled a touch of sharp cheddar and returned to the turned off, but still warm oven to let it melt.  This is exactly how my husband likes it, so he was thrilled.<br />
+<br />
+Thanks again for a wonderful site, I have tried 4 recipes here already and they have all been a big hit with the family.  Thank you, Michael!!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 27, 2006 at 05:18 PM, Diane said...</div>
+					<div class="commentsubject">Subject: <span>Variations on shepherds pie</span><br /></div>
+					<div class="commentbody">A recipe from <i>Sunset </i> magazine that I found sveral years ago was a nice variation on the traditional.<br />
+<br />
+They added sweet potatoes to the mashed potato topping ( aboout 50/50 red garnet sweet potatoes / russett potatoes).<br />
+<br />
+The meat filling was the same ground lamb and veggies, but spiced with a mild curry.<br />
+<br />
+IMHO a very tasty change of pace.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 25, 2006 at 06:56 PM, jabar (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Shepherd's pie</span><br /></div>
+					<div class="commentbody">Great recipe for shepherd's pie or cottage pie, depending on the ingredients!  Thanks.<br />
+<br />
+I tried a variation that others might like to experiment with.  I used country sausage (pork sausage w/a light onion/garlic flavor and minimal sage) in lieu of the beef/lamb.  Instead of beef stock for gravy I used some excellent turkey stock made with herbs d'provence.  The stock is a little stronger that chicken stock and not as heavily flavored as beef stock.  The results were very good.  I also added the layer of peas.<br />
+<br />
+jb</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 02, 2006 at 02:59 AM, jasra (guest) said...</div>
+					<div class="commentsubject">Subject: <span>How many pounds of potatoes?</span><br /></div>
+					<div class="commentbody">In your spiffy charts, you show 1.5 lbs of potatoes for the mashed potatoes section. In the assembly chart, you show 1.75 lbs. I just wanted to ask where the extra .25 lbs of potatoes snuck in from.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 02, 2006 at 07:41 PM, Michael Chu said...</div>
+					<div class="commentsubject">Subject: <span>Re: How many pounds of potatoes?</span><br /></div>
+					<div class="commentbody"><div class='commentquote'>jasra wrote:<div class='commentquotebody'>In your spiffy charts, you show 1.5 lbs of potatoes for the mashed potatoes section. In the assembly chart, you show 1.75 lbs. I just wanted to ask where the extra .25 lbs of potatoes snuck in from.</div></div><br />
+Extra water cooked into and then mashed into the potatoes makes mashed potatoes weigh more than the starting potatoes.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 06, 2006 at 09:56 AM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">Hello chaps - London calling...<br />
+<br />
+I would concur with both the Worcester sauce and tomato puree additions, but only when using lamb.  If you are using beef, then it has to be Marmite.<br />
+<br />
+As for the potatoes, I've achieved my best results by steaming them, then mashing with a positively indecent amount of unsalted butter and a little double cream.  Season with a good sea salt and white pepper.<br />
+<br />
+In our household, peas are usually served separately.<br />
+<br />
+As an aside, the devil's vegetable (sweetcorn) should only ever be eaten on the cob, in tuna sandwiches or in a smoked fish chowder.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On January 18, 2007 at 02:50 AM, a Joy of Cooking user (guest) said...</div>
+					<div class="commentsubject">Subject: <span>shepherd's pie</span><br /></div>
+					<div class="commentbody">Since this recipe is taken directly from the Joy of Cooking (and the recipe description is copied verbatim), I think it would be good practice to credit the publication. The presentation is unique, but obviously people think that this is your recipe.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On January 18, 2007 at 05:31 PM, Michael Chu said...</div>
+					<div class="commentsubject">Subject: <span>Re: shepherd's pie</span><br /></div>
+					<div class="commentbody"><div class='commentquote'>a Joy of Cooking user wrote:<div class='commentquotebody'>Since this recipe is taken directly from the Joy of Cooking (and the recipe description is copied verbatim), I think it would be good practice to credit the publication. The presentation is unique, but obviously people think that this is your recipe.</div></div><br />
+Oh, nice. I when I wrote this I did it from note cards and didn't know if I had gotten it handed down through friends or from a cookbook. Even the presentation notes are the same - fluffing the potatoes in a baking dish. Only thing that got added over the years appararently, was the paprika. Interesting, how some recipes evolve quickly, and some just stay the same as they change hands. I've added a credit statement at the beginning of the article.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On January 27, 2007 at 10:05 AM, question (guest) said...</div>
+					<div class="commentsubject">Subject: <span>rosemary and thyme?</span><br /></div>
+					<div class="commentbody">are the rosemary and thyme necessary for this recipe?<br />
+are there any other cheaper or more common substitutes? for example..garlic salt? haha..thanks :)</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On February 06, 2007 at 11:38 PM, Guest (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Cottage Pie</span><br /></div>
+					<div class="commentbody">Just tried the pie -- fabulous!  Had some leftover gravy from a pot roast that I used instead of beef broth, added chopped fresh parsley (about 1/2 a bunch) in with the ground beef, and a few splashes of sherry right at the end.  Put plenty of butter in the potatoes and used milk instead of potato water - I used unpeeled red potatos, like I always do - saves on peeling them and then there's all the nutrition in the peels not thrown away.  I like to add parsley to most dishes - gives you an inexpensive and easy way to add that dark leafy green veg. we all need without adding any discernible flavor - go ahead &amp; use the edible stems and just chop very fine before adding.<br />
+<br />
+A little trick for making sure your boiled potatoes are completely dry before mashing them:  After draining, return the potatoes to the stove and dry-cook for a few minutes - this ensures there's no extra water left in the pot which can make them taste -- watery of course!  Then mash in your butter thoroughly before adding the milk.  This way each particle of potato is encapsulated in butter before adding the milk.  Make sure you use enough salt &amp; pepper and you'll end up with creamy, buttery potatos.<br />
+<br />
+This is for the person wanting a cheap source for rosemary &amp; thyme:  Instead of buying the expensive brands in the spice section, look for the Hispanic spice display, which is usually close to the regular spices or in the Hispanic food section.  You'll find most of your common spices at a much cheaper price - around $1.00 for a 4 to 6 oz. bag of thyme, bay leaves, rosemary, black pepper, etc.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On February 16, 2007 at 12:53 AM, Froggy (guest) said...</div>
+					<div class="commentsubject">Subject: <span>thoughts on Pâté Chinois variation</span><br /></div>
+					<div class="commentbody">Traditional French-Canadian recipe uses no carrot/celery and definetely has corn.  Yes this is Pâté Chinois here. I have always seen it made from ground beef in my lifetime here.  Depending on the cook, sometimes the corn is mixed into the beef. I like to layer the corn between the beef and potatoes, giving (at least the illusion) that the beef fat will not seep into the potatoes the way it is meant to do in a tourtiere crust. (I know you remove the excess fat anyway in the recipe). These days, I also do it with extra-lean beef, that I don't remember if it existed 40 years ago. I don't think my mother used that much broth or liquid, probably to accelerate the preparation - this was the fast and plentyful meal for the starving masses coming home from school. Sort of like the occasional alternative to meatloaf. For the people who haven't found the patience to brown the top layer of mashed potatoes, less liquid would also facilitate 'drying' the top - it will not brown easily if humidity is still evaporating from the bottom layer, thereby keeping the potatoes moist.  Make sure to thicken (French term is reduire like reduce) the liquid. Also, I have always seen it with plain corn rather than cream of corn, which would add calories, and yet again more liquid to the recipe.  As for the tomato paste, people here normally add ketchup liberally over the dish once served in their plate, rather than adding it to the dish. It's not like I'm trying to tenderize the beef with (acidic) tomato while cooking.  Similarly, I withhold salt in the dish, because of the large amount contained in the ketchup that will be poured over later.  I normally use more pepper and less salt, to every dish that contains ground beef and ketchup in the plate.  <br />
+Thx for all contributors, I am anxious to try some of the variations posted, particularly the fish and white sauce. I assume the suggested bed of cooked spinach is to prevent the cheese in the white sauce from sticking to the bottom. I might try adding small pieces of broccoli over the bed of spinach. I like cheesy white sauce with broccoli. Cheers</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On April 06, 2007 at 08:51 PM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">My family has apparently "butchered" this recipe a long time ago.  As a child (and even now) we do not make a gravy with the ground meat.  We saute the onions, brown the meat with the onions then layer meat, peas, cream corn, whipped potatoes.<br />
+<br />
+I think the intent was for the cream corn to mimic the gravy.  I do have to say that it is still my favorite meal.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On July 08, 2007 at 11:06 PM, an anonymous reader said...</div>
+					<div class="commentsubject">Subject: <span>Sheperd's pie/Cottage pie</span><br /></div>
+					<div class="commentbody">Nearly the same recipe I use, but I also like to bake a thin (1/4") cornbread crust in the bottom of the casserole prior to loading in the rest of the ingredients.   It adds a nice texture and helps keep the filling in place when transferring to a serving plate.  Other 'boredom variations' have included 1/2 cup of sour cream and 1/4 cup dry white wine with 1 tsp cracked pepper in the meat gravy or 1/4 cup chopped fresh cilantro added between the meat mixture and potatoes.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On July 28, 2007 at 04:40 AM, TeaLoverDenise (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Mash</span><br /></div>
+					<div class="commentbody">I like to warm up the milk beforehand in the microwave before adding it to the potatoes. (Tip I saw once on Martha Stewart)</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On September 19, 2007 at 07:57 PM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">These tips and tricks all sound wonderful! <br />
+I had forgotten about this dish for many years. I had it while growing up but never prepared it myself. I tasted it again while traveling through the Yukon and it brought back great memories. I want to start making it for my family too. Thank you for all of the ideas. The kids will love it!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On October 08, 2007 at 08:09 PM, Irish (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">:) <br />
+I'd made Shepherd's pie this morning for the freezer, then discovered a link to this site - it's great!<br />
+<br />
+A couple of things:<br />
+With the emphasis on increasing the amount of vegetables we eat, I stuffed my 2lb meat mix with 2 big onions, 3 medium carrots, 1 red pepper, 1 yellow pepper, and a mug of peas. All the veg exept the peas chopped. I never thicken the gravy, but add just enough stock to come to about an inch below the top of the meat.<br />
+<br />
+Steaming the spuds and then ricing them before adding butter and seasoning gets them really fluffy. (A ricer is like a huge garlic press.) Don't stint on the butter (but olive oil can be substituted) as it aids the topping to get beautifully golden. <br />
+<br />
+A few bruised cloves of garlic, bay leaves, fresh woody herbs like thyme/rosemary can be cooked in with the meat and removed before assembling the pie.<br />
+<br />
+Oh yes - a heaped tsp of mild curry powder and plenty of worstershire sauce add zing and help cut down on the salt needed in the meat layer.<br />
+<br />
+It's a wrestle to get the stuff cooked, cooled and frozen before it gets eaten!  :huh: <br />
+<br />
+Yikes - posting as a guest needs concentration  ;)</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On October 11, 2007 at 02:22 PM, Carrie (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Shepherd's Pie</span><br /></div>
+					<div class="commentbody">Last night, I made Cottage Pie using Rachel Ray's Shepherd Pie recipe, except I used 1/2 pound ground pork and 1 pound ground beef. I also added 5 mushrooms.<br />
+For the potatoes, I used a recipe of Martha Stewart's for Basil-Chive Red Potato Mash. <br />
+Good review from my husband! :D</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 14, 2007 at 12:32 AM, Thomas B (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Excellent site! Excellent recipe!</span><br /></div>
+					<div class="commentbody">Having just had your site sent on to me, I have to commend you on your presentation - pictures, well laid out ingredient and timeline cards. Nice. Good for those of us who recognize that the family gene for improvisational cooking skipped a generation with us!<br />
+<br />
+One variation I recall from my Scots mother's version of this is NOT mashing the potatoes, but ricing them (using a potato ricer) onto the top of the filling. I found that this added a nice look (it is mostly aesthetic as I can think of no important functional difference) and a few minutes of broiling at the end (after some lower temp cooking) seemed to brown up the top really nice (another poster had suggested that earlier). <br />
+<br />
+If you want a different (and I think nicer) look to your pie (I won't touch the shepherds'/shepherd's/cottage dispute...), get a potato ricer and give me old mum's variant a try.<br />
+<br />
+Also, having done this with corn a few times, I prefer kernel corn to creamed corn, but our mileage (or kilometerage) may vary.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 15, 2007 at 03:48 PM, Brigal (guest) said...</div>
+					<div class="commentsubject">Subject: <span>something i saw on tv last night</span><br /></div>
+					<div class="commentbody">I neat thing with sheppards pie i saw last night was to use a plastic bag and cut one of the corners to make a rather large hole to pipe the mashed potatoes on top in peaks and it seemed to brown a lot more and make a better crust and make for great presentation. just something i saw and will try when i get the chance.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 30, 2007 at 10:52 PM, MrFerret (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Worcester Sauce</span><br /></div>
+					<div class="commentbody">You must never forget! The worcester sauce....<br />
+<br />
+Without it it is just not right! Before cooking, inbetween cooking and after. Its like it was made for it<br />
+<br />
+MrFerret</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 05, 2007 at 01:39 AM, Guest11 (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Best Recipe I Found for Shepherd's pie</span><br /></div>
+					<div class="commentbody">I will cook this again.  It takes some time to prepare.  One thing I did change was I sliced and boiled the carrots in the potato water. :)</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 05, 2007 at 04:17 PM, cynnie (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Shepards' Pie</span><br /></div>
+					<div class="commentbody">This weekend my husband and I stopped in a local pub to have a quick bit to eat.  He ordered a burger (of course) and I ordered the special, Shepard's Pie (it was made with beef).  It was delicious!  I couldn't eat it all so I got a doggie bag.  The next day I decided to have it for lunch, my 17 year old son asked to try it and has been asking me to make it for dinner everyday since then.  I have gone to my trusty recipe websites looking for a recipe but to no avail!  I finally goggled Shepards' Pie and found this website!  I love it!  I will bookmark it for future use and I will defintely make Cottage Pie.  I think I would prefer it with beef rather than lamb.  The recipe and suggestions sound great and I will let you know how it turns out.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On January 27, 2008 at 03:50 AM, One Who Knows (guest) said...</div>
+					<div class="commentsubject">Subject: <span>A Hearty Tasty Shepherds Pie</span><br /></div>
+					<div class="commentbody">A real hearty and tasty shepherds pie, contains the following!<br />
+<br />
+Chopped meat.  Carrots.  Sweet Peas. Sliced Onions (mushroom gravy, beef gravy)better taste and more juicy.  salt and pepper.  Mashed potatoes (MILK and butter), water is no  good, milk makes it creamier.<br />
+ Do this and you'll find a winner!<br />
+<br />
+:)<br />
+Happy eatings</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On February 16, 2008 at 04:04 AM, JPF (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Mini pies</span><br /></div>
+					<div class="commentbody">I did not have a baking dish, so instead I used some cupcake/muffin pans.  I was able to make 12 individual serving pies from the recipe described above.    However, they did not hold together very well upon serving.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On February 17, 2008 at 07:59 PM, Terri (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">I love this website!  And I love Shepherd's Pie!  <br />
+<br />
+For those of you not counting calories, cook 4-5 slices of bacon until crispy, set aside and saute the veggies is the fat instead of the oil.  I still remove the fat later on (before adding the flour).  Crumble the bacon into the meat mixture at the end once they're cooled.<br />
+<br />
+Personally, I don't use celery. Essential: One pkg of mushrooms (quartered) sauted with the veggies and several handfuls of frozen peas at the very end.<br />
+<br />
+Worcestershire is a must, as well as a pinch of red pepper flakes.  Final touch is liberal amount of sour cream into mashed potatoes and I triple the butter used in this recipe.  No milk necessary.  I've mixed in grated gruyere cheese to potatoes before too... sinful!!<br />
+<br />
+I make this anytime I need to soften my fiancé up.  Afterwards he's putty in my hands...</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On February 20, 2008 at 12:00 AM, Heather (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Baked Beans</span><br /></div>
+					<div class="commentbody">Interesting to see so many comments - I didn't realise this dish wasn't well known in the US.  It tends to be a staple in England - it's cheap &amp; quick &amp; children love it.<br />
+<br />
+My family always used a layer of baked beans between meat &amp; potatoes - drain the sauce from the beans and stir it into the meat with a dash of worcester sauce, instead of gravy.  All sorts of tinned or left over veg can be used though, as other comments suggest. <br />
+<br />
+One of the great things about the basic idea is that you can vary it in so many ways - curried meat mix or sausage &amp; tomatoes are both good with cheesy mash for example.  You can also use a layer of sliced potatoes on top instead of mashing them, if you have waxy potatoes, or use celeriac, swede, sweet potato, kohlrabi or what you will.<br />
+<br />
+Incidentally the fish version, fisherman's pie, is usually made with a layer of sliced hard boiled eggs over the fish &amp; white sauce.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On March 25, 2008 at 02:46 AM, sgao (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Delicious</span><br /></div>
+					<div class="commentbody">I just made this a couple of days ago. I followed the recipe almost exactly. I took the advice of others on the site and added some frozen peas/corn. This dish was delicious. I was eager to eat the leftovers the next day. I can't wait to make this again!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On April 01, 2008 at 09:01 AM, shaz (guest) said...</div>
+					<div class="commentsubject">Subject: <span>shepherds pie</span><br /></div>
+					<div class="commentbody">I would like to suggest you try adding butternut squash to the mashed potato and sprinkle grated cheese on top, and regarding the cottage or shepherds pie debate my grandmother led me to believe that cottage pie was minced beef and potatoes (no pastry), and shepherds pie was minced lamb.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On April 02, 2008 at 01:50 AM, Joy (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Shepherd's Pie</span><br /></div>
+					<div class="commentbody">Mine's still in the over.  (Hey, love your site!)  My (steamed) potatoes dried out a bit while I was cooking the rest, so rather than spreading them on, I just kind of broke them up with my hands.  They are browning very nicely -- looks pretty.  Also, my meat mixture ended up a little wet, so I thought it better not to moisten the potatoes.  Also, I mixed a little cayenne with my paprika.  Five to ten minutes to go.  I'm hungry!  Thanks, engineers!  I ate Shepherd's Pie only when I was in boarding school at Albert College in Canada and it was different every time (we always used ketchup as a table condiment) because it was always made out of leftovers from the previous few days meals.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On April 02, 2008 at 02:05 AM, an anonymous reader said...</div>
+					<div class="commentsubject">Subject: <span>Re: Baked Beans</span><br /></div>
+					<div class="commentbody">Heather,<br />
+The fish?  Memories of Kedgiree!  Mmmmmmm.<br />
+Joy<br />
+<br />
+<div class='commentquote'>Heather wrote:<div class='commentquotebody'>Interesting to see so many comments - I didn't realise this dish wasn't well known in the US.  It tends to be a staple in England - it's cheap &amp; quick &amp; children love it.<br />
+<br />
+My family always used a layer of baked beans between meat &amp; potatoes - drain the sauce from the beans and stir it into the meat with a dash of worcester sauce, instead of gravy.  All sorts of tinned or left over veg can be used though, as other comments suggest. <br />
+<br />
+One of the great things about the basic idea is that you can vary it in so many ways - curried meat mix or sausage &amp; tomatoes are both good with cheesy mash for example.  You can also use a layer of sliced potatoes on top instead of mashing them, if you have waxy potatoes, or use celeriac, swede, sweet potato, kohlrabi or what you will.<br />
+<br />
+Incidentally the fish version, fisherman's pie, is usually made with a layer of sliced hard boiled eggs over the fish &amp; white sauce.</div></div></div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On April 12, 2008 at 06:55 PM, Susan (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Shepherd's Pie</span><br /></div>
+					<div class="commentbody">Great website! I'm looking forward to trying the different variations and tips for this recipe. My sister and I once made something like this from scratch but deciding to indulge... we added sour cream to the potatos,  put a layer of finely shredded cheddar on top of them and then a thin layer of french fried onions. The onions stayed crispy and it was really good and the next day it was even better.<br />
+<br />
+One question- What do you call it if it <i>is</i> made with a pastry? I would like to try that sometime.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On April 12, 2008 at 07:16 PM, Dilbert said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">Susan -<br />
+<br />
+"made with a pastry" - not entirely sure I'm understanding the question, but a "deep dish thing" with a pastry top might be more aptly a "pot pie"<br />
+<br />
+chicken pot pie is the "classic" but only a few zillion parallels exist. . . .<br />
+<br />
+perhaps what distinguishes "cottage pie" from "pot pie" is indeed the use of mashed potato vs. pastry as a "lid"?</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On April 16, 2008 at 11:50 AM, Candice11 (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Amazing</span><br /></div>
+					<div class="commentbody"><i><font color='red'></font>I dont usually put celery in a cottage pie, but i did when using ths recipie and t was absolutly gorgous. It was a beautiful contrast to the pallet, i served a red sparkling Jacobs Creek wine with this and it was delightful. Thanks for the wonderful recipie  :D  ;)  :D </i></div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On May 06, 2008 at 12:24 PM, Pedrotski (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Cottage (And/or Shepherds) pie.</span><br /></div>
+					<div class="commentbody">Firstly, I have been popping into this site for more than a year now and have never been disappointed by the contents.<br />
+<br />
+On the subject of the pies, I never slavishly follow a recipe. I believe that cooking should reflect how you feel, and I rarely feel quite the same twice.   :P <br />
+<br />
+I personally like to mash my potatoes with grated mature cheddar cheese and nothing else for this recipe, it just seems to enhance the flavour of the rest of the dish.  Also, I never boil potatoes without generously salting the water first, most of the salt is poured away with the water and the potatoes taste insipid without it.<br />
+<br />
+Lastly, I find that an egg, beaten with a little milk, painted over the mash with a pastry brush gives a wonderful, crispy, golden brown crust.  I have also heard of people using breadcrumbs on the crust.<br />
+<br />
+Thanks a lot for the site, unfortunately, I have an hour of work to go still and am now ravenous!   ;)</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On May 13, 2008 at 01:38 PM, an anonymous reader said...</div>
+					<div class="commentsubject">Subject: <span>Hmmm</span><br /></div>
+					<div class="commentbody">I am still confused about the potatoes....I am from Mauritius and i am still unaware as to whether they are waxy or floury? Can someone please help me as to how big they should be accordingly. Here in Mauritius we have only got new potatoes. They are slighlty green and sweet.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On May 13, 2008 at 04:32 PM, Dilbert said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">Shepard's Pie is a "dish" - a "concept" with multiple thousands of variations.<br />
+<br />
+it's a similar situation as "the only way to fry eggs is: . . . . " <br />
+<br />
+the dish has so much history, I doubt there is "proof" that Recipe X is the one and only "authentic" method. . . .<br />
+<br />
+mashed potatoes are a usual &amp; customary "topping" to a savory "inside"<br />
+<br />
+you'll see tasty looking mentions here of vegetables in with the meat - well, other than "seasoning stuff" i.e. celery, mushrooms, green/red peppers, onion, leeks, &lt;whatever&gt;.... I stick with ground beef browned to a slightly crisp stage.  it's not "right", it's not "wrong", it's how my family likes it.<br />
+<br />
+so whatever works for you along the lines of making a mashed potato is what you go with &lt;g&gt;  I prefer a mealy type (high starch) vs. waxy (low starch) for mashing - waxy types often mash to small chunks vs something smoother - but that is entirely personal preference.<br />
+<br />
+and it is also my personal preference to do things differently now and then - steak is good, but steak every night.......</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 30, 2008 at 01:02 AM, ROBERT MARKS (guest) said...</div>
+					<div class="commentsubject">Subject: <span>SHEPHERD'S PIE</span><br /></div>
+					<div class="commentbody">I have always just browned my hamburger, put it in the casserole dish, add a can of veg-all on top, spread the mashed potatoes over it, cover with american cheese slices, and bake until the cheese is good and melted. That is the way my mother always made it. I just read all your coments and the original recipe. I am cooking it with the gravy, corn, and thyme right now. It sounds good. HOUSTON, TX</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On September 25, 2008 at 08:33 PM, Lindsey (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">I used to have this all the time growing up in canada.  I recently moved to the US and my husband has never heard of it!  So, I'm making it for dinner this week and really looking forward to it.  I do have one question though; There are only 2 of us and I know we'll have a lot of left overs and I would hate for any of it to go to waste.  Is it possible to freeze it AFTER it's been cooked?</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On September 25, 2008 at 09:43 PM, Dilbert said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">there's just two of us's and this dish is not something you need to produce 400 pounds of in one go.<br />
+<br />
+cut the whole thing back; <br />
+for two, max one pound of ground beef <br />
+three medium potatoes - riced / mashed - least wash up<br />
+6 inch square casserole pan - 9 inch square max<br />
+<br />
+adjust seasonings qty as needed.....<br />
+<br />
+piece of cake, errrrrrrrr pie,  ooooooops - shepherd's pie.....<br />
+<br />
+toss a couple slices of garden ripe tomato on top.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On September 27, 2008 at 10:26 AM, GUEST (guest) said...</div>
+					<div class="commentsubject">Subject: <span>confused by peas</span><br /></div>
+					<div class="commentbody">Hi Im a bit of a new cook and I was just wondering how to add frozen peas.<br />
+Do I need to boil them first? and at what stage should I add them?<br />
+<br />
+Hope some experts can help me!<br />
+<br />
+mel</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On September 27, 2008 at 06:21 PM, Michael Chu said...</div>
+					<div class="commentsubject">Subject: <span>Re: confused by peas</span><br /></div>
+					<div class="commentbody"><div class='commentquote'>GUEST wrote:<div class='commentquotebody'>Hi Im a bit of a new cook and I was just wondering how to add frozen peas.<br />
+Do I need to boil them first? and at what stage should I add them?</div></div><br />
+Frozen peas are cooked already. If it's a "fresh" bag (i.e. the peas aren't frozen together into one clump), you can just add the peas directly to the recipe. Otherwise, you'll probably want to put them under running cold water to thaw and separate. If the peas are so old that they've started to dessicate (in the freezer ice can sublimate (like evaporation but going from solid to gas) and dry out the peas) then get a new bag.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On October 12, 2008 at 06:04 PM, an anonymous reader said...</div>
+					<div class="commentsubject">Subject: <span>lovely!</span><br /></div>
+					<div class="commentbody">I have never heard of cottage pie and never tried it myself ever before. I found the recipe here in your site and very amazed of the easy step-by-step procedure and the outcome is just simply yummy! Thanks a lot for the recipe... oh and the other stuff I tried from here came out perfectly too like the cheesecake cupcake and the condensed milk chocolate fudge. Now the banana cake is in the oven hehehe! I love this site! Thank You! Can't wait to try to the other recipes!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On October 27, 2008 at 02:17 AM, dadcook (guest) said...</div>
+					<div class="commentsubject">Subject: <span>recipie</span><br /></div>
+					<div class="commentbody">made this tonight for supper and....wow! it was AWESOME!  i did reverse cook the lamb as it was still partially frozen , but it was great and my kids loved it.<br />
+<br />
+thanks :)</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 16, 2008 at 01:00 AM, RozW (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Shepherd's Pie</span><br /></div>
+					<div class="commentbody">I love the variations discussed, and although I haven't the time to read all the comments, I hope I'm not mentioning something already added. I like to saute onions and keep them for the mashed potatoes as a change. Also I like to put a layer of corn in between the meat and the potatoes. In the meat I sometimes add Diana Sauce (a Canadian condiment) and/or ketchup or BBQ sauce along with  the Worcester Sauce! Yum! This is what I'm making for dinner tonight, in Beijing China! Regards, from Beijing!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 03, 2008 at 04:43 AM, Shepherdess (guest) said...</div>
+					<div class="commentsubject">Subject: <span>good stuff</span><br /></div>
+					<div class="commentbody">Loved the recipe, loved the way it was posted!  I left the site up and my kids used it to make dinner.  We like homegrown lamb, and add a little extra seasoning; like W-sauce &amp; curry.  thanks for introducing us to this new old standard!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 16, 2008 at 04:03 PM, realfood (guest) said...</div>
+					<div class="commentsubject">Subject: <span>cottage pie</span><br /></div>
+					<div class="commentbody">I love the classic Brit recipes - all real food, nothing processed, but still super simple.  Thanks for sharing this one.  I'm so over the "lowfat" thing; what's killing us is not (natural) fat, but processed food.  So I put back the original milk &amp; loads of butter, browned the veggies in bacon grease, and enjoyed my grassfed organic beef cottage pie.  <br />
+<br />
+I also stirred in some leftover steak &amp; kidney pie for good measure.<br />
+<br />
+Michael: you forgot nutmeg in the step where it says to gather your rosemary &amp; thyme.  :)</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On January 27, 2009 at 08:35 AM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">Unfortunately, my first encounter with shepherd's pie was in a dorm at a university many years ago.  I had no idea what it was.  I would not even try it.  The presentation was so horrible that it resembled meat loaf with a thick slab of fat on top of it - not lucious mashed potatoes.  That says a lot for the quality of the food we had.  It wasn't until one of my friends who happened to be a diatetic major worked in the cafeteria clued me in as to what the dish was supposed to be.  I still could not try it - based on first impressions.  I still haven't tried it in my home to this day.  After reading the postings, I may just try it though.  Sounds great now!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On February 15, 2009 at 10:57 AM, Shelagh Hutchins (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Shepherd's Pie</span><br /></div>
+					<div class="commentbody">I've been eating, as a child in England, and making, as an adult living in France, shepherd's pie regularly every two weeks or so.  I stick in anything left over, vegetables and meat etc.  I always chop up some onion and bacon and fry it before adding the meat.  I make gravy by scraping the juices and adding Bisto or some other gravy thickening product and Worcester sauce.  I sometimes put a layer of sliced fresh tomatoes under the potato purée.  Served with green peas this has always been my very favourite dish, in spite of living in such a gastronomic country!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On February 28, 2009 at 05:42 PM, laurax19x (guest) said...</div>
+					<div class="commentsubject">Subject: <span>cottage pie.</span><br /></div>
+					<div class="commentbody">B) cottage pies are the boom! ... boom representing undescribableydelicious!   :D <font color='indigo'></font></div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On March 01, 2009 at 12:59 AM, Nutritionist (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Truer words...</span><br /></div>
+					<div class="commentbody">You go, realfood. People need to get a clue about the crap that the food processors are selling under the cover of emotive, content free words and phrases like "low fat", "organic", and "healthy." The single best thing you can do for your health (in the absence of a serious illness or condition) is to learn to read the food labels and ingredients lists, and then read them (you can start with http://www.cfsan.fda.gov/~dms/foodlab.html -- not very good, but it's a start). Then pay attention, and eat everything--*everything*--in moderation. Your body needs fats, carbohydrates, oils, nuts, seeds, meat, eggs, etc.--in moderation. (You need the so-called "healthy" foods as well, but don't be fooled by the marketers, you need all foods.) Ignore the hucksters, use common sense, and enjoy your life and your food--in moderation.<br />
+And by the way, great site Michael. Keep it up. If I had known about it, I would have used your link for my Amazon purchase this morning. Sorry, but it won't happen again.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On March 25, 2009 at 06:07 PM, tyleximad (guest) said...</div>
+					<div class="commentsubject">Subject: <span>WOW</span><br /></div>
+					<div class="commentbody">What a great recipe....THANK YOU my family loved it :) :)</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On May 07, 2009 at 03:39 AM, Pore ol' John (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Really Lazy Cottage Pie</span><br /></div>
+					<div class="commentbody">Really lazy cottage pie:<br />
+<br />
+One can of Mary Kitchen roast beef hash.<br />
+One two-serving portion of instant mashed potatoes.<br />
+<br />
+Layer potatoes over hash, bake until bubbling, then broil for color.<br />
+<br />
+Serves two hungry people.<br />
+<br />
+Lazy, simple but darn good.<br />
+<br />
+Pore ol' John</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On May 11, 2009 at 11:21 PM, an anonymous reader said...</div>
+					<div class="commentsubject">Subject: <span>your pie sucks ass</span><br /></div>
+					<div class="commentbody">just made the pie and it tasted like shit. you dumb witted cunt</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 09, 2009 at 01:02 AM, dhg53 (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Flour</span><br /></div>
+					<div class="commentbody">I would brown the flour in a little oil before putting it in. This is how mountain brown flour gravy is made to avoid a pasty white flour taste. The taste is from not browning. In old times flour used to be roasted. I'm an Engineer.<br />
+Put a tablespoon of oil in a pan. med heat, add flour. It can take several min for it to turn brown. It must turn brown. Not white. White gives you that nasty pasty lazy yankee white gravy taste. yuck. Learned this from my mountain folks relatives who lived on it in the great depression.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 15, 2009 at 06:23 AM, lu (guest) said...</div>
+					<div class="commentsubject">Subject: <span>cottage pie with hidden veg for kids</span><br /></div>
+					<div class="commentbody"><div><div>We now live in Thailand and as my children wont eat much veg I steam a courgette or two in the microwave then mash in the food processor and mix in with the meat, I then add corn kernels and carrot (which they will eat) and they love it, this is a good way to get kids to eat veg, along with food which they do like, cottage pie being a favourite.</div></div></div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 27, 2009 at 11:17 PM, dcs (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">I like to use a slice or two of bacon with this dish and cook the vegetables (usually just onion) in the grease. Then brown the meat and put the crumbled bacon in with it before putting the mashed potatoes on top. I'll also generally use a bit of spaghetti sauce (or even pizza sauce, it depends on what we have left over) in lieu of gravy, and whatever leftover vegetables we might have (e.g. green beans or corn).<br />
+<br />
+Cooking the flour in oil ahead of time makes what's called a roux. It can take a while to brown and you need to keep a close eye on it, stirring it often, to make sure it doesn't burn.<br />
+<br />
+I like the roast beef hash idea.<br />
+<br />
+And yes, kids do love this dish.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On September 13, 2009 at 07:26 AM, AZPHAM (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Shepherds' pie cook off</span><br /></div>
+					<div class="commentbody">Thanks for the wonderful information. Our neighborhood is getting together on the 26th of September for an Iron Chef Shepherds' Pie cook off. There are going to be five or six different pie recipes. I will post the result after the contest.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On October 16, 2009 at 01:28 AM, an anonymous reader said...</div>
+					<div class="commentsubject">Subject: <span>About the recipe</span><br /></div>
+					<div class="commentbody">I see so many responses about what is shepardess' &amp; what is cottage pie. The fact of the matter is...that this is a good recipe no matter how it's made, and whatever you put in, it will be a tasty treat for the entire family. Also, a side of "Garlic Bread always makes a fine, tasty companion to the meal. Enjoy everyone, and God Bless.  B)</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On January 04, 2010 at 02:43 PM, sharoni (guest) said...</div>
+					<div class="commentsubject">Subject: <span>PIE~!</span><br /></div>
+					<div class="commentbody">When I am feeling adventurous I make Mexican cottage pie by just turning the mince into a sort of chili and putting some plain cornchips on top of the mash. I've also done a stroganoff cottage pie by making a normal stroganoff but instead of beef pieces or strips I use beef mince. You just have to be careful not to make the mince too watery.<br />
+<br />
+The stroganoff cottage pie is probably the fave in my house.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On January 09, 2010 at 02:48 AM, respite (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">Any way to make that recipe flow chart thing printable?<br />
+<br />
+I love that format!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On January 09, 2010 at 08:28 AM, Michael Chu said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody"><div class='commentquote'>respite wrote:<div class='commentquotebody'>Any way to make that recipe flow chart thing printable?<br />
+<br />
+I love that format!</div></div><br />
+There should be a Link at the top right of each recipe article that says "Recipe Card". click it and it should be a printable version of the recipe table.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On January 09, 2010 at 11:10 PM, an anonymous reader said...</div>
+					<div class="commentsubject">Subject: <span>Another version of Shepherds Pie</span><br /></div>
+					<div class="commentbody">I brown 2 lbs ground beef, add onion and garlic to season it, drain off the excess grease.  Add can of corn, peas, green beans and sliced carrots to the pot. Add 1/4 cup sugar and a few splashes of Worchestershire sauce. Layer that mixture into a glass baking dish. Prepared box mashed potatoe flakes, spoon that over the top of your mixture. Sprinkle cheddar cheese on top of potatoes. Cover with tin foil. Pop in oven at 350 degrees for 45 minutes.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On February 02, 2010 at 09:35 AM, schwaigen (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Shepherds Pie Recipe</span><br /></div>
+					<div class="commentbody">Great photos for anyone who hasn't cooked Shepherds Pie before.<br />
+I am a british girl and also have a nice easy recipe for shepherds pie.<br />
+<br />
+http://www.tasty-german-recipe.com/shepherds-pie-recipe.html<br />
+<br />
+No photos I am afraid but it is tasty and foolproof.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On March 14, 2010 at 07:45 AM, British Gal (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Cottage Pie vs Shepherds Pie</span><br /></div>
+					<div class="commentbody">These Meat Pies started out as the poor man's food in the British country side where potato was also a common part of the hardworking man's diet.  The ratio of the meat mixture to potato should be around 1:2.  What most people don't know is a shepherd herds sheep.  So it is more correct to say Shepherd's Pie if your meat base is mutton or lamb.  Cottage Pie on the other hand is made from beef.  With all else the same, these meat pies are very hearty and tasty.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On March 14, 2010 at 08:01 AM, British Gal (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Re: Cottage Pie vs Shepherds Pie</span><br /></div>
+					<div class="commentbody">Here's an additional tidbit of information: Typically, the meat used in these pies were from leftover meat.  Nowadays, it's easier to use ground meat instead.  And even though these meat pies started out as the Poor Man's food, that is no longer the case.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On March 30, 2010 at 01:41 PM, Skitzoidlady (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Limiting the number of pans</span><br /></div>
+					<div class="commentbody">I've done this recipe in a cast iron skillet, cooking the meat and veggies, then tossing the potato mix right on top, then into the oven.  I hate messing up extra pans.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On April 09, 2010 at 02:05 PM, Dave Harvey (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Cottage Pie</span><br /></div>
+					<div class="commentbody">I Love anything with minced beef in it. I'm getting on in years and find that most of the mince recipes are very simple :) .<br />
+As far as Cottage Pie goes I agree with a lot of what has been said but would just like to add that in mine I always add frozen peas, Oxo cubes and Worcestershire Sauce, but only add a few drops of the sauce because you also need half a teaspoon of Marmite.<br />
+I am using this filling today (without the mash topping) in shortcrust pastry to make the classic Mince &amp; Onion Pie. Lovely!!!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On September 08, 2010 at 11:38 PM, sarahschmara (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Shepheard's pie!</span><br /></div>
+					<div class="commentbody">I use a couple spoons of beefy bovril in my "gravy" and, instead of making a whole pan at once, I portion them out into 1/2 pint canning jars (after much success with chicken pot-pies adapted from <a href='http://www.ourbestbites.com/2009/09/single-serving-pie-in-jar.html'>http://www.ourbestbites.com/2009/09/single-serving-pie-in-jar.html</a> protip: don't line the jars with pastry or the filling to crust ratio will be off) so there's at least a dozen easy dinners waiting patiently for me in the freezer. Is it time consuming? Sure! but it beats anything you can buy in the store hands down.[/url]</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 22, 2010 at 07:38 PM, an anonymous reader said...</div>
+					<div class="commentsubject">Subject: <span>Yukon Gold Potatoes</span><br /></div>
+					<div class="commentbody">Great variations!  We have homegrown lamb and mutton that tastes fabulous in Shepherd's Pit.  I especially like Yukon Gold potatoes on top.  Will be putting corn and/or peas in the pie next time.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 18, 2010 at 12:43 PM, S (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Family Variations</span><br /></div>
+					<div class="commentbody">This recipe looks very legitimate to me, being British. I know there are various family additions and changes to the recipe. Personally, I have never heard of adding sweetcorn, and the prospect I find positively ghastly. In our family, adding a diced red pepper is the norm, and cheddar cheese is mixed into the mashed potatoes, as well as sprinkled on top. We also tend to run a fork across the top in a style similar to freshly ploughed fields. This also aids the crisping of the potatoes. And yes, the addition of Worcestershire Sauce and tomato paste/puree are a must. As to Marmite in the cottage pie, I am intrigued and will definitely try it!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 18, 2010 at 12:44 PM, S (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Family Variations</span><br /></div>
+					<div class="commentbody">This recipe looks very legitimate to me, being British. I know there are various family additions and changes to the recipe. Personally, I have never heard of adding sweetcorn, and the prospect I find positively ghastly. In our family, adding a diced red pepper is the norm, and cheddar cheese is mixed into the mashed potatoes, as well as sprinkled on top. We also tend to run a fork across the top in a style similar to freshly ploughed fields. This also aids the crisping of the potatoes. And yes, the addition of Worcestershire Sauce and tomato paste/puree are a must. As to Marmite in the cottage pie, I am intrigued and will definitely try it!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On February 13, 2011 at 04:24 PM, ArizonaFans (guest) said...</div>
+					<div class="commentsubject">Subject: <span>A few additions</span><br /></div>
+					<div class="commentbody">Thanks for posting the recipe... came in handy. Much like others we made a few additions:<br />
+<br />
+In a double batch we went with 1lb ground lamb and 1 lb ground bison (other half prefers it to beef or pork), 4 T of Worchester, 3 cups of fresh spinach, 8 oz of sliced mushrooms, 3 cloves of garlic and a bag of frozen peas.<br />
+<br />
+In essence we cooked the garlic with the onions/carrots, followed the recipe as posted then right before adding the potatoes layered the spinach and then peas onto the cooks beef/veg mixture with a lid covering it for 4-5 min.  That wilted the spinach and slightly thawed the peas.<br />
+<br />
+Then we mixed it all in and continued with the potatoes on top etc.   Great stuff... thanks for posting the great recipe and we'll be back for others soon.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On March 27, 2011 at 06:02 AM, Stacey (guest) said...</div>
+					<div class="commentsubject">Subject: <span>shepherd's pie</span><br /></div>
+					<div class="commentbody">I've never written on the internet before, but after seeing all the comments from people around the world I just wanted to add my two cents worth.  I grew up with shepherd's and cottage pies.  Over the years I cheated by using cream of celery soup for the gravy (others like mushroom soup).  And I really like some sour cream in my mashed potatoes as it gives it a creamy texture especially when using the cheaper russet potatoes.  My favorite vegetable is string beans.  Sometimes I put the beans in first, then the meat covered with soup, and then the potatoes.  Delicious!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On March 31, 2011 at 04:33 AM, luke (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">I recently asked my sister to make me a shepherd pie, and she said it is supposed to have a bread or roll of sorts.  What do you know of this?</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On April 09, 2011 at 08:58 AM, Craigy (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Shepherds'/Cottage</span><br /></div>
+					<div class="commentbody">Came across this one quite by accident, so a quick comment from a Uk food historian &amp; chef...<br />
+<br />
+Left-over meat, veg &amp; gravy topped with buttery mash was first widely known as cottage pie, whatever the meat. By the mid 1800's, cottage &amp; shepherd's (or s' - earliest recipes weren't punctuated!) were used to distinguish between beef and mutton-based pies respectively.<br />
+<br />
+While there are as many variants as there are regions and cooks (always the way with good traditional dishes, wherever they're from), the only alternative to hold a separate name is cumberland pie - cottage pie topped with a layer of breadcrumbs.<br />
+<br />
+So luke, that may be what your sister was referring to, or the fact that in some areas cottage pies are still traditionally done in trenchers or hollowed out loaves.<br />
+<br />
+To be honest, it's meant to be enjoyed - make it however you like it.<br />
+<br />
+My preference (&amp; on my restaurant menu) is diced carrot in with the meat, swede (rutabaga?) and a good grating of nutmeg in the buttery mash and gruyere/strong cheddar on top before it goes in the oven.<br />
+<br />
+One of my favourites if there's any left at the end of a service... with a good dollop of HP sauce, of course!<br />
+<br />
+Enjoy... and keep trying new versions!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On September 11, 2011 at 08:07 PM, Lucy (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Shepard's Pie</span><br /></div>
+					<div class="commentbody">I love this site!  I lost my favorite recipe for Shepard's Pie and this is closest to how I use to make it.  The only difference is I add some red wine and peas.  Thanks :)</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On January 08, 2012 at 12:16 AM, Jillian (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">Stumbled on this site whilst looking how to use Smoked Paprika!  Being an ex-Brit and thinking I had all the ingredients, I decided to make this Shepherd's Pie.  Followed recipe and found the table of ingredients and actions wonderfully easy to follow as I am now of the age where I need to read a paragraph or recipe at least 10 times over to absorb what's required and I have to keep going back to the recipe every 5 seconds to remind myself of what I am doing......so I just love the table.  Will definitely come back to this site.  Thank you so much for your whole layout.<br />
+<br />
+As would be expected, I had forgotten that I <i>didn't</i> have all the ingredients and had to make several changes, i.e. only 3 potatoes in the cupboard so mixed them with sweet potato.  Added my usual corn between the layers and finally sprinkled my Smoked Paprika on top of the potatoes with butter!!!  See I did remember that I originally wanted to use the smoked paprika. :)<br />
+<br />
+Just now went to add breadcrumbs on top as per a previous post.  It's in the oven and I am quite intrigued as to how it's all going to turn out!  Smells divine with the smoked paprika.   Ahh there's the timer going....will let you know. :)</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On January 08, 2012 at 12:48 AM, Jillian (guest) said...</div>
+					<div class="commentsubject">Subject: <span>The Aftermath</span><br /></div>
+					<div class="commentbody">Some of the other changes that I forgot to post was that I was out of beef stock and had to exchange <i>chicken</i> stock, even though I was using ground beef and also added the last ounce of <i>white</i> wine - all ingredients that aren't really supposed to go together.  <br />
+<br />
+I can report back that it was delicious.  Hubby though I was presenting a dessert, with it's orangy colouring.  He thought it was a peach crumble.......until he tasted it!  :lol:</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On March 01, 2012 at 07:32 PM, gEEk (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Perfect for Pi Day/St. Patty's Day potluck</span><br /></div>
+					<div class="commentbody">Thanks Michael! I'm going to make this for our office early St. Patty's Day/Pi Day potluck (3/14). I'm a certified gEEk  :D</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On March 03, 2012 at 12:58 AM, Ronald haeberle (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Shephard's-Cottage pie</span><br /></div>
+					<div class="commentbody">Firstly, Shepard's pie is made with lamb, not beef as its name implies. Cottage pie, is made from beef.  Therefore, the two names are not synonymous. <br />
+<br />
+In addition, a third meat pie, humble pie is made from the vital organs such as kidney, stomach, heart, etc. A pie made by the poor folks. The implication is that they could not afford the more desirable parts of these animals. They were left with the innards.<br />
+<br />
+A shepherd watches over lamb, not cattle, thus the name shepherd's pie.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On March 05, 2012 at 07:30 PM, Tim Tom (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Re: Shephard's-Cottage pie</span><br /></div>
+					<div class="commentbody"><div class='commentquote'>Ronald haeberle wrote:<div class='commentquotebody'>Firstly, Shepard's pie is made with lamb, not beef as its name implies. Cottage pie, is made from beef.  Therefore, the two names are not synonymous. </div></div><br />
+Wasn't this made abundantly clear in the first sentance of the article?</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 26, 2012 at 11:57 PM, Deb (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Shepherds' Pie</span><br /></div>
+					<div class="commentbody">Love this recipe and did add milk to potatoes, worcestershire &amp; corn to beef--YUM!  Thank you and throughly enjoyed the numerous discussions.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On October 14, 2012 at 11:03 PM, Morris Oregon (guest) said...</div>
+					<div class="commentsubject">Subject: <span>My ways</span><br /></div>
+					<div class="commentbody">I saute small firm mushrooms separately...steam small baby carrots like the ones in a bag in the produce dept.<br />
+<br />
+    I use "Store Trim" ground beef..it has a little bit of all the different cuts in the meat case...nice blend and usually great flavor.<br />
+<br />
+    after browning the beef (and not too finely broken up) I pour in some water to the desired sauce level(eyeball this)..and stir in part of an Aujus packet to desired color and judge it by the salt threshold.<br />
+<br />
+   Then dissolve a little cornstarch in cold water and add in to thicken at boiling temp...I also do this by sight rather than measurements...combine the veggies..oh!...also...I like to put in fine diced celery...so fine that is does not need to be cooked...the oven will cook it just right( a bit firm).<br />
+<br />
+    I wont go into all the seasonings and such...just these main differences from most the other postings.<br />
+<br />
+    I use whole milk in the Russetts mash pots...a little prepared horseradish and fresh chives cut into little slivers for nice color.<br />
+<br />
+     Try blending in one egg to the potatoes to help them brown on the top from the oven!!......<br />
+<br />
+    I let it cool when done and put in the fridge..then take out a portion in the days to come and re-heat in microwave carefully...Try some grated extra sharp cheddar...added just before the re-heat...oe just near the end of the re-heat....Bon Apetit'...:)</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On October 25, 2014 at 02:19 PM, Ian (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Shepherd's Pie</span><br /></div>
+					<div class="commentbody">Just want to know who this guy Sheppard is who keeps getting credit for every British person's granny's favourite recipe?<br />
+<br />
+Also Worcestershire sauce into the cooking mix certainly, but not served with the pie.  That HAS to be HP sauce</div>
+					<hr size="1" noshade />
+				
+		<div class="commentlink">
+			<a href="/forums/posting.php?mode=reply&t=150" title="Comments are managed in the Cooking For Engineers Forums">Post a comment on <i>Shepherd's Pie (Cottage Pie)</i></a>
+		</div>
+	</div>
+	
+</div>
+	
+  
+	<div class="spacer3"></div>
+	
+<!-- Google DFP Article_Footer_728x90-->
+<center>
+<div id='dfp_gpt_4' style='width:728px; height:90px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('dfp_gpt_4'); });
+</script>
+</div>
+</center>
+
+	<div class="spacer3"></div>
+
+
+		</div>
+		
+		
+			
+<table class="fl_table" cellspacing="2" cellpadding="0" border="0">
+	<tr>
+		<td width="16%">
+			<a href="/article/138/About-Cooking-For-Engineers" title="About Cooking For Engineers">About CfE</a>
+		</td>
+		<td width="17%">
+			<a href="/article/139/Contact-Cooking-For-Engineers" title="Contact Cooking For Engineers">Contact</a>
+		</td>
+		<td width="17%">
+			<a href="/article/190/User-Agreement" title="User Agreement">User Agreement</a>
+		</td>
+		<td width="16%">
+			<a href="/article/140/Frequently-Asked-Questions" title="Frequently Asked Questions">FAQ's</a>
+		</td>
+		<td width="17%">
+			<a href="/article/141/In-the-Press" title="Cooking For Engineers in the Press">In the Press</a>
+		</td>
+		<td width="17%">
+			<a href="/article/191/Article-Submission-Program" title="Article Submission Program">Write for CfE</a>
+		</td>
+	</tr>
+</table>
+			
+		
+		<div id="footer">
+	
+  <center><span style="font-size: 85%; line-height: 110%;">All content published by CFE Enterprises, Inc. under license with copyright holders<br>Tabular Recipe Notation Patent Pending (Michael Chu)</span></center>
+
+	<center><a href="/atom.xml">Syndicate</a> <a href="/atom.xml"><img src="/pics/xml.gif" alt="(XML)" style="vertical-align: middle;" border="0" /></a></center>
+
+	
+
+	
+
+	
+	
+	  <!-- Google Analytics -->
+	<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+	</script>
+	<script type="text/javascript">
+	_uacct = "UA-254248-1";
+	urchinTracker();
+	</script>
+
+		
+	<script type="text/javascript">stLight.options({publisher: "b3ed4fb7-bc1d-41a0-b780-15d3cf6b7561"});</script>
+<script>
+var options={ "publisher": "b3ed4fb7-bc1d-41a0-b780-15d3cf6b7561", "position": "left", "ad": { "visible": false, "openDelay": 5, "closeDelay": 0}, "chicklets": { "items": ["facebook", "pinterest", "twitter", "googleplus", "stumbleupon", "email"]}};
+var st_hover_widget = new sharethis.widgets.hoverbuttons(options);
+</script>
+ </div>
+		
+	</body>
+</html>

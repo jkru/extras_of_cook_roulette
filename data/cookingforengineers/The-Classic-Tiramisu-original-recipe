@@ -1,0 +1,1294 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+	<head>
+		<title>The Classic Tiramisu (original recipe?) - Test Recipes - Cooking For Engineers</title>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="description" content="Cooking for Engineers tests out a recipe for The Classic Tiramisu (original recipe?) complete with photos and reader discussion" />
+		<meta name="keywords" content="recipe tests,testing,instructions,cooking,the classic tiramisu (original recipe?)" />
+		
+		
+		<link href="/stylesheets/style.css?1381092548" media="screen" rel="Stylesheet" type="text/css" /><link href="/stylesheets/frontpage.css?1204359954" media="screen" rel="Stylesheet" type="text/css" />
+		
+		
+		
+		<script src="/javascripts/prototype.js?1204375576" type="text/javascript"></script><script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript" src="http://s.sharethis.com/loader.js"></script>
+
+		
+<script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + 
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
+
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+
+googletag.defineSlot('/1057967/Article_160x600', [160, 600], 'dfp_gpt_1').addService(googletag.pubads());
+
+googletag.defineSlot('/1057967/Article_300x250', [300, 250], 'dfp_gpt_2').addService(googletag.pubads());
+
+googletag.defineSlot('/1057967/Article_728x90', [728, 90], 'dfp_gpt_3').addService(googletag.pubads());
+
+googletag.defineSlot('/1057967/Article_Footer_728x90', [728, 90], 'dfp_gpt_4').addService(googletag.pubads());
+
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+});
+</script>
+
+		<link href="http://www.cookingforengineers.com/atom.xml" rel="alternate" title="Atom 1.0 Feed" type="application/atom+xml" />
+		
+		<link rel="shortcut icon" href="http://www.cookingforengineers.com/favicon.ico" />
+	</head>
+	<body>
+		
+		
+		
+			<div class="navbar">
+	<div style="float:left">
+		<div class="sitetitle"><a href="/">Cooking For Engineers<span class="trademark">&reg;</span></a></div>
+		<div class="subtitle">Have an analytical mind? Like to cook? This is the site to read!</div>
+	</div>
+	<div style="float:right; margin: 15px 8px 0 0">
+		<form method="get" action="/searchform" style="margin: 0pt; display: inline;">
+		  <input style="margin: 0pt 0pt 2px; font-size: 90%;" name="terms" size="25" maxlength="255" value="" type="text">
+		  <input style="margin: 0pt 0pt 2px; font-size: 90%;" name="search" value="Search" type="submit">
+	  </form>
+	  <br>
+	  <!-- Google Search -->
+	  <form target="_blank" action="http://www.google.com/search" style="margin: 0pt; display: inline;">
+		  <input style="font-size: 90%;" size="24" maxlength="255" value="half cup in milliliters" name="q" type="text">
+		  <input style="font-size: 90%;" name="sa" value="Convert" type="submit">
+		</form>
+	</div>	
+	<div class="clear"></div>
+	<table class="nav" cellpadding="0" cellspacing="1">
+		<tr><td width="11%" id="categorytd_Books"><a href="#" onClick="showcat('Books');return false">Books</a></td>
+			<td width="11%" id="categorytd_CookingTests"><a href="#" onClick="showcat('CookingTests');return false">Cooking&nbsp;Tests</a></td>
+			<td width="11%" id="categorytd_DiningOut"><a href="#" onClick="showcat('DiningOut');return false">Dining&nbsp;Out</a></td>
+			<td width="11%" id="categorytd_EquipmentGear"><a href="#" onClick="showcat('EquipmentGear');return false">Equipment&nbsp;&amp;&nbsp;Gear</a></td>
+			<td width="11%" id="categorytd_KitchenNotes"><a href="#" onClick="showcat('KitchenNotes');return false">Kitchen&nbsp;Notes</a></td>
+			<td width="11%" id="categorytd_OffTopic"><a href="#" onClick="showcat('OffTopic');return false">Off&nbsp;Topic</a></td>
+			<td width="11%" id="categorytd_RecipeFile"><a href="#" onClick="showcat('RecipeFile');return false">Recipe&nbsp;File</a></td>
+			<td width="11%" id="categorytd_SousVide"><a href="#" onClick="showcat('SousVide');return false">Sous&nbsp;Vide</a></td>
+			<td width="12%" id="categorytd_TestRecipes"><a href="#" onClick="showcat('TestRecipes');return false">Test&nbsp;Recipes</a></td>
+			</tr>
+	</table>
+	<script type="text/javascript">
+//<![CDATA[
+
+	function lb(id)
+	{
+		document.getElementById(id).style.border='1px solid #FFFF00';
+	}
+	function db(id)
+	{
+		document.getElementById(id).style.border='1px solid #99FF99';
+	}
+	function showcat(id)
+	{
+		var curdisplay = document.getElementById('navcat_'+id).style.display;
+		document.getElementById('navcat_Books').style.display='none';
+document.getElementById('navcat_CookingTests').style.display='none';
+document.getElementById('navcat_DiningOut').style.display='none';
+document.getElementById('navcat_EquipmentGear').style.display='none';
+document.getElementById('navcat_KitchenNotes').style.display='none';
+document.getElementById('navcat_OffTopic').style.display='none';
+document.getElementById('navcat_RecipeFile').style.display='none';
+document.getElementById('navcat_SousVide').style.display='none';
+document.getElementById('navcat_TestRecipes').style.display='none';
+
+		document.getElementById('categorytd_Books').style.border='1px solid #99FF99';
+document.getElementById('categorytd_Books').style.backgroundColor='transparent';
+document.getElementById('categorytd_CookingTests').style.border='1px solid #99FF99';
+document.getElementById('categorytd_CookingTests').style.backgroundColor='transparent';
+document.getElementById('categorytd_DiningOut').style.border='1px solid #99FF99';
+document.getElementById('categorytd_DiningOut').style.backgroundColor='transparent';
+document.getElementById('categorytd_EquipmentGear').style.border='1px solid #99FF99';
+document.getElementById('categorytd_EquipmentGear').style.backgroundColor='transparent';
+document.getElementById('categorytd_KitchenNotes').style.border='1px solid #99FF99';
+document.getElementById('categorytd_KitchenNotes').style.backgroundColor='transparent';
+document.getElementById('categorytd_OffTopic').style.border='1px solid #99FF99';
+document.getElementById('categorytd_OffTopic').style.backgroundColor='transparent';
+document.getElementById('categorytd_RecipeFile').style.border='1px solid #99FF99';
+document.getElementById('categorytd_RecipeFile').style.backgroundColor='transparent';
+document.getElementById('categorytd_SousVide').style.border='1px solid #99FF99';
+document.getElementById('categorytd_SousVide').style.backgroundColor='transparent';
+document.getElementById('categorytd_TestRecipes').style.border='1px solid #99FF99';
+document.getElementById('categorytd_TestRecipes').style.backgroundColor='transparent';
+
+		if (curdisplay != 'block')
+		{
+			document.getElementById('categorytd_'+id).style.border='1px solid #9999FF';
+			document.getElementById('categorytd_'+id).style.backgroundColor='#000060';
+			document.getElementById('navcat_'+id).style.display='block';
+		}
+		else
+		{
+			document.getElementById('navcat_'+id).style.display='none';
+		}
+	}
+	
+//]]>
+</script>
+	<div id="navcat_Books" style="display:none"><table width="100%" class="navlinks" cellpadding="0" cellspacing="1"><tr><td width="25%" id="nl248" onclick="window.location='/article/248/Everybody-Eats-Lunch-by-Cricket-Azima'" onMouseOver="lb('nl248')" onMouseOut="db('nl248')" ><a href="/article/248/Everybody-Eats-Lunch-by-Cricket-Azima" title="Books: Everybody Eats Lunch by Cricket Azima">Everybody Eats Lunch by Cricket Azima</a></td><td width="25%" id="nl229" onclick="window.location='/article/229/Joy-of-Cooking-75th-Anniversary-Edition-2006'" onMouseOver="lb('nl229')" onMouseOut="db('nl229')" ><a href="/article/229/Joy-of-Cooking-75th-Anniversary-Edition-2006" title="Books: Joy of Cooking (75th Anniversary Edition; 2006)">Joy of Cooking (75th Anniversary Edition; 2006)</a></td><td width="25%" id="nl307" onclick="window.location='/article/307/Ten-Great-Gifts-for-Cooking-For-Engineers-Fans'" onMouseOver="lb('nl307')" onMouseOut="db('nl307')" ><a href="/article/307/Ten-Great-Gifts-for-Cooking-For-Engineers-Fans" title="Books: Ten Great Gifts for Cooking For Engineers' Fans">Ten Great Gifts for Cooking For Engineers' Fans</a></td><td width="25%" id="nl241" onclick="window.location='/article/241/The-Story-of-Tea-by-Mary-Lou-and-Robert-Heiss'" onMouseOver="lb('nl241')" onMouseOut="db('nl241')" ><a href="/article/241/The-Story-of-Tea-by-Mary-Lou-and-Robert-Heiss" title="Books: The Story of Tea by Mary Lou and Robert Heiss">The Story of Tea by Mary Lou and Robert Heiss</a></td></tr><tr><td id="nl270" onclick="window.location='/article/270/Fun-Food-Facts-by-Mike-Bellino'" onMouseOver="lb('nl270')" onMouseOut="db('nl270')" ><a href="/article/270/Fun-Food-Facts-by-Mike-Bellino" title="Books: Fun Food Facts by Mike Bellino">Fun Food Facts by Mike Bellino</a></td><td id="nl242" onclick="window.location='/article/242/Kitchen-Mysteries-by-Herve-This'" onMouseOver="lb('nl242')" onMouseOut="db('nl242')" ><a href="/article/242/Kitchen-Mysteries-by-Herve-This" title="Books: Kitchen Mysteries by Herve This">Kitchen Mysteries by Herve This</a></td><td id="nl254" onclick="window.location='/article/254/The-Science-of-Good-Food'" onMouseOver="lb('nl254')" onMouseOut="db('nl254')" ><a href="/article/254/The-Science-of-Good-Food" title="Books: The Science of Good Food">The Science of Good Food</a></td><td id="nl220" onclick="window.location='/article/220/Toast-by-Nigel-Slater'" onMouseOver="lb('nl220')" onMouseOut="db('nl220')" ><a href="/article/220/Toast-by-Nigel-Slater" title="Books: Toast by Nigel Slater">Toast by Nigel Slater</a></td></tr><tr><td id="nl201" onclick="window.location='/article/201/Heat-by-Bill-Buford'" onMouseOver="lb('nl201')" onMouseOut="db('nl201')" ><a href="/article/201/Heat-by-Bill-Buford" title="Books: Heat by Bill Buford">Heat by Bill Buford</a></td><td id="nl333" onclick="window.location='/article/333/Modernist-Cuisine-at-Home-on-Inkling'" onMouseOver="lb('nl333')" onMouseOut="db('nl333')" ><a href="/article/333/Modernist-Cuisine-at-Home-on-Inkling" title="Books: Modernist Cuisine at Home on Inkling">Modernist Cuisine at Home on Inkling</a></td><td id="nl292" onclick="window.location='/article/292/The-Sorcerers-Apprentices-by-Lisa-Abend'" onMouseOver="lb('nl292')" onMouseOut="db('nl292')" ><a href="/article/292/The-Sorcerers-Apprentices-by-Lisa-Abend" title="Books: The Sorcerer's Apprentices by Lisa Abend">The Sorcerer's Apprentices by Lisa Abend</a></td><td id="nl233" onclick="window.location='/article/233/Vegetables-The-Culinary-Institute-of-America'" onMouseOver="lb('nl233')" onMouseOut="db('nl233')" ><a href="/article/233/Vegetables-The-Culinary-Institute-of-America" title="Books: Vegetables (The Culinary Institute of America)">Vegetables (The Culinary Institute of America)</a></td></tr></table></div>
+	<div id="navcat_CookingTests" style="display:none"><table width="100%" class="navlinks" cellpadding="0" cellspacing="1"><tr><td width="25%" id="nl3" onclick="window.location='/article/3/Bacon-Part-I'" onMouseOver="lb('nl3')" onMouseOut="db('nl3')" ><a href="/article/3/Bacon-Part-I" title="Cooking Tests: Bacon (Part I)">Bacon (Part I)</a></td><td width="25%" id="nl171" onclick="window.location='/article/171/Beer-Can-Chicken'" onMouseOver="lb('nl171')" onMouseOut="db('nl171')" ><a href="/article/171/Beer-Can-Chicken" title="Cooking Tests: Beer Can Chicken">Beer Can Chicken</a></td><td width="25%" id="nl173" onclick="window.location='/article/173/HFCS-Free-Cream-Sodas'" onMouseOver="lb('nl173')" onMouseOut="db('nl173')" ><a href="/article/173/HFCS-Free-Cream-Sodas" title="Cooking Tests: HFCS-Free Cream Sodas">HFCS-Free Cream Sodas</a></td><td width="25%" id="nl249" onclick="window.location='/article/249/Soft-Boiled-Eggs'" onMouseOver="lb('nl249')" onMouseOut="db('nl249')" ><a href="/article/249/Soft-Boiled-Eggs" title="Cooking Tests: Soft Boiled Eggs">Soft Boiled Eggs</a></td></tr><tr><td id="nl110" onclick="window.location='/article/110/Bacon-Part-II'" onMouseOver="lb('nl110')" onMouseOut="db('nl110')" ><a href="/article/110/Bacon-Part-II" title="Cooking Tests: Bacon (Part II)">Bacon (Part II)</a></td><td id="nl5" onclick="window.location='/article/5/Eggplant-Taste-Test'" onMouseOver="lb('nl5')" onMouseOut="db('nl5')" ><a href="/article/5/Eggplant-Taste-Test" title="Cooking Tests: Eggplant Taste Test">Eggplant Taste Test</a></td></tr></table></div>
+	<div id="navcat_DiningOut" style="display:none"><table width="100%" class="navlinks" cellpadding="0" cellspacing="1"><tr><td width="25%" id="nl202" onclick="window.location='/article/202/Ad-Hoc-Yountville-California'" onMouseOver="lb('nl202')" onMouseOut="db('nl202')" ><a href="/article/202/Ad-Hoc-Yountville-California" title="Dining Out: Ad Hoc (Yountville, California)">Ad Hoc (Yountville, California)</a></td><td width="25%" id="nl299" onclick="window.location='/article/299/Chicago-2011-Part-4-Gibsons-Bar-Steakhouse'" onMouseOver="lb('nl299')" onMouseOut="db('nl299')" ><a href="/article/299/Chicago-2011-Part-4-Gibsons-Bar-Steakhouse" title="Dining Out: Chicago 2011 Part 4 - Gibson's Bar &amp; Steakhouse">Chicago 2011 Part 4 - Gibson's Bar &amp; Steakhouse</a></td><td width="25%" id="nl330" onclick="window.location='/article/330/Cook-Taste-Barcelona-Spain'" onMouseOver="lb('nl330')" onMouseOut="db('nl330')" ><a href="/article/330/Cook-Taste-Barcelona-Spain" title="Dining Out: Cook &amp; Taste (Barcelona, Spain)">Cook &amp; Taste (Barcelona, Spain)</a></td><td width="25%" id="nl329" onclick="window.location='/article/329/Pakta-Barcelona-Spain'" onMouseOver="lb('nl329')" onMouseOut="db('nl329')" ><a href="/article/329/Pakta-Barcelona-Spain" title="Dining Out: Pakta (Barcelona, Spain)">Pakta (Barcelona, Spain)</a></td></tr><tr><td id="nl88" onclick="window.location='/article/88/Ahwahnee-Hotel-Kitchen-Yosemite-California'" onMouseOver="lb('nl88')" onMouseOut="db('nl88')" ><a href="/article/88/Ahwahnee-Hotel-Kitchen-Yosemite-California" title="Dining Out: Ahwahnee Hotel Kitchen (Yosemite, California)">Ahwahnee Hotel Kitchen (Yosemite, California)</a></td><td id="nl300" onclick="window.location='/article/300/Chicago-2011-Part-5-Frontera-Grill-XOCO'" onMouseOver="lb('nl300')" onMouseOut="db('nl300')" ><a href="/article/300/Chicago-2011-Part-5-Frontera-Grill-XOCO" title="Dining Out: Chicago 2011 Part 5 - Frontera Grill, XOCO">Chicago 2011 Part 5 - Frontera Grill, XOCO</a></td><td id="nl253" onclick="window.location='/article/253/Elements-Napa-California'" onMouseOver="lb('nl253')" onMouseOut="db('nl253')" ><a href="/article/253/Elements-Napa-California" title="Dining Out: Elements (Napa, California)">Elements (Napa, California)</a></td><td id="nl260" onclick="window.location='/article/260/Parcel-104-Santa-Clara-California'" onMouseOver="lb('nl260')" onMouseOut="db('nl260')" ><a href="/article/260/Parcel-104-Santa-Clara-California" title="Dining Out: Parcel 104 (Santa Clara, California)">Parcel 104 (Santa Clara, California)</a></td></tr><tr><td id="nl311" onclick="window.location='/article/311/Blue-Bell-Creamery-Factory-Tour'" onMouseOver="lb('nl311')" onMouseOut="db('nl311')" ><a href="/article/311/Blue-Bell-Creamery-Factory-Tour" title="Dining Out: Blue Bell Creamery Factory Tour">Blue Bell Creamery Factory Tour</a></td><td id="nl301" onclick="window.location='/article/301/Chicago-2011-Part-6-Noodles-by-Takashi-Yagihashi-Frontera-Fresco-Marc-Burger'" onMouseOver="lb('nl301')" onMouseOut="db('nl301')" ><a href="/article/301/Chicago-2011-Part-6-Noodles-by-Takashi-Yagihashi-Frontera-Fresco-Marc-Burger" title="Dining Out: Chicago 2011 Part 6 - Noodles by Takashi Yagihashi, Frontera Fresco, Marc Burger">Chicago 2011 Part 6 - Noodles by Takashi Yagihashi, Frontera Fresco, Marc Burger</a></td><td id="nl316" onclick="window.location='/article/316/Georges-San-Francisco-California'" onMouseOver="lb('nl316')" onMouseOut="db('nl316')" ><a href="/article/316/Georges-San-Francisco-California" title="Dining Out: Georges (San Francisco, California)">Georges (San Francisco, California)</a></td><td id="nl281" onclick="window.location='/article/281/Per-Se-New-York-New-York'" onMouseOver="lb('nl281')" onMouseOut="db('nl281')" ><a href="/article/281/Per-Se-New-York-New-York" title="Dining Out: Per Se (New York, New York)">Per Se (New York, New York)</a></td></tr><tr><td id="nl91" onclick="window.location='/article/91/Cafe-Terigo-Park-City-Utah'" onMouseOver="lb('nl91')" onMouseOut="db('nl91')" ><a href="/article/91/Cafe-Terigo-Park-City-Utah" title="Dining Out: Cafe Terigo (Park City, Utah)">Cafe Terigo (Park City, Utah)</a></td><td id="nl302" onclick="window.location='/article/302/Chicago-2011-Part-7-Alinea'" onMouseOver="lb('nl302')" onMouseOut="db('nl302')" ><a href="/article/302/Chicago-2011-Part-7-Alinea" title="Dining Out: Chicago 2011 Part 7 - Alinea">Chicago 2011 Part 7 - Alinea</a></td><td id="nl240" onclick="window.location='/article/240/Hard-Knox-Cafe-San-Francisco-California'" onMouseOver="lb('nl240')" onMouseOut="db('nl240')" ><a href="/article/240/Hard-Knox-Cafe-San-Francisco-California" title="Dining Out: Hard Knox Cafe (San Francisco, California)">Hard Knox Cafe (San Francisco, California)</a></td><td id="nl324" onclick="window.location='/article/324/Ramen-in-Austin-Michi-Ramen-and-Ramen-Tatsuya'" onMouseOver="lb('nl324')" onMouseOut="db('nl324')" ><a href="/article/324/Ramen-in-Austin-Michi-Ramen-and-Ramen-Tatsuya" title="Dining Out: Ramen in Austin (Michi Ramen and Ramen Tatsuya)">Ramen in Austin (Michi Ramen and Ramen Tatsuya)</a></td></tr><tr><td id="nl231" onclick="window.location='/article/231/Chads-Fish-Chips-Willits-California'" onMouseOver="lb('nl231')" onMouseOut="db('nl231')" ><a href="/article/231/Chads-Fish-Chips-Willits-California" title="Dining Out: Chad's Fish &amp; Chips (Willits, California)">Chad's Fish &amp; Chips (Willits, California)</a></td><td id="nl303" onclick="window.location='/article/303/Chicago-2011-Part-8-Vienna-Beef-Factory'" onMouseOver="lb('nl303')" onMouseOut="db('nl303')" ><a href="/article/303/Chicago-2011-Part-8-Vienna-Beef-Factory" title="Dining Out: Chicago 2011 Part 8 - Vienna Beef Factory">Chicago 2011 Part 8 - Vienna Beef Factory</a></td><td id="nl247" onclick="window.location='/article/247/Jai-Yun-San-Francisco'" onMouseOver="lb('nl247')" onMouseOut="db('nl247')" ><a href="/article/247/Jai-Yun-San-Francisco" title="Dining Out: Jai Yun (San Francisco)">Jai Yun (San Francisco)</a></td><td id="nl153" onclick="window.location='/article/153/Shadowbrook-Restaurant-Capitola-California'" onMouseOver="lb('nl153')" onMouseOut="db('nl153')" ><a href="/article/153/Shadowbrook-Restaurant-Capitola-California" title="Dining Out: Shadowbrook Restaurant (Capitola, California)">Shadowbrook Restaurant (Capitola, California)</a></td></tr><tr><td id="nl295" onclick="window.location='/article/295/Chicago-2011-Part-1a-Overview'" onMouseOver="lb('nl295')" onMouseOut="db('nl295')" ><a href="/article/295/Chicago-2011-Part-1a-Overview" title="Dining Out: Chicago 2011 Part 1a - Overview">Chicago 2011 Part 1a - Overview</a></td><td id="nl304" onclick="window.location='/article/304/Chicago-2011-Part-9-Girl-and-the-Goat'" onMouseOver="lb('nl304')" onMouseOut="db('nl304')" ><a href="/article/304/Chicago-2011-Part-9-Girl-and-the-Goat" title="Dining Out: Chicago 2011 Part 9 - Girl and the Goat">Chicago 2011 Part 9 - Girl and the Goat</a></td><td id="nl204" onclick="window.location='/article/204/Maverick-San-Francisco-California'" onMouseOver="lb('nl204')" onMouseOut="db('nl204')" ><a href="/article/204/Maverick-San-Francisco-California" title="Dining Out: Maverick (San Francisco, California)">Maverick (San Francisco, California)</a></td><td id="nl216" onclick="window.location='/article/216/Soul-Bar-Bistro-Auckland-New-Zealand'" onMouseOver="lb('nl216')" onMouseOut="db('nl216')" ><a href="/article/216/Soul-Bar-Bistro-Auckland-New-Zealand" title="Dining Out: Soul Bar &amp; Bistro (Auckland, New Zealand)">Soul Bar &amp; Bistro (Auckland, New Zealand)</a></td></tr><tr><td id="nl296" onclick="window.location='/article/296/Chicago-2011-Part-1b-Overview'" onMouseOver="lb('nl296')" onMouseOut="db('nl296')" ><a href="/article/296/Chicago-2011-Part-1b-Overview" title="Dining Out: Chicago 2011 Part 1b - Overview">Chicago 2011 Part 1b - Overview</a></td><td id="nl267" onclick="window.location='/article/267/Coi-San-Francisco-California'" onMouseOver="lb('nl267')" onMouseOut="db('nl267')" ><a href="/article/267/Coi-San-Francisco-California" title="Dining Out: Coi (San Francisco, California)">Coi (San Francisco, California)</a></td><td id="nl235" onclick="window.location='/article/235/Michelin-Rated-Restaurants-San-Francisco-2007'" onMouseOver="lb('nl235')" onMouseOut="db('nl235')" ><a href="/article/235/Michelin-Rated-Restaurants-San-Francisco-2007" title="Dining Out: Michelin Rated Restaurants (San Francisco 2007)">Michelin Rated Restaurants (San Francisco 2007)</a></td><td id="nl293" onclick="window.location='/article/293/The-Noble-Pig-Austin-Texas'" onMouseOver="lb('nl293')" onMouseOut="db('nl293')" ><a href="/article/293/The-Noble-Pig-Austin-Texas" title="Dining Out: The Noble Pig (Austin, Texas)">The Noble Pig (Austin, Texas)</a></td></tr><tr><td id="nl297" onclick="window.location='/article/297/Chicago-2011-Part-2-Shui-Wah-Santa-Anna-Bakery'" onMouseOver="lb('nl297')" onMouseOut="db('nl297')" ><a href="/article/297/Chicago-2011-Part-2-Shui-Wah-Santa-Anna-Bakery" title="Dining Out: Chicago 2011 Part 2 - Shui Wah, Santa Anna Bakery">Chicago 2011 Part 2 - Shui Wah, Santa Anna Bakery</a></td><td id="nl291" onclick="window.location='/article/291/Congress-Austin-Texas'" onMouseOver="lb('nl291')" onMouseOut="db('nl291')" ><a href="/article/291/Congress-Austin-Texas" title="Dining Out: Congress (Austin, Texas)">Congress (Austin, Texas)</a></td><td id="nl236" onclick="window.location='/article/236/Michelin-Rated-Restaurants-San-Francisco-2008'" onMouseOver="lb('nl236')" onMouseOut="db('nl236')" ><a href="/article/236/Michelin-Rated-Restaurants-San-Francisco-2008" title="Dining Out: Michelin Rated Restaurants (San Francisco 2008)">Michelin Rated Restaurants (San Francisco 2008)</a></td><td id="nl245" onclick="window.location='/article/245/Uchi-Austin-Texas'" onMouseOver="lb('nl245')" onMouseOut="db('nl245')" ><a href="/article/245/Uchi-Austin-Texas" title="Dining Out: Uchi (Austin, Texas)">Uchi (Austin, Texas)</a></td></tr><tr><td id="nl298" onclick="window.location='/article/298/Chicago-2011-Part-3-Pizzeria-Uno-Giordanos'" onMouseOver="lb('nl298')" onMouseOut="db('nl298')" ><a href="/article/298/Chicago-2011-Part-3-Pizzeria-Uno-Giordanos" title="Dining Out: Chicago 2011 Part 3 - Pizzeria Uno, Giordano's">Chicago 2011 Part 3 - Pizzeria Uno, Giordano's</a></td></tr></table></div>
+	<div id="navcat_EquipmentGear" style="display:none"><table width="100%" class="navlinks" cellpadding="0" cellspacing="1"><tr><td width="25%" id="nl319" onclick="window.location='/article/319/Anolon-Nouvelle-Copper-Stainless-Steel-3-qt-Covered-Saute-Pan'" onMouseOver="lb('nl319')" onMouseOut="db('nl319')" ><a href="/article/319/Anolon-Nouvelle-Copper-Stainless-Steel-3-qt-Covered-Saute-Pan" title="Equipment &amp; Gear: Anolon Nouvelle Copper Stainless Steel 3-qt Covered Saute Pan">Anolon Nouvelle Copper Stainless Steel 3-qt Covered Saute Pan</a></td><td width="25%" id="nl17" onclick="window.location='/article/17/Cutting-Boards'" onMouseOver="lb('nl17')" onMouseOut="db('nl17')" ><a href="/article/17/Cutting-Boards" title="Equipment &amp; Gear: Cutting Boards">Cutting Boards</a></td><td width="25%" id="nl95" onclick="window.location='/article/95/Kitchen-Thermometers'" onMouseOver="lb('nl95')" onMouseOut="db('nl95')" ><a href="/article/95/Kitchen-Thermometers" title="Equipment &amp; Gear: Kitchen Thermometers">Kitchen Thermometers</a></td><td width="25%" id="nl99" onclick="window.location='/article/99/Microwave-Safe-Containers'" onMouseOver="lb('nl99')" onMouseOut="db('nl99')" ><a href="/article/99/Microwave-Safe-Containers" title="Equipment &amp; Gear: Microwave Safe Containers">Microwave Safe Containers</a></td></tr><tr><td id="nl205" onclick="window.location='/article/205/Bakers-Edge'" onMouseOver="lb('nl205')" onMouseOut="db('nl205')" ><a href="/article/205/Bakers-Edge" title="Equipment &amp; Gear: Baker's Edge">Baker's Edge</a></td><td id="nl222" onclick="window.location='/article/222/Fathers-Day-Gift-Ideas'" onMouseOver="lb('nl222')" onMouseOut="db('nl222')" ><a href="/article/222/Fathers-Day-Gift-Ideas" title="Equipment &amp; Gear: Father's Day Gift Ideas">Father's Day Gift Ideas</a></td><td id="nl187" onclick="window.location='/article/187/Knife-and-Sharpening-Steel-Hardness'" onMouseOver="lb('nl187')" onMouseOut="db('nl187')" ><a href="/article/187/Knife-and-Sharpening-Steel-Hardness" title="Equipment &amp; Gear: Knife and Sharpening Steel Hardness">Knife and Sharpening Steel Hardness</a></td><td id="nl84" onclick="window.location='/article/84/NSF-Certification'" onMouseOver="lb('nl84')" onMouseOut="db('nl84')" ><a href="/article/84/NSF-Certification" title="Equipment &amp; Gear: NSF Certification">NSF Certification</a></td></tr><tr><td id="nl290" onclick="window.location='/article/290/Ceramic-Chefs-Knives-Rated'" onMouseOver="lb('nl290')" onMouseOut="db('nl290')" ><a href="/article/290/Ceramic-Chefs-Knives-Rated" title="Equipment &amp; Gear: Ceramic Chef's Knives Rated">Ceramic Chef's Knives Rated</a></td><td id="nl256" onclick="window.location='/article/256/GelPro-Mat'" onMouseOver="lb('nl256')" onMouseOut="db('nl256')" ><a href="/article/256/GelPro-Mat" title="Equipment &amp; Gear: GelPro Mat">GelPro Mat</a></td><td id="nl135" onclick="window.location='/article/135/Knife-Covers'" onMouseOver="lb('nl135')" onMouseOut="db('nl135')" ><a href="/article/135/Knife-Covers" title="Equipment &amp; Gear: Knife Covers">Knife Covers</a></td><td id="nl275" onclick="window.location='/article/275/Saber-Kitchen-Knives'" onMouseOver="lb('nl275')" onMouseOut="db('nl275')" ><a href="/article/275/Saber-Kitchen-Knives" title="Equipment &amp; Gear: Saber Kitchen Knives">Saber Kitchen Knives</a></td></tr><tr><td id="nl129" onclick="window.location='/article/129/Chefs-Knives-Rated'" onMouseOver="lb('nl129')" onMouseOut="db('nl129')" ><a href="/article/129/Chefs-Knives-Rated" title="Equipment &amp; Gear: Chef's Knives Rated">Chef's Knives Rated</a></td><td id="nl117" onclick="window.location='/article/117/Hefty-Serve-n-Store'" onMouseOver="lb('nl117')" onMouseOut="db('nl117')" ><a href="/article/117/Hefty-Serve-n-Store" title="Equipment &amp; Gear: Hefty Serve 'n Store">Hefty Serve 'n Store</a></td><td id="nl130" onclick="window.location='/article/130/Knife-Parts'" onMouseOver="lb('nl130')" onMouseOut="db('nl130')" ><a href="/article/130/Knife-Parts" title="Equipment &amp; Gear: Knife Parts">Knife Parts</a></td><td id="nl234" onclick="window.location='/article/234/Soda-Club-SodaStream'" onMouseOver="lb('nl234')" onMouseOut="db('nl234')" ><a href="/article/234/Soda-Club-SodaStream" title="Equipment &amp; Gear: Soda-Club (SodaStream)">Soda-Club (SodaStream)</a></td></tr><tr><td id="nl120" onclick="window.location='/article/120/Common-Materials-of-Cookware'" onMouseOver="lb('nl120')" onMouseOut="db('nl120')" ><a href="/article/120/Common-Materials-of-Cookware" title="Equipment &amp; Gear: Common Materials of Cookware">Common Materials of Cookware</a></td><td id="nl272" onclick="window.location='/article/272/Kapoosh-Knife-Block-not-recommended'" onMouseOver="lb('nl272')" onMouseOut="db('nl272')" ><a href="/article/272/Kapoosh-Knife-Block-not-recommended" title="Equipment &amp; Gear: Kapoosh Knife Block (not recommended)">Kapoosh Knife Block (not recommended)</a></td><td id="nl85" onclick="window.location='/article/85/Krups-Spice-Grinder'" onMouseOver="lb('nl85')" onMouseOut="db('nl85')" ><a href="/article/85/Krups-Spice-Grinder" title="Equipment &amp; Gear: Krups Spice Grinder">Krups Spice Grinder</a></td><td id="nl287" onclick="window.location='/article/287/Understanding-Blender-Specifications'" onMouseOver="lb('nl287')" onMouseOut="db('nl287')" ><a href="/article/287/Understanding-Blender-Specifications" title="Equipment &amp; Gear: Understanding Blender Specifications">Understanding Blender Specifications</a></td></tr><tr><td id="nl232" onclick="window.location='/article/232/Cooking-With-Aluminum'" onMouseOver="lb('nl232')" onMouseOut="db('nl232')" ><a href="/article/232/Cooking-With-Aluminum" title="Equipment &amp; Gear: Cooking With Aluminum">Cooking With Aluminum</a></td><td id="nl39" onclick="window.location='/article/39/Kitchen-Knives'" onMouseOver="lb('nl39')" onMouseOut="db('nl39')" ><a href="/article/39/Kitchen-Knives" title="Equipment &amp; Gear: Kitchen Knives">Kitchen Knives</a></td><td id="nl269" onclick="window.location='/article/269/Metrokane-Mighty-OJ-Not-recommended'" onMouseOver="lb('nl269')" onMouseOut="db('nl269')" ><a href="/article/269/Metrokane-Mighty-OJ-Not-recommended" title="Equipment &amp; Gear: Metrokane Mighty OJ (Not recommended)">Metrokane Mighty OJ (Not recommended)</a></td><td id="nl326" onclick="window.location='/article/326/Whats-In-Your-Non-Stick'" onMouseOver="lb('nl326')" onMouseOut="db('nl326')" ><a href="/article/326/Whats-In-Your-Non-Stick" title="Equipment &amp; Gear: What's In Your Non-Stick?">What's In Your Non-Stick?</a></td></tr><tr><td id="nl175" onclick="window.location='/article/175/CoolCover'" onMouseOver="lb('nl175')" onMouseOut="db('nl175')" ><a href="/article/175/CoolCover" title="Equipment &amp; Gear: CoolCover">CoolCover</a></td><td id="nl82" onclick="window.location='/article/82/Kitchen-Scales'" onMouseOver="lb('nl82')" onMouseOut="db('nl82')" ><a href="/article/82/Kitchen-Scales" title="Equipment &amp; Gear: Kitchen Scales">Kitchen Scales</a></td></tr></table></div>
+	<div id="navcat_KitchenNotes" style="display:none"><table width="100%" class="navlinks" cellpadding="0" cellspacing="1"><tr><td width="25%" id="nl90" onclick="window.location='/article/90/Additives'" onMouseOver="lb('nl90')" onMouseOut="db('nl90')" ><a href="/article/90/Additives" title="Kitchen Notes: Additives">Additives</a></td><td width="25%" id="nl131" onclick="window.location='/article/131/Clarified-Butter'" onMouseOver="lb('nl131')" onMouseOut="db('nl131')" ><a href="/article/131/Clarified-Butter" title="Kitchen Notes: Clarified Butter">Clarified Butter</a></td><td width="25%" id="nl51" onclick="window.location='/article/51/Glossary'" onMouseOver="lb('nl51')" onMouseOut="db('nl51')" ><a href="/article/51/Glossary" title="Kitchen Notes: Glossary">Glossary</a></td><td width="25%" id="nl40" onclick="window.location='/article/40/Saturated-Fats-Cholesterol-and-Heart-Disease'" onMouseOver="lb('nl40')" onMouseOut="db('nl40')" ><a href="/article/40/Saturated-Fats-Cholesterol-and-Heart-Disease" title="Kitchen Notes: Saturated Fats, Cholesterol, and Heart Disease">Saturated Fats, Cholesterol, and Heart Disease</a></td></tr><tr><td id="nl280" onclick="window.location='/article/280/Analyzing-a-Baking-Recipe'" onMouseOver="lb('nl280')" onMouseOut="db('nl280')" ><a href="/article/280/Analyzing-a-Baking-Recipe" title="Kitchen Notes: Analyzing a Baking Recipe">Analyzing a Baking Recipe</a></td><td id="nl198" onclick="window.location='/article/198/Clarified-Butter-II'" onMouseOver="lb('nl198')" onMouseOut="db('nl198')" ><a href="/article/198/Clarified-Butter-II" title="Kitchen Notes: Clarified Butter II">Clarified Butter II</a></td><td id="nl209" onclick="window.location='/article/209/Heat-Transfer-and-Browning-Foods'" onMouseOver="lb('nl209')" onMouseOut="db('nl209')" ><a href="/article/209/Heat-Transfer-and-Browning-Foods" title="Kitchen Notes: Heat Transfer and Browning Foods">Heat Transfer and Browning Foods</a></td><td id="nl78" onclick="window.location='/article/78/Scoville-Units'" onMouseOver="lb('nl78')" onMouseOut="db('nl78')" ><a href="/article/78/Scoville-Units" title="Kitchen Notes: Scoville Units">Scoville Units</a></td></tr><tr><td id="nl199" onclick="window.location='/article/199/Baguettes-Deconstructed'" onMouseOver="lb('nl199')" onMouseOut="db('nl199')" ><a href="/article/199/Baguettes-Deconstructed" title="Kitchen Notes: Baguettes Deconstructed">Baguettes Deconstructed</a></td><td id="nl184" onclick="window.location='/article/184/Curry'" onMouseOver="lb('nl184')" onMouseOut="db('nl184')" ><a href="/article/184/Curry" title="Kitchen Notes: Curry">Curry</a></td><td id="nl224" onclick="window.location='/article/224/Heat-Transfer-and-Cooking'" onMouseOver="lb('nl224')" onMouseOut="db('nl224')" ><a href="/article/224/Heat-Transfer-and-Cooking" title="Kitchen Notes: Heat Transfer and Cooking">Heat Transfer and Cooking</a></td><td id="nl50" onclick="window.location='/article/50/Smoke-Points-of-Various-Fats'" onMouseOver="lb('nl50')" onMouseOut="db('nl50')" ><a href="/article/50/Smoke-Points-of-Various-Fats" title="Kitchen Notes: Smoke Points of Various Fats">Smoke Points of Various Fats</a></td></tr><tr><td id="nl213" onclick="window.location='/article/213/Bakers-Yeast'" onMouseOver="lb('nl213')" onMouseOut="db('nl213')" ><a href="/article/213/Bakers-Yeast" title="Kitchen Notes: Baker's Yeast">Baker's Yeast</a></td><td id="nl97" onclick="window.location='/article/97/Cutting-Up-Chicken'" onMouseOver="lb('nl97')" onMouseOut="db('nl97')" ><a href="/article/97/Cutting-Up-Chicken" title="Kitchen Notes: Cutting Up Chicken">Cutting Up Chicken</a></td><td id="nl52" onclick="window.location='/article/52/Ingredient-Substitutions'" onMouseOver="lb('nl52')" onMouseOut="db('nl52')" ><a href="/article/52/Ingredient-Substitutions" title="Kitchen Notes: Ingredient Substitutions">Ingredient Substitutions</a></td><td id="nl155" onclick="window.location='/article/155/Tempering-Chocolate'" onMouseOver="lb('nl155')" onMouseOut="db('nl155')" ><a href="/article/155/Tempering-Chocolate" title="Kitchen Notes: Tempering Chocolate">Tempering Chocolate</a></td></tr><tr><td id="nl123" onclick="window.location='/article/123/Boning-Chicken-Breast'" onMouseOver="lb('nl123')" onMouseOut="db('nl123')" ><a href="/article/123/Boning-Chicken-Breast" title="Kitchen Notes: Boning Chicken Breast">Boning Chicken Breast</a></td><td id="nl211" onclick="window.location='/article/211/European-Designation-of-Quality-Labels'" onMouseOver="lb('nl211')" onMouseOut="db('nl211')" ><a href="/article/211/European-Designation-of-Quality-Labels" title="Kitchen Notes: European Designation of Quality Labels">European Designation of Quality Labels</a></td><td id="nl113" onclick="window.location='/article/113/Making-Butter'" onMouseOver="lb('nl113')" onMouseOut="db('nl113')" ><a href="/article/113/Making-Butter" title="Kitchen Notes: Making Butter">Making Butter</a></td><td id="nl30" onclick="window.location='/article/30/USDA-Beef-Quality-Grades'" onMouseOver="lb('nl30')" onMouseOut="db('nl30')" ><a href="/article/30/USDA-Beef-Quality-Grades" title="Kitchen Notes: USDA Beef Quality Grades">USDA Beef Quality Grades</a></td></tr><tr><td id="nl70" onclick="window.location='/article/70/Brining'" onMouseOver="lb('nl70')" onMouseOut="db('nl70')" ><a href="/article/70/Brining" title="Kitchen Notes: Brining">Brining</a></td><td id="nl244" onclick="window.location='/article/244/Fond-of-Fond'" onMouseOver="lb('nl244')" onMouseOut="db('nl244')" ><a href="/article/244/Fond-of-Fond" title="Kitchen Notes: Fond of Fond">Fond of Fond</a></td><td id="nl16" onclick="window.location='/article/16/Maple-Syrup-Grades'" onMouseOver="lb('nl16')" onMouseOut="db('nl16')" ><a href="/article/16/Maple-Syrup-Grades" title="Kitchen Notes: Maple Syrup Grades">Maple Syrup Grades</a></td><td id="nl63" onclick="window.location='/article/63/Wheat-Flour'" onMouseOver="lb('nl63')" onMouseOut="db('nl63')" ><a href="/article/63/Wheat-Flour" title="Kitchen Notes: Wheat Flour">Wheat Flour</a></td></tr><tr><td id="nl73" onclick="window.location='/article/73/Buying-Whole-Turkeys'" onMouseOver="lb('nl73')" onMouseOut="db('nl73')" ><a href="/article/73/Buying-Whole-Turkeys" title="Kitchen Notes: Buying Whole Turkeys">Buying Whole Turkeys</a></td><td id="nl27" onclick="window.location='/article/27/Freezing-Meats'" onMouseOver="lb('nl27')" onMouseOut="db('nl27')" ><a href="/article/27/Freezing-Meats" title="Kitchen Notes: Freezing Meats">Freezing Meats</a></td><td id="nl134" onclick="window.location='/article/134/Oven-Temperatures'" onMouseOver="lb('nl134')" onMouseOut="db('nl134')" ><a href="/article/134/Oven-Temperatures" title="Kitchen Notes: Oven Temperatures">Oven Temperatures</a></td><td id="nl294" onclick="window.location='/article/294/White-Wheat-Grinder-Comparison'" onMouseOver="lb('nl294')" onMouseOut="db('nl294')" ><a href="/article/294/White-Wheat-Grinder-Comparison" title="Kitchen Notes: White Wheat Grinder Comparison">White Wheat Grinder Comparison</a></td></tr><tr><td id="nl156" onclick="window.location='/article/156/Caviar'" onMouseOver="lb('nl156')" onMouseOut="db('nl156')" ><a href="/article/156/Caviar" title="Kitchen Notes: Caviar">Caviar</a></td><td id="nl315" onclick="window.location='/article/315/Fruit-Ripening'" onMouseOver="lb('nl315')" onMouseOut="db('nl315')" ><a href="/article/315/Fruit-Ripening" title="Kitchen Notes: Fruit Ripening">Fruit Ripening</a></td><td id="nl96" onclick="window.location='/article/96/Pears'" onMouseOver="lb('nl96')" onMouseOut="db('nl96')" ><a href="/article/96/Pears" title="Kitchen Notes: Pears">Pears</a></td></tr></table></div>
+	<div id="navcat_OffTopic" style="display:none"><table width="100%" class="navlinks" cellpadding="0" cellspacing="1"><tr><td width="25%" id="nl133" onclick="window.location='/article/133/African-Horned-Melon-or-Kiwano'" onMouseOver="lb('nl133')" onMouseOut="db('nl133')" ><a href="/article/133/African-Horned-Melon-or-Kiwano" title="Off Topic: African Horned Melon or Kiwano">African Horned Melon or Kiwano</a></td><td width="25%" id="nl206" onclick="window.location='/article/206/Fancy-Food-Show-Winter-2007'" onMouseOver="lb('nl206')" onMouseOut="db('nl206')" ><a href="/article/206/Fancy-Food-Show-Winter-2007" title="Off Topic: Fancy Food Show Winter 2007">Fancy Food Show Winter 2007</a></td><td width="25%" id="nl119" onclick="window.location='/article/119/Iron-Chef-America'" onMouseOver="lb('nl119')" onMouseOut="db('nl119')" ><a href="/article/119/Iron-Chef-America" title="Off Topic: Iron Chef America">Iron Chef America</a></td><td width="25%" id="nl25" onclick="window.location='/article/25/Some-Quotes'" onMouseOver="lb('nl25')" onMouseOut="db('nl25')" ><a href="/article/25/Some-Quotes" title="Off Topic: Some Quotes">Some Quotes</a></td></tr><tr><td id="nl279" onclick="window.location='/article/279/Amano-Chocolate-Contest'" onMouseOver="lb('nl279')" onMouseOut="db('nl279')" ><a href="/article/279/Amano-Chocolate-Contest" title="Off Topic: Amano Chocolate Contest">Amano Chocolate Contest</a></td><td id="nl262" onclick="window.location='/article/262/Fancy-Food-Show-Winter-2009'" onMouseOver="lb('nl262')" onMouseOut="db('nl262')" ><a href="/article/262/Fancy-Food-Show-Winter-2009" title="Off Topic: Fancy Food Show Winter 2009">Fancy Food Show Winter 2009</a></td><td id="nl286" onclick="window.location='/article/286/Johnsonville-Pastaville-Italian-Sausage-Recipe-Contest'" onMouseOver="lb('nl286')" onMouseOut="db('nl286')" ><a href="/article/286/Johnsonville-Pastaville-Italian-Sausage-Recipe-Contest" title="Off Topic: Johnsonville Pastaville Italian Sausage Recipe Contest">Johnsonville Pastaville Italian Sausage Recipe Contest</a></td><td id="nl57" onclick="window.location='/article/57/Surprises-In-Snacks'" onMouseOver="lb('nl57')" onMouseOut="db('nl57')" ><a href="/article/57/Surprises-In-Snacks" title="Off Topic: Surprises In Snacks">Surprises In Snacks</a></td></tr><tr><td id="nl321" onclick="window.location='/article/321/Anolon-Nouvelle-Copper-Stainless-Steel-Cookware-Set-2012-Giveaway'" onMouseOver="lb('nl321')" onMouseOut="db('nl321')" ><a href="/article/321/Anolon-Nouvelle-Copper-Stainless-Steel-Cookware-Set-2012-Giveaway" title="Off Topic: Anolon Nouvelle Copper Stainless Steel Cookware Set 2012 Giveaway!">Anolon Nouvelle Copper Stainless Steel Cookware Set 2012 Giveaway!</a></td><td id="nl334" onclick="window.location='/article/334/Fancy-Food-Show-Winter-2014'" onMouseOver="lb('nl334')" onMouseOut="db('nl334')" ><a href="/article/334/Fancy-Food-Show-Winter-2014" title="Off Topic: Fancy Food Show Winter 2014">Fancy Food Show Winter 2014</a></td><td id="nl165" onclick="window.location='/article/165/LASIK'" onMouseOver="lb('nl165')" onMouseOut="db('nl165')" ><a href="/article/165/LASIK" title="Off Topic: LASIK">LASIK</a></td><td id="nl149" onclick="window.location='/article/149/Thanksgiving-Dinner'" onMouseOver="lb('nl149')" onMouseOut="db('nl149')" ><a href="/article/149/Thanksgiving-Dinner" title="Off Topic: Thanksgiving Dinner">Thanksgiving Dinner</a></td></tr><tr><td id="nl179" onclick="window.location='/article/179/Asparagus-Festival'" onMouseOver="lb('nl179')" onMouseOut="db('nl179')" ><a href="/article/179/Asparagus-Festival" title="Off Topic: Asparagus Festival">Asparagus Festival</a></td><td id="nl182" onclick="window.location='/article/182/Fanpop'" onMouseOver="lb('nl182')" onMouseOut="db('nl182')" ><a href="/article/182/Fanpop" title="Off Topic: Fanpop">Fanpop</a></td><td id="nl312" onclick="window.location='/article/312/LEGO-Heavy-Weapons-Book-Review'" onMouseOver="lb('nl312')" onMouseOut="db('nl312')" ><a href="/article/312/LEGO-Heavy-Weapons-Book-Review" title="Off Topic: LEGO Heavy Weapons Book Review">LEGO Heavy Weapons Book Review</a></td><td id="nl251" onclick="window.location='/article/251/The-HP-Freshman-15-Contest-Win-a-Notebook-Computer'" onMouseOver="lb('nl251')" onMouseOut="db('nl251')" ><a href="/article/251/The-HP-Freshman-15-Contest-Win-a-Notebook-Computer" title="Off Topic: The HP Freshman 15 Contest - Win a Notebook Computer">The HP Freshman 15 Contest - Win a Notebook Computer</a></td></tr><tr><td id="nl243" onclick="window.location='/article/243/Chilis-Bacon-Burger'" onMouseOver="lb('nl243')" onMouseOut="db('nl243')" ><a href="/article/243/Chilis-Bacon-Burger" title="Off Topic: Chili's Bacon Burger">Chili's Bacon Burger</a></td><td id="nl323" onclick="window.location='/article/323/Food-Fete-2013'" onMouseOver="lb('nl323')" onMouseOut="db('nl323')" ><a href="/article/323/Food-Fete-2013" title="Off Topic: Food Fete 2013">Food Fete 2013</a></td><td id="nl67" onclick="window.location='/article/67/Lunar-Eclipse'" onMouseOver="lb('nl67')" onMouseOut="db('nl67')" ><a href="/article/67/Lunar-Eclipse" title="Off Topic: Lunar Eclipse">Lunar Eclipse</a></td><td id="nl322" onclick="window.location='/article/322/The-Unofficial-LEGO-Technic-Builders-Guide-Book-Review'" onMouseOver="lb('nl322')" onMouseOut="db('nl322')" ><a href="/article/322/The-Unofficial-LEGO-Technic-Builders-Guide-Book-Review" title="Off Topic: The Unofficial LEGO Technic Builder's Guide Book Review">The Unofficial LEGO Technic Builder's Guide Book Review</a></td></tr><tr><td id="nl284" onclick="window.location='/article/284/Christmas-Gift-Ideas'" onMouseOver="lb('nl284')" onMouseOut="db('nl284')" ><a href="/article/284/Christmas-Gift-Ideas" title="Off Topic: Christmas Gift Ideas">Christmas Gift Ideas</a></td><td id="nl335" onclick="window.location='/article/335/Food-Fete-2014'" onMouseOver="lb('nl335')" onMouseOut="db('nl335')" ><a href="/article/335/Food-Fete-2014" title="Off Topic: Food Fete 2014">Food Fete 2014</a></td><td id="nl309" onclick="window.location='/article/309/Michael-Ohenes-Cookie-Recipe-Generator'" onMouseOver="lb('nl309')" onMouseOut="db('nl309')" ><a href="/article/309/Michael-Ohenes-Cookie-Recipe-Generator" title="Off Topic: Michael Ohene's Cookie Recipe Generator">Michael Ohene's Cookie Recipe Generator</a></td><td id="nl336" onclick="window.location='/article/336/Thermoworks-Fathers-Day-2014-Giveaway'" onMouseOver="lb('nl336')" onMouseOut="db('nl336')" ><a href="/article/336/Thermoworks-Fathers-Day-2014-Giveaway" title="Off Topic: Thermoworks Father's Day 2014 Giveaway!">Thermoworks Father's Day 2014 Giveaway!</a></td></tr><tr><td id="nl328" onclick="window.location='/article/328/Codlo-Sous-Vide-Controller-Kickstarter'" onMouseOver="lb('nl328')" onMouseOut="db('nl328')" ><a href="/article/328/Codlo-Sous-Vide-Controller-Kickstarter" title="Off Topic: Codlo Sous Vide Controller Kickstarter">Codlo Sous Vide Controller Kickstarter</a></td><td id="nl271" onclick="window.location='/article/271/Food-Inc'" onMouseOver="lb('nl271')" onMouseOut="db('nl271')" ><a href="/article/271/Food-Inc" title="Off Topic: Food, Inc">Food, Inc</a></td><td id="nl7" onclick="window.location='/article/7/Orange-Juice-Shelf-Life'" onMouseOver="lb('nl7')" onMouseOut="db('nl7')" ><a href="/article/7/Orange-Juice-Shelf-Life" title="Off Topic: Orange Juice Shelf Life">Orange Juice Shelf Life</a></td><td id="nl332" onclick="window.location='/article/332/Thermoworks-Thermapen-2013-Giveaway'" onMouseOver="lb('nl332')" onMouseOut="db('nl332')" ><a href="/article/332/Thermoworks-Thermapen-2013-Giveaway" title="Off Topic: Thermoworks Thermapen 2013 Giveaway!">Thermoworks Thermapen 2013 Giveaway!</a></td></tr><tr><td id="nl116" onclick="window.location='/article/116/Comments-and-Forums'" onMouseOver="lb('nl116')" onMouseOut="db('nl116')" ><a href="/article/116/Comments-and-Forums" title="Off Topic: Comments and Forums">Comments and Forums</a></td><td id="nl263" onclick="window.location='/article/263/Foodoro'" onMouseOver="lb('nl263')" onMouseOut="db('nl263')" ><a href="/article/263/Foodoro" title="Off Topic: Foodoro">Foodoro</a></td><td id="nl217" onclick="window.location='/article/217/Orthogonal-Thought-A-New-Blog'" onMouseOver="lb('nl217')" onMouseOut="db('nl217')" ><a href="/article/217/Orthogonal-Thought-A-New-Blog" title="Off Topic: Orthogonal Thought - A New Blog">Orthogonal Thought - A New Blog</a></td><td id="nl318" onclick="window.location='/article/318/Thermoworks-Thermapen-and-Oven-Thermometer-2012-Giveaway'" onMouseOver="lb('nl318')" onMouseOut="db('nl318')" ><a href="/article/318/Thermoworks-Thermapen-and-Oven-Thermometer-2012-Giveaway" title="Off Topic: Thermoworks Thermapen and Oven Thermometer 2012 Giveaway!">Thermoworks Thermapen and Oven Thermometer 2012 Giveaway!</a></td></tr><tr><td id="nl118" onclick="window.location='/article/118/Comments-and-Forums-Back-Online'" onMouseOver="lb('nl118')" onMouseOut="db('nl118')" ><a href="/article/118/Comments-and-Forums-Back-Online" title="Off Topic: Comments and Forums Back Online">Comments and Forums Back Online</a></td><td id="nl278" onclick="window.location='/article/278/Free-Cookbook-from-Snubbr'" onMouseOver="lb('nl278')" onMouseOut="db('nl278')" ><a href="/article/278/Free-Cookbook-from-Snubbr" title="Off Topic: Free Cookbook from Snubbr">Free Cookbook from Snubbr</a></td><td id="nl228" onclick="window.location='/article/228/Pixars-Ratatouille'" onMouseOver="lb('nl228')" onMouseOut="db('nl228')" ><a href="/article/228/Pixars-Ratatouille" title="Off Topic: Pixar's Ratatouille">Pixar's Ratatouille</a></td><td id="nl214" onclick="window.location='/article/214/Two-New-Shows-on-Discovery-Health'" onMouseOver="lb('nl214')" onMouseOut="db('nl214')" ><a href="/article/214/Two-New-Shows-on-Discovery-Health" title="Off Topic: Two New Shows on Discovery Health">Two New Shows on Discovery Health</a></td></tr><tr><td id="nl196" onclick="window.location='/article/196/Cooking-With-Passion'" onMouseOver="lb('nl196')" onMouseOut="db('nl196')" ><a href="/article/196/Cooking-With-Passion" title="Off Topic: Cooking With Passion">Cooking With Passion</a></td><td id="nl282" onclick="window.location='/article/282/Hefty-Kitchen-Bags-with-Unscented-Odor-Block-Technology'" onMouseOver="lb('nl282')" onMouseOut="db('nl282')" ><a href="/article/282/Hefty-Kitchen-Bags-with-Unscented-Odor-Block-Technology" title="Off Topic: Hefty Kitchen Bags with Unscented Odor Block Technology">Hefty Kitchen Bags with Unscented Odor Block Technology</a></td><td id="nl1" onclick="window.location='/article/1/Pumpkin-Carving'" onMouseOver="lb('nl1')" onMouseOut="db('nl1')" ><a href="/article/1/Pumpkin-Carving" title="Off Topic: Pumpkin Carving">Pumpkin Carving</a></td><td id="nl143" onclick="window.location='/article/143/University-Chickens-911-Challenge'" onMouseOver="lb('nl143')" onMouseOut="db('nl143')" ><a href="/article/143/University-Chickens-911-Challenge" title="Off Topic: University Chicken's 911 Challenge">University Chicken's 911 Challenge</a></td></tr><tr><td id="nl183" onclick="window.location='/article/183/Cosentinos-Markets-Good-News-and-Bad-News'" onMouseOver="lb('nl183')" onMouseOut="db('nl183')" ><a href="/article/183/Cosentinos-Markets-Good-News-and-Bad-News" title="Off Topic: Cosentino's Markets - Good News and Bad News">Cosentino's Markets - Good News and Bad News</a></td><td id="nl197" onclick="window.location='/article/197/IEEE-Spectrum-Radio-Looking-for-Engineers-Who-Cook'" onMouseOver="lb('nl197')" onMouseOut="db('nl197')" ><a href="/article/197/IEEE-Spectrum-Radio-Looking-for-Engineers-Who-Cook" title="Off Topic: IEEE Spectrum Radio Looking for Engineers Who Cook">IEEE Spectrum Radio Looking for Engineers Who Cook</a></td><td id="nl29" onclick="window.location='/article/29/Recipe-Summaries-Standards-and-Microsoft'" onMouseOver="lb('nl29')" onMouseOut="db('nl29')" ><a href="/article/29/Recipe-Summaries-Standards-and-Microsoft" title="Off Topic: Recipe Summaries - Standards and Microsoft">Recipe Summaries - Standards and Microsoft</a></td><td id="nl22" onclick="window.location='/article/22/Welcome-to-the-New-Server'" onMouseOver="lb('nl22')" onMouseOut="db('nl22')" ><a href="/article/22/Welcome-to-the-New-Server" title="Off Topic: Welcome to the New Server">Welcome to the New Server</a></td></tr><tr><td id="nl64" onclick="window.location='/article/64/Details-of-the-Pumpkin-Carving'" onMouseOver="lb('nl64')" onMouseOut="db('nl64')" ><a href="/article/64/Details-of-the-Pumpkin-Carving" title="Off Topic: Details of the Pumpkin Carving">Details of the Pumpkin Carving</a></td><td id="nl24" onclick="window.location='/article/24/Increased-Readership-and-Traffic-Woes'" onMouseOver="lb('nl24')" onMouseOut="db('nl24')" ><a href="/article/24/Increased-Readership-and-Traffic-Woes" title="Off Topic: Increased Readership and Traffic Woes">Increased Readership and Traffic Woes</a></td><td id="nl331" onclick="window.location='/article/331/Robot-Turtles-Board-Game-Kickstarter'" onMouseOver="lb('nl331')" onMouseOut="db('nl331')" ><a href="/article/331/Robot-Turtles-Board-Game-Kickstarter" title="Off Topic: Robot Turtles Board Game Kickstarter">Robot Turtles Board Game Kickstarter</a></td><td id="nl192" onclick="window.location='/article/192/Whats-the-Most-Trans-Fat-Youve-Seen'" onMouseOver="lb('nl192')" onMouseOut="db('nl192')" ><a href="/article/192/Whats-the-Most-Trans-Fat-Youve-Seen" title="Off Topic: What's the Most Trans Fat You've Seen?">What's the Most Trans Fat You've Seen?</a></td></tr><tr><td id="nl23" onclick="window.location='/article/23/Donations-Please'" onMouseOver="lb('nl23')" onMouseOut="db('nl23')" ><a href="/article/23/Donations-Please" title="Off Topic: Donations Please!">Donations Please!</a></td><td id="nl210" onclick="window.location='/article/210/Inside-the-CIA'" onMouseOver="lb('nl210')" onMouseOut="db('nl210')" ><a href="/article/210/Inside-the-CIA" title="Off Topic: Inside the CIA">Inside the CIA</a></td><td id="nl167" onclick="window.location='/article/167/Santa-Cruz-Clam-Chowder-Cook-Off-2006'" onMouseOver="lb('nl167')" onMouseOut="db('nl167')" ><a href="/article/167/Santa-Cruz-Clam-Chowder-Cook-Off-2006" title="Off Topic: Santa Cruz Clam Chowder Cook Off 2006">Santa Cruz Clam Chowder Cook Off 2006</a></td><td id="nl325" onclick="window.location='/article/325/Wolfgang-Puck-Phone-Interview'" onMouseOver="lb('nl325')" onMouseOut="db('nl325')" ><a href="/article/325/Wolfgang-Puck-Phone-Interview" title="Off Topic: Wolfgang Puck Phone Interview">Wolfgang Puck Phone Interview</a></td></tr><tr><td id="nl157" onclick="window.location='/article/157/Fancy-Food-Show-Winter-2006'" onMouseOver="lb('nl157')" onMouseOut="db('nl157')" ><a href="/article/157/Fancy-Food-Show-Winter-2006" title="Off Topic: Fancy Food Show Winter 2006">Fancy Food Show Winter 2006</a></td></tr></table></div>
+	<div id="navcat_RecipeFile" style="display:none"><table width="100%" class="navlinks" cellpadding="0" cellspacing="1"><tr><td width="25%" id="nl188" onclick="window.location='/recipe/188/Anghelikas-Tsatsiki-Tzatziki'" onMouseOver="lb('nl188')" onMouseOut="db('nl188')" ><a href="/recipe/188/Anghelikas-Tsatsiki-Tzatziki" title="Recipe File: Anghelika's Tsatsiki (Tzatziki)">Anghelika's Tsatsiki (Tzatziki)</a></td><td width="25%" id="nl98" onclick="window.location='/recipe/98/Condensed-Milk-Fudge'" onMouseOver="lb('nl98')" onMouseOut="db('nl98')" ><a href="/recipe/98/Condensed-Milk-Fudge" title="Recipe File: Condensed Milk Fudge">Condensed Milk Fudge</a></td><td width="25%" id="nl305" onclick="window.location='/recipe/305/Honey-Pecan-Pralines'" onMouseOver="lb('nl305')" onMouseOut="db('nl305')" ><a href="/recipe/305/Honey-Pecan-Pralines" title="Recipe File: Honey Pecan Pralines">Honey Pecan Pralines</a></td><td width="25%" id="nl92" onclick="window.location='/recipe/92/Poached-Fish'" onMouseOver="lb('nl92')" onMouseOut="db('nl92')" ><a href="/recipe/92/Poached-Fish" title="Recipe File: Poached Fish">Poached Fish</a></td></tr><tr><td id="nl163" onclick="window.location='/recipe/163/Asparagus-with-Almonds'" onMouseOver="lb('nl163')" onMouseOut="db('nl163')" ><a href="/recipe/163/Asparagus-with-Almonds" title="Recipe File: Asparagus with Almonds">Asparagus with Almonds</a></td><td id="nl152" onclick="window.location='/recipe/152/Cooked-Egg-Nog'" onMouseOver="lb('nl152')" onMouseOut="db('nl152')" ><a href="/recipe/152/Cooked-Egg-Nog" title="Recipe File: Cooked Egg Nog">Cooked Egg Nog</a></td><td id="nl308" onclick="window.location='/recipe/308/Hot-Chocolate'" onMouseOver="lb('nl308')" onMouseOut="db('nl308')" ><a href="/recipe/308/Hot-Chocolate" title="Recipe File: Hot Chocolate">Hot Chocolate</a></td><td id="nl38" onclick="window.location='/recipe/38/Prime-Rib-or-Standing-Rib-Roast'" onMouseOver="lb('nl38')" onMouseOut="db('nl38')" ><a href="/recipe/38/Prime-Rib-or-Standing-Rib-Roast" title="Recipe File: Prime Rib or Standing Rib Roast">Prime Rib or Standing Rib Roast</a></td></tr><tr><td id="nl103" onclick="window.location='/recipe/103/Baked-Cinnamon-Apple'" onMouseOver="lb('nl103')" onMouseOut="db('nl103')" ><a href="/recipe/103/Baked-Cinnamon-Apple" title="Recipe File: Baked Cinnamon Apple">Baked Cinnamon Apple</a></td><td id="nl48" onclick="window.location='/recipe/48/Corn-Fritters'" onMouseOver="lb('nl48')" onMouseOut="db('nl48')" ><a href="/recipe/48/Corn-Fritters" title="Recipe File: Corn Fritters">Corn Fritters</a></td><td id="nl104" onclick="window.location='/recipe/104/Kelloggs-Rice-Krispies-Treats'" onMouseOver="lb('nl104')" onMouseOut="db('nl104')" ><a href="/recipe/104/Kelloggs-Rice-Krispies-Treats" title="Recipe File: Kellogg's Rice Krispies Treats">Kellogg's Rice Krispies Treats</a></td><td id="nl189" onclick="window.location='/recipe/189/Prosciutto-e-Melone'" onMouseOver="lb('nl189')" onMouseOut="db('nl189')" ><a href="/recipe/189/Prosciutto-e-Melone" title="Recipe File: Prosciutto e Melone">Prosciutto e Melone</a></td></tr><tr><td id="nl108" onclick="window.location='/recipe/108/Banana-Nut-Bread'" onMouseOver="lb('nl108')" onMouseOut="db('nl108')" ><a href="/recipe/108/Banana-Nut-Bread" title="Recipe File: Banana Nut Bread">Banana Nut Bread</a></td><td id="nl79" onclick="window.location='/recipe/79/Cranberry-Sauce'" onMouseOver="lb('nl79')" onMouseOut="db('nl79')" ><a href="/recipe/79/Cranberry-Sauce" title="Recipe File: Cranberry Sauce">Cranberry Sauce</a></td><td id="nl33" onclick="window.location='/recipe/33/Lemon-Bars'" onMouseOver="lb('nl33')" onMouseOut="db('nl33')" ><a href="/recipe/33/Lemon-Bars" title="Recipe File: Lemon Bars">Lemon Bars</a></td><td id="nl65" onclick="window.location='/recipe/65/Pumpkin-Pie'" onMouseOver="lb('nl65')" onMouseOut="db('nl65')" ><a href="/recipe/65/Pumpkin-Pie" title="Recipe File: Pumpkin Pie">Pumpkin Pie</a></td></tr><tr><td id="nl246" onclick="window.location='/recipe/246/Barbecue-Pork-Ribs-Baby-Back-or-Spare'" onMouseOver="lb('nl246')" onMouseOut="db('nl246')" ><a href="/recipe/246/Barbecue-Pork-Ribs-Baby-Back-or-Spare" title="Recipe File: Barbecue Pork Ribs (Baby Back or Spare)">Barbecue Pork Ribs (Baby Back or Spare)</a></td><td id="nl194" onclick="window.location='/recipe/194/Cream-of-Mushroom-Soup'" onMouseOver="lb('nl194')" onMouseOut="db('nl194')" ><a href="/recipe/194/Cream-of-Mushroom-Soup" title="Recipe File: Cream of Mushroom Soup">Cream of Mushroom Soup</a></td><td id="nl121" onclick="window.location='/recipe/121/Lemon-Iced-Tea'" onMouseOver="lb('nl121')" onMouseOut="db('nl121')" ><a href="/recipe/121/Lemon-Iced-Tea" title="Recipe File: Lemon Iced Tea">Lemon Iced Tea</a></td><td id="nl227" onclick="window.location='/recipe/227/Ratatouille'" onMouseOver="lb('nl227')" onMouseOut="db('nl227')" ><a href="/recipe/227/Ratatouille" title="Recipe File: Ratatouille">Ratatouille</a></td></tr><tr><td id="nl35" onclick="window.location='/recipe/35/Basic-Granita'" onMouseOver="lb('nl35')" onMouseOut="db('nl35')" ><a href="/recipe/35/Basic-Granita" title="Recipe File: Basic Granita">Basic Granita</a></td><td id="nl107" onclick="window.location='/recipe/107/Creamy-Garlic-Mashed-Potatoes'" onMouseOver="lb('nl107')" onMouseOut="db('nl107')" ><a href="/recipe/107/Creamy-Garlic-Mashed-Potatoes" title="Recipe File: Creamy Garlic Mashed Potatoes">Creamy Garlic Mashed Potatoes</a></td><td id="nl124" onclick="window.location='/recipe/124/Lime-Marinated-Grilled-Chicken'" onMouseOver="lb('nl124')" onMouseOut="db('nl124')" ><a href="/recipe/124/Lime-Marinated-Grilled-Chicken" title="Recipe File: Lime Marinated Grilled Chicken">Lime Marinated Grilled Chicken</a></td><td id="nl101" onclick="window.location='/recipe/101/Roasted-Asparagus-Spears'" onMouseOver="lb('nl101')" onMouseOut="db('nl101')" ><a href="/recipe/101/Roasted-Asparagus-Spears" title="Recipe File: Roasted Asparagus Spears">Roasted Asparagus Spears</a></td></tr><tr><td id="nl47" onclick="window.location='/recipe/47/Basic-Pancakes'" onMouseOver="lb('nl47')" onMouseOut="db('nl47')" ><a href="/recipe/47/Basic-Pancakes" title="Recipe File: Basic Pancakes">Basic Pancakes</a></td><td id="nl32" onclick="window.location='/recipe/32/Creme-Brulee-Cregraveme-Brucircleacutee'" onMouseOver="lb('nl32')" onMouseOut="db('nl32')" ><a href="/recipe/32/Creme-Brulee-Cregraveme-Brucircleacutee" title="Recipe File: Creme Brulee (Cr&egrave;me Br&ucirc;l&eacute;e)">Creme Brulee (Cr&egrave;me Br&ucirc;l&eacute;e)</a></td><td id="nl66" onclick="window.location='/recipe/66/Limeade'" onMouseOver="lb('nl66')" onMouseOut="db('nl66')" ><a href="/recipe/66/Limeade" title="Recipe File: Limeade">Limeade</a></td><td id="nl174" onclick="window.location='/recipe/174/Rosemary-Lamb-Chops'" onMouseOver="lb('nl174')" onMouseOut="db('nl174')" ><a href="/recipe/174/Rosemary-Lamb-Chops" title="Recipe File: Rosemary Lamb Chops">Rosemary Lamb Chops</a></td></tr><tr><td id="nl44" onclick="window.location='/recipe/44/Basic-Vinaigrette-Salad-Dressing'" onMouseOver="lb('nl44')" onMouseOut="db('nl44')" ><a href="/recipe/44/Basic-Vinaigrette-Salad-Dressing" title="Recipe File: Basic Vinaigrette Salad Dressing">Basic Vinaigrette Salad Dressing</a></td><td id="nl317" onclick="window.location='/recipe/317/Crunchy-Bloody-Mary'" onMouseOver="lb('nl317')" onMouseOut="db('nl317')" ><a href="/recipe/317/Crunchy-Bloody-Mary" title="Recipe File: Crunchy Bloody Mary">Crunchy Bloody Mary</a></td><td id="nl230" onclick="window.location='/recipe/230/Macaroni-and-Cheese-Bake'" onMouseOver="lb('nl230')" onMouseOut="db('nl230')" ><a href="/recipe/230/Macaroni-and-Cheese-Bake" title="Recipe File: Macaroni and Cheese Bake">Macaroni and Cheese Bake</a></td><td id="nl53" onclick="window.location='/recipe/53/Salsa-Cruda'" onMouseOver="lb('nl53')" onMouseOut="db('nl53')" ><a href="/recipe/53/Salsa-Cruda" title="Recipe File: Salsa Cruda">Salsa Cruda</a></td></tr><tr><td id="nl122" onclick="window.location='/recipe/122/Beef-Stroganoff'" onMouseOver="lb('nl122')" onMouseOut="db('nl122')" ><a href="/recipe/122/Beef-Stroganoff" title="Recipe File: Beef Stroganoff">Beef Stroganoff</a></td><td id="nl158" onclick="window.location='/recipe/158/Dark-Chocolate-Brownies'" onMouseOver="lb('nl158')" onMouseOut="db('nl158')" ><a href="/recipe/158/Dark-Chocolate-Brownies" title="Recipe File: Dark Chocolate Brownies">Dark Chocolate Brownies</a></td><td id="nl177" onclick="window.location='/recipe/177/Matzo-Matzah-Ball-Soup'" onMouseOver="lb('nl177')" onMouseOut="db('nl177')" ><a href="/recipe/177/Matzo-Matzah-Ball-Soup" title="Recipe File: Matzo (Matzah) Ball Soup">Matzo (Matzah) Ball Soup</a></td><td id="nl8" onclick="window.location='/recipe/8/Sauteed-Okra-with-Roasted-Red-Peppers'" onMouseOver="lb('nl8')" onMouseOut="db('nl8')" ><a href="/recipe/8/Sauteed-Okra-with-Roasted-Red-Peppers" title="Recipe File: Sauteed Okra with Roasted Red Peppers">Sauteed Okra with Roasted Red Peppers</a></td></tr><tr><td id="nl154" onclick="window.location='/recipe/154/Biscotti'" onMouseOver="lb('nl154')" onMouseOut="db('nl154')" ><a href="/recipe/154/Biscotti" title="Recipe File: Biscotti">Biscotti</a></td><td id="nl160" onclick="window.location='/recipe/160/Dark-Chocolate-Souffle'" onMouseOver="lb('nl160')" onMouseOut="db('nl160')" ><a href="/recipe/160/Dark-Chocolate-Souffle" title="Recipe File: Dark Chocolate Souffle">Dark Chocolate Souffle</a></td><td id="nl36" onclick="window.location='/recipe/36/Meat-Lasagna'" onMouseOver="lb('nl36')" onMouseOut="db('nl36')" ><a href="/recipe/36/Meat-Lasagna" title="Recipe File: Meat Lasagna">Meat Lasagna</a></td><td id="nl320" onclick="window.location='/recipe/320/Sauteed-Spinach'" onMouseOver="lb('nl320')" onMouseOut="db('nl320')" ><a href="/recipe/320/Sauteed-Spinach" title="Recipe File: Sauteed Spinach">Sauteed Spinach</a></td></tr><tr><td id="nl288" onclick="window.location='/recipe/288/Biscuits-Southern-Buttermilk-Biscuits'" onMouseOver="lb('nl288')" onMouseOut="db('nl288')" ><a href="/recipe/288/Biscuits-Southern-Buttermilk-Biscuits" title="Recipe File: Biscuits (Southern Buttermilk Biscuits)">Biscuits (Southern Buttermilk Biscuits)</a></td><td id="nl147" onclick="window.location='/recipe/147/Dirty-Rice'" onMouseOver="lb('nl147')" onMouseOut="db('nl147')" ><a href="/recipe/147/Dirty-Rice" title="Recipe File: Dirty Rice">Dirty Rice</a></td><td id="nl55" onclick="window.location='/recipe/55/Mini-Hamburgers'" onMouseOver="lb('nl55')" onMouseOut="db('nl55')" ><a href="/recipe/55/Mini-Hamburgers" title="Recipe File: Mini Hamburgers">Mini Hamburgers</a></td><td id="nl127" onclick="window.location='/recipe/127/Shepherds-Pie-Cottage-Pie'" onMouseOver="lb('nl127')" onMouseOut="db('nl127')" ><a href="/recipe/127/Shepherds-Pie-Cottage-Pie" title="Recipe File: Shepherd's Pie (Cottage Pie)">Shepherd's Pie (Cottage Pie)</a></td></tr><tr><td id="nl136" onclick="window.location='/recipe/136/Braised-Brussels-Sprouts'" onMouseOver="lb('nl136')" onMouseOut="db('nl136')" ><a href="/recipe/136/Braised-Brussels-Sprouts" title="Recipe File: Braised Brussels Sprouts">Braised Brussels Sprouts</a></td><td id="nl255" onclick="window.location='/recipe/255/Dulce-de-Leche'" onMouseOver="lb('nl255')" onMouseOut="db('nl255')" ><a href="/recipe/255/Dulce-de-Leche" title="Recipe File: Dulce de Leche">Dulce de Leche</a></td><td id="nl151" onclick="window.location='/recipe/151/Mulled-Cider-Spiced-Apple-Cider'" onMouseOver="lb('nl151')" onMouseOut="db('nl151')" ><a href="/recipe/151/Mulled-Cider-Spiced-Apple-Cider" title="Recipe File: Mulled Cider (Spiced Apple Cider)">Mulled Cider (Spiced Apple Cider)</a></td><td id="nl15" onclick="window.location='/recipe/15/Shrimp-Scampi'" onMouseOver="lb('nl15')" onMouseOut="db('nl15')" ><a href="/recipe/15/Shrimp-Scampi" title="Recipe File: Shrimp Scampi">Shrimp Scampi</a></td></tr><tr><td id="nl268" onclick="window.location='/recipe/268/Buffalo-Chicken-Chili'" onMouseOver="lb('nl268')" onMouseOut="db('nl268')" ><a href="/recipe/268/Buffalo-Chicken-Chili" title="Recipe File: Buffalo Chicken Chili">Buffalo Chicken Chili</a></td><td id="nl203" onclick="window.location='/recipe/203/Egg-Custard-with-Clams'" onMouseOver="lb('nl203')" onMouseOut="db('nl203')" ><a href="/recipe/203/Egg-Custard-with-Clams" title="Recipe File: Egg Custard with Clams">Egg Custard with Clams</a></td><td id="nl185" onclick="window.location='/recipe/185/Nestle-Toll-House-Chocolate-Chip-Cookies'" onMouseOver="lb('nl185')" onMouseOut="db('nl185')" ><a href="/recipe/185/Nestle-Toll-House-Chocolate-Chip-Cookies" title="Recipe File: Nestle Toll House Chocolate Chip Cookies">Nestle Toll House Chocolate Chip Cookies</a></td><td id="nl26" onclick="window.location='/recipe/26/Simple-Tiramisu'" onMouseOver="lb('nl26')" onMouseOut="db('nl26')" ><a href="/recipe/26/Simple-Tiramisu" title="Recipe File: Simple Tiramisu">Simple Tiramisu</a></td></tr><tr><td id="nl306" onclick="window.location='/recipe/306/Butter-Pecan-Ice-Cream'" onMouseOver="lb('nl306')" onMouseOut="db('nl306')" ><a href="/recipe/306/Butter-Pecan-Ice-Cream" title="Recipe File: Butter Pecan Ice Cream">Butter Pecan Ice Cream</a></td><td id="nl159" onclick="window.location='/recipe/159/English-Toffee'" onMouseOver="lb('nl159')" onMouseOut="db('nl159')" ><a href="/recipe/159/English-Toffee" title="Recipe File: English Toffee">English Toffee</a></td><td id="nl86" onclick="window.location='/recipe/86/Okra-Stew-Fast-Gumbo'" onMouseOver="lb('nl86')" onMouseOut="db('nl86')" ><a href="/recipe/86/Okra-Stew-Fast-Gumbo" title="Recipe File: Okra Stew (Fast Gumbo)">Okra Stew (Fast Gumbo)</a></td><td id="nl28" onclick="window.location='/recipe/28/Slow-Simmered-Spicy-Barbeque-Sauce'" onMouseOver="lb('nl28')" onMouseOut="db('nl28')" ><a href="/recipe/28/Slow-Simmered-Spicy-Barbeque-Sauce" title="Recipe File: Slow Simmered Spicy Barbeque Sauce">Slow Simmered Spicy Barbeque Sauce</a></td></tr><tr><td id="nl180" onclick="window.location='/recipe/180/Buttercream-Frosting-American'" onMouseOver="lb('nl180')" onMouseOut="db('nl180')" ><a href="/recipe/180/Buttercream-Frosting-American" title="Recipe File: Buttercream Frosting (American)">Buttercream Frosting (American)</a></td><td id="nl327" onclick="window.location='/recipe/327/Espresso-Brownies'" onMouseOver="lb('nl327')" onMouseOut="db('nl327')" ><a href="/recipe/327/Espresso-Brownies" title="Recipe File: Espresso Brownies">Espresso Brownies</a></td><td id="nl200" onclick="window.location='/recipe/200/Osso-Buco'" onMouseOver="lb('nl200')" onMouseOut="db('nl200')" ><a href="/recipe/200/Osso-Buco" title="Recipe File: Osso Buco">Osso Buco</a></td><td id="nl144" onclick="window.location='/recipe/144/Smoked-Beer-Can-Turkey'" onMouseOver="lb('nl144')" onMouseOut="db('nl144')" ><a href="/recipe/144/Smoked-Beer-Can-Turkey" title="Recipe File: Smoked Beer Can Turkey">Smoked Beer Can Turkey</a></td></tr><tr><td id="nl9" onclick="window.location='/recipe/9/Campbells-Green-Bean-Casserole'" onMouseOver="lb('nl9')" onMouseOut="db('nl9')" ><a href="/recipe/9/Campbells-Green-Bean-Casserole" title="Recipe File: Campbell's Green Bean Casserole">Campbell's Green Bean Casserole</a></td><td id="nl34" onclick="window.location='/recipe/34/Garlic-Roasted-Potatoes'" onMouseOver="lb('nl34')" onMouseOut="db('nl34')" ><a href="/recipe/34/Garlic-Roasted-Potatoes" title="Recipe File: Garlic Roasted Potatoes">Garlic Roasted Potatoes</a></td><td id="nl81" onclick="window.location='/recipe/81/Oven-Baked-Chicken-and-Rice'" onMouseOver="lb('nl81')" onMouseOut="db('nl81')" ><a href="/recipe/81/Oven-Baked-Chicken-and-Rice" title="Recipe File: Oven Baked Chicken and Rice">Oven Baked Chicken and Rice</a></td><td id="nl239" onclick="window.location='/recipe/239/Soft-Boiled-Eggs'" onMouseOver="lb('nl239')" onMouseOut="db('nl239')" ><a href="/recipe/239/Soft-Boiled-Eggs" title="Recipe File: Soft Boiled Eggs">Soft Boiled Eggs</a></td></tr><tr><td id="nl181" onclick="window.location='/recipe/181/Cheesecake-Cupcakes'" onMouseOver="lb('nl181')" onMouseOut="db('nl181')" ><a href="/recipe/181/Cheesecake-Cupcakes" title="Recipe File: Cheesecake Cupcakes">Cheesecake Cupcakes</a></td><td id="nl132" onclick="window.location='/recipe/132/Gravlax'" onMouseOver="lb('nl132')" onMouseOut="db('nl132')" ><a href="/recipe/132/Gravlax" title="Recipe File: Gravlax">Gravlax</a></td><td id="nl45" onclick="window.location='/recipe/45/Oven-Baked-Spare-Ribs-Two-Ways'" onMouseOver="lb('nl45')" onMouseOut="db('nl45')" ><a href="/recipe/45/Oven-Baked-Spare-Ribs-Two-Ways" title="Recipe File: Oven Baked Spare Ribs - Two Ways">Oven Baked Spare Ribs - Two Ways</a></td><td id="nl83" onclick="window.location='/recipe/83/Strawberry-Glazed-Angel-Food-Cake'" onMouseOver="lb('nl83')" onMouseOut="db('nl83')" ><a href="/recipe/83/Strawberry-Glazed-Angel-Food-Cake" title="Recipe File: Strawberry Glazed Angel Food Cake">Strawberry Glazed Angel Food Cake</a></td></tr><tr><td id="nl89" onclick="window.location='/recipe/89/Cheesecake-Plain-New-York-Style'" onMouseOver="lb('nl89')" onMouseOut="db('nl89')" ><a href="/recipe/89/Cheesecake-Plain-New-York-Style" title="Recipe File: Cheesecake, Plain New York Style">Cheesecake, Plain New York Style</a></td><td id="nl111" onclick="window.location='/recipe/111/Grilled-Artichokes'" onMouseOver="lb('nl111')" onMouseOut="db('nl111')" ><a href="/recipe/111/Grilled-Artichokes" title="Recipe File: Grilled Artichokes">Grilled Artichokes</a></td><td id="nl37" onclick="window.location='/recipe/37/Pan-Fried-Fish-Fillets'" onMouseOver="lb('nl37')" onMouseOut="db('nl37')" ><a href="/recipe/37/Pan-Fried-Fish-Fillets" title="Recipe File: Pan Fried Fish Fillets">Pan Fried Fish Fillets</a></td><td id="nl4" onclick="window.location='/recipe/4/Sweet-Corn-Bread'" onMouseOver="lb('nl4')" onMouseOut="db('nl4')" ><a href="/recipe/4/Sweet-Corn-Bread" title="Recipe File: Sweet Corn Bread">Sweet Corn Bread</a></td></tr><tr><td id="nl59" onclick="window.location='/recipe/59/Chicken-Mushroom-Marsala'" onMouseOver="lb('nl59')" onMouseOut="db('nl59')" ><a href="/recipe/59/Chicken-Mushroom-Marsala" title="Recipe File: Chicken &amp; Mushroom Marsala">Chicken &amp; Mushroom Marsala</a></td><td id="nl20" onclick="window.location='/recipe/20/Grilled-Pork-Chops'" onMouseOver="lb('nl20')" onMouseOut="db('nl20')" ><a href="/recipe/20/Grilled-Pork-Chops" title="Recipe File: Grilled Pork Chops">Grilled Pork Chops</a></td><td id="nl71" onclick="window.location='/recipe/71/Pan-Seared-Scallops-with-Roasted-Red-Pepper-Sauce'" onMouseOver="lb('nl71')" onMouseOut="db('nl71')" ><a href="/recipe/71/Pan-Seared-Scallops-with-Roasted-Red-Pepper-Sauce" title="Recipe File: Pan Seared Scallops with Roasted Red Pepper Sauce">Pan Seared Scallops with Roasted Red Pepper Sauce</a></td><td id="nl42" onclick="window.location='/recipe/42/Traditional-Chicken-Pot-Pie'" onMouseOver="lb('nl42')" onMouseOut="db('nl42')" ><a href="/recipe/42/Traditional-Chicken-Pot-Pie" title="Recipe File: Traditional Chicken Pot Pie">Traditional Chicken Pot Pie</a></td></tr><tr><td id="nl178" onclick="window.location='/recipe/178/Chocolate-Cake'" onMouseOver="lb('nl178')" onMouseOut="db('nl178')" ><a href="/recipe/178/Chocolate-Cake" title="Recipe File: Chocolate Cake">Chocolate Cake</a></td><td id="nl31" onclick="window.location='/recipe/31/Grilled-Porterhouse-or-T-Bone-Steak'" onMouseOver="lb('nl31')" onMouseOut="db('nl31')" ><a href="/recipe/31/Grilled-Porterhouse-or-T-Bone-Steak" title="Recipe File: Grilled Porterhouse or T-Bone Steak">Grilled Porterhouse or T-Bone Steak</a></td><td id="nl164" onclick="window.location='/recipe/164/Parmesan-Garlic-Bread'" onMouseOver="lb('nl164')" onMouseOut="db('nl164')" ><a href="/recipe/164/Parmesan-Garlic-Bread" title="Recipe File: Parmesan Garlic Bread">Parmesan Garlic Bread</a></td><td id="nl18" onclick="window.location='/recipe/18/Traditional-Pecan-Pie'" onMouseOver="lb('nl18')" onMouseOut="db('nl18')" ><a href="/recipe/18/Traditional-Pecan-Pie" title="Recipe File: Traditional Pecan Pie">Traditional Pecan Pie</a></td></tr><tr><td id="nl195" onclick="window.location='/recipe/195/Chocolate-Truffles'" onMouseOver="lb('nl195')" onMouseOut="db('nl195')" ><a href="/recipe/195/Chocolate-Truffles" title="Recipe File: Chocolate Truffles">Chocolate Truffles</a></td><td id="nl10" onclick="window.location='/recipe/10/Grilled-Salmon'" onMouseOver="lb('nl10')" onMouseOut="db('nl10')" ><a href="/recipe/10/Grilled-Salmon" title="Recipe File: Grilled Salmon">Grilled Salmon</a></td><td id="nl58" onclick="window.location='/recipe/58/Peanut-Butter-Cookies'" onMouseOver="lb('nl58')" onMouseOut="db('nl58')" ><a href="/recipe/58/Peanut-Butter-Cookies" title="Recipe File: Peanut Butter Cookies">Peanut Butter Cookies</a></td><td id="nl62" onclick="window.location='/recipe/62/Tuna-Noodle-Casserole'" onMouseOver="lb('nl62')" onMouseOut="db('nl62')" ><a href="/recipe/62/Tuna-Noodle-Casserole" title="Recipe File: Tuna Noodle Casserole">Tuna Noodle Casserole</a></td></tr><tr><td id="nl112" onclick="window.location='/recipe/112/Clam-Chowder-New-England-Style'" onMouseOver="lb('nl112')" onMouseOut="db('nl112')" ><a href="/recipe/112/Clam-Chowder-New-England-Style" title="Recipe File: Clam Chowder, New England Style">Clam Chowder, New England Style</a></td><td id="nl6" onclick="window.location='/recipe/6/Grilled-Skinless-Chicken-Breast'" onMouseOver="lb('nl6')" onMouseOut="db('nl6')" ><a href="/recipe/6/Grilled-Skinless-Chicken-Breast" title="Recipe File: Grilled Skinless Chicken Breast">Grilled Skinless Chicken Breast</a></td><td id="nl168" onclick="window.location='/recipe/168/Pecan-Coffee-Cake'" onMouseOver="lb('nl168')" onMouseOut="db('nl168')" ><a href="/recipe/168/Pecan-Coffee-Cake" title="Recipe File: Pecan Coffee Cake">Pecan Coffee Cake</a></td><td id="nl75" onclick="window.location='/recipe/75/Turkey-or-Chicken-Stock'" onMouseOver="lb('nl75')" onMouseOut="db('nl75')" ><a href="/recipe/75/Turkey-or-Chicken-Stock" title="Recipe File: Turkey or Chicken Stock">Turkey or Chicken Stock</a></td></tr><tr><td id="nl74" onclick="window.location='/recipe/74/Classic-Roast-Turkey'" onMouseOver="lb('nl74')" onMouseOut="db('nl74')" ><a href="/recipe/74/Classic-Roast-Turkey" title="Recipe File: Classic Roast Turkey">Classic Roast Turkey</a></td><td id="nl43" onclick="window.location='/recipe/43/Homemade-Mayonnaise'" onMouseOver="lb('nl43')" onMouseOut="db('nl43')" ><a href="/recipe/43/Homemade-Mayonnaise" title="Recipe File: Homemade Mayonnaise">Homemade Mayonnaise</a></td></tr></table></div>
+	<div id="navcat_SousVide" style="display:none"><table width="100%" class="navlinks" cellpadding="0" cellspacing="1"><tr><td width="25%" id="nl283" onclick="window.location='/article/283/An-Introduction-to-Sous-Vide-Cooking'" onMouseOver="lb('nl283')" onMouseOut="db('nl283')" ><a href="/article/283/An-Introduction-to-Sous-Vide-Cooking" title="Sous Vide: An Introduction to Sous Vide Cooking">An Introduction to Sous Vide Cooking</a></td><td width="25%" id="nl289" onclick="window.location='/article/289/Sous-Vide-Cooking-at-Home-Setup-Guide'" onMouseOver="lb('nl289')" onMouseOut="db('nl289')" ><a href="/article/289/Sous-Vide-Cooking-at-Home-Setup-Guide" title="Sous Vide: Sous Vide Cooking at Home Setup Guide">Sous Vide Cooking at Home Setup Guide</a></td></tr></table></div>
+	<div id="navcat_TestRecipes" style="display:none"><table width="100%" class="navlinks" cellpadding="0" cellspacing="1"><tr><td width="25%" id="nl14" onclick="window.location='/recipe/14/Albers-Corn-Bread'" onMouseOver="lb('nl14')" onMouseOut="db('nl14')" ><a href="/recipe/14/Albers-Corn-Bread" title="Test Recipes: Albers Corn Bread">Albers Corn Bread</a></td><td width="25%" id="nl19" onclick="window.location='/recipe/19/Erics-Chocolate-Pecan-Pie'" onMouseOver="lb('nl19')" onMouseOut="db('nl19')" ><a href="/recipe/19/Erics-Chocolate-Pecan-Pie" title="Test Recipes: Eric's Chocolate Pecan Pie">Eric's Chocolate Pecan Pie</a></td><td width="25%" id="nl215" onclick="window.location='/recipe/215/Hot-Cross-Buns-Delia-Smiths'" onMouseOver="lb('nl215')" onMouseOut="db('nl215')" ><a href="/recipe/215/Hot-Cross-Buns-Delia-Smiths" title="Test Recipes: Hot Cross Buns (Delia Smith's)">Hot Cross Buns (Delia Smith's)</a></td><td width="25%" id="nl172" onclick="window.location='/recipe/172/Pan-Pizza'" onMouseOver="lb('nl172')" onMouseOut="db('nl172')" ><a href="/recipe/172/Pan-Pizza" title="Test Recipes: Pan Pizza">Pan Pizza</a></td></tr><tr><td id="nl77" onclick="window.location='/recipe/77/Asian-Taco'" onMouseOver="lb('nl77')" onMouseOut="db('nl77')" ><a href="/recipe/77/Asian-Taco" title="Test Recipes: Asian Taco">Asian Taco</a></td><td id="nl46" onclick="window.location='/recipe/46/Faux-BBQ-Beef-Ribs'" onMouseOver="lb('nl46')" onMouseOut="db('nl46')" ><a href="/recipe/46/Faux-BBQ-Beef-Ribs" title="Test Recipes: Faux BBQ Beef Ribs">Faux BBQ Beef Ribs</a></td><td id="nl49" onclick="window.location='/recipe/49/Joy-of-Cookings-Peanut-Butter-Cookies-14-in-one'" onMouseOver="lb('nl49')" onMouseOut="db('nl49')" ><a href="/recipe/49/Joy-of-Cookings-Peanut-Butter-Cookies-14-in-one" title="Test Recipes: Joy of Cooking's Peanut Butter Cookies (14-in-one)">Joy of Cooking's Peanut Butter Cookies (14-in-one)</a></td><td id="nl252" onclick="window.location='/recipe/252/Quick-Gazpacho'" onMouseOver="lb('nl252')" onMouseOut="db('nl252')" ><a href="/recipe/252/Quick-Gazpacho" title="Test Recipes: Quick Gazpacho">Quick Gazpacho</a></td></tr><tr><td id="nl12" onclick="window.location='/recipe/12/Avocado-Pork-Stuffed-Peppers'" onMouseOver="lb('nl12')" onMouseOut="db('nl12')" ><a href="/recipe/12/Avocado-Pork-Stuffed-Peppers" title="Test Recipes: Avocado Pork Stuffed Peppers">Avocado Pork Stuffed Peppers</a></td><td id="nl76" onclick="window.location='/recipe/76/Giblet-Pan-Gravy'" onMouseOver="lb('nl76')" onMouseOut="db('nl76')" ><a href="/recipe/76/Giblet-Pan-Gravy" title="Test Recipes: Giblet Pan Gravy">Giblet Pan Gravy</a></td><td id="nl80" onclick="window.location='/recipe/80/Leftover-Cranberry-Sauce-Pie'" onMouseOver="lb('nl80')" onMouseOut="db('nl80')" ><a href="/recipe/80/Leftover-Cranberry-Sauce-Pie" title="Test Recipes: Leftover Cranberry Sauce Pie">Leftover Cranberry Sauce Pie</a></td><td id="nl13" onclick="window.location='/recipe/13/Sauteed-Zucchini-with-Mushrooms'" onMouseOver="lb('nl13')" onMouseOut="db('nl13')" ><a href="/recipe/13/Sauteed-Zucchini-with-Mushrooms" title="Test Recipes: Sauteed Zucchini with Mushrooms">Sauteed Zucchini with Mushrooms</a></td></tr><tr><td id="nl41" onclick="window.location='/recipe/41/Basic-Biscuits'" onMouseOver="lb('nl41')" onMouseOut="db('nl41')" ><a href="/recipe/41/Basic-Biscuits" title="Test Recipes: Basic Biscuits">Basic Biscuits</a></td><td id="nl72" onclick="window.location='/recipe/72/Good-Eats-Peanut-Brittle'" onMouseOver="lb('nl72')" onMouseOut="db('nl72')" ><a href="/recipe/72/Good-Eats-Peanut-Brittle" title="Test Recipes: Good Eats Peanut Brittle">Good Eats Peanut Brittle</a></td><td id="nl106" onclick="window.location='/recipe/106/Marshmallows'" onMouseOver="lb('nl106')" onMouseOut="db('nl106')" ><a href="/recipe/106/Marshmallows" title="Test Recipes: Marshmallows">Marshmallows</a></td><td id="nl60" onclick="window.location='/recipe/60/The-Classic-Tiramisu-original-recipe'" onMouseOver="lb('nl60')" onMouseOut="db('nl60')" ><a href="/recipe/60/The-Classic-Tiramisu-original-recipe" title="Test Recipes: The Classic Tiramisu (original recipe?)">The Classic Tiramisu (original recipe?)</a></td></tr><tr><td id="nl87" onclick="window.location='/recipe/87/Carrot-Pulp-Cake-Part-I'" onMouseOver="lb('nl87')" onMouseOut="db('nl87')" ><a href="/recipe/87/Carrot-Pulp-Cake-Part-I" title="Test Recipes: Carrot Pulp Cake, Part I">Carrot Pulp Cake, Part I</a></td><td id="nl69" onclick="window.location='/recipe/69/Halloween-Green-Slime-Spinach-Dip'" onMouseOver="lb('nl69')" onMouseOut="db('nl69')" ><a href="/recipe/69/Halloween-Green-Slime-Spinach-Dip" title="Test Recipes: Halloween Green Slime Spinach Dip">Halloween Green Slime Spinach Dip</a></td><td id="nl161" onclick="window.location='/recipe/161/Orzo-Risotto-with-Buttery-Shrimp'" onMouseOver="lb('nl161')" onMouseOut="db('nl161')" ><a href="/recipe/161/Orzo-Risotto-with-Buttery-Shrimp" title="Test Recipes: Orzo Risotto with Buttery Shrimp">Orzo Risotto with Buttery Shrimp</a></td><td id="nl193" onclick="window.location='/recipe/193/TrailBlaze-Bake-At-Home-Energy-Bars'" onMouseOver="lb('nl193')" onMouseOut="db('nl193')" ><a href="/recipe/193/TrailBlaze-Bake-At-Home-Energy-Bars" title="Test Recipes: TrailBlaze Bake-At-Home Energy Bars">TrailBlaze Bake-At-Home Energy Bars</a></td></tr><tr><td id="nl170" onclick="window.location='/recipe/170/Chinese-Almond-Cookies'" onMouseOver="lb('nl170')" onMouseOut="db('nl170')" ><a href="/recipe/170/Chinese-Almond-Cookies" title="Test Recipes: Chinese Almond Cookies">Chinese Almond Cookies</a></td><td id="nl274" onclick="window.location='/recipe/274/Hatch-Chile-Infused-Chocolate-Truffles'" onMouseOver="lb('nl274')" onMouseOut="db('nl274')" ><a href="/recipe/274/Hatch-Chile-Infused-Chocolate-Truffles" title="Test Recipes: Hatch Chile Infused Chocolate Truffles">Hatch Chile Infused Chocolate Truffles</a></td><td id="nl176" onclick="window.location='/recipe/176/Oven-Fried-Onion-Rings'" onMouseOver="lb('nl176')" onMouseOut="db('nl176')" ><a href="/recipe/176/Oven-Fried-Onion-Rings" title="Test Recipes: Oven-Fried Onion Rings">Oven-Fried Onion Rings</a></td></tr></table></div>
+	
+</div>
+<div class="navbarbottom"></div>
+			<table class="tl_table" cellpadding="0" cellspacing="1" border="0">
+	<tr align="center">
+		<td class="indexsummary">
+			<a href="/toc.php?sort=date">Table of Contents</a>
+		</td>
+		<td class="indexsummary">
+			<a href="/forums">Forums</a>
+		</td>
+		<td class="indexsummary">
+			<a href="/dictionary">Dictionary</a>
+		</td>
+		<td class="indexsummary">
+			<a href="/books">Recommended Reading</a>
+		</td>
+		<td class="indexsummary">
+			<a href="http://astore.amazon.com/themichaelupdate">Marketplace</a>
+		</td>
+		<td class="indexsummary">
+			<a href="http://www.cafepress.com/cookingengineer">Giftshop</a>
+		</td>
+		<td class="indexsummary">
+			<a href="/what_i_ate">What I Ate</a>
+		</td>
+		<td class="indexsummary" style="border:1px solid #C00000">
+			<a href="http://www.orthogonalthought.com/blog" title="Read Michael's Blog: Orthogonal Thought" style="background-color:#FFFFC0">Michael's Blog</a>
+		</td>
+	</tr>
+</table>
+
+
+		
+		
+		
+
+
+		
+	<div id="orthogonalthought" onclick="window.location='http://www.orthogonalthought.com/blog/index.php/2014/08/fall-television-season-2014-grid/';" style="cursor:pointer">
+		Latest Post on Michael's Blog: <a href="http://www.orthogonalthought.com/blog/index.php/2014/08/fall-television-season-2014-grid/">Fall Television Season 2014 Grid</a>
+	</div>	
+	
+
+
+		
+		<div class="mainbody">
+			
+
+<table cellpadding="0" cellspacing="2" border="0" style="margin:0 auto 0 auto">
+	<tr>
+		
+		<td style="background: #000000 url(http://www.cookingforengineers.com/pics/160/DSC_1808_crop.jpg) no-repeat center center; cursor:pointer;border:2px solid #FFFFA0;padding:0">
+			<a href="/recipe/81/Oven-Baked-Chicken-and-Rice" title="Recipe File: Oven Baked Chicken and Rice"><div style="height:100px;width:100px;cursor:pointer"></div></a>
+		</td>
+		
+		<td style="background: #000000 url(http://www.cookingforengineers.com/pics2/160/DSC_1144_crop.jpg) no-repeat center center; cursor:pointer;border:2px solid #FFFFA0;padding:0">
+			<a href="/recipe/160/Dark-Chocolate-Souffle" title="Recipe File: Dark Chocolate Souffle"><div style="height:100px;width:100px;cursor:pointer"></div></a>
+		</td>
+		
+		<td style="background: #000000 url(http://www.cookingforengineers.com/hello/259/958/160/DSC_1163_crop.jpg) no-repeat center center; cursor:pointer;border:2px solid #FFFFA0;padding:0">
+			<a href="/recipe/58/Peanut-Butter-Cookies" title="Recipe File: Peanut Butter Cookies"><div style="height:100px;width:100px;cursor:pointer"></div></a>
+		</td>
+		
+		<td style="background: #000000 url(http://www.cookingforengineers.com/hello/259/958/160/IMG_3434_sharp.jpg) no-repeat center center; cursor:pointer;border:2px solid #FFFFA0;padding:0">
+			<a href="/recipe/19/Erics-Chocolate-Pecan-Pie" title="Test Recipes: Eric's Chocolate Pecan Pie"><div style="height:100px;width:100px;cursor:pointer"></div></a>
+		</td>
+		
+		<td style="background: #000000 url(http://www.cookingforengineers.com/hello/259/958/160/IMG_3333_crop.jpg) no-repeat center center; cursor:pointer;border:2px solid #FFFFA0;padding:0">
+			<a href="/recipe/33/Lemon-Bars" title="Recipe File: Lemon Bars"><div style="height:100px;width:100px;cursor:pointer"></div></a>
+		</td>
+		
+		<td style="background: #000000 url(http://www.cookingforengineers.com/pics6/pralines/DSC_6757_320.jpg) no-repeat center center; cursor:pointer;border:2px solid #FFFFA0;padding:0">
+			<a href="/recipe/305/Honey-Pecan-Pralines" title="Recipe File: Honey Pecan Pralines"><div style="height:100px;width:100px;cursor:pointer"></div></a>
+		</td>
+		
+		<td style="background: #000000 url(http://www.cookingforengineers.com/pics4/160/chili_Pic_LR.jpg) no-repeat center center; cursor:pointer;border:2px solid #FFFFA0;padding:0">
+			<a href="/recipe/268/Buffalo-Chicken-Chili" title="Recipe File: Buffalo Chicken Chili"><div style="height:100px;width:100px;cursor:pointer"></div></a>
+		</td>
+		
+		<td style="background: #000000 url(http://www.cookingforengineers.com/pics6/anolon/DSC_1395_320.jpg) no-repeat center center; cursor:pointer;border:2px solid #FFFFA0;padding:0">
+			<a href="/article/319/Anolon-Nouvelle-Copper-Stainless-Steel-3-qt-Covered-Saute-Pan" title="Equipment & Gear: Anolon Nouvelle Copper Stainless Steel 3-qt Covered Saute Pan"><div style="height:100px;width:100px;cursor:pointer"></div></a>
+		</td>
+		
+	</tr>
+</table>
+
+
+<div itemscope itemtype="http://data-vocabulary.org/Recipe">
+	<div id="articleheader">
+			<div class="headertitle"><div>
+				<span class="category">
+					Test Recipes
+				</span><br />
+				<h1 class="title" style="display:inline" itemprop="name">
+					The Classic Tiramisu (original recipe?)
+				</h1>
+				<span class="author">
+					by <span itemprop="author">Michael Chu</span>
+				</span>
+			</div></div>
+		<div class="formatbutton"><a href="/recipe/60/The-Classic-Tiramisu-original-recipe/trn">Recipe Card</a></div>
+		<div class="formatbutton"><a href="/recipe/60/The-Classic-Tiramisu-original-recipe/print">Printer-friendly</a></div>
+		
+		<div class="selectedformatbutton">Normal view</div>
+		
+		<div class="hr"></div>
+	</div>
+
+	<div id="articlebody">
+		
+		
+			<div style="font-size:12pt;font-weight:bold;float:right;margin:0px -6px 0 0;padding:0 4px 6px 8px;background-color:#FFFFA0"><a href="/recipe/62/Tuna-Noodle-Casserole">Next &#187;</a></div>
+			<div style="font-size:12pt;font-weight:bold;float:left;margin:0px 0 0 -6px;padding:0 8px 6px 4px;background-color:#FFFFA0"><a href="/recipe/59/Chicken-Mushroom-Marsala">&#171; Prev</a></div>
+			
+			<div style="clear:both"></div>
+			<div style="float:right;clear:right;padding:4px 0 12px 8px;" class="nothing">
+				
+<!-- Google DFP Article_160x600-->
+<center>
+<div id='dfp_gpt_1' style='width:160px; height:600px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('dfp_gpt_1'); });
+</script>
+</div>
+</center>
+
+				<div style="margin:30px 0 0 0;line-height:0px"><!-- --></div>
+				
+			</div>
+			
+<!-- Google DFP Article_300x250-->
+<div class="adsense-left">
+<div id='dfp_gpt_2' style='width:300px; height:250px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('dfp_gpt_2'); });
+</script>
+</div>
+</div>
+
+
+		
+		
+			
+			In September, I posted an article on how to make a <a href="http://www.cookingforengineers.com/article.php?id=26">simple tiramisu</a> (I used the term "basic" at the time). It turned out this was quite a popular article and I received a lot of praise for the fast and simple recipe (it takes less than half an hour to assemble). I also received several e-mails telling me how to make a real tiramisu: use rum, don't use rum, ladyfingers aren't traditional, no chocolate ontop, with eggs, with raw eggs, etc. So, what <i>is</i> a classic tiramisu? I decided to get to the bottom of the tiramisu mystery.<span class="fullpost"><?if($fullpost==1){?><br />
+<br />
+It turns out it's pretty difficult to find a published recipe of tiramisu more than a decade old. The reason? Tiramisu was probably invented in the late 1960's or early 1970's at a restaurant called Le Beccherie in Treviso, Italy. <a href="http://www.heavenlytiramisu.com/whatisit.htm">Heavenly Tiramisu</a>, Google's highest ranked site when doing a search on tiramisu, claims that Tiramisu has the same roots as zuppa inglese dating back to the 19th century. Unfortunately, like the reader that wrote into Heavenly Tiramisu, I have to object to this classification since the use of coffee or espresso is not traditional in zuppa inglese. If you add the espresso, then it is no longer zuppa inglese but tiramisu. This addition did not seem to happen in a regular manner or recorded recipe until Le Beccherie introduced it over thirty years ago.<br />
+<br />
+<div class="larticles">
+	<div class="title">Related Articles</div>
+	<div class="link">
+			<a href="/recipe/26/Simple-Tiramisu">Simple Tiramisu</a>
+		</div><div class="link">
+			<a href="/recipe/59/Chicken-Mushroom-Marsala">Chicken & Mushroom Marsala</a>
+		</div><div class="link">
+			<a href="/recipe/32/Creme-Brulee-Cregraveme-Brucircleacutee">Creme Brulee (Cr&egrave;me Br&ucirc;l&eacute;e)</a>
+		</div><div class="link">
+			<a href="/recipe/62/Tuna-Noodle-Casserole">Tuna Noodle Casserole</a>
+		</div><div class="link">
+			<a href="/recipe/106/Marshmallows">Marshmallows</a>
+		</div>
+	
+</div>
+	<a href="http://www.annamariavolpi.com/page38.html">Anna Maria Volpi</a> has an article on the history of tiramisu that supports the Le Beccherie origin. Having determined the origins of tiramisu, I had to find the recipe. Unfortunately, I have only Anna Maria Volpi's <a href="http://www.annamariavolpi.com/page30.html">classic tiramisu recipe</a> (which she claims is the original Le Beccherie recipe) to go by. I was unable to determine if this is (or was) indeed the original recipe, but it's the only one that claims to be, so I shall proceed (for the moment) as if it was.<br />
+<br />
+Most of the ingredients were readily available, but I was not looking forward to purchasing 1-1/2 cups of espresso from my local coffee shop. I asked how many ounces were in a shot of espresso and they told me it was one fluid ounce. I quickly did some mental math and realized that it would be over $15 in espresso alone for me to test this dessert. I explained what I was trying to do and they offered to "work something out". Because I was trying a tiramisu recipe, the coffee shop sold me 12 shots of espresso for $1.95. Amazing. I'm bringing those people some tiramisu tomorrow. Now that I've acquired my espresso, it's time to start preparing the tiramisu.<br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/pics/640/DSC_1167_crop.jpg'><img border='0'  src='http://www.cookingforengineers.com/pics/320/DSC_1167_crop.jpg'  width='320' height='212' class='left' alt='' /></a>
+I began by assembling four large egg yolks, 1/2 cup sweet marsala wine, 16 ounces mascarpone cheese, 12 ounces espresso, 2 tablespoons cocoa powder, 1 cup heavy cream, 1/2 cup granulated sugar, and enough lady fingers to layer a 12x8 inch pan twice (40). I stirred two tablespoons of granulated sugar into the espresso and put it in the refrigerator to chill.<br /><div style='clear:left'></div><br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/pics/640/DSC_1168_crop.jpg'><img border='0'  src='http://www.cookingforengineers.com/pics/320/DSC_1168_crop.jpg'  width='320' height='212' class='left' alt='' /></a>
+In a heatproof bowl, I whisked the egg yolks until they became a light and fluffy cream.<br /><div style='clear:left'></div><br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/pics/640/DSC_1169_crop.jpg'><img border='0'  src='http://www.cookingforengineers.com/pics/320/DSC_1169_crop.jpg'  width='320' height='212' class='left' alt='' /></a>
+I poured in the sugar and wine and whisked briefly until it was well blended.<br /><div style='clear:left'></div><br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/pics/640/DSC_1181_crop.jpg'><img border='0'  src='http://www.cookingforengineers.com/pics/320/DSC_1181_crop.jpg'  width='320' height='299' class='left' alt='' /></a>
+I poured some water into a saucepan and set it over high heat until it began to boil. Lowering the heat to medium (enough to keep the water boiling), I placed the heatproof bowl over the water (a convenient double boiler) and stirred as the mixture began to thicken and smooth out. I stopped when the mixture began to slowly bubble.<br /><div style='clear:left'></div><br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/pics/640/DSC_1184_crop.jpg'><img border='0'  src='http://www.cookingforengineers.com/pics/320/DSC_1184_crop.jpg'  width='320' height='212' class='left' alt='' /></a>
+I removed the mixture, which has now become a custard, from the heat and put it on the side. This custard by itself is a great Italian dessert called zabaglione (sabayon in French cooking) and can be served as is or made into a more complicated dessert by mixed with fruit, serving with cookies, or made into tiramisu (and many more possibilities).<br /><div style='clear:left'></div><br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/pics/640/DSC_1193_crop.jpg'><img border='0'  src='http://www.cookingforengineers.com/pics/320/DSC_1193_crop.jpg'  width='320' height='225' class='left' alt='' /></a>
+While the zabaglione cools a bit, I whipped (with my stand mixer to save time) the heavy cream until soft peaks. Soft peaks is when the whipped cream can almost stand on its own. Dip your whisk or finger into the cream and see if the spike that forms when you withdraw just curls over at the tip. If so, you've got soft peaks. If it stands up by itself, you've over beaten and produced stiff peaks. If the peak just sinks back into the cream, you don't have whipped cream yet. Keep beating.<br /><div style='clear:left'></div><br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/pics/640/DSC_1196_crop.jpg'><img border='0'  src='http://www.cookingforengineers.com/pics/320/DSC_1196_crop.jpg'  width='320' height='231' class='left' alt='' /></a>
+Now, in a medium bowl, I beat the mascarpone cheese until smooth and creamy. I used alternated between beating with a whisk and mashing it with a spatula to make quick work of the cheese.<br /><div style='clear:left'></div><br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/pics/640/DSC_1198_crop.jpg'><img border='0'  src='http://www.cookingforengineers.com/pics/320/DSC_1198_crop.jpg'  width='320' height='269' class='left' alt='' /></a>
+I poured the zabaglione onto the cheese and beat until smooth.<br /><div style='clear:left'></div><br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/pics/640/DSC_1199_crop.jpg'><img border='0'  src='http://www.cookingforengineers.com/pics/320/DSC_1199_crop.jpg'  width='320' height='276' class='left' alt='' /></a>
+I then folded in the whipped cream. Folding prevent the whipped cream from continuing to progress on the path toward butter and separation (which is what happens when you over whip cream). To fold, simply use your spatula to cut into the mixture and scoop up mixture from below and "fold" it over the cream. Rotate and repeat. The final mixture should be have a fairly even distribution, but it's okay to still see some patches of yellow and white.<br /><div style='clear:left'></div><br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/pics/640/DSC_1201_crop.jpg'><img border='0'  src='http://www.cookingforengineers.com/pics/320/DSC_1201_crop.jpg'  width='320' height='238' class='left' alt='' /></a>
+Now, I began to assemble the tiramisu. The recipe called for filling a 12x8 in. pan, but that's not a readily available size. I decided to try my luck with a 13x9 in. pan, so I prepared enough ladyfinger cookies to fill the pan twice (for two layers). Then I quickly dipped each ladyfinger into espresso. I poured about half the espresso into the bowl at a time, to make it easier to work with and ensure that the bottom layer didn't soak up all the espresso. No need to worry. There's so much espresso that the ladyfingers will fall apart before the espresso will run out. A gave the each ladyfinger cookie a one second soak on each side and then arranged it on the pan. Do each ladyfinger individually or you'll have ladyfingers falling apart.<br /><div style='clear:left'></div><br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/pics/640/DSC_1202_crop.jpg'><img border='0'  src='http://www.cookingforengineers.com/pics/320/DSC_1202_crop.jpg'  width='320' height='205' class='left' alt='' /></a>
+After the first layer of ladyfingers are done, I used a spatula to spread half the cream mixture over it. Then, I smoothed it out in preparation for the next layer.<br /><div style='clear:left'></div><br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/pics/640/DSC_1203_crop.jpg'><img border='0'  src='http://www.cookingforengineers.com/pics/320/DSC_1203_crop.jpg'  width='320' height='175' class='left' alt='' /></a>
+I covered the cream layer with another layer of soaked ladyfingers.<br /><div style='clear:left'></div><br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/pics/640/DSC_1205_crop.jpg'><img border='0'  src='http://www.cookingforengineers.com/pics/320/DSC_1205_crop.jpg'  width='320' height='270' class='left' alt='' /></a>
+The rest of the cream was spread onto the top and cocoa powder sifted over the surface to cover the tiramisu.<br /><div style='clear:left'></div><br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/pics/640/DSC_1206_crop.jpg'><img border='0'  src='http://www.cookingforengineers.com/pics/320/DSC_1206_crop.jpg'  width='320' height='174' class='left' alt='' /></a>
+The tiramisu was now complete and would require a four hour chill in the refrigerator.<br /><div style='clear:left'></div><br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/pics/640/DSC_1208_crop.jpg'><img itemprop="photo" border='0'  src='http://www.cookingforengineers.com/pics/320/DSC_1208_crop.jpg'  width='320' height='276' class='left' alt='' /></a>
+The flavor of this "original" tiramisu is very similar to restaurant tiramisu incarnations, except that the espresso flavor is extremely strong. The soaked ladyfingers were so strong that eating a piece of that layer by itself produced a strong bitter taste. Not something I've experienced with restaurant tiramisu (since many use coffee to dilute the espresso). Also, most of the restaurant recipes have a very strong alcohol component (perhaps because it's served in the evening as dessert instead of in the afternoon as a "pick me up"). I felt that the alcohol flavor was very mild (although my wife felt the alcohol flavor was more than adequate). As a combination (and eaten as a whole), this tiramisu was delicious (but the caffeine kick is strong enough to have me writing this article at almost two in the morning). It's easy to see from this recipe why this dish became so popular so quickly.<?}?></span><br /><div style='clear:left'></div><br />
+<br />
+<b>The Original Tiramisu</b> (serves <span itemprop="yield">12</span>)<br />
+<table><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">4 (70 g)</span> <span itemprop="name">large egg yolks</span></span></td><td>beat</td><td rowspan=3 class="vertical">beat</td><td rowspan=3 class="vertical">whisk over steam</td><td rowspan=4 class="vertical">beat</td><td rowspan=5 class="vertical">fold</td><td rowspan=8 class="vertical">assemble</td><td rowspan=9 class="vertical">sift</td><td rowspan=9 class="vertical">refrigerate 4 hours</td></tr><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">1/2 cup (100 g)</span> <span itemprop="name">granulated sugar</span></span></td><td rowspan=2 class="righthide"></td></tr><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">1/2 cup (120 mL)</span> <span itemprop="name">sweet Marsala wine</span></span></td></tr><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">1 lb. (450 g)</span> <span itemprop="name">mascarpone cheese</span></span></td><td>beat</td><td colspan=2 class="righthide"></td></tr><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">1 cup (240 mL)</span> <span itemprop="name">heavy cream</span></span></td><td>whip to soft peaks</td><td colspan=3 class="righthide"></td></tr><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">about</span> <span itemprop="name">40 ladyfinger cookies</span></span></td><td class="righthide"></td><td rowspan=3 class="vertical">soak 2 seconds</td><td colspan=3 rowspan=3 class="righthide"></td></tr><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">12 oz. (355 mL)</span> <span itemprop="name">prepared espresso</span></span></td><td rowspan=2>dissolve</td></tr><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">2 tsp.</span> <span itemprop="name">granulated sugar</span></span></td></tr><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">2 Tbs. (11 g)</span> <span itemprop="name">cocoa powder</span></span></td><td class="righthide" colspan=6></td></tr></table><br />
+Layer diagram<br />
+<table><tr align="middle"><td>2 Tbs. cocoa powder</td><td width="20" bgcolor="#664400"> </td></tr><tr align="middle"><td>filling</td><td bgcolor="#d7d788"> </td></tr><tr align="middle"><td>ladyfingers</td><td bgcolor="#996633"> </td></tr><tr align="middle"><td>filling</td><td bgcolor="#d7d788"> </td></tr><tr align="middle"><td>ladyfingers</td><td bgcolor="#996633"> </td></tr></table><span class="copy">Copyright Michael Chu 2004</span><br />
+<div class="larticles">
+	<div class="title">Related Articles</div>
+	<div class="link">
+			<a href="/recipe/26/Simple-Tiramisu">Simple Tiramisu</a>
+		</div><div class="link">
+			<a href="/recipe/59/Chicken-Mushroom-Marsala">Chicken & Mushroom Marsala</a>
+		</div><div class="link">
+			<a href="/recipe/32/Creme-Brulee-Cregraveme-Brucircleacutee">Creme Brulee (Cr&egrave;me Br&ucirc;l&eacute;e)</a>
+		</div><div class="link">
+			<a href="/recipe/62/Tuna-Noodle-Casserole">Tuna Noodle Casserole</a>
+		</div><div class="link">
+			<a href="/recipe/106/Marshmallows">Marshmallows</a>
+		</div>
+	
+</div>
+	<div style="clear:both;margin-bottom:8px"></div>
+			
+		
+		
+		<div class="clear"></div>
+		
+			<div style="font-size:12pt;font-weight:bold;float:right;margin:0 -6px -4px 0;padding:0 2px 2px 6px;background-color:#FFFFA0"><a href="/recipe/62/Tuna-Noodle-Casserole">Next &#187;</a></div>
+			<div style="font-size:12pt;font-weight:bold;float:left;margin:0 0 -4px -6px;padding:0 6px 2px 2px;background-color:#FFFFA0"><a href="/recipe/59/Chicken-Mushroom-Marsala">&#171; Prev</a></div>
+		
+		<div class="clear"></div>
+	</div>
+	
+	<div id="articlefooter">
+		<div class="author">Written by Michael Chu</div>
+		<div class="timestamp">Published on <time itemprop="publishDate" itemprop="published" datetime="2004-10-18">October 18, 2004 at 01:55 AM</time></div>
+		<div class="clear"></div>
+	</div>
+	
+</div>
+
+
+
+
+
+	<div class="spacer3"></div>
+		
+<!-- Google DFP Article_728x90-->
+<center>
+<div id='dfp_gpt_3' style='width:728px; height:90px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('dfp_gpt_3'); });
+</script>
+</div>
+</center>
+
+		
+	
+	
+  <div id="comments">
+		<div id="articlecomments">
+			<div class="header">80 comments on <b>The Classic Tiramisu (original recipe?)</b>:<span class="commentlink">(<a href="/forums/posting.php?mode=reply&t=271" style="font-size:12pt" title="Comments are managed in the Cooking For Engineers Forums">Post a comment</a>)</span></div>
+			
+					<hr size="1" noshade />
+					<div class="commentheading">On November 10, 2005 at 01:25 AM, Iced Nyior (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">hmmm....looks yummy. Believe it or not, i have NEVER eaten Tiramisu....ever! Hehe! Might wana try the recipe sometime<br />
+<br />
+Oh yeah...did the people at the coffee shop like it?</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 10, 2005 at 01:26 AM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">Just one remark: You should sift on the cocoa after refrigeration, directly before serving. Otherwise it might become soggy.<br />
+<br />
+I've got a similar "original" recipe at<br />
+<br />
+http://www.garlic-gang.de/REZEPTE/tiramisu.html<br />
+<br />
+It's somewhat simpler than yours, and usually met with enthusiastic reception. Unfortunately, it's German language, but you can always use the fish...</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 10, 2005 at 01:26 AM, Michael Chu said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">re: did they like it?<br />
+<br />
+Yes they did.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 10, 2005 at 01:27 AM, Mary (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">I'm married to a chemical engineer who's a great cook and your post just made me laugh myself silly! He negotiated a better deal for an espresso maker from Target arguing that it was the floor model (it worked by the way.) You engineers are great at realizing the true cost but sometimes I'd love to eat a meal without having to do a feasibility study first!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 10, 2005 at 01:27 AM, Brandon (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">Arguing with an engineer is like wrestling with a pig in the mud. After a while you realize you are dirty and the pig likes it.<br />
+<br />
+:D</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 10, 2005 at 01:28 AM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">Hi, I'm an enthusiastic cook from Italy and I'd like to add my two cents to this yummy question.<br />
+I write from Turin, northwestern Italy (while Treviso is in the north east) and eveybody I know, including lots of restaurants, DON'T use marsala wine and whipped cream. Marsala turns the custard into zabaglione, as you said, but zabaglione has nothing to do with Tiramisu (although there are variations on the *basic* recipe that call for it).<br />
+As for the whipped cream, we simply use 100% mascarpone. Don't know if this makes the dessert lighter or heavier, but the slightly cheesy taste of mascarpone is absolutely a must.<br />
+<br />
+I use the same technique as yours to make the custard, but if you use a sugar syrup (i.e. you melt the sugar with just enough water to dampen it) and pour it over the eggs while still very hot, it speeds up the process and makes for a smoother custard.<br />
+<br />
+a zing of rum or, better still, coffee flavoured liquor in the custard and in the coffee for dipping, will easily pass unnoticed but lift up flavours.<br />
+<br />
+one last word, and I hope not to sound TOO heretical... I never use espresso to dip the biscuits... a strong brew of nescafe is more than enough (and I never add sugar in it: it has to be bitter, to counterbalance the custard sweetness).<br />
+<br />
+just my two cents!<br />
+<br />
+ciao from Italy<br />
+marcella</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 10, 2005 at 01:28 AM, Rick Ballard (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">This article couldn't have come at a better time, as I just made Tiramisu for the first time a few days ago and was wondering about its origins and the autheticity of my recipe. I made it from the recipe at Leite's Culinaria (http://www.leitesculinaria.com/recipes/tiramisu.html), and while there are some things from your recipe that sound better, there are some things from that recipe I'd keep.<br />
+<br />
+That recipe has you mix the 1 1/2 cup espresso with some simple syrup (1/2 cup water with 5 tablespoons sugar dissolved in it); that prevents the tiramisu from being too bitter, and is probably why restaurant Tiramisu tastes different from yours. I also liked the vanilla bean scraped into the cream, though I don't know whether that's common practice or not. That recipe also has you make a Genoise instead of using ladyfingers; I didn't get the consistency of the Genoise quite right (made a couple small mistakes making it), but it was still quite good and seems more appealing to me than ladyfingers. I'd like it to be a bit lighter, but I suspect the mistakes I made caused it to be heavier than it would otherwise be.<br />
+<br />
+I think if I was doing it again I'd try using all Marscapone cheese instead of the Marscapone + Cream Cheese that recipe recommends; the tiramisu was a little heavy and not really as cheesy as it could have been, and I suspect that using only Marscapone would fix that. I'm also curious about the Marsala; either Marsala or some good rum sounds like it'd improve the recipe.<br />
+<br />
+I'll have to try making Tiramisu again sometime with a mixture of elements from both these recipes. Thanks for the interesting post :-)</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 10, 2005 at 01:29 AM, matt (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">i thought there were no eggs in a teramisu because it was uncooked and could cause illness. mabybe i din't read enough or something. i alsop read that you can use just about any cake to make this dish and not just ladyfingers.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 10, 2005 at 01:30 AM, Michael Chu said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">It is common to find tiramisu recipes with and without eggs, with and without ladyfingers, etc.<br />
+<br />
+I guess it's safe to say that traditionally (if you can call three decades a tradition), tiramisu is served with cooked eggs in the form of zabaglione and with ladyfingers.<br />
+<br />
+I have of course seen sponge cakes and genoise instead (perhaps a blending of zuppa inglese with tiramisu?) and many recipes leaving out eggs for fear of salmonella. Several recipes in recent cookbooks have been pushing nearly raw eggs, but I don't think they add substantially to the texture or flavor. My <a href='http://www.cookingforengineers.com/article.php?id=26'>Simple Tiramisu</a> recipe does not use eggs at all, while this one does (in the zabaglione).</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 10, 2005 at 01:30 AM, anna maria volpi (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">Dear Michael,<br />
+Love your approach to cooking! The strong espresso flavor probably depends on the beans used (espresso coffee in Italy is a blend of different types of beans). Sometimes in the USA they roast the beans too much until they get that "burned" taste that gives the coffee a very bitter flavor. Either you have to find a coffee shop that carry the good espresso or you have to buy an espresso machine and make it yourself using Italian coffee. I make my espresso myself.<br />
+Regarding my recipe, it was posted before my research on the tiramisu', and I have to admit that there are few differences from the one published by Capnist in their book and signed by Alba Campeol (the owner of Le Beccherie).<br />
+1. They don't put sugar in the coffee. As I said before, Italian espresso is generally not as bitter as the American one.<br />
+2. They don't put liquor in the cream.<br />
+3. They use raw eggs.<br />
+Their procedure is the same. I will have to change the text on my pages to reflect these differences, sice I cannot claim my recipe is the original one, but I will stick with my recipe for the folllowing reasons:<br />
+1. I don't want the coffee flavor to be too bitter.<br />
+2. The liquor in the cream gives a distinct and richer flavor of zabaglione.<br />
+3. I don't want to risk salmonella using raw eggs.<br />
+My compliments for your great blog!<br />
+Anna Maria Volpi</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 10, 2005 at 01:31 AM, anna maria volpi (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">I forgot one point.<br />
+4. They don't use whipped cream or whipped egg whites either.<br />
+The differences between the original recipe and my recipe don't depend only on the personal taste but also on the conditions. Let me clarify again the different points:<br />
+Item 1. You need sugar in the coffee if your coffee is too bitter (American espresso). Also, some ladyfingers sold here (the Italian ones) are not very sweet and I add sugar in this case. Some French ladyfingers have a sugar glaze and are sweeter. I don't add sugar in this case. I normally use the French ladyfingers because they soak much better. The Italian ones are bigger, and sometimes they are too soft outside and remain dry in the center, and you have to increase the quantity of coffee.<br />
+Item 2. They don't put liquor in the cream, but you need more liquid in the cream for two reasons. Mascarpone in Italy is very very soft and creamy (and sweet). In the US (at least in Los Angeles where I live) I find mascarpone harder than cream cheese. You need the cream to be little more liquid. and....<br />
+Item 3. You need some liquid to cook the egg/sugar custard. They beat raw egg yolks and sugar only instead (salmonella problem). I guess if you don't want to use liquor in the custard you could add some coffee instead of the liquor.<br />
+Item 4. Adding whipped cream: Same as item 2: I need more creaminess to soften the American mascarpone cheese. Also you don't need to beat the mascarpone cheese in Italy to make it creamy at all: it is very fluffy.<br />
+<br />
+I hope I clarified what happened. I will post the original recipe and change my article later when I will update my site.<br />
+<br />
+Ciao,<br />
+Anna Maria</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 10, 2005 at 01:31 AM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">Mike,<br />
+<br />
+I would like to thank you for your great Tiramisù recipe. I tested it this weekend on some guests and it was just wonderful.<br />
+<br />
+Let me just give two little remarks: for simplicity you may replace Espresso by simple soluble coffee (Nescafé for instance). Adding a little shot of Amaretto (e.g. Disaronno) to the coffee gives it a slight blend of almond, which harmonizes very well with the other ingredients.<br />
+<br />
+Dominique</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 10, 2005 at 01:32 AM, Stephan Schulz (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">Since I noted quite a few people coming over to my Tiramisu, I have now translated (or rather "recomposed") the recipe in English. Check out<br />
+<br />
+http://www.garlic-gang.de/RECIPES/tiramisu.html<br />
+<br />
+My basic version has raw eggs, but there also is an egg-free variant. I do not think that whisking over steam is enough to kill Salmonellae - if you get the eggs that hot, they will curdle.<br />
+<br />
+I also do not use Marsala wine, but rather Amaretto. I have never seen Marsala in a Tiramisu before.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 10, 2005 at 01:33 AM, Cristiano Alves (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">Hi there!<br />
+<br />
+This recipe has becaming almost a forum... Nice!<br />
+I know that much has been said but I wanted to share some of my secrets with you. Some of my Italian friends tell me that I make the best tiramisu they had ever eaten.<br />
+Secrets? Just these:<br />
+<br />
+1 - I use raw eggs<br />
+2 - I use whipped egg whites, one more that egg custard (¿?)<br />
+3 - I use just a bit of cofee flavored liquor on the cofee<br />
+4 - I add a few lemon drops to the mascarpone and also just a bit of salt (NaCl?)<br />
+<br />
+Hope you enjoy it.<br />
+<br />
+Sorry for my bad english.<br />
+Cristiano Alves</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 10, 2005 at 01:33 AM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">There is an old saying (I think it was French..?)- To many cooks spoil the broth- Tira Mi SU in transalation means Pick me up- My brother is employed by a noted pastry chef after finishing 5 years training in the middle of Rome Italy- I am also an expert among other things in the Art and science of classical Italian cookery- Tira mi su as such is not a classical recipe its an invented recipe- The actual secret to its invention is actually based on traditional practices dating back to 17th century italy in a period of time pertaining to Spanish rule "Mas que Bueno" is where spain give to Northern italy the name and product to a its famous cheese "Mascarpone"(meaning "Better than Good" Today the Northern Italian plains supported by the Lodi River is where the best "Marscapone" is made and It was here where the practice of Coffee , grated chocolate, all sorts of Liqueurs were mixed with marscapone to give the "Tira mi su" its very distinctive base- Further more any serious pastry chef will always add the sponge on the base of a cake tin- then finish the cake with the Marscapone mixture, with fine chocolate grated on top- I could write pages on the subject matter-Using Finger biscuits is a cop out- This kind of information is not found on the net. Just like the rest of the classical recipe base of italy which is so corrupt today. Italian classical cookery is on the verge of vanishing all together, because too many cooks have simply spoiled the broth-<br />
+<br />
+Chef Davide<br />
+Doctrine:Academy of Italian Cookery Rome<br />
+expert: www.allexperts.com<br />
+www.chefdavide.freeservers.com</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 10, 2005 at 01:34 AM, aliko (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">I think different people has different opinion about their favorite tiramisu style. My suggestion is to pick the one you like best, from your local restauratant or bakery, immitate and improve upon.<br />
+<br />
+A few tips for engineers:<br />
+<br />
+1. Instead of using egg yolk, get pasteurized egg yolk from supermarket. They are made from egg white but has egg yolk taste. No need to double boil, or worry about bacteria. Real egg yolk doesn't really give it any texture anyway.<br />
+<br />
+2. Pasteurized egg white can be beaten for the cream too but I find using heavy cream is more enough.<br />
+<br />
+3. Make 1/3 of a cup of gelatin mixture, and mix with the cream so that it become firm quicker when chilled. This is also helpful if you don't make whip cream often, and not good at folding it into the mascapone.<br />
+<br />
+4. WHen sifting the cocoa powder, tap the sifter with your finger, instead of "shaking" it while holding it. You get a better control.<br />
+<br />
+For those who want to impress people:<br />
+<br />
+5. Try not to put to much cocoa power (after regrigeration as another blogger mentioned), leave the white cream visible. Cocoa powder is bitter. You can melt some semi-sweet chocolate bar, and use a folk or chopstick, and drip them across the pieces before serving.<br />
+<br />
+6. Kahlua is a good coffee liquer to use. I usually add 1 teaspoon to the coffee, and 1 teaspoon to the creame.<br />
+<br />
+7. Get the soft lady finger instead of the dry and hard one. Lay the lady fingers down and brush them with coffee/liquer instead of dipping them. That way you can control the amount of liquid they soak up and they won't break apart.<br />
+<br />
+8. Last but not least, get a cheese cake tray which you can sprung open on the side. Easier to present and to serve. Once you cut it into pieces, you can immitate how it is served in restaurant too. :)</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 10, 2005 at 01:34 AM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">Hi all:<br />
+Here,s my 2 cents.<br />
+I recently made a tiramisu that was quite similar to this for a work function. I too went to a local italian store and purchased several double expresso. The recipe used marsala in the zabalione and brandy in the expresso to soak. The expresso was definately stronger and more predominate than any I have had in a restaurant, but I personally really liked it and think this is probably were the original "pick me up" came from! As I down side I have become quite adicted to expresso which I always assumed would be too strong to enjoy, but the Italian kind has quite a smooth body to it.<br />
+Everyone seemed to enjoy/consume it, but next time I will probably try a more moderate recipe for a crowd and keep this one for true tiramisu afficianados.<br />
+Cheers</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 10, 2005 at 01:34 AM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">I find using pound cake instead of ladyfingers to be much better tasting.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 10, 2005 at 01:35 AM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">I use less-sweet custard (3 egg yolks, RAW, beaten into 8 oz mascarpone with 1/4 cup plus 1 TBSP sugar, whip 3 egg whites to stiff peaks and fold into cheese mixture). I usually make up for the lower sugar by adding Frangelico hazelnut liqueur to the coffee for the sponge.<br />
+<br />
+I don't think ladyfingers have quite enough body. I use thin slices of sponge cake, and drizzle the coffee mixture over instead of dunking the cake.<br />
+<br />
+A really cool variation is to make a pan of brownies and use crumbled brownies for the sponge layer. Totally non-authentic, but my husband loves it.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 10, 2005 at 01:35 AM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">Wow, Chef Davide, thanks for telling us about your brother. Given your family's expertise you should have shared a recipe with the group. It would have enriched our souls.<br />
+<br />
+For what it's worth<br />
+I use a simpler recipe for tiramisu than the ones i've read about here, and if you like instead of savoiardi (lady fingers) you can use sponge cake and put it in a round cake tin, heart-shaped, rectangular, whatever floats your boat because it all goes down the same way:<br />
+<br />
+1.5 packages of savoiardi (or as many as it takes)<br />
+500g mascarpone<br />
+4 eggs, separated<br />
+sugar to taste<br />
+vecchia romagna to taste<br />
+instant espresso powder dissolved in hot water...enough to get the job done (or quanto basta for davide)<br />
+<br />
+mix sugar, mascarpone and yolks in the bowl of a stand mixer with the flat beater. add liquor to taste, and i strongly advise using SOME sort of liquor (like Vecchia Romagna) otherwise it's flat.<br />
+<br />
+in a separate bowl using the whisk attachment, beat the egg whites to hard peaks (but not dry).<br />
+<br />
+fold the egg whites into the mascarpone mixture, careful not to deflate the egg whites<br />
+<br />
+line the base of a dish with the savoiardi, dipping each one in espresso, but not too long or else as it sits they will become soggy, and not too briefly or they will stay crunchy in the center.<br />
+<br />
+cover with a layer of mascarpone/egg mixture.<br />
+<br />
+repeat.<br />
+<br />
+cover and put in refrigerator for 24 hours or at least overnight. this allows the mascarpone mixture to set, and allows the savoiardi to 'steep'.<br />
+<br />
+right before serving, if you want, you can sprinkly cocoa on top.<br />
+<br />
+I usually use one 8x8 dish and then fill up small containers like the mascarpone containers for individual portions to put in the freezer for another date.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 10, 2005 at 01:36 AM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">Wow. A cooking site for people like me. Cool. Quick question about the espresso. Do the traditionalists/ itailians do a long shot for the espresso-that is, do they let the water go through the espresso for longer than the normal 22 seconds-or do they use a full powered shot?</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 21, 2005 at 08:38 AM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">Hi! <br />
+I'm Italian and I found really great/funny to hear about people going to purchase expressos to a bar to make the Tiramisu. I think most of the Italian folks just prepare the coffee at home using a normal Italian coffee machine (caffettiera: <br />
+http://www.pasotti.it/casalinghi/pinti/p225i.html, <br />
+type "napoletana": http://www.etnoshop.it/products.asp?id=63). <br />
+Using your own caffettiera, you have the freedom to tune the ratio coffee/water as much as you like and make a tiramisu with a strong or less strong coffee taste, according to the guests you have and your mood and so <br />
+on. About using Nescafe... well, I would not comment on that. <br />
+ciao! <br />
+Eloisa</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 24, 2005 at 09:15 PM, meezersfive (guest) said...</div>
+					<div class="commentsubject">Subject: <span>tiramisu</span><br /></div>
+					<div class="commentbody">Used your recipe, well, almost....the basics at least.   Didn't have Marsala and didn't feel like making a liquor run, so I used some lovely Amaretto instead.  Made the custard the same way you did, but kept running back to the computer to check if I was doing everything in the right order.   Used strong coffee with a teaspoon of natural raspberry flavoring, and dipped and layered the works....sprinkled the top with cocoa and also grated a bit of dark chocolate over that.   We licked the bowl, the beaters, the spoon, the whip, and wiped the bowl with a leftover ladyfinger!! Haven't been into the finished product yet, but the previews were fabulous!!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 25, 2005 at 10:43 AM, albino (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">youre simple recipe looks extremly close to mine.<br />
+<br />
+only a few drops of lemon (freshes the meal a little up) are added in my version.<br />
+<br />
+and keep in mind,<br />
+<br />
+as all easy - low quantity containing recepies:  they live from the quality of the ingrediences.<br />
+<br />
+fresh bio - eggs<br />
+best mascarpone avaible (not galbani)<br />
+best marsala  (normally is used a "marsalla all´uovo)<br />
+best fingerbisquits (best are home-made)<br />
+best espresso  (not lavazza)<br />
+.....</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On January 02, 2006 at 01:51 PM, humpbackoak (guest) said...</div>
+					<div class="commentsubject">Subject: <span>italian?</span><br /></div>
+					<div class="commentbody">hi, i was in rome over the weekend and i ordered some tiramisu.to my surprise, it did not come in a cake like form or in the long form you made it here, but a pile of layers, almost rectangular...obviously it was great but i suppose it has less to do with the shape and more to do with the preparation...still, does anyone know how to make a tiramisu like that?</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On January 08, 2006 at 07:03 PM, tony41153 (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Tiramisu</span><br /></div>
+					<div class="commentbody">Your recipe sounds easy enough, But i have also heard of people Kalhuha for the alcohol<b> ;) </b></div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On March 31, 2006 at 02:57 AM, Ravensbane25 (guest) said...</div>
+					<div class="commentsubject">Subject: <span>just a question...</span><br /></div>
+					<div class="commentbody">im not a fan of cheeses so i just wanna ask. can you make this with a substitue for the cheese?</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On March 31, 2006 at 06:45 AM, Michael Chu said...</div>
+					<div class="commentsubject">Subject: <span>Re: just a question...</span><br /></div>
+					<div class="commentbody"><div class='commentquote'>Ravensbane25 wrote:<div class='commentquotebody'>im not a fan of cheeses so i just wanna ask. can you make this with a substitue for the cheese?</div></div><br />
+Not really... without mascarpone cheese the texture wouldn't come out right. You could substitute with American cheese cheese that's been whipped and blended with more whipped cream to lighten it up, but that's not a great substitution. Mascarpone cheese has very little cheesiness and mixed with the whipped cream, sugar, and alcohol, I doubt you'll dislike the taste. Do you have trouble with restuarant or store bought tiramisu (if so, maybe you should just avoid tiramisu - or use all whipped cream for an extremely light version)</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On April 30, 2006 at 05:02 PM, g. (guest) said...</div>
+					<div class="commentsubject">Subject: <span>recipes &amp; history</span><br /></div>
+					<div class="commentbody">hello there,<br />
+i am a.. "traveling cook", and i love to study history of food. <br />
+<br />
+Falling hazardously on this site (ouch!) i was rather surprised by the amount of informations you gathered on this subject. <br />
+<br />
+Sadly, it often happens that people trust the information they find first the most, and this leads sometime to a little mistakes..<br />
+<br />
+Mind if I make some correction? <br />
+Feel free to check them out by yourself, it is the best way to make sure you are not beeing abused.<br />
+<br />
+The "zuppa inglese": it was made by the napolitans at first, in honour of admiral Nelson, when he came to help them. <br />
+<br />
+Basicly they wanted to prepare a dessert as close as possible to the english "trifle", and they just trasformed the name consequently. <br />
+<br />
+So, as you can see, it has very little to do with Treviso..<br />
+<br />
+The basic about tiramisu: it was born as a "mousse", and this sentence alone explains much of the recipe: raw egg yolks will be whipped with sugar, and the amount of sugar will be enough to "cook" them. <br />
+<br />
+Once white, they will be added the mascarpone cheese, and all will be whipped energically until the whole mass will get fluid first, then thick again (hey, the fat and tensio-actives are more than in a double cream!).<br />
+<br />
+Whipped cream was added by people intending to prepare a cheaper version: in the "original" it was not used.<br />
+<br />
+The base IS made of large "lady fingers", never genoise, wich was invented in spain by an italian cook invited there, who intended to make a cake using an already existing recipe of biscuits (he named it "pan di spagna" at first, and the name still lives on in Italy. But soon after, the spanish named it "genoise", and this name took over in the rest of the world. Later, to make a distinction between "biscuit" and "genoise", it was "decided" that the first was made with yolks and whites beaten separately, while the second had whole eggs whipped together)..<br />
+<br />
+See how the circle closes?<br />
+<br />
+Then the liquor goes into the coffe. <br />
+<br />
+In this way, you do get a softer, less bitter taste (and less caffeine), and the very light taste of mascarpone cheese remains uncovered.<br />
+<br />
+ Don't forget that this was a restaurant pudding, it had to be "mild", or people could have disliked it. A serious pastry chef would't take the risk to make just one too strong layer, as he wants the flavours to be balanced.<br />
+<br />
+finally, the cocoa powder: people say "sprlinke it at last moment or it will get wet". True, but at the same time, by staying wet, it will prevent the surface to dry into a chewy crust, and this is a far better option that justifies its presence while the tiramisu rests.<br />
+<br />
+Just my.. "2 lire"..:)<br />
+<br />
+G.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On July 20, 2006 at 08:53 AM, germologist (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">I'm glad trifle came up, because tiramisu andzuppa inglese are relatives of the trifle, which in itself is a very delectable thing. Basically, I am quite happy eating almost any variation of cake and custard (or custard like substances). But not raw egg ones. It's not just the bacteria either, anyone else here know about avidin? A few years ago I came across the American Egg Board (Or advisory service - anyway, it represents the US egg industry) website. It had very handy advice for treating whole eggs, whites and yolks so that they could be used in recipes that classically call for raw eggs. I'm sure all you engineers will love it.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On September 23, 2006 at 01:07 AM, an anonymous reader said...</div>
+					<div class="commentsubject">Subject: <span>TIRAMISU MMMMM</span><br /></div>
+					<div class="commentbody">I´m writing from Spain and I am very happy to read your tiramisu recepy, it sounds very nice and you explain it very good, too! I love tiramisu, i think is the most delicious dessert in the world....There´s an italian restaurant chain here called GINO´S and they make the best tiramisu, if you come to Spain, you should try it! Of course i´m going to try to recepy and i´ll tell you afterwards</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On September 30, 2006 at 04:23 PM, kbiscuit said...</div>
+					<div class="commentsubject">Subject: <span>Tiramisu</span><br /></div>
+					<div class="commentbody">Why nobody has mentioned that the best way to make the Tiramisu, is to begin by baking one's own Ladyfingers? They are easy to make, and when bakedvery soft and light, so when you dip them into expresso, and chill in the fridge, comes out perfect. Not too soft, but enough for very light dessert.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On October 05, 2006 at 05:44 PM, tiramisu freaky (guest) said...</div>
+					<div class="commentsubject">Subject: <span>yes Gino's tiramisu is wwww...</span><br /></div>
+					<div class="commentbody">Hi all! I saw a comment of someone, talking about tiramisu's at Gino's chain restaurant..<br />
+<br />
+they are increadible.. fantastic.. delicious.. perfect!! I am a tiramisu freak, I think is the best way to finish a wouthwatering meal... accompanied with a lovely "cortado" (as we call expresso coffee with a shot of milk)..<br />
+<br />
+this poll has been fantastic.  .. I have learned many things and tomorrow I'll be doing my own tiramisu..<br />
+<br />
+se ya'll!!! <br />
+ciao</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On February 13, 2007 at 12:56 PM, Rachel H (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Thanks</span><br /></div>
+					<div class="commentbody">It was very interesting to read through all the comments. Everyone seems to have his/her own points. ;)<br />
+<br />
+I will try it today (but probably with some twist) to make a dessert for tmr's Valentine's Day. <br />
+<br />
+Thanks for sharing. <br />
+<br />
+BTW, I very much like your presentation (really like an engineer), especially the illustration about the layers of the Tiramisu, different colours for different textures. Great idea...</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On May 17, 2007 at 10:45 AM, Coffee &amp; Vanilla (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">This is my next thing to try... I love tiramisu and your reciopes are soo clear and easy to use.<br />
+<br />
+<a href='www.coffeeandvanilla.com'>www.coffeeandvanilla.com</a></div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On June 14, 2007 at 11:00 PM, Terence (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Tiramisu Recipe</span><br /></div>
+					<div class="commentbody">Hello, <br />
+<br />
+Thanks for the classic recipe. I've used it many times, with a little variations here and there, and have just about perfected it. First of all I use 1.5 times the ingredients to allow for more of the mixture. Secondly, I use vanilla sugar in part because I like the aroma and flavour of vanilla, and because I have gotten used to using vanilla sugur instead of the vanilla extra after having lived in Europe for a few years. <br />
+<br />
+The other modification that I use is to fold in one egg white into the mixture at the end. I admittedly haven't noticed any real difference in the mixture because of this; I just happened to see this addition in another recipe and thought I'd give it a shot.<br />
+<br />
+One last note. After experimenting with everything from Amaretto to a Marsala wine to some old sherry we happened to have had  in the cupboard, I've found that Mendez' rich sweet Golden Sherry works best.<br />
+<br />
+One problem I have is in managing the cocoa on the top. I appreciate the tip that someone gave about waiting to the dish has chilled before adding it. <br />
+<br />
+<br />
+TB</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On July 21, 2007 at 01:03 PM, guest (guest) said...</div>
+					<div class="commentsubject">Subject: <span>FYI</span><br /></div>
+					<div class="commentbody">I've actually been to the restaurant where Tiramisu was invented in treviso, when I was living in Italy.  My boyfriend at the time was from there and told me that the restaurant used to be a brothel.  The downstairs area was where the men would eat and upstairs was for the girls.  They brought in this new chef who then made up this dessert and the men stopped visiting the girls and instead mostly went there for the dessert (as legend has it).  Actually the  name, Tiramisu, while the phrase does mean 'pick me up', is also slang for 'turn me on' which considering the story is quite appropriate.  My ex is one of those people who eats at the best restaurants all over Italy, especially the ones that are famous for this particular dish or that.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On July 23, 2007 at 05:37 AM, Baltogal (guest) said...</div>
+					<div class="commentsubject">Subject: <span>An article about the originator of Tiramisu</span><br /></div>
+					<div class="commentbody">I thought you'd enjoy another view on the origin of Tiramisu:<br />
+<br />
+http://leisureguy.wordpress.com/2007/07/11/the-inventor-of-tiramisu-now-lives-in-baltimore/</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 23, 2007 at 03:42 PM, kim (guest) said...</div>
+					<div class="commentsubject">Subject: <span>love the site</span><br /></div>
+					<div class="commentbody">Just discovered the site and am a big fan.  Love the quote below <br />
+<br />
+"Arguing with an engineer is like wrestling with a pig in the mud. After a while you realize you are dirty and the pig likes it. "  I am an engineer and work with many others.  Will be posting this one on my wall!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On January 11, 2008 at 08:08 PM, Smiling (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Tiramisu Engineer</span><br /></div>
+					<div class="commentbody">Wow! I must say that being an engineer myself, you definitely are one as well. And if it couldn't be more perfectly over-the-top engineer-esque - you added the lovely chart diagram at the bottom!  I thank you for speaking in my language and making me laugh.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On March 07, 2008 at 09:47 PM, Shinobu (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">In your local supermarket you can probably buy espressopowder. It may not be as good as using the real thing, but it's cheap and it works for me. I dissolve it in a little hot water and then put it on the ladyfingers or cake.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On March 25, 2008 at 01:35 PM, rich.bronson said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">Looks like a good recipe, but to be honest I have tried tiramisu once in my life and hated it. I would have no interest in making it myself if everyone in my family didn't like it.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On September 12, 2008 at 07:21 PM, twins2feed (guest) said...</div>
+					<div class="commentsubject">Subject: <span>wowza!</span><br /></div>
+					<div class="commentbody">Ok, so I am attempting my first Tiramisu tomorrow. I have been looking for an authenitc recipe and found this site, thank you!! I have an entire page of ideas/tips I plan to use to make the best tiramisu I can. Thank you all for having such strong opinions and thank you Mr. Engineer, I will print out all 8 pages to use when Im making this.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On January 05, 2009 at 06:53 PM, an anonymous reader said...</div>
+					<div class="commentsubject">Subject: <span>Granulated sugar</span><br /></div>
+					<div class="commentbody">Why ordinary sugar-sand would not suffice? It is going to be dissolved anyway... :unsure:</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On January 05, 2009 at 10:49 PM, Michael Chu said...</div>
+					<div class="commentsubject">Subject: <span>Re: Granulated sugar</span><br /></div>
+					<div class="commentbody"><div class='commentquote'>Anonymous wrote:<div class='commentquotebody'>Why ordinary sugar-sand would not suffice? It is going to be dissolved anyway... :unsure:</div></div><br />
+What's sugar-sand? Granulated sugar is the "normal" sugar you find for sale at the market here in the U.S.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On January 29, 2009 at 01:45 PM, MaterialisticEngineer (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Finger biscuits</span><br /></div>
+					<div class="commentbody">A friend of mine told me that Italian finger biscuits are different from american ones. She said that they were harder. Is this true? American ones are spongy and sweet, which are great for making trifles and I love them. <br />
+I just wanted to be more Italian so I will take the lead from any Italians out there.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On January 31, 2009 at 10:28 PM, daneck (guest) said...</div>
+					<div class="commentsubject">Subject: <span>tiramisu</span><br /></div>
+					<div class="commentbody">An ex's mother used to make me tiramisu regularily. The family is from Italy and immegrated to Montreal Canada. <br />
+<br />
+While I no doubt could have learned to make the tiramisu...I didn't bother (yes I was an idiot! Tiramisu is my favourite dessert)...she did tell me the cookies HAD to come from Italy. <br />
+<br />
+They would be brought to Canada only when relatives visited as they could not buy them in Canada.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On February 10, 2009 at 02:56 PM, RimJagle (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Espresso and LadyFingers</span><br /></div>
+					<div class="commentbody">Regarding the extremely strong coffee taste the author reports, I'd guess this is due to the fact that American espresso (in my opinion) tends to come from over-roasted beans and is unbelievably bitter and strong.  European espresso (in my opinion, and I am an American living in Europe) is of course strong, but rarely as bitter as American espresso.  I made this recipe last night usign the recommended amount of (European) espresso and it turned out perfect.  The balance of flavors was right on: not too much coffee flavor, not too much liquor flavor.  It was divine!<br />
+<br />
+Regarding an earlier post about lay fingers being soft in the States, in Europe they are hard and quite dry.  This works great for soaking up the cofee - they soak it all up so you don't get a soup but they also retain their shape and give the tiramisu some form when lifted from the pan.<br />
+<br />
+I would rate this recipe as the best Tiramisu recipe I've come across, and I've tried plenty!  Thanks for posting it!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On September 11, 2009 at 11:22 AM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">I just wanted to say that I LOVE that you use nice, clear, and detailed photos to accompany your recipes.  Thank you very much and I look forward to giving this a try.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On October 01, 2009 at 08:44 AM, Hi (guest) said...</div>
+					<div class="commentsubject">Subject: <span>another recipe for tiramisu</span><br /></div>
+					<div class="commentbody">There is a recipe for tiramisu, and it is a bit different from this one, if interested, please go there to have a look, the website is <a href='http://lonlu.com/food/cook/136-teach-you-cook-romantic-tiramisu-step-by-step.html'>http://lonlu.com/food/cook/136-teach-you-cook-romantic-tiramisu-step-by-step.html</a></div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 08, 2009 at 06:05 PM, an anonymous reader said...</div>
+					<div class="commentsubject">Subject: <span>Tira mi su</span><br /></div>
+					<div class="commentbody">The suggestion that Tira mi su is only ten or so years old is nonsense.  My Grandmother lived in northern Italy and I remember her making Tira mi su for us over 40 years ago using her own recipe.  One of the differences was that she didnt use cream and used Marsala and Brandy as well as espresso cafe, I have her recipe and its divine!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 28, 2009 at 05:56 AM, Howard said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">I don't know what I did wrong but my cream mix turned out extremely runny. I substituted for the Marsala wine 1/8 cup of Kahlua, 1/8 cup of Bailey's and subbed the rest with water to make up the 1/2 cup. The other change was using a stick blender to smooth the mascarpone cheese. Would that have made it so loose? Will it fix itself in the fridge?</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 30, 2009 at 04:19 AM, Michael Chu said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody"><div class='commentquote'>Howard wrote:<div class='commentquotebody'>I don't know what I did wrong but my cream mix turned out extremely runny. I substituted for the Marsala wine 1/8 cup of Kahlua, 1/8 cup of Bailey's and subbed the rest with water to make up the 1/2 cup. The other change was using a stick blender to smooth the mascarpone cheese. Would that have made it so loose? Will it fix itself in the fridge?</div></div><br />
+The cream is supposed to be whipped up into a foam - not to be used in the recipe as a liquid. Substituting with water will not work.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 18, 2009 at 10:56 PM, Irish Lady (guest) said...</div>
+					<div class="commentsubject">Subject: <span>original tiramisu recipe</span><br /></div>
+					<div class="commentbody">the first time I made a tiramisu the recipe used 3 eggs separated and about 5 fl oz milk to made the 'custard'. I had no idea what marsala was but used  a little bit of port wine instead. I made a strong coffee/rum mixture using a rich roast instant coffee.  it is a good idea to divide the coffee mixture in two as I dipped the lady fingers too long. ended up having to make more for the second layer.  I am also sure the egg white were whipped and added to the beaten cheese and 'custard'.  it was really good and got better over a few days.  it was a very large dessert and was one of many over the xmas holidays.  the family loved it and always request it for special occasions. I cannot find the first recipe I used but have tried others and all have been just as good</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 21, 2009 at 08:00 PM, Rebecca (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">I noticed that he used ladyfinger cookies but I offer the idea of making them from scratch.  You can buy them in a grocery store bakery section.  The recipe is in the link below.<br />
+<br />
+http://www.joyofbaking.com/Ladyfingers.html<br />
+<br />
+Also, the first recipe I ever made included a little rum and melted chocolate in the coffee mixture.  I will definitely consider lemon zest in the mascarpone mixture next time I make it.  Lemon zest in cream cheese is incredible so why not here, too.  YUM!  This is such a fun site!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 23, 2009 at 07:49 PM, Diana (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Twist on Cocoa</span><br /></div>
+					<div class="commentbody">Just thought I would share my twist on the cocoa. Instead of cocoa I use Cocoa Nibs that I have ground in my spice grinder (coffee blade grinder). Cocoa Nibs are roasted cocoa beans, they have a wonderful nutty crunch and definate chocolate flavor. I sometimes add a dash of cinnamon and give a final spin in the grinder to mix.<br />
+<br />
+The beauty of this, above and beyond the flavor and that it is still traditional in that it really is cocoa powder of sorts, is that it's texture is wonderful and it doesn't get soggy. I still add some fresh though, because of brightness.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 30, 2009 at 03:53 AM, smiley (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Can I use Mascarpone and Philledelphia cheese?</span><br /></div>
+					<div class="commentbody">I loved this recipe as it was very easy to follow.Thank you! But I was just wondering if one can use Philledelphia Cream cheese with the Mascarpone or just Philly on its own when one doesnt have the mascarpone on hand?<br />
+thanks again.<br />
+I will be having my 2nd attempt of Tiramisu tonight since the first one went so well. The recipe I used was half Mascarpone, half whipped thickened cream....now I'm waiting for the answer in regards to the Philly cheese from some clever 'engineer' or Tiramisu wise person....please?<br />
+<br />
+thanks <br />
+smiley</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On February 11, 2010 at 12:52 AM, ANON (guest) said...</div>
+					<div class="commentsubject">Subject: <span>marsala substitution</span><br /></div>
+					<div class="commentbody">if i didnt have any marsala on hand could i substitue it with baileys?<br />
+<br />
+also, if i wanted a non-alcoholic tiramisu what is a suitable substitution for the marsala?<br />
+<br />
+thanks in advance</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On March 05, 2010 at 02:10 PM, Justpassingby (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Tiramisu</span><br /></div>
+					<div class="commentbody">Hi everyone,just giving one more cent here,<br />
+<br />
+my ex is a cook from Molise,and I guess it depends of the area of Italy if they use Marsala or not,same with the whipped cream.I remember he did use Marsala for Tiramisu,but no cream,just Mascarpone,he did add a little Amaretto in the espresso though,anyway,will make it tomorrow. ;)</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On March 05, 2010 at 04:39 PM, Justpassingby (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Tiramisu</span><br /></div>
+					<div class="commentbody">Oh and I almost forget,he did also use ladyfingers,and egg yolks,It's almost the same like you made it Michael.I don't believe there is a risk for salmonella,thanks to the alcohol of the Marsala and the heating to making it into a custard...</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On March 08, 2010 at 04:40 AM, Katie (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">I made this twice and it was incredible! I will probably make it again...</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On May 15, 2010 at 12:37 AM, David (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">The original was aimed at children and elderly and contained no alcohol, any tiramisu with alcohol in it isn't original.<br />
+<br />
+I am looking for it aswell I only know the ingredients but not the precise recipy.<br />
+<br />
+Wiki helped me figure out the part about the first tiramisu not containing alcohol.<br />
+<br />
+On the other hand it's just curiosity on my part, those myriad of "tiramisu" recipies around nowadays taste great too.<br />
+I'm just interested in the origins and to make such a non alcoholic one myself out of curiosity and for fun</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On June 30, 2010 at 08:40 AM, Moniq (guest) said...</div>
+					<div class="commentsubject">Subject: <span>The original Tiramisu</span><br /></div>
+					<div class="commentbody">I have found the website of the original Tiramesu: http://www.tiramesu.it/<br />
+Recipe here: http://www.tiramesu.it/recipe_original.html<br />
+<br />
+This site is built with the support of the Treviso city so it seems to be legit.<br />
+<br />
+There's also a video (in italian) of Roberto Linguanotto explaining the history of this cake and then he's also preparing a Tiramesu: http://www.tiramesu.it/videos.html<br />
+<br />
+Traditionally, the Tiramesu had been made only with egg yolks, sugar, mascarpone, lady fingers, strong espresso and cocoa. No egg whites, no alcohol.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 25, 2010 at 06:21 AM, an anonymous reader said...</div>
+					<div class="commentsubject">Subject: <span>thanks</span><br /></div>
+					<div class="commentbody">I've been using this recipe for the past few years... the only exception is that I've never used masala wine (only out of wanting to drink the leftover liquor).<br />
+<br />
+I've used rum...  But I think I will try cognac or brandy next time, that's what the baker across the street uses.<br />
+<br />
+Thanks so much.  Everyone feigns for the tiramisu I prepare.  Today I actually baked my own ladyfingers!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On May 18, 2011 at 04:18 AM, Jenn (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Just tried the recipe</span><br /></div>
+					<div class="commentbody">The recipe was wonderful!!! I made some substitutions due to the lack of availability of the ingredients (used the same measurements):<br />
+marsala wine = cognac<br />
+lady fingers = marguerite cookies<br />
+<br />
+I soaked the marguerite in the espresso for more than a few seconds, until the under side was soft to touch, it used more espresso than the recipe called for. <br />
+<br />
+The result was a stronger alcohol smell, but you barely tasted the alcohol (I usually hate drinks where I can smell/taste the alcohol in it). All in all it came out perfectly, I already can't wait to try it again. Also thinking about substituting the marscapone with some cream cheese, although I think it'll need to be of a more spreadable variety or perhaps thinned out a bit with some cream.....</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On June 11, 2011 at 11:26 PM, not an engineer! (guest) said...</div>
+					<div class="commentsubject">Subject: <span>fab recipe, thanks</span><br /></div>
+					<div class="commentbody">I followed the recipe step by step - it worked a treat. Each bit on its own tasted great. Waiting to taste the concoction as a whole tomorrow. I did fortify my version with a good splash of rum into the epresso. Might agree on a lighter layer of cocoa before leaving the Tiramisu to set and a final dusting before serving, but followed you instructions anyway - mine turned out to be a right beauty. xx</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On June 22, 2011 at 06:39 AM, tammy (guest) said...</div>
+					<div class="commentsubject">Subject: <span>lady fingers</span><br /></div>
+					<div class="commentbody">a good lady finger brand to try is stella doro. they are hard and soak well w/o falling apart. i find them most in the midwest hard to find on the west coast.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On June 25, 2011 at 08:07 AM, Bowie (guest) said...</div>
+					<div class="commentsubject">Subject: <span>I am going to made tiramisu by myself too</span><br /></div>
+					<div class="commentbody">Wow,the comments above spread from 2005 to today now.AMAZING!<br />
+"Too many cooks spoil the broth." That is true.<br />
+I have prepared a set of ingredients.But right after looking at this site. I find out some is unnecessary.Like whipped cream. I was going to use  whipped egg whites, egg yolks,whipped cream,kahlua,rum and of course mascarpone. and try to figure out what the exact function of each ingredients is. Because I am not familiar with western desserts.<br />
+Tiramisu I tasted  in my place mostly are  disaster.It tastes too bad. I must make one by myself.<br />
+This artical and the comments really help me!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 28, 2011 at 02:19 AM, kgard01 (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Why not try the recipe on the BelGioioso mascarpone 8oz pk?</span><br /></div>
+					<div class="commentbody">I have no idea what the original should taste like but I have NEVER had a tiramisu like the one I had in a (now closed) italian restaurant in Valley Village California served at my sister's wedding rehearsal party. <br />
+So far, the BelGioioso has come the closest when using rum. No whipped cream, no marsala, no worry about raw eggs (apparently the Salmonella comes from the shell so as long as you wipe the shell with a 10percent bleach solution before cracking then you shouldn't have to worry abt raw eggs. <br />
+Nothing cuts it like the right lady fingers...the bottom line is that it just isn't the same if it is too custardy thick and sweet...To each his or her own...but I'd try the more authentic first before adding a lot to it :)</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On September 10, 2011 at 09:55 PM, kindleproblems said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">Original or not... This one tastes delicious!<br />
+<br />
+TYVM!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On October 05, 2011 at 08:59 PM, anton46 (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">Tiramisú, modest and elegant. must be in everyone's "favourite dessert top 5 list".<br />
+  I'm a Cook in Australia I've spent 20 years in the hospitality industry under many guises ( waiter/barman/barrista/dishwasher/pizzaiolo ) I can't get away from food  and came to the notion that its only a natural progression that I should claim the kitchen as my workplace ... I digress.. excuse me<br />
+ Tiramisú, I like to make mine with a zabaglione base. free-range egg yolks whipped a  little dark rum and coffee liquor with a hot sugar syrup. after this step I don't stray from these strict guidelines.<br />
+<br />
+MASCARPONE : use only imported italian mascarpone. australian dairies while on the whole have great range of class products when it comes to mascarpone, there's no substitute "Italian" lets not even speak philadelphia cheese. <br />
+<br />
+COFFEE: the best coffee anywhere is found in the houses of italian families who use the household "Caffetiere" or "Mocha". come in 2 styles "Napoletana" and ... I forget the other. the reason in my opinion, (1) cotrol the ratio of water-coffee (2) the Napoletano uses gravity, hence once the water comes to the boil it gets turned upside down (or the right way round) so that the part that was being heated and containing the hot water begins to perculate through the ground coffee. the other stays in the same position  atop your stove . when water boils uses the steam produced to force the water through the ground coffee...excuse the longwinded description but being of italian descent coffee is a part of my life as much as breathing is I like to call coffee "Catholic Heroin" addictive and am useless without it. the difference between your local café with the espresso machine, is with the above 2 methods becouse it takes minimum of 4-5 minutes to make 1 cup of caffé using the steam forced and gravity methods the result is a smooth mellow and diverse, taste and after taste becouse more of the coffee characteristics had time to brew. the espresso machine uses pumps to force hot water through the grind results in a stronger darker coffee in 30 odd seconds, still excellent to drink but for Tiramisú too overpowering. ( Caffetiera or mocha napoletana are a good investment looked after they'll last for years) <br />
+<br />
+SPONGE: pan di spagna ONLY<br />
+<br />
+CHOCOLATE : 70% cocao powder before serving or 70%dark chocolate grated finely before serving<br />
+<br />
+ if your still reading you deserve a slice of Tiramisú ! your probably thinking that I'm a little anal.. well you'd be right ! <br />
+<br />
+ if soup can have one so can Tiramisú "I'm the Tiramisú Nazi"</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 05, 2011 at 08:29 AM, Howard said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">I must warn that anybody who is thinking to use a stick blender to mix the mascarpone cheese into the zabaglione that you should NOT do so. If you do, you will irrecoverably turn the mixture into a loose liquid.<br />
+<br />
+Use the extra elbow grease and keep this from happening to you.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On April 25, 2012 at 06:16 PM, Donnmickie (guest) said...</div>
+					<div class="commentsubject">Subject: <span>marcarpone substitute and a real classic ITALIAN TIRAMISU</span><br /></div>
+					<div class="commentbody">I've made tiramisu with a mascapone substitute, being a cheap sob; I use one pound of American Philadelphia cream cheese and blend in 2/3<br />
+ of sour cream. For what sounds like a very authentic sounding recipe go to the following site: &lt;http://home.comcast.net/~jankemi/recipe/tiramisu.html&gt;<br />
+Silvia is VERY adament about what gto useand how to do it; especially when it comes to esspresso.<br />
+Don :shock:</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On June 13, 2012 at 09:15 AM, LOL/Put a sock in it. (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Tiramisu</span><br /></div>
+					<div class="commentbody">:huh: <br />
+<br />
+Most of the comments is coming from people with a self inflated ego. Just serving to confuse. I don't care about how much you know of the origination of this dessert, I just wont to prepare &amp; eat. Please note like all things, it is adapted to area, &amp; personal choices. There is no one way of doing anything, most recipes can be modified. Freedom of choice is a good thing. So please stop dictating, &amp; flaunting your knowledge. Thank you Mr Chu for providing another option. If you need to express your views on making this dessert/pick me up, larky, please write a book &amp; stop modifying Mr Chu's recipe.  Mr Chu. Thank you. All others put a sock in it.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On September 26, 2012 at 10:32 PM, Paws (guest) said...</div>
+					<div class="commentsubject">Subject: <span>This recipe is absolutely gorgeous!!</span><br /></div>
+					<div class="commentbody">I first made this recipe a couple of years ago for my fiance, and I am making it again for his birthday this weekend, as he is a tiramisu fanatic!! I personally am not a fan, but I would happily eat this one, if my partner saves me any :D Next time I try this, I am going to try a few variations, using this as a base, and trying a few things that others have posted. Thank you for the ideas. Remember as mentioned above, it really is about personal taste, and recipes vary from region to region. I am Maltese/German, and I notice that my family recipes are different to others from other areas. Recipes are guidelines, and change things to suit your tastes. I love this recipe, so I am always going to use this as my base. Thank you so much for posting this. I can't wait to make it again. And the line about arguing with engineers, is like wrestling with a pig...so true!! My father-in-law was an engineer and as soon as I read that I thought of him...especially when arguing over recipes :D</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 22, 2012 at 07:47 PM, crazy4pastry (guest) said...</div>
+					<div class="commentsubject">Subject: <span>tiramisu</span><br /></div>
+					<div class="commentbody">Every time I mix the custard yolk mixture with the Marscapone cheese it looks like ricotta cheese.  Nothing I do can make it smooth.  What did I do wrong.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On January 14, 2013 at 04:00 AM, bikepixi (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Coffee in Tiramisu - Quality is important</span><br /></div>
+					<div class="commentbody">Espresso should not be overly bitter, even if made from a dark roast. Bitter coffee (even if bought from a "proper coffee shop") has either been overextracted or overheated.<br />
+<br />
+Overextraction: Coffee has many aromatic compounds and the length of time you pour a coffee shot for dictates how many of these end up in your shot of espresso. Generally the more bitter compounds are those that dissolve last. The best flavours come during the first part of the extraction and the longer you leave the coffee extracting for, the more bitter it will taste. Sure, you will get more coffee if you run the water through it for longer but it wont taste as good and will need more sugar to mask the bitter flavours. If you buy a large amount of espresso and tell your coffee shop what it is for I guess they could feel the temptation to overextract in order to bulk it out.<br />
+<br />
+Overheating: If the water you pump through your coffee is too hot then it can dissolve the aromatic compounds faster. Some machines are not very good at maintaining a constant temperature in their water tanks and shot consistency will vary.<br />
+<br />
+Like cooking with wine. If your coffee is not fit for consumption as a beverage then you shouldn't really be using it in your recipe.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On February 04, 2013 at 06:49 AM, Tiramisu fans in Austin (guest) said...</div>
+					<div class="commentsubject">Subject: <span>A trick for the cocoa dusting, and data on eggs/salmonella</span><br /></div>
+					<div class="commentbody">Lovely conversation, we enjoyed the blog and tried your delicious "simple tiramisu" recipe.  Here's our trick for sprinkling cocoa: we use a tea strainer as a mini sieve to evenly dust the tiramisu BEFORE chilling it.  While it chills, the bitter cocoa flavor subtly harmonizes with the sweetness of the top layer of marscapone filling.  You also avoid the potential choking/coughing hazard that occurs when one of your guests accidentally inhales dry cocoa dust in that first eager bite.  (Very unpleasant if you've never done that).  The cocoa is also full of antioxidants which could be why some of you are observing that it seems to protect the eggs/cheese from getting that yellow tinge of mayo left out too long.    <br />
+<br />
+For those that are concerned about lady fingers versus other cake and authenticity:  Italy went through a horrible economic recession in the 1970s after a prosperous post-WWII period.  What happens during a recession?  Well, it's kind of like American Great Depression era recipes, things like eggs, cheese, fine alcohol, high quality oils, and cream become expensive commodities and people come up with creative and tasty ways to still make their favorite desserts without them.  So, the very wide variation not only in tiramisu recipes but also in lasagna recipes and pizza recipes, is partially a product of the time and place, which effected the ingredients available.  So, some of these recipes might not be "original" but that doesn't mean they aren't "authentic" to the context that produced them.  <br />
+<br />
+Since there are a bunch of engineers on here, I am going geek out about the salmonella myth.  The reason why you never really hear about salmonella outbreaks amongst the tens of thousands of people that sneak a bite of cake batter or sip homemade egg nog is that sugar is a natural anti-bacterial agent.  Salmonella is a bacteria.  Sugar deprives bacteria of water (sugar can even be used on open wounds in extreme emergency situations where help won't be available for a couple days).  That's what cooks mean when they say the sugar "cooks" the item and why they make you wait four hours to eat it.  For those of you who love salt cured items, or acid cured items like ceviche, similar biochemical processes occur.  The proof is in your own refrigerator: you probably have a jar of jelly, jam, pickles, ketchup or mustard that was opened months ago and is perfectly fine, whereas the chicken you cooked only last week is already growing strange fuzzy friends.  Sugar and salt are mankind's oldest, natural preservatives.  (So, no artificial sweeteners if you decide to use raw eggs, and don't cheat on the chilling time)!  <br />
+<br />
+Some of the recipes for tiramisu with a cooked egg custard could be variations post-1980s when salmonella breakouts became big news.  What might give you peace of mind is that the American Egg Board says there is only a 1 in 20,000 chance that your particular egg has salmonella.  To put that number in perspective, you are several times more likely to get killed in a car accident  (12.3 fatalities per 100,000 americans) than contract salmonella from a raw egg.  Finally, the CDC and FDA have put new anti-salmonella measures into place in 2010 and again in 2013.  <br />
+<br />
+That's not to say you shouldn't be careful and picky about raw egg recipes.  Pasteurizing eggs at home can let you relax and enjoy recipes that call for raw eggs if you have any doubts. <br />
+<br />
+How to pasteurize raw eggs:<br />
+http://www.howtobaker.com/techniques/baking/how-to-pasteurize-eggs/<br />
+<br />
+How sugar and salt kill bacteria according to Scientific American:<br />
+http://www.scientificamerican.com/article.cfm?id=how-do-salt-and-sugar-pre<br />
+<br />
+Bon appétit!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On February 18, 2014 at 11:15 PM, bloop (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">according to <a href='https://en.wikipedia.org/wiki/Tiramisu#Preparation'>wikipedia</a> the original version had no alcohol in it<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+also your spameaversion thing with incrementation is idiotic. it took me much too long to find this.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On March 21, 2014 at 10:56 AM, Von (guest) said...</div>
+					<div class="commentsubject">Subject: <span>The Original Tiramisu</span><br /></div>
+					<div class="commentbody">I came across your site and was wowed by "The Original Tiramisu" blog.  So impressed by your table and cute Layer Diagram that I am definitely going to try this recipe out.  I lovvvvee tiramisu and have yet to discover the perfect ensemble.  Thank you so much for sharing.</div>
+					<hr size="1" noshade />
+				
+		<div class="commentlink">
+			<a href="/forums/posting.php?mode=reply&t=271" title="Comments are managed in the Cooking For Engineers Forums">Post a comment on <i>The Classic Tiramisu (original recipe?)</i></a>
+		</div>
+	</div>
+	
+</div>
+	
+  
+	<div class="spacer3"></div>
+	
+<!-- Google DFP Article_Footer_728x90-->
+<center>
+<div id='dfp_gpt_4' style='width:728px; height:90px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('dfp_gpt_4'); });
+</script>
+</div>
+</center>
+
+	<div class="spacer3"></div>
+
+
+		</div>
+		
+		
+			
+<table class="fl_table" cellspacing="2" cellpadding="0" border="0">
+	<tr>
+		<td width="16%">
+			<a href="/article/138/About-Cooking-For-Engineers" title="About Cooking For Engineers">About CfE</a>
+		</td>
+		<td width="17%">
+			<a href="/article/139/Contact-Cooking-For-Engineers" title="Contact Cooking For Engineers">Contact</a>
+		</td>
+		<td width="17%">
+			<a href="/article/190/User-Agreement" title="User Agreement">User Agreement</a>
+		</td>
+		<td width="16%">
+			<a href="/article/140/Frequently-Asked-Questions" title="Frequently Asked Questions">FAQ's</a>
+		</td>
+		<td width="17%">
+			<a href="/article/141/In-the-Press" title="Cooking For Engineers in the Press">In the Press</a>
+		</td>
+		<td width="17%">
+			<a href="/article/191/Article-Submission-Program" title="Article Submission Program">Write for CfE</a>
+		</td>
+	</tr>
+</table>
+			
+		
+		<div id="footer">
+	
+  <center><span style="font-size: 85%; line-height: 110%;">All content published by CFE Enterprises, Inc. under license with copyright holders<br>Tabular Recipe Notation Patent Pending (Michael Chu)</span></center>
+
+	<center><a href="/atom.xml">Syndicate</a> <a href="/atom.xml"><img src="/pics/xml.gif" alt="(XML)" style="vertical-align: middle;" border="0" /></a></center>
+
+	
+
+	
+
+	
+	
+	  <!-- Google Analytics -->
+	<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+	</script>
+	<script type="text/javascript">
+	_uacct = "UA-254248-1";
+	urchinTracker();
+	</script>
+
+		
+	<script type="text/javascript">stLight.options({publisher: "b3ed4fb7-bc1d-41a0-b780-15d3cf6b7561"});</script>
+<script>
+var options={ "publisher": "b3ed4fb7-bc1d-41a0-b780-15d3cf6b7561", "position": "left", "ad": { "visible": false, "openDelay": 5, "closeDelay": 0}, "chicklets": { "items": ["facebook", "pinterest", "twitter", "googleplus", "stumbleupon", "email"]}};
+var st_hover_widget = new sharethis.widgets.hoverbuttons(options);
+</script>
+ </div>
+		
+	</body>
+</html>

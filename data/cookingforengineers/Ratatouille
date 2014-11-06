@@ -1,0 +1,1399 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+	<head>
+		<title>Ratatouille - Recipe File - Cooking For Engineers</title>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="description" content="Step by step recipe instructions for ratatouille complete with photographs and reader comments and discussion" />
+		<meta name="keywords" content="cooking,recipes,techniques,photos,discussion,ratatouille" />
+		
+		
+		<link href="/stylesheets/style.css?1381092548" media="screen" rel="Stylesheet" type="text/css" /><link href="/stylesheets/frontpage.css?1204359954" media="screen" rel="Stylesheet" type="text/css" />
+		
+		
+		
+		<script src="/javascripts/prototype.js?1204375576" type="text/javascript"></script><script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript" src="http://s.sharethis.com/loader.js"></script>
+
+		
+<script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + 
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
+
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+
+googletag.defineSlot('/1057967/Article_160x600', [160, 600], 'dfp_gpt_1').addService(googletag.pubads());
+
+googletag.defineSlot('/1057967/Article_300x250', [300, 250], 'dfp_gpt_2').addService(googletag.pubads());
+
+googletag.defineSlot('/1057967/Article_728x90', [728, 90], 'dfp_gpt_3').addService(googletag.pubads());
+
+googletag.defineSlot('/1057967/Article_Footer_728x90', [728, 90], 'dfp_gpt_4').addService(googletag.pubads());
+
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+});
+</script>
+
+		<link href="http://www.cookingforengineers.com/atom.xml" rel="alternate" title="Atom 1.0 Feed" type="application/atom+xml" />
+		
+		<link rel="shortcut icon" href="http://www.cookingforengineers.com/favicon.ico" />
+	</head>
+	<body>
+		
+		
+		
+			<div class="navbar">
+	<div style="float:left">
+		<div class="sitetitle"><a href="/">Cooking For Engineers<span class="trademark">&reg;</span></a></div>
+		<div class="subtitle">Have an analytical mind? Like to cook? This is the site to read!</div>
+	</div>
+	<div style="float:right; margin: 15px 8px 0 0">
+		<form method="get" action="/searchform" style="margin: 0pt; display: inline;">
+		  <input style="margin: 0pt 0pt 2px; font-size: 90%;" name="terms" size="25" maxlength="255" value="" type="text">
+		  <input style="margin: 0pt 0pt 2px; font-size: 90%;" name="search" value="Search" type="submit">
+	  </form>
+	  <br>
+	  <!-- Google Search -->
+	  <form target="_blank" action="http://www.google.com/search" style="margin: 0pt; display: inline;">
+		  <input style="font-size: 90%;" size="24" maxlength="255" value="half cup in milliliters" name="q" type="text">
+		  <input style="font-size: 90%;" name="sa" value="Convert" type="submit">
+		</form>
+	</div>	
+	<div class="clear"></div>
+	<table class="nav" cellpadding="0" cellspacing="1">
+		<tr><td width="11%" id="categorytd_Books"><a href="#" onClick="showcat('Books');return false">Books</a></td>
+			<td width="11%" id="categorytd_CookingTests"><a href="#" onClick="showcat('CookingTests');return false">Cooking&nbsp;Tests</a></td>
+			<td width="11%" id="categorytd_DiningOut"><a href="#" onClick="showcat('DiningOut');return false">Dining&nbsp;Out</a></td>
+			<td width="11%" id="categorytd_EquipmentGear"><a href="#" onClick="showcat('EquipmentGear');return false">Equipment&nbsp;&amp;&nbsp;Gear</a></td>
+			<td width="11%" id="categorytd_KitchenNotes"><a href="#" onClick="showcat('KitchenNotes');return false">Kitchen&nbsp;Notes</a></td>
+			<td width="11%" id="categorytd_OffTopic"><a href="#" onClick="showcat('OffTopic');return false">Off&nbsp;Topic</a></td>
+			<td width="11%" id="categorytd_RecipeFile"><a href="#" onClick="showcat('RecipeFile');return false">Recipe&nbsp;File</a></td>
+			<td width="11%" id="categorytd_SousVide"><a href="#" onClick="showcat('SousVide');return false">Sous&nbsp;Vide</a></td>
+			<td width="12%" id="categorytd_TestRecipes"><a href="#" onClick="showcat('TestRecipes');return false">Test&nbsp;Recipes</a></td>
+			</tr>
+	</table>
+	<script type="text/javascript">
+//<![CDATA[
+
+	function lb(id)
+	{
+		document.getElementById(id).style.border='1px solid #FFFF00';
+	}
+	function db(id)
+	{
+		document.getElementById(id).style.border='1px solid #99FF99';
+	}
+	function showcat(id)
+	{
+		var curdisplay = document.getElementById('navcat_'+id).style.display;
+		document.getElementById('navcat_Books').style.display='none';
+document.getElementById('navcat_CookingTests').style.display='none';
+document.getElementById('navcat_DiningOut').style.display='none';
+document.getElementById('navcat_EquipmentGear').style.display='none';
+document.getElementById('navcat_KitchenNotes').style.display='none';
+document.getElementById('navcat_OffTopic').style.display='none';
+document.getElementById('navcat_RecipeFile').style.display='none';
+document.getElementById('navcat_SousVide').style.display='none';
+document.getElementById('navcat_TestRecipes').style.display='none';
+
+		document.getElementById('categorytd_Books').style.border='1px solid #99FF99';
+document.getElementById('categorytd_Books').style.backgroundColor='transparent';
+document.getElementById('categorytd_CookingTests').style.border='1px solid #99FF99';
+document.getElementById('categorytd_CookingTests').style.backgroundColor='transparent';
+document.getElementById('categorytd_DiningOut').style.border='1px solid #99FF99';
+document.getElementById('categorytd_DiningOut').style.backgroundColor='transparent';
+document.getElementById('categorytd_EquipmentGear').style.border='1px solid #99FF99';
+document.getElementById('categorytd_EquipmentGear').style.backgroundColor='transparent';
+document.getElementById('categorytd_KitchenNotes').style.border='1px solid #99FF99';
+document.getElementById('categorytd_KitchenNotes').style.backgroundColor='transparent';
+document.getElementById('categorytd_OffTopic').style.border='1px solid #99FF99';
+document.getElementById('categorytd_OffTopic').style.backgroundColor='transparent';
+document.getElementById('categorytd_RecipeFile').style.border='1px solid #99FF99';
+document.getElementById('categorytd_RecipeFile').style.backgroundColor='transparent';
+document.getElementById('categorytd_SousVide').style.border='1px solid #99FF99';
+document.getElementById('categorytd_SousVide').style.backgroundColor='transparent';
+document.getElementById('categorytd_TestRecipes').style.border='1px solid #99FF99';
+document.getElementById('categorytd_TestRecipes').style.backgroundColor='transparent';
+
+		if (curdisplay != 'block')
+		{
+			document.getElementById('categorytd_'+id).style.border='1px solid #9999FF';
+			document.getElementById('categorytd_'+id).style.backgroundColor='#000060';
+			document.getElementById('navcat_'+id).style.display='block';
+		}
+		else
+		{
+			document.getElementById('navcat_'+id).style.display='none';
+		}
+	}
+	
+//]]>
+</script>
+	<div id="navcat_Books" style="display:none"><table width="100%" class="navlinks" cellpadding="0" cellspacing="1"><tr><td width="25%" id="nl248" onclick="window.location='/article/248/Everybody-Eats-Lunch-by-Cricket-Azima'" onMouseOver="lb('nl248')" onMouseOut="db('nl248')" ><a href="/article/248/Everybody-Eats-Lunch-by-Cricket-Azima" title="Books: Everybody Eats Lunch by Cricket Azima">Everybody Eats Lunch by Cricket Azima</a></td><td width="25%" id="nl229" onclick="window.location='/article/229/Joy-of-Cooking-75th-Anniversary-Edition-2006'" onMouseOver="lb('nl229')" onMouseOut="db('nl229')" ><a href="/article/229/Joy-of-Cooking-75th-Anniversary-Edition-2006" title="Books: Joy of Cooking (75th Anniversary Edition; 2006)">Joy of Cooking (75th Anniversary Edition; 2006)</a></td><td width="25%" id="nl307" onclick="window.location='/article/307/Ten-Great-Gifts-for-Cooking-For-Engineers-Fans'" onMouseOver="lb('nl307')" onMouseOut="db('nl307')" ><a href="/article/307/Ten-Great-Gifts-for-Cooking-For-Engineers-Fans" title="Books: Ten Great Gifts for Cooking For Engineers' Fans">Ten Great Gifts for Cooking For Engineers' Fans</a></td><td width="25%" id="nl241" onclick="window.location='/article/241/The-Story-of-Tea-by-Mary-Lou-and-Robert-Heiss'" onMouseOver="lb('nl241')" onMouseOut="db('nl241')" ><a href="/article/241/The-Story-of-Tea-by-Mary-Lou-and-Robert-Heiss" title="Books: The Story of Tea by Mary Lou and Robert Heiss">The Story of Tea by Mary Lou and Robert Heiss</a></td></tr><tr><td id="nl270" onclick="window.location='/article/270/Fun-Food-Facts-by-Mike-Bellino'" onMouseOver="lb('nl270')" onMouseOut="db('nl270')" ><a href="/article/270/Fun-Food-Facts-by-Mike-Bellino" title="Books: Fun Food Facts by Mike Bellino">Fun Food Facts by Mike Bellino</a></td><td id="nl242" onclick="window.location='/article/242/Kitchen-Mysteries-by-Herve-This'" onMouseOver="lb('nl242')" onMouseOut="db('nl242')" ><a href="/article/242/Kitchen-Mysteries-by-Herve-This" title="Books: Kitchen Mysteries by Herve This">Kitchen Mysteries by Herve This</a></td><td id="nl254" onclick="window.location='/article/254/The-Science-of-Good-Food'" onMouseOver="lb('nl254')" onMouseOut="db('nl254')" ><a href="/article/254/The-Science-of-Good-Food" title="Books: The Science of Good Food">The Science of Good Food</a></td><td id="nl220" onclick="window.location='/article/220/Toast-by-Nigel-Slater'" onMouseOver="lb('nl220')" onMouseOut="db('nl220')" ><a href="/article/220/Toast-by-Nigel-Slater" title="Books: Toast by Nigel Slater">Toast by Nigel Slater</a></td></tr><tr><td id="nl201" onclick="window.location='/article/201/Heat-by-Bill-Buford'" onMouseOver="lb('nl201')" onMouseOut="db('nl201')" ><a href="/article/201/Heat-by-Bill-Buford" title="Books: Heat by Bill Buford">Heat by Bill Buford</a></td><td id="nl333" onclick="window.location='/article/333/Modernist-Cuisine-at-Home-on-Inkling'" onMouseOver="lb('nl333')" onMouseOut="db('nl333')" ><a href="/article/333/Modernist-Cuisine-at-Home-on-Inkling" title="Books: Modernist Cuisine at Home on Inkling">Modernist Cuisine at Home on Inkling</a></td><td id="nl292" onclick="window.location='/article/292/The-Sorcerers-Apprentices-by-Lisa-Abend'" onMouseOver="lb('nl292')" onMouseOut="db('nl292')" ><a href="/article/292/The-Sorcerers-Apprentices-by-Lisa-Abend" title="Books: The Sorcerer's Apprentices by Lisa Abend">The Sorcerer's Apprentices by Lisa Abend</a></td><td id="nl233" onclick="window.location='/article/233/Vegetables-The-Culinary-Institute-of-America'" onMouseOver="lb('nl233')" onMouseOut="db('nl233')" ><a href="/article/233/Vegetables-The-Culinary-Institute-of-America" title="Books: Vegetables (The Culinary Institute of America)">Vegetables (The Culinary Institute of America)</a></td></tr></table></div>
+	<div id="navcat_CookingTests" style="display:none"><table width="100%" class="navlinks" cellpadding="0" cellspacing="1"><tr><td width="25%" id="nl3" onclick="window.location='/article/3/Bacon-Part-I'" onMouseOver="lb('nl3')" onMouseOut="db('nl3')" ><a href="/article/3/Bacon-Part-I" title="Cooking Tests: Bacon (Part I)">Bacon (Part I)</a></td><td width="25%" id="nl171" onclick="window.location='/article/171/Beer-Can-Chicken'" onMouseOver="lb('nl171')" onMouseOut="db('nl171')" ><a href="/article/171/Beer-Can-Chicken" title="Cooking Tests: Beer Can Chicken">Beer Can Chicken</a></td><td width="25%" id="nl173" onclick="window.location='/article/173/HFCS-Free-Cream-Sodas'" onMouseOver="lb('nl173')" onMouseOut="db('nl173')" ><a href="/article/173/HFCS-Free-Cream-Sodas" title="Cooking Tests: HFCS-Free Cream Sodas">HFCS-Free Cream Sodas</a></td><td width="25%" id="nl249" onclick="window.location='/article/249/Soft-Boiled-Eggs'" onMouseOver="lb('nl249')" onMouseOut="db('nl249')" ><a href="/article/249/Soft-Boiled-Eggs" title="Cooking Tests: Soft Boiled Eggs">Soft Boiled Eggs</a></td></tr><tr><td id="nl110" onclick="window.location='/article/110/Bacon-Part-II'" onMouseOver="lb('nl110')" onMouseOut="db('nl110')" ><a href="/article/110/Bacon-Part-II" title="Cooking Tests: Bacon (Part II)">Bacon (Part II)</a></td><td id="nl5" onclick="window.location='/article/5/Eggplant-Taste-Test'" onMouseOver="lb('nl5')" onMouseOut="db('nl5')" ><a href="/article/5/Eggplant-Taste-Test" title="Cooking Tests: Eggplant Taste Test">Eggplant Taste Test</a></td></tr></table></div>
+	<div id="navcat_DiningOut" style="display:none"><table width="100%" class="navlinks" cellpadding="0" cellspacing="1"><tr><td width="25%" id="nl202" onclick="window.location='/article/202/Ad-Hoc-Yountville-California'" onMouseOver="lb('nl202')" onMouseOut="db('nl202')" ><a href="/article/202/Ad-Hoc-Yountville-California" title="Dining Out: Ad Hoc (Yountville, California)">Ad Hoc (Yountville, California)</a></td><td width="25%" id="nl299" onclick="window.location='/article/299/Chicago-2011-Part-4-Gibsons-Bar-Steakhouse'" onMouseOver="lb('nl299')" onMouseOut="db('nl299')" ><a href="/article/299/Chicago-2011-Part-4-Gibsons-Bar-Steakhouse" title="Dining Out: Chicago 2011 Part 4 - Gibson's Bar &amp; Steakhouse">Chicago 2011 Part 4 - Gibson's Bar &amp; Steakhouse</a></td><td width="25%" id="nl330" onclick="window.location='/article/330/Cook-Taste-Barcelona-Spain'" onMouseOver="lb('nl330')" onMouseOut="db('nl330')" ><a href="/article/330/Cook-Taste-Barcelona-Spain" title="Dining Out: Cook &amp; Taste (Barcelona, Spain)">Cook &amp; Taste (Barcelona, Spain)</a></td><td width="25%" id="nl329" onclick="window.location='/article/329/Pakta-Barcelona-Spain'" onMouseOver="lb('nl329')" onMouseOut="db('nl329')" ><a href="/article/329/Pakta-Barcelona-Spain" title="Dining Out: Pakta (Barcelona, Spain)">Pakta (Barcelona, Spain)</a></td></tr><tr><td id="nl88" onclick="window.location='/article/88/Ahwahnee-Hotel-Kitchen-Yosemite-California'" onMouseOver="lb('nl88')" onMouseOut="db('nl88')" ><a href="/article/88/Ahwahnee-Hotel-Kitchen-Yosemite-California" title="Dining Out: Ahwahnee Hotel Kitchen (Yosemite, California)">Ahwahnee Hotel Kitchen (Yosemite, California)</a></td><td id="nl300" onclick="window.location='/article/300/Chicago-2011-Part-5-Frontera-Grill-XOCO'" onMouseOver="lb('nl300')" onMouseOut="db('nl300')" ><a href="/article/300/Chicago-2011-Part-5-Frontera-Grill-XOCO" title="Dining Out: Chicago 2011 Part 5 - Frontera Grill, XOCO">Chicago 2011 Part 5 - Frontera Grill, XOCO</a></td><td id="nl253" onclick="window.location='/article/253/Elements-Napa-California'" onMouseOver="lb('nl253')" onMouseOut="db('nl253')" ><a href="/article/253/Elements-Napa-California" title="Dining Out: Elements (Napa, California)">Elements (Napa, California)</a></td><td id="nl260" onclick="window.location='/article/260/Parcel-104-Santa-Clara-California'" onMouseOver="lb('nl260')" onMouseOut="db('nl260')" ><a href="/article/260/Parcel-104-Santa-Clara-California" title="Dining Out: Parcel 104 (Santa Clara, California)">Parcel 104 (Santa Clara, California)</a></td></tr><tr><td id="nl311" onclick="window.location='/article/311/Blue-Bell-Creamery-Factory-Tour'" onMouseOver="lb('nl311')" onMouseOut="db('nl311')" ><a href="/article/311/Blue-Bell-Creamery-Factory-Tour" title="Dining Out: Blue Bell Creamery Factory Tour">Blue Bell Creamery Factory Tour</a></td><td id="nl301" onclick="window.location='/article/301/Chicago-2011-Part-6-Noodles-by-Takashi-Yagihashi-Frontera-Fresco-Marc-Burger'" onMouseOver="lb('nl301')" onMouseOut="db('nl301')" ><a href="/article/301/Chicago-2011-Part-6-Noodles-by-Takashi-Yagihashi-Frontera-Fresco-Marc-Burger" title="Dining Out: Chicago 2011 Part 6 - Noodles by Takashi Yagihashi, Frontera Fresco, Marc Burger">Chicago 2011 Part 6 - Noodles by Takashi Yagihashi, Frontera Fresco, Marc Burger</a></td><td id="nl316" onclick="window.location='/article/316/Georges-San-Francisco-California'" onMouseOver="lb('nl316')" onMouseOut="db('nl316')" ><a href="/article/316/Georges-San-Francisco-California" title="Dining Out: Georges (San Francisco, California)">Georges (San Francisco, California)</a></td><td id="nl281" onclick="window.location='/article/281/Per-Se-New-York-New-York'" onMouseOver="lb('nl281')" onMouseOut="db('nl281')" ><a href="/article/281/Per-Se-New-York-New-York" title="Dining Out: Per Se (New York, New York)">Per Se (New York, New York)</a></td></tr><tr><td id="nl91" onclick="window.location='/article/91/Cafe-Terigo-Park-City-Utah'" onMouseOver="lb('nl91')" onMouseOut="db('nl91')" ><a href="/article/91/Cafe-Terigo-Park-City-Utah" title="Dining Out: Cafe Terigo (Park City, Utah)">Cafe Terigo (Park City, Utah)</a></td><td id="nl302" onclick="window.location='/article/302/Chicago-2011-Part-7-Alinea'" onMouseOver="lb('nl302')" onMouseOut="db('nl302')" ><a href="/article/302/Chicago-2011-Part-7-Alinea" title="Dining Out: Chicago 2011 Part 7 - Alinea">Chicago 2011 Part 7 - Alinea</a></td><td id="nl240" onclick="window.location='/article/240/Hard-Knox-Cafe-San-Francisco-California'" onMouseOver="lb('nl240')" onMouseOut="db('nl240')" ><a href="/article/240/Hard-Knox-Cafe-San-Francisco-California" title="Dining Out: Hard Knox Cafe (San Francisco, California)">Hard Knox Cafe (San Francisco, California)</a></td><td id="nl324" onclick="window.location='/article/324/Ramen-in-Austin-Michi-Ramen-and-Ramen-Tatsuya'" onMouseOver="lb('nl324')" onMouseOut="db('nl324')" ><a href="/article/324/Ramen-in-Austin-Michi-Ramen-and-Ramen-Tatsuya" title="Dining Out: Ramen in Austin (Michi Ramen and Ramen Tatsuya)">Ramen in Austin (Michi Ramen and Ramen Tatsuya)</a></td></tr><tr><td id="nl231" onclick="window.location='/article/231/Chads-Fish-Chips-Willits-California'" onMouseOver="lb('nl231')" onMouseOut="db('nl231')" ><a href="/article/231/Chads-Fish-Chips-Willits-California" title="Dining Out: Chad's Fish &amp; Chips (Willits, California)">Chad's Fish &amp; Chips (Willits, California)</a></td><td id="nl303" onclick="window.location='/article/303/Chicago-2011-Part-8-Vienna-Beef-Factory'" onMouseOver="lb('nl303')" onMouseOut="db('nl303')" ><a href="/article/303/Chicago-2011-Part-8-Vienna-Beef-Factory" title="Dining Out: Chicago 2011 Part 8 - Vienna Beef Factory">Chicago 2011 Part 8 - Vienna Beef Factory</a></td><td id="nl247" onclick="window.location='/article/247/Jai-Yun-San-Francisco'" onMouseOver="lb('nl247')" onMouseOut="db('nl247')" ><a href="/article/247/Jai-Yun-San-Francisco" title="Dining Out: Jai Yun (San Francisco)">Jai Yun (San Francisco)</a></td><td id="nl153" onclick="window.location='/article/153/Shadowbrook-Restaurant-Capitola-California'" onMouseOver="lb('nl153')" onMouseOut="db('nl153')" ><a href="/article/153/Shadowbrook-Restaurant-Capitola-California" title="Dining Out: Shadowbrook Restaurant (Capitola, California)">Shadowbrook Restaurant (Capitola, California)</a></td></tr><tr><td id="nl295" onclick="window.location='/article/295/Chicago-2011-Part-1a-Overview'" onMouseOver="lb('nl295')" onMouseOut="db('nl295')" ><a href="/article/295/Chicago-2011-Part-1a-Overview" title="Dining Out: Chicago 2011 Part 1a - Overview">Chicago 2011 Part 1a - Overview</a></td><td id="nl304" onclick="window.location='/article/304/Chicago-2011-Part-9-Girl-and-the-Goat'" onMouseOver="lb('nl304')" onMouseOut="db('nl304')" ><a href="/article/304/Chicago-2011-Part-9-Girl-and-the-Goat" title="Dining Out: Chicago 2011 Part 9 - Girl and the Goat">Chicago 2011 Part 9 - Girl and the Goat</a></td><td id="nl204" onclick="window.location='/article/204/Maverick-San-Francisco-California'" onMouseOver="lb('nl204')" onMouseOut="db('nl204')" ><a href="/article/204/Maverick-San-Francisco-California" title="Dining Out: Maverick (San Francisco, California)">Maverick (San Francisco, California)</a></td><td id="nl216" onclick="window.location='/article/216/Soul-Bar-Bistro-Auckland-New-Zealand'" onMouseOver="lb('nl216')" onMouseOut="db('nl216')" ><a href="/article/216/Soul-Bar-Bistro-Auckland-New-Zealand" title="Dining Out: Soul Bar &amp; Bistro (Auckland, New Zealand)">Soul Bar &amp; Bistro (Auckland, New Zealand)</a></td></tr><tr><td id="nl296" onclick="window.location='/article/296/Chicago-2011-Part-1b-Overview'" onMouseOver="lb('nl296')" onMouseOut="db('nl296')" ><a href="/article/296/Chicago-2011-Part-1b-Overview" title="Dining Out: Chicago 2011 Part 1b - Overview">Chicago 2011 Part 1b - Overview</a></td><td id="nl267" onclick="window.location='/article/267/Coi-San-Francisco-California'" onMouseOver="lb('nl267')" onMouseOut="db('nl267')" ><a href="/article/267/Coi-San-Francisco-California" title="Dining Out: Coi (San Francisco, California)">Coi (San Francisco, California)</a></td><td id="nl235" onclick="window.location='/article/235/Michelin-Rated-Restaurants-San-Francisco-2007'" onMouseOver="lb('nl235')" onMouseOut="db('nl235')" ><a href="/article/235/Michelin-Rated-Restaurants-San-Francisco-2007" title="Dining Out: Michelin Rated Restaurants (San Francisco 2007)">Michelin Rated Restaurants (San Francisco 2007)</a></td><td id="nl293" onclick="window.location='/article/293/The-Noble-Pig-Austin-Texas'" onMouseOver="lb('nl293')" onMouseOut="db('nl293')" ><a href="/article/293/The-Noble-Pig-Austin-Texas" title="Dining Out: The Noble Pig (Austin, Texas)">The Noble Pig (Austin, Texas)</a></td></tr><tr><td id="nl297" onclick="window.location='/article/297/Chicago-2011-Part-2-Shui-Wah-Santa-Anna-Bakery'" onMouseOver="lb('nl297')" onMouseOut="db('nl297')" ><a href="/article/297/Chicago-2011-Part-2-Shui-Wah-Santa-Anna-Bakery" title="Dining Out: Chicago 2011 Part 2 - Shui Wah, Santa Anna Bakery">Chicago 2011 Part 2 - Shui Wah, Santa Anna Bakery</a></td><td id="nl291" onclick="window.location='/article/291/Congress-Austin-Texas'" onMouseOver="lb('nl291')" onMouseOut="db('nl291')" ><a href="/article/291/Congress-Austin-Texas" title="Dining Out: Congress (Austin, Texas)">Congress (Austin, Texas)</a></td><td id="nl236" onclick="window.location='/article/236/Michelin-Rated-Restaurants-San-Francisco-2008'" onMouseOver="lb('nl236')" onMouseOut="db('nl236')" ><a href="/article/236/Michelin-Rated-Restaurants-San-Francisco-2008" title="Dining Out: Michelin Rated Restaurants (San Francisco 2008)">Michelin Rated Restaurants (San Francisco 2008)</a></td><td id="nl245" onclick="window.location='/article/245/Uchi-Austin-Texas'" onMouseOver="lb('nl245')" onMouseOut="db('nl245')" ><a href="/article/245/Uchi-Austin-Texas" title="Dining Out: Uchi (Austin, Texas)">Uchi (Austin, Texas)</a></td></tr><tr><td id="nl298" onclick="window.location='/article/298/Chicago-2011-Part-3-Pizzeria-Uno-Giordanos'" onMouseOver="lb('nl298')" onMouseOut="db('nl298')" ><a href="/article/298/Chicago-2011-Part-3-Pizzeria-Uno-Giordanos" title="Dining Out: Chicago 2011 Part 3 - Pizzeria Uno, Giordano's">Chicago 2011 Part 3 - Pizzeria Uno, Giordano's</a></td></tr></table></div>
+	<div id="navcat_EquipmentGear" style="display:none"><table width="100%" class="navlinks" cellpadding="0" cellspacing="1"><tr><td width="25%" id="nl319" onclick="window.location='/article/319/Anolon-Nouvelle-Copper-Stainless-Steel-3-qt-Covered-Saute-Pan'" onMouseOver="lb('nl319')" onMouseOut="db('nl319')" ><a href="/article/319/Anolon-Nouvelle-Copper-Stainless-Steel-3-qt-Covered-Saute-Pan" title="Equipment &amp; Gear: Anolon Nouvelle Copper Stainless Steel 3-qt Covered Saute Pan">Anolon Nouvelle Copper Stainless Steel 3-qt Covered Saute Pan</a></td><td width="25%" id="nl17" onclick="window.location='/article/17/Cutting-Boards'" onMouseOver="lb('nl17')" onMouseOut="db('nl17')" ><a href="/article/17/Cutting-Boards" title="Equipment &amp; Gear: Cutting Boards">Cutting Boards</a></td><td width="25%" id="nl95" onclick="window.location='/article/95/Kitchen-Thermometers'" onMouseOver="lb('nl95')" onMouseOut="db('nl95')" ><a href="/article/95/Kitchen-Thermometers" title="Equipment &amp; Gear: Kitchen Thermometers">Kitchen Thermometers</a></td><td width="25%" id="nl99" onclick="window.location='/article/99/Microwave-Safe-Containers'" onMouseOver="lb('nl99')" onMouseOut="db('nl99')" ><a href="/article/99/Microwave-Safe-Containers" title="Equipment &amp; Gear: Microwave Safe Containers">Microwave Safe Containers</a></td></tr><tr><td id="nl205" onclick="window.location='/article/205/Bakers-Edge'" onMouseOver="lb('nl205')" onMouseOut="db('nl205')" ><a href="/article/205/Bakers-Edge" title="Equipment &amp; Gear: Baker's Edge">Baker's Edge</a></td><td id="nl222" onclick="window.location='/article/222/Fathers-Day-Gift-Ideas'" onMouseOver="lb('nl222')" onMouseOut="db('nl222')" ><a href="/article/222/Fathers-Day-Gift-Ideas" title="Equipment &amp; Gear: Father's Day Gift Ideas">Father's Day Gift Ideas</a></td><td id="nl187" onclick="window.location='/article/187/Knife-and-Sharpening-Steel-Hardness'" onMouseOver="lb('nl187')" onMouseOut="db('nl187')" ><a href="/article/187/Knife-and-Sharpening-Steel-Hardness" title="Equipment &amp; Gear: Knife and Sharpening Steel Hardness">Knife and Sharpening Steel Hardness</a></td><td id="nl84" onclick="window.location='/article/84/NSF-Certification'" onMouseOver="lb('nl84')" onMouseOut="db('nl84')" ><a href="/article/84/NSF-Certification" title="Equipment &amp; Gear: NSF Certification">NSF Certification</a></td></tr><tr><td id="nl290" onclick="window.location='/article/290/Ceramic-Chefs-Knives-Rated'" onMouseOver="lb('nl290')" onMouseOut="db('nl290')" ><a href="/article/290/Ceramic-Chefs-Knives-Rated" title="Equipment &amp; Gear: Ceramic Chef's Knives Rated">Ceramic Chef's Knives Rated</a></td><td id="nl256" onclick="window.location='/article/256/GelPro-Mat'" onMouseOver="lb('nl256')" onMouseOut="db('nl256')" ><a href="/article/256/GelPro-Mat" title="Equipment &amp; Gear: GelPro Mat">GelPro Mat</a></td><td id="nl135" onclick="window.location='/article/135/Knife-Covers'" onMouseOver="lb('nl135')" onMouseOut="db('nl135')" ><a href="/article/135/Knife-Covers" title="Equipment &amp; Gear: Knife Covers">Knife Covers</a></td><td id="nl275" onclick="window.location='/article/275/Saber-Kitchen-Knives'" onMouseOver="lb('nl275')" onMouseOut="db('nl275')" ><a href="/article/275/Saber-Kitchen-Knives" title="Equipment &amp; Gear: Saber Kitchen Knives">Saber Kitchen Knives</a></td></tr><tr><td id="nl129" onclick="window.location='/article/129/Chefs-Knives-Rated'" onMouseOver="lb('nl129')" onMouseOut="db('nl129')" ><a href="/article/129/Chefs-Knives-Rated" title="Equipment &amp; Gear: Chef's Knives Rated">Chef's Knives Rated</a></td><td id="nl117" onclick="window.location='/article/117/Hefty-Serve-n-Store'" onMouseOver="lb('nl117')" onMouseOut="db('nl117')" ><a href="/article/117/Hefty-Serve-n-Store" title="Equipment &amp; Gear: Hefty Serve 'n Store">Hefty Serve 'n Store</a></td><td id="nl130" onclick="window.location='/article/130/Knife-Parts'" onMouseOver="lb('nl130')" onMouseOut="db('nl130')" ><a href="/article/130/Knife-Parts" title="Equipment &amp; Gear: Knife Parts">Knife Parts</a></td><td id="nl234" onclick="window.location='/article/234/Soda-Club-SodaStream'" onMouseOver="lb('nl234')" onMouseOut="db('nl234')" ><a href="/article/234/Soda-Club-SodaStream" title="Equipment &amp; Gear: Soda-Club (SodaStream)">Soda-Club (SodaStream)</a></td></tr><tr><td id="nl120" onclick="window.location='/article/120/Common-Materials-of-Cookware'" onMouseOver="lb('nl120')" onMouseOut="db('nl120')" ><a href="/article/120/Common-Materials-of-Cookware" title="Equipment &amp; Gear: Common Materials of Cookware">Common Materials of Cookware</a></td><td id="nl272" onclick="window.location='/article/272/Kapoosh-Knife-Block-not-recommended'" onMouseOver="lb('nl272')" onMouseOut="db('nl272')" ><a href="/article/272/Kapoosh-Knife-Block-not-recommended" title="Equipment &amp; Gear: Kapoosh Knife Block (not recommended)">Kapoosh Knife Block (not recommended)</a></td><td id="nl85" onclick="window.location='/article/85/Krups-Spice-Grinder'" onMouseOver="lb('nl85')" onMouseOut="db('nl85')" ><a href="/article/85/Krups-Spice-Grinder" title="Equipment &amp; Gear: Krups Spice Grinder">Krups Spice Grinder</a></td><td id="nl287" onclick="window.location='/article/287/Understanding-Blender-Specifications'" onMouseOver="lb('nl287')" onMouseOut="db('nl287')" ><a href="/article/287/Understanding-Blender-Specifications" title="Equipment &amp; Gear: Understanding Blender Specifications">Understanding Blender Specifications</a></td></tr><tr><td id="nl232" onclick="window.location='/article/232/Cooking-With-Aluminum'" onMouseOver="lb('nl232')" onMouseOut="db('nl232')" ><a href="/article/232/Cooking-With-Aluminum" title="Equipment &amp; Gear: Cooking With Aluminum">Cooking With Aluminum</a></td><td id="nl39" onclick="window.location='/article/39/Kitchen-Knives'" onMouseOver="lb('nl39')" onMouseOut="db('nl39')" ><a href="/article/39/Kitchen-Knives" title="Equipment &amp; Gear: Kitchen Knives">Kitchen Knives</a></td><td id="nl269" onclick="window.location='/article/269/Metrokane-Mighty-OJ-Not-recommended'" onMouseOver="lb('nl269')" onMouseOut="db('nl269')" ><a href="/article/269/Metrokane-Mighty-OJ-Not-recommended" title="Equipment &amp; Gear: Metrokane Mighty OJ (Not recommended)">Metrokane Mighty OJ (Not recommended)</a></td><td id="nl326" onclick="window.location='/article/326/Whats-In-Your-Non-Stick'" onMouseOver="lb('nl326')" onMouseOut="db('nl326')" ><a href="/article/326/Whats-In-Your-Non-Stick" title="Equipment &amp; Gear: What's In Your Non-Stick?">What's In Your Non-Stick?</a></td></tr><tr><td id="nl175" onclick="window.location='/article/175/CoolCover'" onMouseOver="lb('nl175')" onMouseOut="db('nl175')" ><a href="/article/175/CoolCover" title="Equipment &amp; Gear: CoolCover">CoolCover</a></td><td id="nl82" onclick="window.location='/article/82/Kitchen-Scales'" onMouseOver="lb('nl82')" onMouseOut="db('nl82')" ><a href="/article/82/Kitchen-Scales" title="Equipment &amp; Gear: Kitchen Scales">Kitchen Scales</a></td></tr></table></div>
+	<div id="navcat_KitchenNotes" style="display:none"><table width="100%" class="navlinks" cellpadding="0" cellspacing="1"><tr><td width="25%" id="nl90" onclick="window.location='/article/90/Additives'" onMouseOver="lb('nl90')" onMouseOut="db('nl90')" ><a href="/article/90/Additives" title="Kitchen Notes: Additives">Additives</a></td><td width="25%" id="nl131" onclick="window.location='/article/131/Clarified-Butter'" onMouseOver="lb('nl131')" onMouseOut="db('nl131')" ><a href="/article/131/Clarified-Butter" title="Kitchen Notes: Clarified Butter">Clarified Butter</a></td><td width="25%" id="nl51" onclick="window.location='/article/51/Glossary'" onMouseOver="lb('nl51')" onMouseOut="db('nl51')" ><a href="/article/51/Glossary" title="Kitchen Notes: Glossary">Glossary</a></td><td width="25%" id="nl40" onclick="window.location='/article/40/Saturated-Fats-Cholesterol-and-Heart-Disease'" onMouseOver="lb('nl40')" onMouseOut="db('nl40')" ><a href="/article/40/Saturated-Fats-Cholesterol-and-Heart-Disease" title="Kitchen Notes: Saturated Fats, Cholesterol, and Heart Disease">Saturated Fats, Cholesterol, and Heart Disease</a></td></tr><tr><td id="nl280" onclick="window.location='/article/280/Analyzing-a-Baking-Recipe'" onMouseOver="lb('nl280')" onMouseOut="db('nl280')" ><a href="/article/280/Analyzing-a-Baking-Recipe" title="Kitchen Notes: Analyzing a Baking Recipe">Analyzing a Baking Recipe</a></td><td id="nl198" onclick="window.location='/article/198/Clarified-Butter-II'" onMouseOver="lb('nl198')" onMouseOut="db('nl198')" ><a href="/article/198/Clarified-Butter-II" title="Kitchen Notes: Clarified Butter II">Clarified Butter II</a></td><td id="nl209" onclick="window.location='/article/209/Heat-Transfer-and-Browning-Foods'" onMouseOver="lb('nl209')" onMouseOut="db('nl209')" ><a href="/article/209/Heat-Transfer-and-Browning-Foods" title="Kitchen Notes: Heat Transfer and Browning Foods">Heat Transfer and Browning Foods</a></td><td id="nl78" onclick="window.location='/article/78/Scoville-Units'" onMouseOver="lb('nl78')" onMouseOut="db('nl78')" ><a href="/article/78/Scoville-Units" title="Kitchen Notes: Scoville Units">Scoville Units</a></td></tr><tr><td id="nl199" onclick="window.location='/article/199/Baguettes-Deconstructed'" onMouseOver="lb('nl199')" onMouseOut="db('nl199')" ><a href="/article/199/Baguettes-Deconstructed" title="Kitchen Notes: Baguettes Deconstructed">Baguettes Deconstructed</a></td><td id="nl184" onclick="window.location='/article/184/Curry'" onMouseOver="lb('nl184')" onMouseOut="db('nl184')" ><a href="/article/184/Curry" title="Kitchen Notes: Curry">Curry</a></td><td id="nl224" onclick="window.location='/article/224/Heat-Transfer-and-Cooking'" onMouseOver="lb('nl224')" onMouseOut="db('nl224')" ><a href="/article/224/Heat-Transfer-and-Cooking" title="Kitchen Notes: Heat Transfer and Cooking">Heat Transfer and Cooking</a></td><td id="nl50" onclick="window.location='/article/50/Smoke-Points-of-Various-Fats'" onMouseOver="lb('nl50')" onMouseOut="db('nl50')" ><a href="/article/50/Smoke-Points-of-Various-Fats" title="Kitchen Notes: Smoke Points of Various Fats">Smoke Points of Various Fats</a></td></tr><tr><td id="nl213" onclick="window.location='/article/213/Bakers-Yeast'" onMouseOver="lb('nl213')" onMouseOut="db('nl213')" ><a href="/article/213/Bakers-Yeast" title="Kitchen Notes: Baker's Yeast">Baker's Yeast</a></td><td id="nl97" onclick="window.location='/article/97/Cutting-Up-Chicken'" onMouseOver="lb('nl97')" onMouseOut="db('nl97')" ><a href="/article/97/Cutting-Up-Chicken" title="Kitchen Notes: Cutting Up Chicken">Cutting Up Chicken</a></td><td id="nl52" onclick="window.location='/article/52/Ingredient-Substitutions'" onMouseOver="lb('nl52')" onMouseOut="db('nl52')" ><a href="/article/52/Ingredient-Substitutions" title="Kitchen Notes: Ingredient Substitutions">Ingredient Substitutions</a></td><td id="nl155" onclick="window.location='/article/155/Tempering-Chocolate'" onMouseOver="lb('nl155')" onMouseOut="db('nl155')" ><a href="/article/155/Tempering-Chocolate" title="Kitchen Notes: Tempering Chocolate">Tempering Chocolate</a></td></tr><tr><td id="nl123" onclick="window.location='/article/123/Boning-Chicken-Breast'" onMouseOver="lb('nl123')" onMouseOut="db('nl123')" ><a href="/article/123/Boning-Chicken-Breast" title="Kitchen Notes: Boning Chicken Breast">Boning Chicken Breast</a></td><td id="nl211" onclick="window.location='/article/211/European-Designation-of-Quality-Labels'" onMouseOver="lb('nl211')" onMouseOut="db('nl211')" ><a href="/article/211/European-Designation-of-Quality-Labels" title="Kitchen Notes: European Designation of Quality Labels">European Designation of Quality Labels</a></td><td id="nl113" onclick="window.location='/article/113/Making-Butter'" onMouseOver="lb('nl113')" onMouseOut="db('nl113')" ><a href="/article/113/Making-Butter" title="Kitchen Notes: Making Butter">Making Butter</a></td><td id="nl30" onclick="window.location='/article/30/USDA-Beef-Quality-Grades'" onMouseOver="lb('nl30')" onMouseOut="db('nl30')" ><a href="/article/30/USDA-Beef-Quality-Grades" title="Kitchen Notes: USDA Beef Quality Grades">USDA Beef Quality Grades</a></td></tr><tr><td id="nl70" onclick="window.location='/article/70/Brining'" onMouseOver="lb('nl70')" onMouseOut="db('nl70')" ><a href="/article/70/Brining" title="Kitchen Notes: Brining">Brining</a></td><td id="nl244" onclick="window.location='/article/244/Fond-of-Fond'" onMouseOver="lb('nl244')" onMouseOut="db('nl244')" ><a href="/article/244/Fond-of-Fond" title="Kitchen Notes: Fond of Fond">Fond of Fond</a></td><td id="nl16" onclick="window.location='/article/16/Maple-Syrup-Grades'" onMouseOver="lb('nl16')" onMouseOut="db('nl16')" ><a href="/article/16/Maple-Syrup-Grades" title="Kitchen Notes: Maple Syrup Grades">Maple Syrup Grades</a></td><td id="nl63" onclick="window.location='/article/63/Wheat-Flour'" onMouseOver="lb('nl63')" onMouseOut="db('nl63')" ><a href="/article/63/Wheat-Flour" title="Kitchen Notes: Wheat Flour">Wheat Flour</a></td></tr><tr><td id="nl73" onclick="window.location='/article/73/Buying-Whole-Turkeys'" onMouseOver="lb('nl73')" onMouseOut="db('nl73')" ><a href="/article/73/Buying-Whole-Turkeys" title="Kitchen Notes: Buying Whole Turkeys">Buying Whole Turkeys</a></td><td id="nl27" onclick="window.location='/article/27/Freezing-Meats'" onMouseOver="lb('nl27')" onMouseOut="db('nl27')" ><a href="/article/27/Freezing-Meats" title="Kitchen Notes: Freezing Meats">Freezing Meats</a></td><td id="nl134" onclick="window.location='/article/134/Oven-Temperatures'" onMouseOver="lb('nl134')" onMouseOut="db('nl134')" ><a href="/article/134/Oven-Temperatures" title="Kitchen Notes: Oven Temperatures">Oven Temperatures</a></td><td id="nl294" onclick="window.location='/article/294/White-Wheat-Grinder-Comparison'" onMouseOver="lb('nl294')" onMouseOut="db('nl294')" ><a href="/article/294/White-Wheat-Grinder-Comparison" title="Kitchen Notes: White Wheat Grinder Comparison">White Wheat Grinder Comparison</a></td></tr><tr><td id="nl156" onclick="window.location='/article/156/Caviar'" onMouseOver="lb('nl156')" onMouseOut="db('nl156')" ><a href="/article/156/Caviar" title="Kitchen Notes: Caviar">Caviar</a></td><td id="nl315" onclick="window.location='/article/315/Fruit-Ripening'" onMouseOver="lb('nl315')" onMouseOut="db('nl315')" ><a href="/article/315/Fruit-Ripening" title="Kitchen Notes: Fruit Ripening">Fruit Ripening</a></td><td id="nl96" onclick="window.location='/article/96/Pears'" onMouseOver="lb('nl96')" onMouseOut="db('nl96')" ><a href="/article/96/Pears" title="Kitchen Notes: Pears">Pears</a></td></tr></table></div>
+	<div id="navcat_OffTopic" style="display:none"><table width="100%" class="navlinks" cellpadding="0" cellspacing="1"><tr><td width="25%" id="nl133" onclick="window.location='/article/133/African-Horned-Melon-or-Kiwano'" onMouseOver="lb('nl133')" onMouseOut="db('nl133')" ><a href="/article/133/African-Horned-Melon-or-Kiwano" title="Off Topic: African Horned Melon or Kiwano">African Horned Melon or Kiwano</a></td><td width="25%" id="nl206" onclick="window.location='/article/206/Fancy-Food-Show-Winter-2007'" onMouseOver="lb('nl206')" onMouseOut="db('nl206')" ><a href="/article/206/Fancy-Food-Show-Winter-2007" title="Off Topic: Fancy Food Show Winter 2007">Fancy Food Show Winter 2007</a></td><td width="25%" id="nl119" onclick="window.location='/article/119/Iron-Chef-America'" onMouseOver="lb('nl119')" onMouseOut="db('nl119')" ><a href="/article/119/Iron-Chef-America" title="Off Topic: Iron Chef America">Iron Chef America</a></td><td width="25%" id="nl25" onclick="window.location='/article/25/Some-Quotes'" onMouseOver="lb('nl25')" onMouseOut="db('nl25')" ><a href="/article/25/Some-Quotes" title="Off Topic: Some Quotes">Some Quotes</a></td></tr><tr><td id="nl279" onclick="window.location='/article/279/Amano-Chocolate-Contest'" onMouseOver="lb('nl279')" onMouseOut="db('nl279')" ><a href="/article/279/Amano-Chocolate-Contest" title="Off Topic: Amano Chocolate Contest">Amano Chocolate Contest</a></td><td id="nl262" onclick="window.location='/article/262/Fancy-Food-Show-Winter-2009'" onMouseOver="lb('nl262')" onMouseOut="db('nl262')" ><a href="/article/262/Fancy-Food-Show-Winter-2009" title="Off Topic: Fancy Food Show Winter 2009">Fancy Food Show Winter 2009</a></td><td id="nl286" onclick="window.location='/article/286/Johnsonville-Pastaville-Italian-Sausage-Recipe-Contest'" onMouseOver="lb('nl286')" onMouseOut="db('nl286')" ><a href="/article/286/Johnsonville-Pastaville-Italian-Sausage-Recipe-Contest" title="Off Topic: Johnsonville Pastaville Italian Sausage Recipe Contest">Johnsonville Pastaville Italian Sausage Recipe Contest</a></td><td id="nl57" onclick="window.location='/article/57/Surprises-In-Snacks'" onMouseOver="lb('nl57')" onMouseOut="db('nl57')" ><a href="/article/57/Surprises-In-Snacks" title="Off Topic: Surprises In Snacks">Surprises In Snacks</a></td></tr><tr><td id="nl321" onclick="window.location='/article/321/Anolon-Nouvelle-Copper-Stainless-Steel-Cookware-Set-2012-Giveaway'" onMouseOver="lb('nl321')" onMouseOut="db('nl321')" ><a href="/article/321/Anolon-Nouvelle-Copper-Stainless-Steel-Cookware-Set-2012-Giveaway" title="Off Topic: Anolon Nouvelle Copper Stainless Steel Cookware Set 2012 Giveaway!">Anolon Nouvelle Copper Stainless Steel Cookware Set 2012 Giveaway!</a></td><td id="nl334" onclick="window.location='/article/334/Fancy-Food-Show-Winter-2014'" onMouseOver="lb('nl334')" onMouseOut="db('nl334')" ><a href="/article/334/Fancy-Food-Show-Winter-2014" title="Off Topic: Fancy Food Show Winter 2014">Fancy Food Show Winter 2014</a></td><td id="nl165" onclick="window.location='/article/165/LASIK'" onMouseOver="lb('nl165')" onMouseOut="db('nl165')" ><a href="/article/165/LASIK" title="Off Topic: LASIK">LASIK</a></td><td id="nl149" onclick="window.location='/article/149/Thanksgiving-Dinner'" onMouseOver="lb('nl149')" onMouseOut="db('nl149')" ><a href="/article/149/Thanksgiving-Dinner" title="Off Topic: Thanksgiving Dinner">Thanksgiving Dinner</a></td></tr><tr><td id="nl179" onclick="window.location='/article/179/Asparagus-Festival'" onMouseOver="lb('nl179')" onMouseOut="db('nl179')" ><a href="/article/179/Asparagus-Festival" title="Off Topic: Asparagus Festival">Asparagus Festival</a></td><td id="nl182" onclick="window.location='/article/182/Fanpop'" onMouseOver="lb('nl182')" onMouseOut="db('nl182')" ><a href="/article/182/Fanpop" title="Off Topic: Fanpop">Fanpop</a></td><td id="nl312" onclick="window.location='/article/312/LEGO-Heavy-Weapons-Book-Review'" onMouseOver="lb('nl312')" onMouseOut="db('nl312')" ><a href="/article/312/LEGO-Heavy-Weapons-Book-Review" title="Off Topic: LEGO Heavy Weapons Book Review">LEGO Heavy Weapons Book Review</a></td><td id="nl251" onclick="window.location='/article/251/The-HP-Freshman-15-Contest-Win-a-Notebook-Computer'" onMouseOver="lb('nl251')" onMouseOut="db('nl251')" ><a href="/article/251/The-HP-Freshman-15-Contest-Win-a-Notebook-Computer" title="Off Topic: The HP Freshman 15 Contest - Win a Notebook Computer">The HP Freshman 15 Contest - Win a Notebook Computer</a></td></tr><tr><td id="nl243" onclick="window.location='/article/243/Chilis-Bacon-Burger'" onMouseOver="lb('nl243')" onMouseOut="db('nl243')" ><a href="/article/243/Chilis-Bacon-Burger" title="Off Topic: Chili's Bacon Burger">Chili's Bacon Burger</a></td><td id="nl323" onclick="window.location='/article/323/Food-Fete-2013'" onMouseOver="lb('nl323')" onMouseOut="db('nl323')" ><a href="/article/323/Food-Fete-2013" title="Off Topic: Food Fete 2013">Food Fete 2013</a></td><td id="nl67" onclick="window.location='/article/67/Lunar-Eclipse'" onMouseOver="lb('nl67')" onMouseOut="db('nl67')" ><a href="/article/67/Lunar-Eclipse" title="Off Topic: Lunar Eclipse">Lunar Eclipse</a></td><td id="nl322" onclick="window.location='/article/322/The-Unofficial-LEGO-Technic-Builders-Guide-Book-Review'" onMouseOver="lb('nl322')" onMouseOut="db('nl322')" ><a href="/article/322/The-Unofficial-LEGO-Technic-Builders-Guide-Book-Review" title="Off Topic: The Unofficial LEGO Technic Builder's Guide Book Review">The Unofficial LEGO Technic Builder's Guide Book Review</a></td></tr><tr><td id="nl284" onclick="window.location='/article/284/Christmas-Gift-Ideas'" onMouseOver="lb('nl284')" onMouseOut="db('nl284')" ><a href="/article/284/Christmas-Gift-Ideas" title="Off Topic: Christmas Gift Ideas">Christmas Gift Ideas</a></td><td id="nl335" onclick="window.location='/article/335/Food-Fete-2014'" onMouseOver="lb('nl335')" onMouseOut="db('nl335')" ><a href="/article/335/Food-Fete-2014" title="Off Topic: Food Fete 2014">Food Fete 2014</a></td><td id="nl309" onclick="window.location='/article/309/Michael-Ohenes-Cookie-Recipe-Generator'" onMouseOver="lb('nl309')" onMouseOut="db('nl309')" ><a href="/article/309/Michael-Ohenes-Cookie-Recipe-Generator" title="Off Topic: Michael Ohene's Cookie Recipe Generator">Michael Ohene's Cookie Recipe Generator</a></td><td id="nl336" onclick="window.location='/article/336/Thermoworks-Fathers-Day-2014-Giveaway'" onMouseOver="lb('nl336')" onMouseOut="db('nl336')" ><a href="/article/336/Thermoworks-Fathers-Day-2014-Giveaway" title="Off Topic: Thermoworks Father's Day 2014 Giveaway!">Thermoworks Father's Day 2014 Giveaway!</a></td></tr><tr><td id="nl328" onclick="window.location='/article/328/Codlo-Sous-Vide-Controller-Kickstarter'" onMouseOver="lb('nl328')" onMouseOut="db('nl328')" ><a href="/article/328/Codlo-Sous-Vide-Controller-Kickstarter" title="Off Topic: Codlo Sous Vide Controller Kickstarter">Codlo Sous Vide Controller Kickstarter</a></td><td id="nl271" onclick="window.location='/article/271/Food-Inc'" onMouseOver="lb('nl271')" onMouseOut="db('nl271')" ><a href="/article/271/Food-Inc" title="Off Topic: Food, Inc">Food, Inc</a></td><td id="nl7" onclick="window.location='/article/7/Orange-Juice-Shelf-Life'" onMouseOver="lb('nl7')" onMouseOut="db('nl7')" ><a href="/article/7/Orange-Juice-Shelf-Life" title="Off Topic: Orange Juice Shelf Life">Orange Juice Shelf Life</a></td><td id="nl332" onclick="window.location='/article/332/Thermoworks-Thermapen-2013-Giveaway'" onMouseOver="lb('nl332')" onMouseOut="db('nl332')" ><a href="/article/332/Thermoworks-Thermapen-2013-Giveaway" title="Off Topic: Thermoworks Thermapen 2013 Giveaway!">Thermoworks Thermapen 2013 Giveaway!</a></td></tr><tr><td id="nl116" onclick="window.location='/article/116/Comments-and-Forums'" onMouseOver="lb('nl116')" onMouseOut="db('nl116')" ><a href="/article/116/Comments-and-Forums" title="Off Topic: Comments and Forums">Comments and Forums</a></td><td id="nl263" onclick="window.location='/article/263/Foodoro'" onMouseOver="lb('nl263')" onMouseOut="db('nl263')" ><a href="/article/263/Foodoro" title="Off Topic: Foodoro">Foodoro</a></td><td id="nl217" onclick="window.location='/article/217/Orthogonal-Thought-A-New-Blog'" onMouseOver="lb('nl217')" onMouseOut="db('nl217')" ><a href="/article/217/Orthogonal-Thought-A-New-Blog" title="Off Topic: Orthogonal Thought - A New Blog">Orthogonal Thought - A New Blog</a></td><td id="nl318" onclick="window.location='/article/318/Thermoworks-Thermapen-and-Oven-Thermometer-2012-Giveaway'" onMouseOver="lb('nl318')" onMouseOut="db('nl318')" ><a href="/article/318/Thermoworks-Thermapen-and-Oven-Thermometer-2012-Giveaway" title="Off Topic: Thermoworks Thermapen and Oven Thermometer 2012 Giveaway!">Thermoworks Thermapen and Oven Thermometer 2012 Giveaway!</a></td></tr><tr><td id="nl118" onclick="window.location='/article/118/Comments-and-Forums-Back-Online'" onMouseOver="lb('nl118')" onMouseOut="db('nl118')" ><a href="/article/118/Comments-and-Forums-Back-Online" title="Off Topic: Comments and Forums Back Online">Comments and Forums Back Online</a></td><td id="nl278" onclick="window.location='/article/278/Free-Cookbook-from-Snubbr'" onMouseOver="lb('nl278')" onMouseOut="db('nl278')" ><a href="/article/278/Free-Cookbook-from-Snubbr" title="Off Topic: Free Cookbook from Snubbr">Free Cookbook from Snubbr</a></td><td id="nl228" onclick="window.location='/article/228/Pixars-Ratatouille'" onMouseOver="lb('nl228')" onMouseOut="db('nl228')" ><a href="/article/228/Pixars-Ratatouille" title="Off Topic: Pixar's Ratatouille">Pixar's Ratatouille</a></td><td id="nl214" onclick="window.location='/article/214/Two-New-Shows-on-Discovery-Health'" onMouseOver="lb('nl214')" onMouseOut="db('nl214')" ><a href="/article/214/Two-New-Shows-on-Discovery-Health" title="Off Topic: Two New Shows on Discovery Health">Two New Shows on Discovery Health</a></td></tr><tr><td id="nl196" onclick="window.location='/article/196/Cooking-With-Passion'" onMouseOver="lb('nl196')" onMouseOut="db('nl196')" ><a href="/article/196/Cooking-With-Passion" title="Off Topic: Cooking With Passion">Cooking With Passion</a></td><td id="nl282" onclick="window.location='/article/282/Hefty-Kitchen-Bags-with-Unscented-Odor-Block-Technology'" onMouseOver="lb('nl282')" onMouseOut="db('nl282')" ><a href="/article/282/Hefty-Kitchen-Bags-with-Unscented-Odor-Block-Technology" title="Off Topic: Hefty Kitchen Bags with Unscented Odor Block Technology">Hefty Kitchen Bags with Unscented Odor Block Technology</a></td><td id="nl1" onclick="window.location='/article/1/Pumpkin-Carving'" onMouseOver="lb('nl1')" onMouseOut="db('nl1')" ><a href="/article/1/Pumpkin-Carving" title="Off Topic: Pumpkin Carving">Pumpkin Carving</a></td><td id="nl143" onclick="window.location='/article/143/University-Chickens-911-Challenge'" onMouseOver="lb('nl143')" onMouseOut="db('nl143')" ><a href="/article/143/University-Chickens-911-Challenge" title="Off Topic: University Chicken's 911 Challenge">University Chicken's 911 Challenge</a></td></tr><tr><td id="nl183" onclick="window.location='/article/183/Cosentinos-Markets-Good-News-and-Bad-News'" onMouseOver="lb('nl183')" onMouseOut="db('nl183')" ><a href="/article/183/Cosentinos-Markets-Good-News-and-Bad-News" title="Off Topic: Cosentino's Markets - Good News and Bad News">Cosentino's Markets - Good News and Bad News</a></td><td id="nl197" onclick="window.location='/article/197/IEEE-Spectrum-Radio-Looking-for-Engineers-Who-Cook'" onMouseOver="lb('nl197')" onMouseOut="db('nl197')" ><a href="/article/197/IEEE-Spectrum-Radio-Looking-for-Engineers-Who-Cook" title="Off Topic: IEEE Spectrum Radio Looking for Engineers Who Cook">IEEE Spectrum Radio Looking for Engineers Who Cook</a></td><td id="nl29" onclick="window.location='/article/29/Recipe-Summaries-Standards-and-Microsoft'" onMouseOver="lb('nl29')" onMouseOut="db('nl29')" ><a href="/article/29/Recipe-Summaries-Standards-and-Microsoft" title="Off Topic: Recipe Summaries - Standards and Microsoft">Recipe Summaries - Standards and Microsoft</a></td><td id="nl22" onclick="window.location='/article/22/Welcome-to-the-New-Server'" onMouseOver="lb('nl22')" onMouseOut="db('nl22')" ><a href="/article/22/Welcome-to-the-New-Server" title="Off Topic: Welcome to the New Server">Welcome to the New Server</a></td></tr><tr><td id="nl64" onclick="window.location='/article/64/Details-of-the-Pumpkin-Carving'" onMouseOver="lb('nl64')" onMouseOut="db('nl64')" ><a href="/article/64/Details-of-the-Pumpkin-Carving" title="Off Topic: Details of the Pumpkin Carving">Details of the Pumpkin Carving</a></td><td id="nl24" onclick="window.location='/article/24/Increased-Readership-and-Traffic-Woes'" onMouseOver="lb('nl24')" onMouseOut="db('nl24')" ><a href="/article/24/Increased-Readership-and-Traffic-Woes" title="Off Topic: Increased Readership and Traffic Woes">Increased Readership and Traffic Woes</a></td><td id="nl331" onclick="window.location='/article/331/Robot-Turtles-Board-Game-Kickstarter'" onMouseOver="lb('nl331')" onMouseOut="db('nl331')" ><a href="/article/331/Robot-Turtles-Board-Game-Kickstarter" title="Off Topic: Robot Turtles Board Game Kickstarter">Robot Turtles Board Game Kickstarter</a></td><td id="nl192" onclick="window.location='/article/192/Whats-the-Most-Trans-Fat-Youve-Seen'" onMouseOver="lb('nl192')" onMouseOut="db('nl192')" ><a href="/article/192/Whats-the-Most-Trans-Fat-Youve-Seen" title="Off Topic: What's the Most Trans Fat You've Seen?">What's the Most Trans Fat You've Seen?</a></td></tr><tr><td id="nl23" onclick="window.location='/article/23/Donations-Please'" onMouseOver="lb('nl23')" onMouseOut="db('nl23')" ><a href="/article/23/Donations-Please" title="Off Topic: Donations Please!">Donations Please!</a></td><td id="nl210" onclick="window.location='/article/210/Inside-the-CIA'" onMouseOver="lb('nl210')" onMouseOut="db('nl210')" ><a href="/article/210/Inside-the-CIA" title="Off Topic: Inside the CIA">Inside the CIA</a></td><td id="nl167" onclick="window.location='/article/167/Santa-Cruz-Clam-Chowder-Cook-Off-2006'" onMouseOver="lb('nl167')" onMouseOut="db('nl167')" ><a href="/article/167/Santa-Cruz-Clam-Chowder-Cook-Off-2006" title="Off Topic: Santa Cruz Clam Chowder Cook Off 2006">Santa Cruz Clam Chowder Cook Off 2006</a></td><td id="nl325" onclick="window.location='/article/325/Wolfgang-Puck-Phone-Interview'" onMouseOver="lb('nl325')" onMouseOut="db('nl325')" ><a href="/article/325/Wolfgang-Puck-Phone-Interview" title="Off Topic: Wolfgang Puck Phone Interview">Wolfgang Puck Phone Interview</a></td></tr><tr><td id="nl157" onclick="window.location='/article/157/Fancy-Food-Show-Winter-2006'" onMouseOver="lb('nl157')" onMouseOut="db('nl157')" ><a href="/article/157/Fancy-Food-Show-Winter-2006" title="Off Topic: Fancy Food Show Winter 2006">Fancy Food Show Winter 2006</a></td></tr></table></div>
+	<div id="navcat_RecipeFile" style="display:none"><table width="100%" class="navlinks" cellpadding="0" cellspacing="1"><tr><td width="25%" id="nl188" onclick="window.location='/recipe/188/Anghelikas-Tsatsiki-Tzatziki'" onMouseOver="lb('nl188')" onMouseOut="db('nl188')" ><a href="/recipe/188/Anghelikas-Tsatsiki-Tzatziki" title="Recipe File: Anghelika's Tsatsiki (Tzatziki)">Anghelika's Tsatsiki (Tzatziki)</a></td><td width="25%" id="nl98" onclick="window.location='/recipe/98/Condensed-Milk-Fudge'" onMouseOver="lb('nl98')" onMouseOut="db('nl98')" ><a href="/recipe/98/Condensed-Milk-Fudge" title="Recipe File: Condensed Milk Fudge">Condensed Milk Fudge</a></td><td width="25%" id="nl305" onclick="window.location='/recipe/305/Honey-Pecan-Pralines'" onMouseOver="lb('nl305')" onMouseOut="db('nl305')" ><a href="/recipe/305/Honey-Pecan-Pralines" title="Recipe File: Honey Pecan Pralines">Honey Pecan Pralines</a></td><td width="25%" id="nl92" onclick="window.location='/recipe/92/Poached-Fish'" onMouseOver="lb('nl92')" onMouseOut="db('nl92')" ><a href="/recipe/92/Poached-Fish" title="Recipe File: Poached Fish">Poached Fish</a></td></tr><tr><td id="nl163" onclick="window.location='/recipe/163/Asparagus-with-Almonds'" onMouseOver="lb('nl163')" onMouseOut="db('nl163')" ><a href="/recipe/163/Asparagus-with-Almonds" title="Recipe File: Asparagus with Almonds">Asparagus with Almonds</a></td><td id="nl152" onclick="window.location='/recipe/152/Cooked-Egg-Nog'" onMouseOver="lb('nl152')" onMouseOut="db('nl152')" ><a href="/recipe/152/Cooked-Egg-Nog" title="Recipe File: Cooked Egg Nog">Cooked Egg Nog</a></td><td id="nl308" onclick="window.location='/recipe/308/Hot-Chocolate'" onMouseOver="lb('nl308')" onMouseOut="db('nl308')" ><a href="/recipe/308/Hot-Chocolate" title="Recipe File: Hot Chocolate">Hot Chocolate</a></td><td id="nl38" onclick="window.location='/recipe/38/Prime-Rib-or-Standing-Rib-Roast'" onMouseOver="lb('nl38')" onMouseOut="db('nl38')" ><a href="/recipe/38/Prime-Rib-or-Standing-Rib-Roast" title="Recipe File: Prime Rib or Standing Rib Roast">Prime Rib or Standing Rib Roast</a></td></tr><tr><td id="nl103" onclick="window.location='/recipe/103/Baked-Cinnamon-Apple'" onMouseOver="lb('nl103')" onMouseOut="db('nl103')" ><a href="/recipe/103/Baked-Cinnamon-Apple" title="Recipe File: Baked Cinnamon Apple">Baked Cinnamon Apple</a></td><td id="nl48" onclick="window.location='/recipe/48/Corn-Fritters'" onMouseOver="lb('nl48')" onMouseOut="db('nl48')" ><a href="/recipe/48/Corn-Fritters" title="Recipe File: Corn Fritters">Corn Fritters</a></td><td id="nl104" onclick="window.location='/recipe/104/Kelloggs-Rice-Krispies-Treats'" onMouseOver="lb('nl104')" onMouseOut="db('nl104')" ><a href="/recipe/104/Kelloggs-Rice-Krispies-Treats" title="Recipe File: Kellogg's Rice Krispies Treats">Kellogg's Rice Krispies Treats</a></td><td id="nl189" onclick="window.location='/recipe/189/Prosciutto-e-Melone'" onMouseOver="lb('nl189')" onMouseOut="db('nl189')" ><a href="/recipe/189/Prosciutto-e-Melone" title="Recipe File: Prosciutto e Melone">Prosciutto e Melone</a></td></tr><tr><td id="nl108" onclick="window.location='/recipe/108/Banana-Nut-Bread'" onMouseOver="lb('nl108')" onMouseOut="db('nl108')" ><a href="/recipe/108/Banana-Nut-Bread" title="Recipe File: Banana Nut Bread">Banana Nut Bread</a></td><td id="nl79" onclick="window.location='/recipe/79/Cranberry-Sauce'" onMouseOver="lb('nl79')" onMouseOut="db('nl79')" ><a href="/recipe/79/Cranberry-Sauce" title="Recipe File: Cranberry Sauce">Cranberry Sauce</a></td><td id="nl33" onclick="window.location='/recipe/33/Lemon-Bars'" onMouseOver="lb('nl33')" onMouseOut="db('nl33')" ><a href="/recipe/33/Lemon-Bars" title="Recipe File: Lemon Bars">Lemon Bars</a></td><td id="nl65" onclick="window.location='/recipe/65/Pumpkin-Pie'" onMouseOver="lb('nl65')" onMouseOut="db('nl65')" ><a href="/recipe/65/Pumpkin-Pie" title="Recipe File: Pumpkin Pie">Pumpkin Pie</a></td></tr><tr><td id="nl246" onclick="window.location='/recipe/246/Barbecue-Pork-Ribs-Baby-Back-or-Spare'" onMouseOver="lb('nl246')" onMouseOut="db('nl246')" ><a href="/recipe/246/Barbecue-Pork-Ribs-Baby-Back-or-Spare" title="Recipe File: Barbecue Pork Ribs (Baby Back or Spare)">Barbecue Pork Ribs (Baby Back or Spare)</a></td><td id="nl194" onclick="window.location='/recipe/194/Cream-of-Mushroom-Soup'" onMouseOver="lb('nl194')" onMouseOut="db('nl194')" ><a href="/recipe/194/Cream-of-Mushroom-Soup" title="Recipe File: Cream of Mushroom Soup">Cream of Mushroom Soup</a></td><td id="nl121" onclick="window.location='/recipe/121/Lemon-Iced-Tea'" onMouseOver="lb('nl121')" onMouseOut="db('nl121')" ><a href="/recipe/121/Lemon-Iced-Tea" title="Recipe File: Lemon Iced Tea">Lemon Iced Tea</a></td><td id="nl227" onclick="window.location='/recipe/227/Ratatouille'" onMouseOver="lb('nl227')" onMouseOut="db('nl227')" ><a href="/recipe/227/Ratatouille" title="Recipe File: Ratatouille">Ratatouille</a></td></tr><tr><td id="nl35" onclick="window.location='/recipe/35/Basic-Granita'" onMouseOver="lb('nl35')" onMouseOut="db('nl35')" ><a href="/recipe/35/Basic-Granita" title="Recipe File: Basic Granita">Basic Granita</a></td><td id="nl107" onclick="window.location='/recipe/107/Creamy-Garlic-Mashed-Potatoes'" onMouseOver="lb('nl107')" onMouseOut="db('nl107')" ><a href="/recipe/107/Creamy-Garlic-Mashed-Potatoes" title="Recipe File: Creamy Garlic Mashed Potatoes">Creamy Garlic Mashed Potatoes</a></td><td id="nl124" onclick="window.location='/recipe/124/Lime-Marinated-Grilled-Chicken'" onMouseOver="lb('nl124')" onMouseOut="db('nl124')" ><a href="/recipe/124/Lime-Marinated-Grilled-Chicken" title="Recipe File: Lime Marinated Grilled Chicken">Lime Marinated Grilled Chicken</a></td><td id="nl101" onclick="window.location='/recipe/101/Roasted-Asparagus-Spears'" onMouseOver="lb('nl101')" onMouseOut="db('nl101')" ><a href="/recipe/101/Roasted-Asparagus-Spears" title="Recipe File: Roasted Asparagus Spears">Roasted Asparagus Spears</a></td></tr><tr><td id="nl47" onclick="window.location='/recipe/47/Basic-Pancakes'" onMouseOver="lb('nl47')" onMouseOut="db('nl47')" ><a href="/recipe/47/Basic-Pancakes" title="Recipe File: Basic Pancakes">Basic Pancakes</a></td><td id="nl32" onclick="window.location='/recipe/32/Creme-Brulee-Cregraveme-Brucircleacutee'" onMouseOver="lb('nl32')" onMouseOut="db('nl32')" ><a href="/recipe/32/Creme-Brulee-Cregraveme-Brucircleacutee" title="Recipe File: Creme Brulee (Cr&egrave;me Br&ucirc;l&eacute;e)">Creme Brulee (Cr&egrave;me Br&ucirc;l&eacute;e)</a></td><td id="nl66" onclick="window.location='/recipe/66/Limeade'" onMouseOver="lb('nl66')" onMouseOut="db('nl66')" ><a href="/recipe/66/Limeade" title="Recipe File: Limeade">Limeade</a></td><td id="nl174" onclick="window.location='/recipe/174/Rosemary-Lamb-Chops'" onMouseOver="lb('nl174')" onMouseOut="db('nl174')" ><a href="/recipe/174/Rosemary-Lamb-Chops" title="Recipe File: Rosemary Lamb Chops">Rosemary Lamb Chops</a></td></tr><tr><td id="nl44" onclick="window.location='/recipe/44/Basic-Vinaigrette-Salad-Dressing'" onMouseOver="lb('nl44')" onMouseOut="db('nl44')" ><a href="/recipe/44/Basic-Vinaigrette-Salad-Dressing" title="Recipe File: Basic Vinaigrette Salad Dressing">Basic Vinaigrette Salad Dressing</a></td><td id="nl317" onclick="window.location='/recipe/317/Crunchy-Bloody-Mary'" onMouseOver="lb('nl317')" onMouseOut="db('nl317')" ><a href="/recipe/317/Crunchy-Bloody-Mary" title="Recipe File: Crunchy Bloody Mary">Crunchy Bloody Mary</a></td><td id="nl230" onclick="window.location='/recipe/230/Macaroni-and-Cheese-Bake'" onMouseOver="lb('nl230')" onMouseOut="db('nl230')" ><a href="/recipe/230/Macaroni-and-Cheese-Bake" title="Recipe File: Macaroni and Cheese Bake">Macaroni and Cheese Bake</a></td><td id="nl53" onclick="window.location='/recipe/53/Salsa-Cruda'" onMouseOver="lb('nl53')" onMouseOut="db('nl53')" ><a href="/recipe/53/Salsa-Cruda" title="Recipe File: Salsa Cruda">Salsa Cruda</a></td></tr><tr><td id="nl122" onclick="window.location='/recipe/122/Beef-Stroganoff'" onMouseOver="lb('nl122')" onMouseOut="db('nl122')" ><a href="/recipe/122/Beef-Stroganoff" title="Recipe File: Beef Stroganoff">Beef Stroganoff</a></td><td id="nl158" onclick="window.location='/recipe/158/Dark-Chocolate-Brownies'" onMouseOver="lb('nl158')" onMouseOut="db('nl158')" ><a href="/recipe/158/Dark-Chocolate-Brownies" title="Recipe File: Dark Chocolate Brownies">Dark Chocolate Brownies</a></td><td id="nl177" onclick="window.location='/recipe/177/Matzo-Matzah-Ball-Soup'" onMouseOver="lb('nl177')" onMouseOut="db('nl177')" ><a href="/recipe/177/Matzo-Matzah-Ball-Soup" title="Recipe File: Matzo (Matzah) Ball Soup">Matzo (Matzah) Ball Soup</a></td><td id="nl8" onclick="window.location='/recipe/8/Sauteed-Okra-with-Roasted-Red-Peppers'" onMouseOver="lb('nl8')" onMouseOut="db('nl8')" ><a href="/recipe/8/Sauteed-Okra-with-Roasted-Red-Peppers" title="Recipe File: Sauteed Okra with Roasted Red Peppers">Sauteed Okra with Roasted Red Peppers</a></td></tr><tr><td id="nl154" onclick="window.location='/recipe/154/Biscotti'" onMouseOver="lb('nl154')" onMouseOut="db('nl154')" ><a href="/recipe/154/Biscotti" title="Recipe File: Biscotti">Biscotti</a></td><td id="nl160" onclick="window.location='/recipe/160/Dark-Chocolate-Souffle'" onMouseOver="lb('nl160')" onMouseOut="db('nl160')" ><a href="/recipe/160/Dark-Chocolate-Souffle" title="Recipe File: Dark Chocolate Souffle">Dark Chocolate Souffle</a></td><td id="nl36" onclick="window.location='/recipe/36/Meat-Lasagna'" onMouseOver="lb('nl36')" onMouseOut="db('nl36')" ><a href="/recipe/36/Meat-Lasagna" title="Recipe File: Meat Lasagna">Meat Lasagna</a></td><td id="nl320" onclick="window.location='/recipe/320/Sauteed-Spinach'" onMouseOver="lb('nl320')" onMouseOut="db('nl320')" ><a href="/recipe/320/Sauteed-Spinach" title="Recipe File: Sauteed Spinach">Sauteed Spinach</a></td></tr><tr><td id="nl288" onclick="window.location='/recipe/288/Biscuits-Southern-Buttermilk-Biscuits'" onMouseOver="lb('nl288')" onMouseOut="db('nl288')" ><a href="/recipe/288/Biscuits-Southern-Buttermilk-Biscuits" title="Recipe File: Biscuits (Southern Buttermilk Biscuits)">Biscuits (Southern Buttermilk Biscuits)</a></td><td id="nl147" onclick="window.location='/recipe/147/Dirty-Rice'" onMouseOver="lb('nl147')" onMouseOut="db('nl147')" ><a href="/recipe/147/Dirty-Rice" title="Recipe File: Dirty Rice">Dirty Rice</a></td><td id="nl55" onclick="window.location='/recipe/55/Mini-Hamburgers'" onMouseOver="lb('nl55')" onMouseOut="db('nl55')" ><a href="/recipe/55/Mini-Hamburgers" title="Recipe File: Mini Hamburgers">Mini Hamburgers</a></td><td id="nl127" onclick="window.location='/recipe/127/Shepherds-Pie-Cottage-Pie'" onMouseOver="lb('nl127')" onMouseOut="db('nl127')" ><a href="/recipe/127/Shepherds-Pie-Cottage-Pie" title="Recipe File: Shepherd's Pie (Cottage Pie)">Shepherd's Pie (Cottage Pie)</a></td></tr><tr><td id="nl136" onclick="window.location='/recipe/136/Braised-Brussels-Sprouts'" onMouseOver="lb('nl136')" onMouseOut="db('nl136')" ><a href="/recipe/136/Braised-Brussels-Sprouts" title="Recipe File: Braised Brussels Sprouts">Braised Brussels Sprouts</a></td><td id="nl255" onclick="window.location='/recipe/255/Dulce-de-Leche'" onMouseOver="lb('nl255')" onMouseOut="db('nl255')" ><a href="/recipe/255/Dulce-de-Leche" title="Recipe File: Dulce de Leche">Dulce de Leche</a></td><td id="nl151" onclick="window.location='/recipe/151/Mulled-Cider-Spiced-Apple-Cider'" onMouseOver="lb('nl151')" onMouseOut="db('nl151')" ><a href="/recipe/151/Mulled-Cider-Spiced-Apple-Cider" title="Recipe File: Mulled Cider (Spiced Apple Cider)">Mulled Cider (Spiced Apple Cider)</a></td><td id="nl15" onclick="window.location='/recipe/15/Shrimp-Scampi'" onMouseOver="lb('nl15')" onMouseOut="db('nl15')" ><a href="/recipe/15/Shrimp-Scampi" title="Recipe File: Shrimp Scampi">Shrimp Scampi</a></td></tr><tr><td id="nl268" onclick="window.location='/recipe/268/Buffalo-Chicken-Chili'" onMouseOver="lb('nl268')" onMouseOut="db('nl268')" ><a href="/recipe/268/Buffalo-Chicken-Chili" title="Recipe File: Buffalo Chicken Chili">Buffalo Chicken Chili</a></td><td id="nl203" onclick="window.location='/recipe/203/Egg-Custard-with-Clams'" onMouseOver="lb('nl203')" onMouseOut="db('nl203')" ><a href="/recipe/203/Egg-Custard-with-Clams" title="Recipe File: Egg Custard with Clams">Egg Custard with Clams</a></td><td id="nl185" onclick="window.location='/recipe/185/Nestle-Toll-House-Chocolate-Chip-Cookies'" onMouseOver="lb('nl185')" onMouseOut="db('nl185')" ><a href="/recipe/185/Nestle-Toll-House-Chocolate-Chip-Cookies" title="Recipe File: Nestle Toll House Chocolate Chip Cookies">Nestle Toll House Chocolate Chip Cookies</a></td><td id="nl26" onclick="window.location='/recipe/26/Simple-Tiramisu'" onMouseOver="lb('nl26')" onMouseOut="db('nl26')" ><a href="/recipe/26/Simple-Tiramisu" title="Recipe File: Simple Tiramisu">Simple Tiramisu</a></td></tr><tr><td id="nl306" onclick="window.location='/recipe/306/Butter-Pecan-Ice-Cream'" onMouseOver="lb('nl306')" onMouseOut="db('nl306')" ><a href="/recipe/306/Butter-Pecan-Ice-Cream" title="Recipe File: Butter Pecan Ice Cream">Butter Pecan Ice Cream</a></td><td id="nl159" onclick="window.location='/recipe/159/English-Toffee'" onMouseOver="lb('nl159')" onMouseOut="db('nl159')" ><a href="/recipe/159/English-Toffee" title="Recipe File: English Toffee">English Toffee</a></td><td id="nl86" onclick="window.location='/recipe/86/Okra-Stew-Fast-Gumbo'" onMouseOver="lb('nl86')" onMouseOut="db('nl86')" ><a href="/recipe/86/Okra-Stew-Fast-Gumbo" title="Recipe File: Okra Stew (Fast Gumbo)">Okra Stew (Fast Gumbo)</a></td><td id="nl28" onclick="window.location='/recipe/28/Slow-Simmered-Spicy-Barbeque-Sauce'" onMouseOver="lb('nl28')" onMouseOut="db('nl28')" ><a href="/recipe/28/Slow-Simmered-Spicy-Barbeque-Sauce" title="Recipe File: Slow Simmered Spicy Barbeque Sauce">Slow Simmered Spicy Barbeque Sauce</a></td></tr><tr><td id="nl180" onclick="window.location='/recipe/180/Buttercream-Frosting-American'" onMouseOver="lb('nl180')" onMouseOut="db('nl180')" ><a href="/recipe/180/Buttercream-Frosting-American" title="Recipe File: Buttercream Frosting (American)">Buttercream Frosting (American)</a></td><td id="nl327" onclick="window.location='/recipe/327/Espresso-Brownies'" onMouseOver="lb('nl327')" onMouseOut="db('nl327')" ><a href="/recipe/327/Espresso-Brownies" title="Recipe File: Espresso Brownies">Espresso Brownies</a></td><td id="nl200" onclick="window.location='/recipe/200/Osso-Buco'" onMouseOver="lb('nl200')" onMouseOut="db('nl200')" ><a href="/recipe/200/Osso-Buco" title="Recipe File: Osso Buco">Osso Buco</a></td><td id="nl144" onclick="window.location='/recipe/144/Smoked-Beer-Can-Turkey'" onMouseOver="lb('nl144')" onMouseOut="db('nl144')" ><a href="/recipe/144/Smoked-Beer-Can-Turkey" title="Recipe File: Smoked Beer Can Turkey">Smoked Beer Can Turkey</a></td></tr><tr><td id="nl9" onclick="window.location='/recipe/9/Campbells-Green-Bean-Casserole'" onMouseOver="lb('nl9')" onMouseOut="db('nl9')" ><a href="/recipe/9/Campbells-Green-Bean-Casserole" title="Recipe File: Campbell's Green Bean Casserole">Campbell's Green Bean Casserole</a></td><td id="nl34" onclick="window.location='/recipe/34/Garlic-Roasted-Potatoes'" onMouseOver="lb('nl34')" onMouseOut="db('nl34')" ><a href="/recipe/34/Garlic-Roasted-Potatoes" title="Recipe File: Garlic Roasted Potatoes">Garlic Roasted Potatoes</a></td><td id="nl81" onclick="window.location='/recipe/81/Oven-Baked-Chicken-and-Rice'" onMouseOver="lb('nl81')" onMouseOut="db('nl81')" ><a href="/recipe/81/Oven-Baked-Chicken-and-Rice" title="Recipe File: Oven Baked Chicken and Rice">Oven Baked Chicken and Rice</a></td><td id="nl239" onclick="window.location='/recipe/239/Soft-Boiled-Eggs'" onMouseOver="lb('nl239')" onMouseOut="db('nl239')" ><a href="/recipe/239/Soft-Boiled-Eggs" title="Recipe File: Soft Boiled Eggs">Soft Boiled Eggs</a></td></tr><tr><td id="nl181" onclick="window.location='/recipe/181/Cheesecake-Cupcakes'" onMouseOver="lb('nl181')" onMouseOut="db('nl181')" ><a href="/recipe/181/Cheesecake-Cupcakes" title="Recipe File: Cheesecake Cupcakes">Cheesecake Cupcakes</a></td><td id="nl132" onclick="window.location='/recipe/132/Gravlax'" onMouseOver="lb('nl132')" onMouseOut="db('nl132')" ><a href="/recipe/132/Gravlax" title="Recipe File: Gravlax">Gravlax</a></td><td id="nl45" onclick="window.location='/recipe/45/Oven-Baked-Spare-Ribs-Two-Ways'" onMouseOver="lb('nl45')" onMouseOut="db('nl45')" ><a href="/recipe/45/Oven-Baked-Spare-Ribs-Two-Ways" title="Recipe File: Oven Baked Spare Ribs - Two Ways">Oven Baked Spare Ribs - Two Ways</a></td><td id="nl83" onclick="window.location='/recipe/83/Strawberry-Glazed-Angel-Food-Cake'" onMouseOver="lb('nl83')" onMouseOut="db('nl83')" ><a href="/recipe/83/Strawberry-Glazed-Angel-Food-Cake" title="Recipe File: Strawberry Glazed Angel Food Cake">Strawberry Glazed Angel Food Cake</a></td></tr><tr><td id="nl89" onclick="window.location='/recipe/89/Cheesecake-Plain-New-York-Style'" onMouseOver="lb('nl89')" onMouseOut="db('nl89')" ><a href="/recipe/89/Cheesecake-Plain-New-York-Style" title="Recipe File: Cheesecake, Plain New York Style">Cheesecake, Plain New York Style</a></td><td id="nl111" onclick="window.location='/recipe/111/Grilled-Artichokes'" onMouseOver="lb('nl111')" onMouseOut="db('nl111')" ><a href="/recipe/111/Grilled-Artichokes" title="Recipe File: Grilled Artichokes">Grilled Artichokes</a></td><td id="nl37" onclick="window.location='/recipe/37/Pan-Fried-Fish-Fillets'" onMouseOver="lb('nl37')" onMouseOut="db('nl37')" ><a href="/recipe/37/Pan-Fried-Fish-Fillets" title="Recipe File: Pan Fried Fish Fillets">Pan Fried Fish Fillets</a></td><td id="nl4" onclick="window.location='/recipe/4/Sweet-Corn-Bread'" onMouseOver="lb('nl4')" onMouseOut="db('nl4')" ><a href="/recipe/4/Sweet-Corn-Bread" title="Recipe File: Sweet Corn Bread">Sweet Corn Bread</a></td></tr><tr><td id="nl59" onclick="window.location='/recipe/59/Chicken-Mushroom-Marsala'" onMouseOver="lb('nl59')" onMouseOut="db('nl59')" ><a href="/recipe/59/Chicken-Mushroom-Marsala" title="Recipe File: Chicken &amp; Mushroom Marsala">Chicken &amp; Mushroom Marsala</a></td><td id="nl20" onclick="window.location='/recipe/20/Grilled-Pork-Chops'" onMouseOver="lb('nl20')" onMouseOut="db('nl20')" ><a href="/recipe/20/Grilled-Pork-Chops" title="Recipe File: Grilled Pork Chops">Grilled Pork Chops</a></td><td id="nl71" onclick="window.location='/recipe/71/Pan-Seared-Scallops-with-Roasted-Red-Pepper-Sauce'" onMouseOver="lb('nl71')" onMouseOut="db('nl71')" ><a href="/recipe/71/Pan-Seared-Scallops-with-Roasted-Red-Pepper-Sauce" title="Recipe File: Pan Seared Scallops with Roasted Red Pepper Sauce">Pan Seared Scallops with Roasted Red Pepper Sauce</a></td><td id="nl42" onclick="window.location='/recipe/42/Traditional-Chicken-Pot-Pie'" onMouseOver="lb('nl42')" onMouseOut="db('nl42')" ><a href="/recipe/42/Traditional-Chicken-Pot-Pie" title="Recipe File: Traditional Chicken Pot Pie">Traditional Chicken Pot Pie</a></td></tr><tr><td id="nl178" onclick="window.location='/recipe/178/Chocolate-Cake'" onMouseOver="lb('nl178')" onMouseOut="db('nl178')" ><a href="/recipe/178/Chocolate-Cake" title="Recipe File: Chocolate Cake">Chocolate Cake</a></td><td id="nl31" onclick="window.location='/recipe/31/Grilled-Porterhouse-or-T-Bone-Steak'" onMouseOver="lb('nl31')" onMouseOut="db('nl31')" ><a href="/recipe/31/Grilled-Porterhouse-or-T-Bone-Steak" title="Recipe File: Grilled Porterhouse or T-Bone Steak">Grilled Porterhouse or T-Bone Steak</a></td><td id="nl164" onclick="window.location='/recipe/164/Parmesan-Garlic-Bread'" onMouseOver="lb('nl164')" onMouseOut="db('nl164')" ><a href="/recipe/164/Parmesan-Garlic-Bread" title="Recipe File: Parmesan Garlic Bread">Parmesan Garlic Bread</a></td><td id="nl18" onclick="window.location='/recipe/18/Traditional-Pecan-Pie'" onMouseOver="lb('nl18')" onMouseOut="db('nl18')" ><a href="/recipe/18/Traditional-Pecan-Pie" title="Recipe File: Traditional Pecan Pie">Traditional Pecan Pie</a></td></tr><tr><td id="nl195" onclick="window.location='/recipe/195/Chocolate-Truffles'" onMouseOver="lb('nl195')" onMouseOut="db('nl195')" ><a href="/recipe/195/Chocolate-Truffles" title="Recipe File: Chocolate Truffles">Chocolate Truffles</a></td><td id="nl10" onclick="window.location='/recipe/10/Grilled-Salmon'" onMouseOver="lb('nl10')" onMouseOut="db('nl10')" ><a href="/recipe/10/Grilled-Salmon" title="Recipe File: Grilled Salmon">Grilled Salmon</a></td><td id="nl58" onclick="window.location='/recipe/58/Peanut-Butter-Cookies'" onMouseOver="lb('nl58')" onMouseOut="db('nl58')" ><a href="/recipe/58/Peanut-Butter-Cookies" title="Recipe File: Peanut Butter Cookies">Peanut Butter Cookies</a></td><td id="nl62" onclick="window.location='/recipe/62/Tuna-Noodle-Casserole'" onMouseOver="lb('nl62')" onMouseOut="db('nl62')" ><a href="/recipe/62/Tuna-Noodle-Casserole" title="Recipe File: Tuna Noodle Casserole">Tuna Noodle Casserole</a></td></tr><tr><td id="nl112" onclick="window.location='/recipe/112/Clam-Chowder-New-England-Style'" onMouseOver="lb('nl112')" onMouseOut="db('nl112')" ><a href="/recipe/112/Clam-Chowder-New-England-Style" title="Recipe File: Clam Chowder, New England Style">Clam Chowder, New England Style</a></td><td id="nl6" onclick="window.location='/recipe/6/Grilled-Skinless-Chicken-Breast'" onMouseOver="lb('nl6')" onMouseOut="db('nl6')" ><a href="/recipe/6/Grilled-Skinless-Chicken-Breast" title="Recipe File: Grilled Skinless Chicken Breast">Grilled Skinless Chicken Breast</a></td><td id="nl168" onclick="window.location='/recipe/168/Pecan-Coffee-Cake'" onMouseOver="lb('nl168')" onMouseOut="db('nl168')" ><a href="/recipe/168/Pecan-Coffee-Cake" title="Recipe File: Pecan Coffee Cake">Pecan Coffee Cake</a></td><td id="nl75" onclick="window.location='/recipe/75/Turkey-or-Chicken-Stock'" onMouseOver="lb('nl75')" onMouseOut="db('nl75')" ><a href="/recipe/75/Turkey-or-Chicken-Stock" title="Recipe File: Turkey or Chicken Stock">Turkey or Chicken Stock</a></td></tr><tr><td id="nl74" onclick="window.location='/recipe/74/Classic-Roast-Turkey'" onMouseOver="lb('nl74')" onMouseOut="db('nl74')" ><a href="/recipe/74/Classic-Roast-Turkey" title="Recipe File: Classic Roast Turkey">Classic Roast Turkey</a></td><td id="nl43" onclick="window.location='/recipe/43/Homemade-Mayonnaise'" onMouseOver="lb('nl43')" onMouseOut="db('nl43')" ><a href="/recipe/43/Homemade-Mayonnaise" title="Recipe File: Homemade Mayonnaise">Homemade Mayonnaise</a></td></tr></table></div>
+	<div id="navcat_SousVide" style="display:none"><table width="100%" class="navlinks" cellpadding="0" cellspacing="1"><tr><td width="25%" id="nl283" onclick="window.location='/article/283/An-Introduction-to-Sous-Vide-Cooking'" onMouseOver="lb('nl283')" onMouseOut="db('nl283')" ><a href="/article/283/An-Introduction-to-Sous-Vide-Cooking" title="Sous Vide: An Introduction to Sous Vide Cooking">An Introduction to Sous Vide Cooking</a></td><td width="25%" id="nl289" onclick="window.location='/article/289/Sous-Vide-Cooking-at-Home-Setup-Guide'" onMouseOver="lb('nl289')" onMouseOut="db('nl289')" ><a href="/article/289/Sous-Vide-Cooking-at-Home-Setup-Guide" title="Sous Vide: Sous Vide Cooking at Home Setup Guide">Sous Vide Cooking at Home Setup Guide</a></td></tr></table></div>
+	<div id="navcat_TestRecipes" style="display:none"><table width="100%" class="navlinks" cellpadding="0" cellspacing="1"><tr><td width="25%" id="nl14" onclick="window.location='/recipe/14/Albers-Corn-Bread'" onMouseOver="lb('nl14')" onMouseOut="db('nl14')" ><a href="/recipe/14/Albers-Corn-Bread" title="Test Recipes: Albers Corn Bread">Albers Corn Bread</a></td><td width="25%" id="nl19" onclick="window.location='/recipe/19/Erics-Chocolate-Pecan-Pie'" onMouseOver="lb('nl19')" onMouseOut="db('nl19')" ><a href="/recipe/19/Erics-Chocolate-Pecan-Pie" title="Test Recipes: Eric's Chocolate Pecan Pie">Eric's Chocolate Pecan Pie</a></td><td width="25%" id="nl215" onclick="window.location='/recipe/215/Hot-Cross-Buns-Delia-Smiths'" onMouseOver="lb('nl215')" onMouseOut="db('nl215')" ><a href="/recipe/215/Hot-Cross-Buns-Delia-Smiths" title="Test Recipes: Hot Cross Buns (Delia Smith's)">Hot Cross Buns (Delia Smith's)</a></td><td width="25%" id="nl172" onclick="window.location='/recipe/172/Pan-Pizza'" onMouseOver="lb('nl172')" onMouseOut="db('nl172')" ><a href="/recipe/172/Pan-Pizza" title="Test Recipes: Pan Pizza">Pan Pizza</a></td></tr><tr><td id="nl77" onclick="window.location='/recipe/77/Asian-Taco'" onMouseOver="lb('nl77')" onMouseOut="db('nl77')" ><a href="/recipe/77/Asian-Taco" title="Test Recipes: Asian Taco">Asian Taco</a></td><td id="nl46" onclick="window.location='/recipe/46/Faux-BBQ-Beef-Ribs'" onMouseOver="lb('nl46')" onMouseOut="db('nl46')" ><a href="/recipe/46/Faux-BBQ-Beef-Ribs" title="Test Recipes: Faux BBQ Beef Ribs">Faux BBQ Beef Ribs</a></td><td id="nl49" onclick="window.location='/recipe/49/Joy-of-Cookings-Peanut-Butter-Cookies-14-in-one'" onMouseOver="lb('nl49')" onMouseOut="db('nl49')" ><a href="/recipe/49/Joy-of-Cookings-Peanut-Butter-Cookies-14-in-one" title="Test Recipes: Joy of Cooking's Peanut Butter Cookies (14-in-one)">Joy of Cooking's Peanut Butter Cookies (14-in-one)</a></td><td id="nl252" onclick="window.location='/recipe/252/Quick-Gazpacho'" onMouseOver="lb('nl252')" onMouseOut="db('nl252')" ><a href="/recipe/252/Quick-Gazpacho" title="Test Recipes: Quick Gazpacho">Quick Gazpacho</a></td></tr><tr><td id="nl12" onclick="window.location='/recipe/12/Avocado-Pork-Stuffed-Peppers'" onMouseOver="lb('nl12')" onMouseOut="db('nl12')" ><a href="/recipe/12/Avocado-Pork-Stuffed-Peppers" title="Test Recipes: Avocado Pork Stuffed Peppers">Avocado Pork Stuffed Peppers</a></td><td id="nl76" onclick="window.location='/recipe/76/Giblet-Pan-Gravy'" onMouseOver="lb('nl76')" onMouseOut="db('nl76')" ><a href="/recipe/76/Giblet-Pan-Gravy" title="Test Recipes: Giblet Pan Gravy">Giblet Pan Gravy</a></td><td id="nl80" onclick="window.location='/recipe/80/Leftover-Cranberry-Sauce-Pie'" onMouseOver="lb('nl80')" onMouseOut="db('nl80')" ><a href="/recipe/80/Leftover-Cranberry-Sauce-Pie" title="Test Recipes: Leftover Cranberry Sauce Pie">Leftover Cranberry Sauce Pie</a></td><td id="nl13" onclick="window.location='/recipe/13/Sauteed-Zucchini-with-Mushrooms'" onMouseOver="lb('nl13')" onMouseOut="db('nl13')" ><a href="/recipe/13/Sauteed-Zucchini-with-Mushrooms" title="Test Recipes: Sauteed Zucchini with Mushrooms">Sauteed Zucchini with Mushrooms</a></td></tr><tr><td id="nl41" onclick="window.location='/recipe/41/Basic-Biscuits'" onMouseOver="lb('nl41')" onMouseOut="db('nl41')" ><a href="/recipe/41/Basic-Biscuits" title="Test Recipes: Basic Biscuits">Basic Biscuits</a></td><td id="nl72" onclick="window.location='/recipe/72/Good-Eats-Peanut-Brittle'" onMouseOver="lb('nl72')" onMouseOut="db('nl72')" ><a href="/recipe/72/Good-Eats-Peanut-Brittle" title="Test Recipes: Good Eats Peanut Brittle">Good Eats Peanut Brittle</a></td><td id="nl106" onclick="window.location='/recipe/106/Marshmallows'" onMouseOver="lb('nl106')" onMouseOut="db('nl106')" ><a href="/recipe/106/Marshmallows" title="Test Recipes: Marshmallows">Marshmallows</a></td><td id="nl60" onclick="window.location='/recipe/60/The-Classic-Tiramisu-original-recipe'" onMouseOver="lb('nl60')" onMouseOut="db('nl60')" ><a href="/recipe/60/The-Classic-Tiramisu-original-recipe" title="Test Recipes: The Classic Tiramisu (original recipe?)">The Classic Tiramisu (original recipe?)</a></td></tr><tr><td id="nl87" onclick="window.location='/recipe/87/Carrot-Pulp-Cake-Part-I'" onMouseOver="lb('nl87')" onMouseOut="db('nl87')" ><a href="/recipe/87/Carrot-Pulp-Cake-Part-I" title="Test Recipes: Carrot Pulp Cake, Part I">Carrot Pulp Cake, Part I</a></td><td id="nl69" onclick="window.location='/recipe/69/Halloween-Green-Slime-Spinach-Dip'" onMouseOver="lb('nl69')" onMouseOut="db('nl69')" ><a href="/recipe/69/Halloween-Green-Slime-Spinach-Dip" title="Test Recipes: Halloween Green Slime Spinach Dip">Halloween Green Slime Spinach Dip</a></td><td id="nl161" onclick="window.location='/recipe/161/Orzo-Risotto-with-Buttery-Shrimp'" onMouseOver="lb('nl161')" onMouseOut="db('nl161')" ><a href="/recipe/161/Orzo-Risotto-with-Buttery-Shrimp" title="Test Recipes: Orzo Risotto with Buttery Shrimp">Orzo Risotto with Buttery Shrimp</a></td><td id="nl193" onclick="window.location='/recipe/193/TrailBlaze-Bake-At-Home-Energy-Bars'" onMouseOver="lb('nl193')" onMouseOut="db('nl193')" ><a href="/recipe/193/TrailBlaze-Bake-At-Home-Energy-Bars" title="Test Recipes: TrailBlaze Bake-At-Home Energy Bars">TrailBlaze Bake-At-Home Energy Bars</a></td></tr><tr><td id="nl170" onclick="window.location='/recipe/170/Chinese-Almond-Cookies'" onMouseOver="lb('nl170')" onMouseOut="db('nl170')" ><a href="/recipe/170/Chinese-Almond-Cookies" title="Test Recipes: Chinese Almond Cookies">Chinese Almond Cookies</a></td><td id="nl274" onclick="window.location='/recipe/274/Hatch-Chile-Infused-Chocolate-Truffles'" onMouseOver="lb('nl274')" onMouseOut="db('nl274')" ><a href="/recipe/274/Hatch-Chile-Infused-Chocolate-Truffles" title="Test Recipes: Hatch Chile Infused Chocolate Truffles">Hatch Chile Infused Chocolate Truffles</a></td><td id="nl176" onclick="window.location='/recipe/176/Oven-Fried-Onion-Rings'" onMouseOver="lb('nl176')" onMouseOut="db('nl176')" ><a href="/recipe/176/Oven-Fried-Onion-Rings" title="Test Recipes: Oven-Fried Onion Rings">Oven-Fried Onion Rings</a></td></tr></table></div>
+	
+</div>
+<div class="navbarbottom"></div>
+			<table class="tl_table" cellpadding="0" cellspacing="1" border="0">
+	<tr align="center">
+		<td class="indexsummary">
+			<a href="/toc.php?sort=date">Table of Contents</a>
+		</td>
+		<td class="indexsummary">
+			<a href="/forums">Forums</a>
+		</td>
+		<td class="indexsummary">
+			<a href="/dictionary">Dictionary</a>
+		</td>
+		<td class="indexsummary">
+			<a href="/books">Recommended Reading</a>
+		</td>
+		<td class="indexsummary">
+			<a href="http://astore.amazon.com/themichaelupdate">Marketplace</a>
+		</td>
+		<td class="indexsummary">
+			<a href="http://www.cafepress.com/cookingengineer">Giftshop</a>
+		</td>
+		<td class="indexsummary">
+			<a href="/what_i_ate">What I Ate</a>
+		</td>
+		<td class="indexsummary" style="border:1px solid #C00000">
+			<a href="http://www.orthogonalthought.com/blog" title="Read Michael's Blog: Orthogonal Thought" style="background-color:#FFFFC0">Michael's Blog</a>
+		</td>
+	</tr>
+</table>
+
+
+		
+		
+		
+
+
+		
+	<div id="orthogonalthought" onclick="window.location='http://www.orthogonalthought.com/blog/index.php/2014/08/fall-television-season-2014-grid/';" style="cursor:pointer">
+		Latest Post on Michael's Blog: <a href="http://www.orthogonalthought.com/blog/index.php/2014/08/fall-television-season-2014-grid/">Fall Television Season 2014 Grid</a>
+	</div>	
+	
+
+
+		
+		<div class="mainbody">
+			
+
+<table cellpadding="0" cellspacing="2" border="0" style="margin:0 auto 0 auto">
+	<tr>
+		
+		<td style="background: #000000 url(http://www.cookingforengineers.com/pics/160/DSC_3743_crop.jpg) no-repeat center center; cursor:pointer;border:2px solid #FFFFA0;padding:0">
+			<a href="/recipe/98/Condensed-Milk-Fudge" title="Recipe File: Condensed Milk Fudge"><div style="height:100px;width:100px;cursor:pointer"></div></a>
+		</td>
+		
+		<td style="background: #000000 url(http://www.cookingforengineers.com/pics2/160/DSC_1748_crop.jpg) no-repeat center center; cursor:pointer;border:2px solid #FFFFA0;padding:0">
+			<a href="/recipe/177/Matzo-Matzah-Ball-Soup" title="Recipe File: Matzo (Matzah) Ball Soup"><div style="height:100px;width:100px;cursor:pointer"></div></a>
+		</td>
+		
+		<td style="background: #000000 url(http://www.cookingforengineers.com/pics/160/DSC_4848_crop.jpg) no-repeat center center; cursor:pointer;border:2px solid #FFFFA0;padding:0">
+			<a href="/recipe/112/Clam-Chowder-New-England-Style" title="Recipe File: Clam Chowder, New England Style"><div style="height:100px;width:100px;cursor:pointer"></div></a>
+		</td>
+		
+		<td style="background: #000000 url(http://www.cookingforengineers.com/pics4/160/DSC_5365_LR.jpg) no-repeat center center; cursor:pointer;border:2px solid #FFFFA0;padding:0">
+			<a href="/article/269/Metrokane-Mighty-OJ-Not-recommended" title="Equipment & Gear: Metrokane Mighty OJ (Not recommended)"><div style="height:100px;width:100px;cursor:pointer"></div></a>
+		</td>
+		
+		<td style="background: #000000 url(http://www.cookingforengineers.com/hello/259/958/160/IMG_3137_sharp.jpg) no-repeat center center; cursor:pointer;border:2px solid #FFFFA0;padding:0">
+			<a href="/recipe/48/Corn-Fritters" title="Recipe File: Corn Fritters"><div style="height:100px;width:100px;cursor:pointer"></div></a>
+		</td>
+		
+		<td style="background: #000000 url(http://www.cookingforengineers.com/pics/160/DSC_3761_crop.jpg) no-repeat center center; cursor:pointer;border:2px solid #FFFFA0;padding:0">
+			<a href="/recipe/101/Roasted-Asparagus-Spears" title="Recipe File: Roasted Asparagus Spears"><div style="height:100px;width:100px;cursor:pointer"></div></a>
+		</td>
+		
+		<td style="background: #000000 url(http://www.cookingforengineers.com/hello/259/958/160/DSC_0762_sharp.jpg) no-repeat center center; cursor:pointer;border:2px solid #FFFFA0;padding:0">
+			<a href="/recipe/6/Grilled-Skinless-Chicken-Breast" title="Recipe File: Grilled Skinless Chicken Breast"><div style="height:100px;width:100px;cursor:pointer"></div></a>
+		</td>
+		
+		<td style="background: #000000 url(http://www.cookingforengineers.com/pics2/160/DSC_1593_crop.jpg) no-repeat center center; cursor:pointer;border:2px solid #FFFFA0;padding:0">
+			<a href="/recipe/172/Pan-Pizza" title="Test Recipes: Pan Pizza"><div style="height:100px;width:100px;cursor:pointer"></div></a>
+		</td>
+		
+	</tr>
+</table>
+
+
+<div itemscope itemtype="http://data-vocabulary.org/Recipe">
+	<div id="articleheader">
+			<div class="headertitle"><div>
+				<span class="category">
+					Recipe File
+				</span><br />
+				<h1 class="title" style="display:inline" itemprop="name">
+					Ratatouille
+				</h1>
+				<span class="author">
+					by <span itemprop="author">Michael Chu</span>
+				</span>
+			</div></div>
+		<div class="formatbutton"><a href="/recipe/227/Ratatouille/trn">Recipe Card</a></div>
+		<div class="formatbutton"><a href="/recipe/227/Ratatouille/print">Printer-friendly</a></div>
+		
+		<div class="selectedformatbutton">Normal view</div>
+		
+		<div class="hr"></div>
+	</div>
+
+	<div id="articlebody">
+		
+		
+			<div style="font-size:12pt;font-weight:bold;float:right;margin:0px -6px 0 0;padding:0 4px 6px 8px;background-color:#FFFFA0"><a href="/article/229/Joy-of-Cooking-75th-Anniversary-Edition-2006">Next &#187;</a></div>
+			<div style="font-size:12pt;font-weight:bold;float:left;margin:0px 0 0 -6px;padding:0 8px 6px 4px;background-color:#FFFFA0"><a href="/article/224/Heat-Transfer-and-Cooking">&#171; Prev</a></div>
+			
+			<div style="clear:both"></div>
+			<div style="float:right;clear:right;padding:4px 0 12px 8px;" class="nothing">
+				
+<!-- Google DFP Article_160x600-->
+<center>
+<div id='dfp_gpt_1' style='width:160px; height:600px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('dfp_gpt_1'); });
+</script>
+</div>
+</center>
+
+				<div style="margin:30px 0 0 0;line-height:0px"><!-- --></div>
+				
+			</div>
+			
+<!-- Google DFP Article_300x250-->
+<div class="adsense-left">
+<div id='dfp_gpt_2' style='width:300px; height:250px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('dfp_gpt_2'); });
+</script>
+</div>
+</div>
+
+
+		
+		
+			
+			With Ratatouille (a new animated movie from Pixar) coming out in a couple weeks, I thought it would be fitting for me to present a recipe for Ratatouille (a dish from Provence). This is a wonderfully flavorful vegetable dish that can be served as either a side or as a main entree. <br />
+<br />
+<span class="fullpost"><?if($fullpost==1){?>There are a variety of recipes for Ratatouille and the ingredients often change from cook to cook, but most contain eggplant (aubergine), garlic, onions, zucchini (Italian squash or marrows), and bell peppers. Usually the recipe is seasoned with Herbes de Provence, but (as in this recipe) it can be as simple as parsley and basil. Often the individual vegetable components are cooked separately in olive oil, but I like this recipe that cooks the vegetables together.<br />
+<br />
+<div class="larticles">
+	<div class="title">Related Articles</div>
+	<div class="link">
+			<a href="/recipe/127/Shepherds-Pie-Cottage-Pie">Shepherd's Pie (Cottage Pie)</a>
+		</div><div class="link">
+			<a href="/recipe/106/Marshmallows">Marshmallows</a>
+		</div><div class="link">
+			<a href="/article/224/Heat-Transfer-and-Cooking">Heat Transfer and Cooking</a>
+		</div><div class="link">
+			<a href="/article/229/Joy-of-Cooking-75th-Anniversary-Edition-2006">Joy of Cooking (75th Anniversary Edition; 2006)</a>
+		</div><div class="link">
+			<a href="/recipe/53/Salsa-Cruda">Salsa Cruda</a>
+		</div>
+	
+</div>
+	I adapted this recipe from the Culinary Institute of America's newest book - <a href="http://www.amazon.com/exec/obidos/ASIN/0867309180/ref%3Dnosim/themichaelupdate">Vegetables: Recipes and Techniques from the World's Premier Culinary College</a> (which I will review soon).<br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/pics3/640/ND2_4786_crop.jpg'><img src='http://www.cookingforengineers.com/pics3/320/ND2_4786_crop.jpg'  width='320' height='222' title='' class='left' alt='' /></a>
+To begin, assemble the ingredients: 6 garlic cloves, 5 medium button or brown mushrooms (I prefer brown for more flavor), 1 medium zucchini, 5 sprigs of Italian parsley, 4 sprigs of basil, 1 medium onion, 1 can diced tomatoes (or 2 tomatoes peeled, seeded, and diced), chicken or vegetable stock (we'll need 3/4 cup or 180mL), 1 Tbs. tomato paste, 1 medium green bell pepper, and 1 large eggplant (about 1 pound or 450 g). Drain the canned tomatoes.<br /><div style='clear:left'></div><br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/pics3/640/ND2_4788_crop.jpg'><img src='http://www.cookingforengineers.com/pics3/320/ND2_4788_crop.jpg'  width='320' height='189' title='' class='left' alt='' /></a>
+Wash and scrub all the vegetables. Remove the parsley and basil leaves from their stems. Dice the green bell pepper, eggplant, and onion. Quarter the zucchini lengthwise then slice into 1/4-in. (1/2 cm) segments. Quarter the mushrooms. Chop the parsley and the basil.<br /><div style='clear:left'></div><br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/pics3/640/ND2_4790_crop.jpg'><img src='http://www.cookingforengineers.com/pics3/320/ND2_4790_crop.jpg'  width='320' height='231' title='' class='left' alt='' /></a>
+Start cooking by heating olive oil in a large pot over medium heat. Add the minced garlic and saute until the garlic smell intensifies, about one minute.<br /><div style='clear:left'></div><br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/pics3/640/ND2_4792_crop.jpg'><img src='http://www.cookingforengineers.com/pics3/320/ND2_4792_crop.jpg'  width='320' height='267' title='' class='left' alt='' /></a>
+Add the diced onion and continue to saute until they turn translucent, about 4 more minutes.<br /><div style='clear:left'></div><br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/pics3/640/ND2_4793_crop.jpg'><img src='http://www.cookingforengineers.com/pics3/320/ND2_4793_crop.jpg'  width='320' height='214' title='' class='left' alt='' /></a>
+Once the onions are translucent, add 1 Tbs. tomato paste. The tomato paste will be in a clump and will take a bit of stirring and pressing to get it to spread out and cover the onions and garlic.<br /><div style='clear:left'></div><br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/pics3/640/ND2_4795_crop.jpg'><img src='http://www.cookingforengineers.com/pics3/320/ND2_4795_crop.jpg'  width='320' height='227' title='' class='left' alt='' /></a>
+As you work at spreading the paste out and mixing it with the onions and garlic, the paste will cook and darken in color. Once some of the paste starts to stick to the pan and brown, it's time to add the stock (about one minute).<br /><div style='clear:left'></div><br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/pics3/640/ND2_4797_crop.jpg'><img src='http://www.cookingforengineers.com/pics3/320/ND2_4797_crop.jpg'  width='320' height='259' title='' class='left' alt='' /></a>
+Pour in 3/4 cup chicken or vegetable stock and stir until the broth begins to simmer. Using your spatula or utensil, scrub the bottom of the pan to release any browned bits of garlic, onion, or tomato paste.<br /><div style='clear:left'></div><br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/pics3/640/ND2_4798_crop.jpg'><img src='http://www.cookingforengineers.com/pics3/320/ND2_4798_crop.jpg'  width='320' height='242' title='' class='left' alt='' /></a>
+Add the diced eggplant, zucchini, bell peppers, and mushrooms. Stir to combine thoroughly and cook for 10 to 12 minutes, stirring every couple minutes to promote even heating.<br /><div style='clear:left'></div><br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/pics3/640/ND2_4799_crop.jpg'><img src='http://www.cookingforengineers.com/pics3/320/ND2_4799_crop.jpg'  width='320' height='279' title='' class='left' alt='' /></a>
+The eggplant will release a lot of liquid (slowly) into the pot and it's in this liquid that you'll want to simmer the other ingredients in. To evenly cook all the ingredients, you'll have to stir it to make sure the vegetables spend time touching eggplant liquid. As a bonus, the flavors mix amazingly well during this process.<br /><div style='clear:left'></div><br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/pics3/640/ND2_4800_crop.jpg'><img src='http://www.cookingforengineers.com/pics3/320/ND2_4800_crop.jpg'  width='320' height='240' title='' class='left' alt='' /></a>
+The eggplant will mostly be falling apart at this point, but the zucchini, bell peppers, and mushrooms should be tender but not yet mushy.<br /><div style='clear:left'></div><br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/pics3/640/ND2_4801_crop.jpg'><img src='http://www.cookingforengineers.com/pics3/320/ND2_4801_crop.jpg'  width='320' height='214' title='' class='left' alt='' /></a>
+Add the diced tomatoes and stir in. After about a minute, the tomatoes will have heated through. Turn the heat down to the lowest setting.<br /><div style='clear:left'></div><br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/pics3/640/ND2_4806_crop.jpg'><img itemprop="photo" src='http://www.cookingforengineers.com/pics3/320/ND2_4806_crop.jpg'  width='320' height='286' title='' class='left' alt='' /></a>
+Stir in the chopped parsley and basil. Add salt and pepper to taste.<?}?></span><br /><div style='clear:left'></div><span class="fullpost"><?if($fullpost==1){?><br />
+<br />
+Although ratatouille is usually served hot, we love eating this dish cold (usually at room temperature) with freshly toasted slices of a baguette especially during the summer.<?}?></span><br />
+<br />
+<b>Ratatouille</b> (serves <span itemprop="yield">4 to 6</span>)<br />
+<table><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">2 Tbs.</span> <span itemprop="name">olive oil</span></span></td><td class="righthide"></td><td rowspan=2 class="vertical">saute until aromatic over medium heat (1 min)</td><td rowspan=3 class="vertical">saute until translucent (4-5 min)</td><td rowspan=4 class="vertical">mix in and cook until color deepens (1 min)</td><td rowspan=5 class="vertical">deglaze pan</td><td rowspan=9 class="vertical">simmer, stirring often until vegetables are tender (10-12 min)</td><td rowspan=10 class="vertical">stir in and heat until warm (1 min)</td><td rowspan=12 class="vertical">stir in and take off heat</td><td rowspan=13 class="vertical">season to taste</td></tr><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">6 cloves</span> <span itemprop="name">garlic</span></span></td><td>mince</td></tr><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">1 medium (200 g)</span> <span itemprop="name">onion</span></span></td><td>dice</td><td class="righthide"></td></tr><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">1 Tbs. (16 g)</span> <span itemprop="name">tomato paste</span></span></td><td colspan="3" class="righthide"></td></tr><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">3/4 cup (180 mL)</span> <span itemprop="name">chicken or vegetable stock</span></span></td><td colspan="4" class="righthide"></td></tr><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">1 large (450 g)</span> <span itemprop="name">eggplant</span></span></td><td>dice</td><td rowspan="4" colspan="4" class="righthide"></td></tr><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">1 medium (140 g)</span> <span itemprop="name">zucchini</span></span></td><td>quarter & slice</td></tr><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">5 medium (100 g)</span> <span itemprop="name">brown mushrooms (cremini)</span></span></td><td>quarter</td></tr><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">1 medium (150 g)</span> <span itemprop="name">green bell pepper</span></span></td><td>dice</td></tr><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">14-1/2 oz. (411 g)</span> <span itemprop="name">can diced tomatoes</span></span></td><td>drain</td><td colspan="5" class="righthide"></td></tr><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">5 sprigs Italian (flat-leaf)</span> <span itemprop="name">parsley</span></span></td><td>chop</td><td rowspan="2" colspan="6" class="righthide"></td></tr><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">4 sprigs</span> <span itemprop="name">Basil</span></span></td><td>chop</td></tr><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">salt</span> <span itemprop="name">& pepper</span></span></td><td colspan="8" class="righthide"></td></tr></table><br />
+<div class="larticles">
+	<div class="title">Related Articles</div>
+	<div class="link">
+			<a href="/recipe/127/Shepherds-Pie-Cottage-Pie">Shepherd's Pie (Cottage Pie)</a>
+		</div><div class="link">
+			<a href="/recipe/106/Marshmallows">Marshmallows</a>
+		</div><div class="link">
+			<a href="/article/224/Heat-Transfer-and-Cooking">Heat Transfer and Cooking</a>
+		</div><div class="link">
+			<a href="/article/229/Joy-of-Cooking-75th-Anniversary-Edition-2006">Joy of Cooking (75th Anniversary Edition; 2006)</a>
+		</div><div class="link">
+			<a href="/recipe/53/Salsa-Cruda">Salsa Cruda</a>
+		</div>
+	
+</div>
+	<div style="clear:both;margin-bottom:8px"></div>
+			
+		
+		
+		<div class="clear"></div>
+		
+			<div style="font-size:12pt;font-weight:bold;float:right;margin:0 -6px -4px 0;padding:0 2px 2px 6px;background-color:#FFFFA0"><a href="/article/229/Joy-of-Cooking-75th-Anniversary-Edition-2006">Next &#187;</a></div>
+			<div style="font-size:12pt;font-weight:bold;float:left;margin:0 0 -4px -6px;padding:0 6px 2px 2px;background-color:#FFFFA0"><a href="/article/224/Heat-Transfer-and-Cooking">&#171; Prev</a></div>
+		
+		<div class="clear"></div>
+	</div>
+	
+	<div id="articlefooter">
+		<div class="author">Written by Michael Chu</div>
+		<div class="timestamp">Published on <time itemprop="publishDate" itemprop="published" datetime="2007-06-13">June 13, 2007 at 08:45 PM</time></div>
+		<div class="clear"></div>
+	</div>
+	
+</div>
+
+
+
+
+
+	<div class="spacer3"></div>
+		
+<!-- Google DFP Article_728x90-->
+<center>
+<div id='dfp_gpt_3' style='width:728px; height:90px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('dfp_gpt_3'); });
+</script>
+</div>
+</center>
+
+		
+	
+	
+  <div id="comments">
+		<div id="articlecomments">
+			<div class="header">120 comments on <b>Ratatouille</b>:<span class="commentlink">(<a href="/forums/posting.php?mode=reply&t=1159" style="font-size:12pt" title="Comments are managed in the Cooking For Engineers Forums">Post a comment</a>)</span></div>
+			
+					<hr size="1" noshade />
+					<div class="commentheading">On June 14, 2007 at 04:46 AM, Michael Chu said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">Looking for Pixar's Ratatouille as well?<br />
+Here's the <a href='http://www.fanpop.com/spots/upcoming-movies/videos/28179'>trailer</a> and a <a href='http://www.fanpop.com/spots/pixar/videos/28182'>10 minute featurette</a>.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On June 14, 2007 at 06:12 AM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">Just wanna let you kno..do you mean 'once the <i>onions</i> are translucent' instead of tomatoes?</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On June 14, 2007 at 08:19 AM, Michael Chu said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody"><div class='commentquote'>Anonymous wrote:<div class='commentquotebody'>Just wanna let you kno..do you mean 'once the <i>onions</i> are translucent' instead of tomatoes?</div></div><br />
+Thanks! I fixed that error.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On June 14, 2007 at 01:23 PM, Ishbel said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">Michael - I've never had mushrooms in ratouille- either here or in France - but it might be an interesting addition.<br />
+<br />
+It is often served cold in Provence, and I like to do that, too.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On June 15, 2007 at 10:23 PM, A visitor (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">I once ate at a family's house in France where they served ratatouille over scrambled eggs.  I don't know how common this is, but it was awesome.<br />
+<br />
+I like my rat flavored with rosemary, instead of basil, if anyone is interested in variations on this recipe.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On June 16, 2007 at 05:49 PM, bruno6012 (guest) said...</div>
+					<div class="commentsubject">Subject: <span>ratatouille</span><br /></div>
+					<div class="commentbody">I am  surprised that you put mushroom in the ratatouille. My advise is rather to add paprika.<br />
+When you do it with eggs and paprika it is called piperade it is a recipe from the basque country.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On June 18, 2007 at 09:40 AM, Ishbel said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">I love piperade - but have only ever made it with a little thyme - do you use Spanish paprika (I know the dish is from the French side of the Basque country!)</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On June 25, 2007 at 07:28 PM, Jim said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">Wow, that looks REALLY good. I usually won't touch anything cooked with eggplant, but those pictures are convincing me to change my mind!<br />
+<br />
+Also, on the subject of ratatouille--we're hosting a <a href='http://www.recipe4living.com/Common/Article.aspx?id=55124'>contest</a> over at Recipe4Living. Whoever submits the best recipe wins free movie tickets, so if you're interested, feel free to enter!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On June 26, 2007 at 06:46 PM, Gabbie (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Try Roasting Peppers &amp; Eggplant</span><br /></div>
+					<div class="commentbody">When I make Ratatoiulle, I always place my green pepper over the burner of my stove and turn it on to high, then turn so it blackens it all the way around, then scrape off the blackend skin with a fork or grapefruit spoon and slice, I add this usually when it is finished cooking, since the flame cooks the pepper. <br />
+<br />
+Also, if you dice the eggplant, sprinkle generously with salt, let sit for 1/2 hour, then rinse and bake or cook, then it will draw out the moisture and stay more firm.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On June 30, 2007 at 11:19 AM, OUCH (guest) said...</div>
+					<div class="commentsubject">Subject: <span>I'll try it!</span><br /></div>
+					<div class="commentbody">I really hate eggplant, however, it's looking so good I'll give it a try!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On July 01, 2007 at 09:00 PM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">How much dried parsley/oregano should i substitute for the fresh in this dish?</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On July 04, 2007 at 05:38 AM, redwoodsorrel (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Ratatouille recipe</span><br /></div>
+					<div class="commentbody">My favorite ratatouille recipe is the one in Julia Child's Mastering the Art of French Cooking.  It's time-consuming, because it includes a process of sweating the liquid out of the eggplant and zucchini before cooking them and then slowly cooking all the vegetables together in layers until most of the tomato liquid has evaporated, but when it's finished it's glorious and intense.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On July 09, 2007 at 11:22 PM, Rebecca (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">I've cooked with eggplant before and it came out bitter. Someone told me that I should always salt and drain the eggplant before using it to drain off the bitter juices... I notice that you don't do that in this recipe. What's the deal?</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On July 10, 2007 at 09:23 AM, Michael Chu said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody"><div class='commentquote'>Rebecca wrote:<div class='commentquotebody'>I've cooked with eggplant before and it came out bitter. Someone told me that I should always salt and drain the eggplant before using it to drain off the bitter juices... I notice that you don't do that in this recipe. What's the deal?</div></div><br />
+I've salted eggplant before to reduce the bitterness and it never seemed to work as well as suggested. After some experimentation, I now believe that salting eggplant serves the purpose of firming up the structure of the eggplant flesh so it retains its form better during cooking. This practice also helps mask the bitterness a little, but the bitterness is not greatly reduced. The practice of salting eggplant was probably practiced to firm up the flesh (as it is in many recipes) and then later was attributed to reducing bitterness. The real secret is to just buy young eggplant (at least the common and asian varieties are not bitter when young). Older eggplants (they feel lighter/hollower and may have skin that is more shriveled and not tight and plump) tend to be much more bitter. Some other varieties of eggplant may also tend to be bitter too. Avoid these for this dish.<br />
+<br />
+If you wish the diced eggplant to retain their shape more in this dish, then spend the time to salt them (slice them into rounds and sprinkle salt on them and let them sit on a wire rack set in a sheet pan for 1 to 2 hours). This should draw out some of the liquid (you'll see a little bit in the pan if you're lucky) but mostly serve to draw moisture out of the cells and into the gaps between them. This helps prevent the eggplant from soaking up an excessive amount of liquid and oil which leads to their falling apart. At this point, just rinse off the excess salt and dice.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On July 13, 2007 at 04:32 AM, gale (guest) said...</div>
+					<div class="commentsubject">Subject: <span>salting the eggplant</span><br /></div>
+					<div class="commentbody">I always cut my eggplant into thick rounds, and salt it.  I then cover it with a heavy plate and maybe a thick book to weight it down, it only takes about 30 minutes to get the liquids out.  To me, this makes a big difference in the taste of eggplant...no bitterness.  I then rinse the eggplant and use it in my recipe.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On July 14, 2007 at 04:43 PM, phong (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">Oops, I posted this in the off-topic rattatouille thread but it really belongs in the recipe article. <br />
+<br />
+This is the recipe Thomas Keller developed for confit byaldi (rattatouille) that appears in the movie.<br />
+<br />
+http://www.nytimes.com/2007/06/13/dining/131rrex.html?ex=1184558400&amp;en=246c44656ea4e8ff&amp;ei=5070</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On September 10, 2007 at 02:05 PM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">re: eggplant - a simple way to avoid all the salting and rinsing is this - once the onions garlic etc are done add the eggplant separately and cook for a while before adding any other ingredients - this will remove the bitterness as it will cook off the fluid. Likewise if using green peppers/capiscum - personally I always go for red, yellow or orange.<br />
+<br />
+Another thing to try - if you have the time - cook all the ingredients separately (with exception of mushrooms and garlic - great together) - only combine with the tomatoes at the end, a great tip from Keith Floyd, makes for a great flavour.<br />
+<br />
+One last thing - never, ever forget a good healthy dose of red wine :-)</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On September 11, 2007 at 05:47 PM, SJP (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Saute Garlic BEFORE Onion!?!?!</span><br /></div>
+					<div class="commentbody">Excellent recipe!<br />
+<br />
+But, why would anyone ever saute their minced garlic [u:cac403ae2a]before[/u:cac403ae2a] their onions?  Any good chef will tell you that your garlic will be apt to burn especially in an olive oil which boils hotter than some other oils (like vegetable, canola, and others).<br />
+<br />
+And, while we're on the topic of saute and flavour, you might want to experiment with a very small amount of sesame oil - it also boils very hot but it adds a beautiful aroma to the ratatouille.<br />
+<br />
+Happy cooking, y'all.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On September 27, 2007 at 03:37 PM, jen:guest (guest) said...</div>
+					<div class="commentsubject">Subject: <span>recipe card format</span><br /></div>
+					<div class="commentbody">How did you format this recipe card this way?  I would like my recipe cards in this layout.  Thanks for any tips.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On October 08, 2007 at 09:51 PM, suebee (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Ratatouille</span><br /></div>
+					<div class="commentbody">If you dump your ratatouille in a buttered casserole and sprinkle it with parmesan cheese, it is the bomb! Bake for about half an hour at 350 degrees.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 07, 2007 at 04:24 AM, Julie (guest) said...</div>
+					<div class="commentsubject">Subject: <span>garlic before onion</span><br /></div>
+					<div class="commentbody"><i>But, why would anyone ever saute their minced garlic before their onions? Any good chef will tell you that your garlic will be apt to burn especially in an olive oil which boils hotter than some other oils (like vegetable, canola, and others).</i><br />
+<br />
+This bothered me when I read it, but I didn't respond because the comment wasn't worth dignifying with a response. Any good chef would know how to saute their garlic before onions without burning the former. My mom often cooks this way--its gives the garlic time to release a deeper flavor, as my chef-instructors in cooking school taught me. And if there need be anymore proof, I give you an excerpt from the venerable James Beard's <i>Beard on Food</i> as he delivers his own Ratatouille recipe to his readers:<br />
+<br />
+<i>First, heat 1/2 cup oil--it can be olive or peanut oil, but olive oil definitely gives the best taste--in a heavy skillet and very gently saute 5 finely chopped garlic cloves. Add 1 1/2 cups chopped onion, and let that melt down and blend with the garlic ...</i><br />
+<br />
+I've cooked your recipe a few times, always with the garlic first, as directed, and never burned my garlic once. Watch your temperature, and push the garlic around as needed--easy as that. Thank you for your recipe--it's awesome!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 10, 2007 at 12:32 AM, Cucina Pro said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">What is that lovely pan you are using to cook it in?</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 10, 2007 at 07:29 AM, Michael Chu said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody"><div class='commentquote'>Cucina Pro wrote:<div class='commentquotebody'>What is that lovely pan you are using to cook it in?</div></div><br />
+That's an All-Clad Stainless 8-qt. Stock Pot. One of my favorite pots to cook in - lots of space and high sides that keep messes contained. Thick aluminum clad with stainless makes it easy to see if food is browning and evenly heats so nothing burns - even when I stop stirring to take pictures.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 17, 2007 at 08:13 PM, Guest (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Ratatouille</span><br /></div>
+					<div class="commentbody">Hi, that recipe really looks great, but I was wondering, of course, referring to the animated movie Ratatouille, I believe you have seen it already, I am very curious about the way he cooked ratatouille, by baking, with the sauce, which I think it might be tomatoes rather sweet. He put those pieces of vegetables without leaveing any space in between, and at the end put a flour wrapping on it, to reserve the water and flavour, to keep them sweet and soft. Is that anyway you can try it? I might be wrong about the theory. But it seems to be a very interesting method and it gives a very good appetite. I couldn't resist from it when I saw it on the movie. <br />
+Regrads, thank you for the recipe anyway, and sorry about my english.<br />
+<br />
+Au revoir. Martin.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 17, 2007 at 08:26 PM, Cucina Pro said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">The recipe from the New York Times (the link posted previously by Phong, above) is for Confit Byaldi and there is a short feature on the DVD if you rent the movie that shows Chef Thomas Keller making the recipe.<br />
+<br />
+I made it last weekend and it was great.  I don't understand about the "flour wrapper" though.<br />
+<br />
+By the way, if anyone is under the illusion that the rat quickly knocked this out, there must have been several bottles of wine imbibed by the patron while he was waiting for this dish.  It takes quite a while to make. Although it is very simple, there is a lot of prep work and it cooks a long time.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 20, 2007 at 09:27 PM, Tina Hart (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Ratatouille</span><br /></div>
+					<div class="commentbody">Hi! Just read your recipe and this sounds delicious! I am so glad I came across your website and forwarded it to my husband immediately, as he LOVES to cook, and is getting better than I am, altho will never admit it!  I had Ratatouille once when I was a child (yes, I loved my veggies and still do!) and thought it was the best thing my Mom ever made, and she never made it again since that day.  Go figure!  I agree eating cold or room temp with toasted baguette or sliced french bread is delicious.  There is a russian dish that is mostly eggplant, called "Ekra" that we cook, and it's always better the next day, cold or room temperature, made with eggplant, garlic, onion, tomato paste and ketchup (shhhh, ketchup really is a fabulous seasoning to cook with, or catsup, however you want to spell it).  Thank you so much for sharing the recipe, and how you lay out the ingredients, cooking times, pictures, and the final recipe on the bottom of the page.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 23, 2007 at 07:43 PM, Dastardly Doug (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Ratatouille</span><br /></div>
+					<div class="commentbody">I just finished watching the movie Ratatouille and promptly found this site.<br />
+Being both an engineer and a good cook, I could imagine the flavors building and blending into one great dish as I read the receipe.  I would like to write more but my stomach is growling, my mouth is watering and I am on my way out the door to buy the ingredients for tonights dinner...ratatouille.  :lol:</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 24, 2007 at 05:11 AM, an anonymous reader said...</div>
+					<div class="commentsubject">Subject: <span>what is a less expensive wine to go with ratatouille?</span><br /></div>
+					<div class="commentbody">In the delightful movie, the critic Ego asks for a glass of chavel blanc 1947. That is on Forbes list for the 10 most expensive wines at $33,781 for 750ml. Earlier he asks for Chateau La tour1961 that goes for E11,713.a bottle am  i missing the irony of a so called peasant dish and expensive wine or is this just thrown in as part of the  movie to impress us with theeducated test of the critic. my son Jimmy is a chef in Cincinnatti and he is making this for my Christmas present, the so called "peasant dish".</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 04, 2007 at 05:25 PM, Eloise (guest) said...</div>
+					<div class="commentsubject">Subject: <span>ratatouille</span><br /></div>
+					<div class="commentbody">loved your ratatouille recipe. it was the best I ever made, helped of course by delicious Japanese eggplant and other locally grown ingredients here in Hawaii where I am vacationing. I found your site by accident- love the photos and clarity- have told my kids to check it out. thanks</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 10, 2007 at 04:26 AM, esbee (guest) said...</div>
+					<div class="commentsubject">Subject: <span>recipe like the movie</span><br /></div>
+					<div class="commentbody">is there a recipe on  how to make ratatouille so it looks just like what was in the pixar cartoon movie?</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 14, 2007 at 04:03 AM, luganrn (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Ratatouille ala movie</span><br /></div>
+					<div class="commentbody">American chef Thomas Keller invented a contemporary variation, confit byaldi, for the film Ratatouille. Please go to the following link for more info: <br />
+<br />
+http://en.wikipedia.org/wiki/Confit_byaldi</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On January 06, 2008 at 02:57 AM, student (guest) said...</div>
+					<div class="commentsubject">Subject: <span>ratatouille</span><br /></div>
+					<div class="commentbody">Just made it, it is really good, i dont usually like egg plant.<br />
+I love the site, the recipes are easy to follow and ingredients are simple!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On January 07, 2008 at 11:52 PM, Chirpie (guest) said...</div>
+					<div class="commentsubject">Subject: <span>It's worth noting...</span><br /></div>
+					<div class="commentbody">Ego ordered the Blanc 41 before he knew what he was eating. He was assuming the dish would be of extravagant origins, which made the Chef's choice all the more surprising. (And a great reminder of the emotional connection we can have to food)</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On January 11, 2008 at 10:48 PM, flunazuniga123@aol.com (guest) said...</div>
+					<div class="commentsubject">Subject: <span>ratatouille</span><br /></div>
+					<div class="commentbody">Concerning Ms.Tina Hart comment I believe all vegetable dishes or meats and vegetables  for that matter will have more flavor and better taste the day after. As my mother used to say the dish flavors will settle and blend better after a day has past.<br />
+As a frustrated engineer and would be cook I love your site</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On January 16, 2008 at 11:50 PM, Peter Zelchenko (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody"><div class='commentquote'>Quote:<div class='commentquotebody'>re: eggplant - a simple way to avoid all the salting and rinsing is this - once the onions garlic etc are done add the eggplant separately and cook for a while before adding any other ingredients - this will remove the bitterness as it will cook off the fluid.</div></div><br />
+<br />
+That doesn't make sense. How does merely evaporating the water out of the eggplant remove the bitter component that will remain in the pan? And once you add other liquids, it will be reinfused into the moisture.<br />
+<br />
+From the responses I've read and from my experience, I think the salting will work, if you are patient and remove enough liquid. That means you need enough salt. You can actually take the eggplant and squeeze it as hard as you want, like a sponge, to get even more of liquid out. This is more appropriate for when you want to deep-fry eggplant, but it will get lots of moisture out.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On January 20, 2008 at 10:24 AM, arkaren80 (guest) said...</div>
+					<div class="commentsubject">Subject: <span>What about nutrients?</span><br /></div>
+					<div class="commentbody">If you keep squeezing the moisture out of the eggplants and then simmer the veggies for a long time in the pot, won't all the nutrients evaporate as well? What will the nutritive value of ratatouille be?</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On January 20, 2008 at 01:39 PM, Dilbert said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">that eggplant is bitter may actually no longer be true - improved varieties do not demonstrate such a strong tendency.  at one time, peeling eggplant was considered "mandatory" due to "bitterness" - that is definitely no longer true in my first hand experience.<br />
+<br />
+salting the eggplant to remove water has another effect: slices / pieces maintain their shape and consistency better vs. going to mush when cooked.<br />
+<br />
+same with sliced cucumbers in german cucumber salad - slice, salt, allow to stand &amp; drain water keeps them crispier &amp; crunchier.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On January 30, 2008 at 06:05 PM, luv2cook (guest) said...</div>
+					<div class="commentsubject">Subject: <span>ratatoille</span><br /></div>
+					<div class="commentbody">My mother-in-law taught me how to remove the bitterness of eggplant and I find it works very well.  Slice the eggplant and layer on a baking sheet. Next sprinkle sugar lightly over all and let set for an hour. Rinse well before preparing your dish or the eggplant will be sweet.  This method also firms up the flesh. I love this site.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On February 10, 2008 at 09:22 PM, an anonymous reader said...</div>
+					<div class="commentsubject">Subject: <span>an alternat&amp;#305;ve for parsley?</span><br /></div>
+					<div class="commentbody">Im plann&#305;ng on mak&#305;ng th&#305;s d&#305;sh for d&#305;nner tomorrow evening for my husband and fr&#305;end. The only th&#305;ng &#305;s we all hate parsley and was wonder&#305;ng what would be a good alternat&#305;ve. Also I only have dr&#305;ed bas&#305;l so how much of that should I use &#305;nstead &#305;f fresh??? Thanks cant wa&#305;t to get cook&#305;ng.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On February 12, 2008 at 01:07 PM, flunazuniga123@aol.com (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Re: an alternat&amp;#305;ve for parsley?</span><br /></div>
+					<div class="commentbody"><div class='commentquote'>Anonymous wrote:<div class='commentquotebody'>Im plann&#305;ng on mak&#305;ng th&#305;s d&#305;sh for d&#305;nner tomorrow evening for my husband and fr&#305;end. The only th&#305;ng &#305;s we all hate parsley and was wonder&#305;ng what would be a good alternat&#305;ve. Also I only have dr&#305;ed bas&#305;l so how much of that should I use &#305;nstead &#305;f fresh??? Thanks cant wa&#305;t to get cook&#305;ng.</div></div><br />
+<br />
+A good substitute for parsley is finely cut, fresh celery leaves to be used in small amounts as it is stronger tasting than parsley. Concerning the bitterness of the aubergine it is less so if one uses new or fresh ones, also I neutralize the bitterness by adding slices of apple on top of the aubergine when cooking the ingredients the way Remy did</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On February 19, 2008 at 05:49 PM, michael b (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Ratatouille</span><br /></div>
+					<div class="commentbody">Michael, <br />
+<br />
+I happened to make Ratatouille the other night, and had really excellent results.  The recipe I used did not use broth - and alternately used fresh tomatoes and no stock of any kind.  Also - after browning the onions and eggplant, and adding the rest of the veges the cooking was finished in the oven with an herb garni.  I'm sure there are 100s of variations on this, but have you ever tried it this way?  My results were very stellar.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On March 03, 2008 at 10:57 AM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">"Once some of the paste starts to still to the pan and brown, it's time to add the stock (about one minute)."<br />
+<br />
+"still" = "stick", correct?</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On March 03, 2008 at 12:51 PM, Michael Chu said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody"><div class='commentquote'>Anonymous wrote:<div class='commentquotebody'>"Once some of the paste starts to still to the pan and brown, it's time to add the stock (about one minute)."<br />
+<br />
+"still" = "stick", correct?</div></div><br />
+Stick is correct. I've correct the article.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On March 07, 2008 at 01:53 AM, pzelchenko (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">"correct" =&gt; "corrected", right?<br />
+<br />
+(SICR)</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On March 07, 2008 at 01:54 AM, pzelchenko (guest) said...</div>
+					<div class="commentsubject">Subject: <span>One other question...</span><br /></div>
+					<div class="commentbody">Okay, why would salting or sugaring make the flesh of the vegetable more durable? I know it does with pickles, but what is happening?</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On March 07, 2008 at 05:45 PM, Michael Chu said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody"><div class='commentquote'>pzelchenko wrote:<div class='commentquotebody'>"correct" =&gt; "corrected", right?</div></div><br />
+Hahahaha. Yep, another typo caught! I have not corrected this one. :)</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On March 07, 2008 at 06:39 PM, Dilbert said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">&gt;&gt;but what is happening?<br />
+<br />
+don't know about sugar, not done that<br />
+but salt causes "stuff" to lose moisture - salt cured meats, etc.<br />
+natrium did a pretty good job on Egyptian mummies . . .<br />
+<br />
+salt reduces spoilage - as in meats by less water to aid rot &amp; pH changes which discourages the bacterial bugs.<br />
+<br />
+for stuff like cucumbers the extracted water leaves the remaining cells crisper over time.<br />
+<br />
+the exact bio-&lt;whatever&gt; / chemical reactions are not my expertise . . .</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On April 15, 2008 at 10:06 PM, Cargam1 (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Ratatuile</span><br /></div>
+					<div class="commentbody">Well I am not French, but Italian and can tell you that when cooking eggplant, we always salt the pieces and let them sweat for an hour or two. Ratatuile might very well be the equivalent of our Caponata Siciliana. In our Caponata, even with all the salting, we still add a bit of sugar when frying the eggplant. Nevertheless, it's a great recipe and as long as you enjoy your version, who's to say au contrarie! :)</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On April 17, 2008 at 10:00 AM, hyk (guest) said...</div>
+					<div class="commentsubject">Subject: <span>I m in love</span><br /></div>
+					<div class="commentbody">Hi! thank you Micheal. <br />
+<br />
+We are an engaged couple and Ratatouille has a special meaning for us since it is the first movie that we have gone together  ;) <br />
+<br />
+I think it will be our special meal during our marrige  :)</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On April 17, 2008 at 10:36 AM, jetix (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Ratatouille</span><br /></div>
+					<div class="commentbody">It seems delicious :)<br />
+And it sounds good to mcook this delicious meal with your love :)</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On May 18, 2008 at 09:45 PM, gdy (guest) said...</div>
+					<div class="commentsubject">Subject: <span>ratatouille</span><br /></div>
+					<div class="commentbody">I made a very similar dish (without eggplant) recently but for seasoning I used roasted red pepper and garlic (dry spice) as well as Balti (an Indian spice mixture).  I served it with parmigiano reggiano.  The Balti gave the dish a nice "warm" taste.  It was simply delicious.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On May 21, 2008 at 07:38 PM, DrDave244 (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Sugar vs. salt</span><br /></div>
+					<div class="commentbody">A question was posted about the role of salt versus sugar as both a preservative and "firming up" the eggplant.  The answer is that both salt and sugar have an osmotic effect on the fruit, thus "drawing water out" of the tissue and "into" the salt/sugar.  Of course, movement is not one-way, so if you use salt some of it will diffuse INTO the eggplant (but more water will move out than salt moving in).  The same is true of sugar.  The reason salt (and sugar) have been used as preservatives historically is not really because they draw the water out of the food you are trying to preserve, but because they also draw the water out of the "bad stuff" that is also trying to eat the food before you get to it.  Thus, salt prevents bacteria and fungus from growing/surviving in meats, and high sugar content prevents bacteria and fungus from growing/surviving in "preserved" fruits and veggies.  Most bacteria and fungi do not survive well in high salt or high sugar environments, and because bacteria and fungi are the main agents of decomposition ("spoiling"), high levels of salt and sugar have long been used as preservatives.  (Note:  for the same reason, high levels of salt are not good inside our body... it tends to pull water out of our cells, so our body responds by retaining more water in order to "dilute" the salt, which in turn leads to high blood pressure, kidney problems, etc.   High sugar can cause similar problems, but the main negative effect relates to insulin regulation problems)</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On July 05, 2008 at 02:10 PM, ALCYONE68 (guest) said...</div>
+					<div class="commentsubject">Subject: <span>RATATOUILLE VARIATION</span><br /></div>
+					<div class="commentbody">This is a wonderful recipe.  I have made this frequently, with a few variations.  <br />
+If you don't like mushrooms, substitute with three pieces of crispy bacon crumbled.<br />
+Add several 1/4 cup of merlot about 5 minutes before you finish cooking and top each serving lightly with fresh parmesan -asiago mix cheese.  <br />
+<br />
+Or, substitute mushrooms with three pieces of crispy bacon crumbled.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 05, 2008 at 03:09 PM, Momchil (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Thank you!</span><br /></div>
+					<div class="commentbody">God bless you and your cooking Mike!<br />
+<br />
+This is a wonderful recipe! There is a traditional dish in Bulgaria that is very similar, except that there are no mushrooms and the peppers are baked as somebody suggested. Nevertheless I am trying yours and I am delighted!<br />
+<br />
+THANK YOU!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 13, 2008 at 02:47 AM, FeliciafromSeattle (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Made it my own</span><br /></div>
+					<div class="commentbody">I loved your recipe, but to make it a little heartier, I added carrots and paired it with a cornbread muffin.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On September 08, 2008 at 01:30 AM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">This recipe is good. In order to make it awesome, the changes I would suggest are:<br />
+1. Sautee half the eggpalnt in olive oil by itself, and add with the tomatoes. (allows for some identifiable - and VERY tasty eggplant)<br />
+2. Use white wine instead of the broth<br />
+3. Serve with shaved parmesian and crusty french bread<br />
+Bon Appetit!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On September 21, 2008 at 06:21 PM, Kirsty (guest) said...</div>
+					<div class="commentsubject">Subject: <span>yummy!</span><br /></div>
+					<div class="commentbody">I just cooked your recipe, more or less as you suggested, and it was divine. My kids ate it! I guess one contributing factor to its outstanding awesomeness would be that everything came from my garden. It's the first year I've grown everything myself and I highly recommend it. Thanks for a delicious recipe that gets the good stuff down the kids' necks.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On October 16, 2008 at 05:57 AM, sophie-paulette artista00 (guest) said...</div>
+					<div class="commentsubject">Subject: <span>ratatouille</span><br /></div>
+					<div class="commentbody">ratatouille is a healthy dish, simple and rich in flavor. it will look much better or pleasent to your eyes if you bake it. It is important 2 present the food on a dish . make as the Remi did it. Do not mix and stir. make an ar work with it.<br />
+No musrooms, no broth(yikes salt/sodium who needs that?). is a very inexpensive and nutritious dish and Is French of course!<br />
+send me an e-mail and i explain 2 you how to make it look like a very expensive dish. then add the expensive wine. artista00@yahoo.com :D</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 26, 2008 at 05:12 PM, RanchHouseDelux (guest) said...</div>
+					<div class="commentsubject">Subject: <span>What about Presentation?</span><br /></div>
+					<div class="commentbody">What I want to know is how we can alter this great recipe so we can present this dish just as it was in the movie--as a stunning, architectural centerpiece on the plate.  All ratatouilles I've had or seen are so stewish, which is fine most of the time, but for a special occasion, I want a bit of Voila.  Any ideas?</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 10, 2008 at 11:52 PM, an anonymous reader said...</div>
+					<div class="commentsubject">Subject: <span>Great Recipe</span><br /></div>
+					<div class="commentbody">I just love this. I never has any professionally or traditionally made before but this one i made was just perfect. the texture, the smell, the taste, it was all perfect.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 12, 2008 at 01:12 AM, brand0 (guest) said...</div>
+					<div class="commentsubject">Subject: <span>minutes</span><br /></div>
+					<div class="commentbody">I am thinking of cooking this dish after seeing Remy's film.<br />
+but one thing I've noticed on all the articles online that I've search is that:<br />
+<br />
+-mostly veggie<br />
+-very flexible dish<br />
+<br />
+but the cooking time, is it too long considering that veggies tend to lose their potent(or vitamins+minerals) if heated too long?</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On January 12, 2009 at 12:31 AM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">so i had no idea that ratatouille was a real dish. not even after the movie came out. HAHA<br />
+<br />
+so i decided to try it out although i have NEVER eaten eggplant before. i don't know how ratatouille's supposed to taste, but i thought it was excellent. i didn't do any sweating of the eggplant and i tasted no bitterness at all. instead of pairing it w/ a bagguette(didn't buy any at the time), i toasted some sourdough bread instead and it was fantastic. my husband doesn't usually eat veggies and thought it was really good. LOL <br />
+<br />
+so i give it 2 very enthusiastic thumbs up. :oD</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On January 20, 2009 at 01:14 AM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">My daughter watched the movie and wanted ratatouille for dinner.  Made this version minus the green peppers.  It was GREAT!  will definitely make it again.  Our son who usually complains about onions ate 3 helpings.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On February 09, 2009 at 06:54 PM, Tasha6075 (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Ratatouille Dish</span><br /></div>
+					<div class="commentbody">I am going to try to cook this for my family mainly our 5year old who makes us watch ratatouille at least once a week...and I never bore of the movie either love it. We even went to disneyland paris and he was mainly interested in seeing remy and eating in his restuarant even though we did not try the ratatouille I WOULD like to now...many thanks to whoever posted this its clearly popular...well leave feedback when we have cooked it.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On February 10, 2009 at 11:18 PM, Question (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">Hey...you manage to be so f**king precise about everything else and yet you can't manage to state "how much" olive oil to use.  Some engineer.  It's guys like you who cause space rovers to crash.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On February 11, 2009 at 12:30 AM, Michael Chu said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody"><div class='commentquote'>Question wrote:<div class='commentquotebody'>Hey...you manage to be so f**king precise about everything else and yet you can't manage to state "how much" olive oil to use.  Some engineer.  It's guys like you who cause space rovers to crash.</div></div><br />
+Wow, much anger... please refer to the recipe summary table at the bottom of the article.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On February 15, 2009 at 04:45 AM, Cerises (guest) said...</div>
+					<div class="commentsubject">Subject: <span>ratatouille</span><br /></div>
+					<div class="commentbody">in response to  :unsure: about how much olive oil to use it's at the bottom of the recipe...plus :) my French mother in law taught me this recipe...way back when...she was from Brittany and an excellent cook she added a nice sausage which you can serve on the side and she added eggs which she cracked over the ratatouille depends on how many people are served and put a lid to simmer to poach the eggs...different to some but remember in different regions of France your going to get a little variance in this wonderful dish!!! Have fun!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On March 14, 2009 at 08:05 AM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">Hi,<br />
+<br />
+I'm from India and found this recipe super. I use a lot of eggplant - in other dishes - and have never found the need to remove "bitterness". Eggplants, in my experience - are just not bitter! And salting / sugaring / rinsing would remove a lot of the nutrients - particularly the iron, wouldn't it? <br />
+The one thing that i DO know is that no one cooks eggplant in iron saucepans - traditionally. <br />
+Cheers! <br />
+p.s. my husband is an engineer - and he approves of this format - but he's a terrible cook otherwise!!!  ;)</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On March 23, 2009 at 06:59 AM, Rachelle (guest) said...</div>
+					<div class="commentsubject">Subject: <span>YUM!</span><br /></div>
+					<div class="commentbody">I had this dish at a restaurant today and look forward to making it at home with your recipe. Thank you for this site. ;o)</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On April 18, 2009 at 01:19 AM, an anonymous reader said...</div>
+					<div class="commentsubject">Subject: <span>turned out great!</span><br /></div>
+					<div class="commentbody">Thank you for this wonderful recipe. I made it last night and everyone loved it. <br />
+<br />
+I doubled the quantity and followed your recipe with these minor variations:<br />
+<br />
+1. I happened to have  a handful of toasted pine nuts, which I tossed in when I added broth. They turned out to be a perfect addition. They add a whole new dimension to the dish but are absolutely organic with all other flavors. <br />
+<br />
+2. This is a traditional Eastern European twist on the dish: serve it with a dollop of good sour cream. <br />
+<br />
+Today, since there were not enough leftovers for dinner, I added some roasted potatoes to the dish while reheating it. Potatoes change the nature of the dish making it heartier (or some might say heavier) but I like this way too. <br />
+<br />
+Thank you for this recipe. I will make it again.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On April 29, 2009 at 10:50 PM, Jonina (guest) said...</div>
+					<div class="commentsubject">Subject: <span>a couple of comments on older posts</span><br /></div>
+					<div class="commentbody">First, cooking for engineers! I love it! I was a math and physics major and am still proudly a nerd (and yes, I'm a woman!)<br />
+<br />
+Someone mentioned eating ratatouille with scrambled eggs. That reminded me of a Middle Eastern dish called shakshouka (transliteration varies--it's pronounced shock-SHOO-ka) that is eggs poached in stewed tomatoes and often eaten with French fries aka chips--great cheap lunch. If you served it with some nice bread or rolls instead of the chips it would pass for brunch food.<br />
+<br />
+Also, as I discovered (and so did at least one other reader) there are two kinds of ratatouille. One, which I've made before, is essentially roasted vegetables--and includes potatoes. This looks to be the stew kind, and I'm going to try it.<br />
+<br />
+And I love the confirmation code, too!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On June 06, 2009 at 07:41 PM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">Great site. Thank you for the pics as well. :) <br />
+I just wanted to add that "shakshouka" is actually a Nothern African dish not a Middle Eastern, and usually made without mashrooms, but definitely scrambled eggs.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On June 16, 2009 at 11:51 PM, le marseillais (guest) said...</div>
+					<div class="commentsubject">Subject: <span>ratatouille</span><br /></div>
+					<div class="commentbody">There are no mushrooms in ratatouille!  Ratatouille is eggplant, zucchini, tomato, red and green bell pepper, onion and garlic stewed in olive oil with salt and pepper.  Bon appétit!<font color='red'></font><font color='darkblue'></font></div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On June 21, 2009 at 08:09 PM, Joyce (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Ratatioully</span><br /></div>
+					<div class="commentbody">Re: your excellent discussion about the addition of salt and sugar to this dish. . . . <br />
+<br />
+It is exactly that combination (of salt and sugar) we use in seasoning salmon to make 'locks'.  Putting this combination on raw salmon pulls all the moisture out of it.  Here in Denmark, Locks/Lax are called 'gravid lax.'  In the old days, when there were no refrigerators, Danes would salt and pepper their fresh-caught salmon, put a weight on it, and bury it for several days.  ('Gravid' = Grave in Danish.)</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On June 21, 2009 at 08:15 PM, Joyce (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Ratatioully</span><br /></div>
+					<div class="commentbody">Re: your excellent discussion about the addition of salt and sugar to this dish. . . . <br />
+<br />
+It is exactly that combination (of salt and sugar) we use in seasoning salmon to make 'locks'.  Putting this combination on raw salmon pulls all the moisture out of it.  Here in Denmark, Locks/Lax are called 'gravid lax.'  In the old days, when there were no refrigerators, Danes would salt and sugar their fresh-caught salmon, put a weight on it, and bury it for several days.  ('Gravid' = Grave in Danish.)</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 08, 2009 at 09:56 PM, vppeterson (guest) said...</div>
+					<div class="commentsubject">Subject: <span>ratatouille</span><br /></div>
+					<div class="commentbody">For those who want no fat at all in their diet, simmer all in chicken broth.  Just before serving, add a couple of stalks of celery slithered into 1/16" slices - lovely crunch.  Coarsely grated Swiss cheese over top is an added bonus.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 10, 2009 at 11:27 AM, sakura (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">As an admitted foodie and chef for a living, I loved the step by step process with photos for this recipe. I'm told this is a peasant dish where they would just throw together whatever they had available or in season, which is relatively vague. Having never made (or tried) ratatouille, and having found out that I have to make it today, this was the best way to catch a glimpse of how its supposed to turn out. Great recipe!!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 16, 2009 at 08:14 PM, juls (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Ratatouille</span><br /></div>
+					<div class="commentbody">I love this whole website...and this dish was awesome.<br />
+I have made Ratatouille before but not with mushrooms.<br />
+I didn't put mushrooms in and I substituted Iltalian Seasoning for<br />
+the herbs....Delicious!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 18, 2009 at 04:56 PM, Binge Frenefits (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Ratatouille and eggplants</span><br /></div>
+					<div class="commentbody">About eggplants and salt: <br />
+<br />
+In general, the long, narrow kinds of eggplants found all over Asia have no bitterness and need no salting. The large, bulbous kind generally need to be sliced, salted, and pressed to remove brown, bitter juices before rinsing and using them.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 19, 2009 at 03:40 AM, Psychepirate (guest) said...</div>
+					<div class="commentsubject">Subject: <span>The Eggplant</span><br /></div>
+					<div class="commentbody">Hi! I'm planning on making this soon and I'm a little confused about the eggplant, I've never worked/cooked with it before. I've been told I'm supposed to drain the liquid/salt/strain, I've read a lot of the comments on here as well, but in the recipe you say that the eggplant will release a lot of liquid and the other veggie's will simmer in them for a great flavor. Do you recommend draining/straining/salting the eggplant before cooking this dish?</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 19, 2009 at 06:01 AM, Michael Chu said...</div>
+					<div class="commentsubject">Subject: <span>Re: The Eggplant</span><br /></div>
+					<div class="commentbody"><div class='commentquote'>Psychepirate wrote:<div class='commentquotebody'>Hi! I'm planning on making this soon and I'm a little confused about the eggplant, I've never worked/cooked with it before. I've been told I'm supposed to drain the liquid/salt/strain, I've read a lot of the comments on here as well, but in the recipe you say that the eggplant will release a lot of liquid and the other veggie's will simmer in them for a great flavor. Do you recommend draining/straining/salting the eggplant before cooking this dish?</div></div><br />
+I do not salt/drain my eggplant. When selecting globe eggplants, pick heavy eggplants with firm skin. Perhaps I've been lucky, but I've never bought a bitter one... I have had bitter eggplant at other people's houses and at restaurants and my only guess is that older eggplant may develop a bitterness that needs to be dealt with. The problem is that the bitter eggplant that I've had have all been salted, etc. so I'm currently of the opinion that it's just best to buy fresh eggplant and dispense with the whole salting operation. I've not yet done experiments on this though.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 19, 2009 at 11:58 AM, Dilbert said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">eggplant, cucumbers and okra all benefit from picking and eating the young / small size.  bigger is not better for these critters.<br />
+<br />
+two things on the bitterness associated with eggplant - first, modern varieties have much less tendency to get bitter, and second - it's an age thing.  younger, smaller, not hollow sounding to a thump are my guidelines - with salting/draining not required.<br />
+<br />
+the salting/draining is actually not some 'old wives tale' - in my grandmother's younger days, it was true and required.  she lived to 95 and was heavy duty into gardening and cooking.  the eggplant has improved &lt;g&gt;</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 26, 2009 at 01:22 AM, Suzanne (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Ratatouille</span><br /></div>
+					<div class="commentbody">While living in Germany, I visited a neighbor just before dinner and smelled heavenly aromas from her kitchen.  That was my initial introduction in 1977.  Renate did not use green peppers, however, but did add basil, oregano, and thyme.  She served it over couscous and sprinkled the dish with either fresh grated Emmentaler Swiss or Parmesan cheese.  I've never done the eggplant/salt prep as I've never had a bitter eggplant.  I don't use mushrooms either.  I think it is best if made the day before you plan to serve it.  I combine it with a green salad on the side and voila!  a healthy, hearty, and totally satisfying meal with great leftovers.  Tonight, I'm trying it with a splash of red wine as one of the contributors suggested.  Tomorrow, it will be perfect!<br />
+PS  For years, I spelled it phonetically:  "RAHTAHTOOWEE"  While in France, I discovered how it was supposed to be spelled.  Thanks to you and to Disney for bringing this wonderful experience to all of us Paisants.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 26, 2009 at 05:38 PM, Amanda (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">Is it at all possible to use frozen green peppers instead of fresh?  I have 5 large frozen peppers and would love to find a use for them.  Thanks!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 26, 2009 at 06:46 PM, Dilbert said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">&gt;&gt;frozen peppers<br />
+<br />
+absolutely.<br />
+<br />
+I garden and often have a big surplus of green bell peppers.  wash slice dice freeze on a flat cookie sheet on in a thin layer.   once frozen, bag'em for storage.<br />
+<br />
+although I'm not a "hot pepper freak" I've found banana peppers nicely warm - do the same with them except just sliced vs diced.....<br />
+<br />
+do not just slice and/or dice and put in a bag for freezing - it takes longer to freeze, they get soft(er) and you have just a single frozen mass.  freezing in a thin layer lets you break up the chunks so you don't have to use the whole bag in one go.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On September 06, 2009 at 10:41 PM, an anonymous reader said...</div>
+					<div class="commentsubject">Subject: <span>Great!</span><br /></div>
+					<div class="commentbody">Another Engineer here - did great with this recipe!!  Went with red wine, no stock, no mushrooms, added half can canned corn, extra heavy on garlic and onions.<br />
+<br />
+FANTASTIC!!!  YUMMmmmm</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On September 09, 2009 at 01:25 AM, an anonymous reader said...</div>
+					<div class="commentsubject">Subject: <span>Ratatouille - yum!</span><br /></div>
+					<div class="commentbody">This dish is the best use of the summer vegetables!  I don't use mushrooms either, prefer to stay with the classic ingredients of zucchini, eggplant, sweet peppers, onions &amp; garlic.  Use the best quality olive oil (extra-virgin) and Japanese eggplants (they are not bitter).  I generally make this a day ahead, refrigerate, and reheat the next day for best flavor.  Heat the olive oil in a sturdy pot and add ingredients as you chop them.  I tend to add in this order: onions, garlic, eggplant (more olive oil), peppers, zucchini &amp; tomatoes.  Add as much oil as you need to prevent sticking.  Italian seasoning (basil, oregano, marjoram &amp; thyme) and salt complete the dish.  Steaming bowlfuls of this with chunks of sourdough bread are all you need.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On October 01, 2009 at 02:38 PM, LJB (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">Over brown rice.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On October 18, 2009 at 02:57 AM, Guest (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">Great recipe.  I added a jalapeno and a couple of chile peppers to add some zest.  I also skipped the tomato paste since I didn't have any.  It didn't seem to be a problem.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 26, 2009 at 02:10 PM, Laurenist (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">I make this all the time now, so thank you. I usually mix the juices from the can of tomatoes and white wine in place of the stock. I'm going to have to try the red wine like someone above me. I also eat this as bruschetta and it's, well, amazing. Thanks!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 07, 2009 at 10:05 PM, CivilSarah (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Substitution for Eggplant?</span><br /></div>
+					<div class="commentbody">I realize this may be slightly sacrilegious, but I am not in the habit of keeping eggplant stocked in my fridge on a regular basis, nor am I a fan of the taste. Is there a veggie that would suffice as a substitute without compromising the flavor and texture of this dish? I have never tried it, but would love to use my husband as a guinea pig!<br />
+<br />
+Thanks.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 08, 2009 at 01:49 PM, Dilbert said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">&gt;&gt;without compromising the flavor and texture of this dish? <br />
+<br />
+hmmmm, perhaps texture but in the flavor department,,, not really [g]<br />
+<br />
+there's a lot of of flavors in the dish - it does not turn out like "egg plant puree" so to speak - I would encourage you to try it.  I don't stock eggplant either - I buy one when I want it.<br />
+<br />
+buy small ones - bigger is not better in eggplant - it should be firm and have a smooth skin - no dimpling / wrinkling - that's past its prime.<br />
+I always peel mine - I don't care for the skin strips in my dishes.<br />
+<br />
+for substitutions the first thing that comes to mind is zucchini - I suspect fairly thick slice (half inch or so) and watch the cooking time as zucchini goes to mush pretty quick when overcooked.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 28, 2009 at 02:58 PM, JULIETTE and boys (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">AFTER READING THE MAJORITY OF COMMENTS I HAD NO IDEA HOW MANY OPPINIONS PEOPLE HAD ABOUT A SIMPLE YET NOT SO COMMON  RECIPE.  IT WAS SO DIFFICULT TO FIND IN 10-15 COOKBOOKS I SEARCHED THRU.  ONLY ONE HAD IT AND I WASNT GOING TO BUY THE BOOK JUST FOR ONE RECIPE.  JULST LIKE A FEW READERS I WAS ASKED BY MY TWO BOYS 9 AND 12 TO MAKE THIS RECIEP AFTER WATCHING THE MOVIE. THEY PROMISSED TO EAT IT NO MATTER HOW IT TASTED THEIR NOT BIG ON EATTING VEGIES ESPECIALLY EGGPLANT SO I JUMPED ON IT.  I WILL HAVE TO GET BACK TO YOU ON THE RESULTS.  JULIETTE AND BOYS.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On February 07, 2010 at 10:06 AM, ssarryo (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Wow!</span><br /></div>
+					<div class="commentbody">This is easily converted into a vegan dish.  Hmm.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On February 08, 2010 at 09:21 AM, G33ksquared (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Thanks!</span><br /></div>
+					<div class="commentbody">Just wanted to let you know thanks to you I had a very hearty meal if ratatouille!<br />
+I had to improvise a little as I recklessly assumed tomato paste and sauce were the same deal.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On February 15, 2010 at 06:14 AM, ews (guest) said...</div>
+					<div class="commentsubject">Subject: <span>garlic before onion</span><br /></div>
+					<div class="commentbody">Julie the "good" chef wrote:<br />
+<div class='commentquote'>Quote:<div class='commentquotebody'><i>But, why would anyone ever saute their minced garlic before their onions? Any good chef will tell you that your garlic will be apt to burn especially in an olive oil which boils hotter than some other oils (like vegetable, canola, and others).</i><br />
+<br />
+This bothered me when I read it, but I didn't respond because the comment wasn't worth dignifying with a response. Any good chef would know how to saute their garlic before onions without burning the former. My mom often cooks this way--its gives the garlic time to release a deeper flavor, as my chef-instructors in cooking school taught me. And if there need be anymore proof, I give you an excerpt from the venerable James Beard's Beard on Food as he delivers his own Ratatouille recipe to his readers:<br />
+<br />
+... very gently saute 5 finely chopped garlic cloves. Add 1 1/2 cups chopped onion, and let that melt down and blend with the garlic ... </div></div><br />
+While James Beard was a prolific author, entertainer, and promoter, he is not often held up as an authority on chemistry or terminology.  The words "saute," "melt," and "gently" do not in any sense go together.  The first poster is quite correct that if you saute garlic first and continue at that heat, it will burn.  It should be clear that the author of the article was merely using the wrong word, and was actually sweating in oil.<br />
+<br />
+Perhaps instead you could have found fault with the original poster's suggestion that olive oil "boils" hotter than canola--I assume that  he meant flash point--as only the vilest grade of olive oil has a higher flash point than canola, and if we're sweating, we're not close to the flash point anyway.  As any good cook would know.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On March 14, 2010 at 07:59 PM, Eyetalian Cheesehead (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Wine with ratatouille</span><br /></div>
+					<div class="commentbody">Regarding the question about inexpensive wines to go with this dish, I have a few suggestions, all of which retail for about $20 or less. First off, if you're looking to pair a wine with a cuisine form a certain area, it's never a bad move to choose a wine from the same region. Since this dish is Provencal, any number of rhone varietals (syrah, grenache, mourvedre or a blend thereof) would probably work well. IMHO, neither cabernet nor merlot would complement the flavors of this dish -- but to each their own. Juan Gil Jumilla (~$17/bottle) might be a good choice. French Rhone wines are a little too expensive for my pocketbook since the Euro started clobbering the dollar, but the Aussies do a pretty nice job with the shirazes -- just expect them to be a little more fruit-forward than their French counterparts. Layer Cake Shiraz '06 or '08 is a little on the heavy side, but would work well at less than $15/bottle; If you are not easily offended, there is a good grenache bottling called "B-tch" that might work well for ~$11/bottle (and it makes a great gag gift). A nice Cali Zin would also be a good fit -- Seghesio, Murhpy Goode, Murietta, Dry Creek, Eberle, Midnight Cellars are frequently good bets. Don't like reds, or it's warm out and you're eating cold food? How about a nice Tavel Rose (sorry, I don't know how to make the accent aigu appear here)? I've also had good roses made from sangiovese, syrah and malbec. Perhaps my favorite rose ever was Pipestone Grenache Rose, but I think the price was over $20. Their syrah was prestty solid, too.<br />
+For a white, I would suggest viognier -- Yalumba makes a good bottling for about $10/bottle. Their Eden Valley is even better.<br />
+Looks like I got a little carried away...</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On March 14, 2010 at 10:24 PM, Big Jim (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Rattatouille town hall</span><br /></div>
+					<div class="commentbody">I'm impressed with the vigorous flood of comments and suggestions this recipe has invoked.  I know the movie was very popular, but I think the great taste and healthiness of Rattatouille is the common vector here.  My experience with Rattatouille is from Pelican's Wharf, a restaurant in Austin Tx, (sadly gone now) where my girfriend (now wife) and I would split an order with our main courses.  It was a delight and I will attempt to cook it now, post haste. Thanks for the lively discussion!  Viva Rattatouille!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On March 17, 2010 at 04:08 PM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">I love this recipe. It's easy to make, and you can be pretty flexible with the ingredients. I've made it several times. Last night I made it and then found out a friend was coming over for dinner, and he's really picky about stuff he hasn't tried before. Even he enjoyed it, though.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On March 19, 2010 at 09:22 PM, cyndi (guest) said...</div>
+					<div class="commentsubject">Subject: <span>great dish for my diet!</span><br /></div>
+					<div class="commentbody">I looked all over the web and my cookbooks for a simple ratatouille recipe that I could adapt while on a calorie-restricted diet.  This was perfect!  I reduced the oil down to a tsp but sprayed some olive-oil spray as necessary to keep from sticking.  I used more fresh herbs - some oregano and thyme - and added a splash of balsamic vinegar at the end.  Thanks so much and I really liked the format you used, too...and I'm no engineer!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On April 03, 2010 at 08:12 PM, renee (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">i was wondering if i would leave the skin on the eggplant.. i have never used eggplant before and have no idea about it.. thanks for any help  :)</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On April 03, 2010 at 08:59 PM, Dilbert said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">I would suggest peeling the eggplant.  some folks do leave it on, but I find that makes for "stringy UFOs" in the final dish . . .</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On April 03, 2010 at 09:55 PM, Carol (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Cooking for Engineers website</span><br /></div>
+					<div class="commentbody">I’d never run into your site,<br />
+Til one long and frustrating night<br />
+When, driving myself screwy<br />
+To find a good ratatouille,<br />
+Your site popped and I saw the light.<br />
+<br />
+Then I noticed a whole other list<br />
+Of your dishes that I almost missed,<br />
+Now my repertoire’s grown<br />
+With your help alone –<br />
+And this cook is constantly kissed.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On April 04, 2010 at 07:32 PM, Michael Chu said...</div>
+					<div class="commentsubject">Subject: <span>Re: Cooking for Engineers website</span><br /></div>
+					<div class="commentbody"><div class='commentquote'>Carol wrote:<div class='commentquotebody'>I’d never run into your site,<br />
+Til one long and frustrating night...</div></div><br />
+That was an awesome poem/compliment! Thanks!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On June 02, 2010 at 02:35 AM, Anonymouse (guest) said...</div>
+					<div class="commentsubject">Subject: <span>This food is delicious</span><br /></div>
+					<div class="commentbody">I've made it twice and each time it turned out great. It is one of the best pure vegetable dishes I've ever had. The thing about the eggplant, I've never had a problem with eggplant. Ever. I don't know where you are getting yours but every eggplant I've used has not been bitter. Maybe you need to find a better source or pick out a younger plant.<br />
+<br />
+I pretty much followed this recipe exactly as is except I put the onions in first and then the garlic. This allows the garlic to have less cooking time in the oil and not be burned. I wonder what other variations this dish could have. Any thoughts?</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On June 17, 2010 at 03:01 AM, lbcuadrado (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Try adding chick peas</span><br /></div>
+					<div class="commentbody">I loved, I mean loved this dish.  My partner is a vegetarian and we were looking for some added protein, so we added chick peas and 1/4 c. more veg stock and 1/2 the liquid from the diced tomatoes... amazing.  Go for it, you won't be sorry.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On July 28, 2010 at 04:31 PM, Robyn (guest) said...</div>
+					<div class="commentsubject">Subject: <span>YUM!</span><br /></div>
+					<div class="commentbody">We cooked the ratatouille last weekend from this recipe and it was AMAZING! Even my veggie-phobic husband loved and and took leftovers to work! Thanks for the recipe!!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 12, 2010 at 02:13 AM, Frenchy (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Can be done in a CROCKPOT !</span><br /></div>
+					<div class="commentbody">Hi !<br />
+<br />
+Just wanted to say, great recipe ! I had everything prepared, then something urgent came up. (ha, being a mom...) So I just dumped it all in my crockpot and left it on high for 4 hours; it turned out amazing !!!<br />
+<br />
+It was just a bit too liquid, so next time I'll cut the broth in half (or add cornstarch like I did this time) <br />
+<br />
+I served it over pasta with cheese melted on top. Great way to pass vegetables to picky eaters. Especially since the eggplant totally disappears, No-one knew that they were eating the weird purple thing everyone eeewwwed at and poked when it came from the market... LOL</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 21, 2010 at 11:30 PM, ttmich (guest) said...</div>
+					<div class="commentsubject">Subject: <span>The presentation of the recipes</span><br /></div>
+					<div class="commentbody">I am very impressed with the presentation of the recipes. The step-by-step instruction is very easy to follow accompanied by the excellent pictures. The chart is the master stroke: it summarizes each step, includes each ingredient and cooking times. Just follow the chart and you can easily cook the meal !</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On September 07, 2010 at 09:57 PM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">I add a splash of balsamic vinegar at the end before serving. It enlivens this dish  and helps bring the flavors together even more.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On October 19, 2010 at 05:24 PM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">added a hot pepper<br />
+<br />
+Ka pow it was great</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 09, 2010 at 07:29 PM, Argenta (guest) said...</div>
+					<div class="commentsubject">Subject: <span>sautee garlic before onions</span><br /></div>
+					<div class="commentbody">...this method is actually not unusual...<br />
+<br />
+it's the base for most dishes in the filipino culture, and if you do it right (low heat, etc) the dishes taste amazing. it's not exactly a secret...</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On February 18, 2011 at 01:53 PM, aly (guest) said...</div>
+					<div class="commentsubject">Subject: <span>easy but great</span><br /></div>
+					<div class="commentbody">i remember printing out this recipe a long time ago. i couldn't find it on google again, but i'm so happy i did. i love this version of ratatouille. i don't particularly like eggplant, so i leave that out. some of the other recipes call for potatoes and other peppers. i said to myself "that's not the recipe i used before! i want the one that i had!"</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On March 21, 2011 at 06:03 PM, AussieMom (guest) said...</div>
+					<div class="commentsubject">Subject: <span>I have to rave!</span><br /></div>
+					<div class="commentbody">Made this last night in lieu of a trip to Paris.  My son was reading the book Ratatouile and all of a sudden asks if we can go to Paris.  I asked him why and he said we have to go to Gustav's (or something - sorry, never saw the movie) since he makes the best ratatouille.  So, we looked up airfares and found out that we couldn't afford to go to Paris, but instead, why don't we see what ratatouille is and if we can make it.  I found this website, and am now a believer.  Turns out, it is the easiest dish to make, but very flavorful.  We ate ours with warm French bread.  <br />
+<br />
+Also, once everything is chopped up, my 8-year-old son was able to make it easily, with supervision of course :-&gt;  The only thing I would change is that I would put the eggplant as the first veggie and let that cook for awhile until it gets soft, then add the rest of the ingredients.  That way, the other ingredients won't turn to mush as well...although, I did like it mushy like this, especially to dip the bread in, but it doesn't look as pretty as your picture.  <br />
+<br />
+By the way, I followed everything exactly as you have it listed and it really was yumbo!  Thank you so much for this!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On March 21, 2011 at 06:27 PM, Dilbert said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">&gt;&gt;instead of going to Paris. . . <br />
+<br />
+heehee.  indeed an economical dish!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On April 23, 2011 at 06:06 PM, amberorange (guest) said...</div>
+					<div class="commentsubject">Subject: <span>rat</span><br /></div>
+					<div class="commentbody">I made this and it was incredible. My husband, an avid MEAT and potato guy, loved this. Really he loved it. I tried it the next day cold on some toast and it was so so yummy. Thank you.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On June 25, 2011 at 02:42 PM, wannaB chef (guest) said...</div>
+					<div class="commentsubject">Subject: <span>recipe for ratatouille</span><br /></div>
+					<div class="commentbody">I just seen another recipe for rat (as I am looking up  recipes for it so I can cook it) and I noticed a variation. Although most all of the ingredients between your web page and the other was the same, the differance was they added Parmesian cheese and your doesn't. Any difference? Or is it still the same with just an extra added goodie?</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On September 24, 2011 at 06:49 PM, an anonymous reader said...</div>
+					<div class="commentsubject">Subject: <span>Mushrooms and Ratatouille</span><br /></div>
+					<div class="commentbody">Mushrooms are a great addition to ratatouille. I had a Francophile complain about the mushrooms until they ate the meal. Then they agreed that it was acceptable. Your recipe is five-star!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 27, 2013 at 11:35 PM, an anonymous reader said...</div>
+					<div class="commentsubject">Subject: <span>Eggplant sex</span><br /></div>
+					<div class="commentbody">When cooking eggplant, the sex of the eggplant makes a difference in flavor and texture.<br />
+<br />
+Female eggplants have more seeds and a more bitter flavor. Conversely, male eggplants have fewer seeds and are much less bitter. Female eggplants tend to need to be salted and have the exuded moisture removed, while male eggplants don't.<br />
+<br />
+To tell the sex of an eggplant, look at the indentation at bottom. If it's deep and shaped like a dash, it's a female. If it's shallow and round, it's a male.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 18, 2013 at 03:20 PM, Kbo (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Real Talk</span><br /></div>
+					<div class="commentbody">This has been my go-to ratatouille recipe for years by now. That's awesome, you're awesome, that is all.</div>
+					<hr size="1" noshade />
+				
+		<div class="commentlink">
+			<a href="/forums/posting.php?mode=reply&t=1159" title="Comments are managed in the Cooking For Engineers Forums">Post a comment on <i>Ratatouille</i></a>
+		</div>
+	</div>
+	
+</div>
+	
+  
+	<div class="spacer3"></div>
+	
+<!-- Google DFP Article_Footer_728x90-->
+<center>
+<div id='dfp_gpt_4' style='width:728px; height:90px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('dfp_gpt_4'); });
+</script>
+</div>
+</center>
+
+	<div class="spacer3"></div>
+
+
+		</div>
+		
+		
+			
+<table class="fl_table" cellspacing="2" cellpadding="0" border="0">
+	<tr>
+		<td width="16%">
+			<a href="/article/138/About-Cooking-For-Engineers" title="About Cooking For Engineers">About CfE</a>
+		</td>
+		<td width="17%">
+			<a href="/article/139/Contact-Cooking-For-Engineers" title="Contact Cooking For Engineers">Contact</a>
+		</td>
+		<td width="17%">
+			<a href="/article/190/User-Agreement" title="User Agreement">User Agreement</a>
+		</td>
+		<td width="16%">
+			<a href="/article/140/Frequently-Asked-Questions" title="Frequently Asked Questions">FAQ's</a>
+		</td>
+		<td width="17%">
+			<a href="/article/141/In-the-Press" title="Cooking For Engineers in the Press">In the Press</a>
+		</td>
+		<td width="17%">
+			<a href="/article/191/Article-Submission-Program" title="Article Submission Program">Write for CfE</a>
+		</td>
+	</tr>
+</table>
+			
+		
+		<div id="footer">
+	
+  <center><span style="font-size: 85%; line-height: 110%;">All content published by CFE Enterprises, Inc. under license with copyright holders<br>Tabular Recipe Notation Patent Pending (Michael Chu)</span></center>
+
+	<center><a href="/atom.xml">Syndicate</a> <a href="/atom.xml"><img src="/pics/xml.gif" alt="(XML)" style="vertical-align: middle;" border="0" /></a></center>
+
+	
+
+	
+
+	
+	
+	  <!-- Google Analytics -->
+	<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+	</script>
+	<script type="text/javascript">
+	_uacct = "UA-254248-1";
+	urchinTracker();
+	</script>
+
+		
+	<script type="text/javascript">stLight.options({publisher: "b3ed4fb7-bc1d-41a0-b780-15d3cf6b7561"});</script>
+<script>
+var options={ "publisher": "b3ed4fb7-bc1d-41a0-b780-15d3cf6b7561", "position": "left", "ad": { "visible": false, "openDelay": 5, "closeDelay": 0}, "chicklets": { "items": ["facebook", "pinterest", "twitter", "googleplus", "stumbleupon", "email"]}};
+var st_hover_widget = new sharethis.widgets.hoverbuttons(options);
+</script>
+ </div>
+		
+	</body>
+</html>

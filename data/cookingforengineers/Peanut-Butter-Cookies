@@ -1,0 +1,1527 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+	<head>
+		<title>Peanut Butter Cookies - Recipe File - Cooking For Engineers</title>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="description" content="Step by step recipe instructions for peanut butter cookies complete with photographs and reader comments and discussion" />
+		<meta name="keywords" content="cooking,recipes,techniques,photos,discussion,peanut butter cookies" />
+		
+		
+		<link href="/stylesheets/style.css?1381092548" media="screen" rel="Stylesheet" type="text/css" /><link href="/stylesheets/frontpage.css?1204359954" media="screen" rel="Stylesheet" type="text/css" />
+		
+		
+		
+		<script src="/javascripts/prototype.js?1204375576" type="text/javascript"></script><script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript" src="http://s.sharethis.com/loader.js"></script>
+
+		
+<script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + 
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
+
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+
+googletag.defineSlot('/1057967/Article_160x600', [160, 600], 'dfp_gpt_1').addService(googletag.pubads());
+
+googletag.defineSlot('/1057967/Article_300x250', [300, 250], 'dfp_gpt_2').addService(googletag.pubads());
+
+googletag.defineSlot('/1057967/Article_728x90', [728, 90], 'dfp_gpt_3').addService(googletag.pubads());
+
+googletag.defineSlot('/1057967/Article_Footer_728x90', [728, 90], 'dfp_gpt_4').addService(googletag.pubads());
+
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+});
+</script>
+
+		<link href="http://www.cookingforengineers.com/atom.xml" rel="alternate" title="Atom 1.0 Feed" type="application/atom+xml" />
+		
+		<link rel="shortcut icon" href="http://www.cookingforengineers.com/favicon.ico" />
+	</head>
+	<body>
+		
+		
+		
+			<div class="navbar">
+	<div style="float:left">
+		<div class="sitetitle"><a href="/">Cooking For Engineers<span class="trademark">&reg;</span></a></div>
+		<div class="subtitle">Have an analytical mind? Like to cook? This is the site to read!</div>
+	</div>
+	<div style="float:right; margin: 15px 8px 0 0">
+		<form method="get" action="/searchform" style="margin: 0pt; display: inline;">
+		  <input style="margin: 0pt 0pt 2px; font-size: 90%;" name="terms" size="25" maxlength="255" value="" type="text">
+		  <input style="margin: 0pt 0pt 2px; font-size: 90%;" name="search" value="Search" type="submit">
+	  </form>
+	  <br>
+	  <!-- Google Search -->
+	  <form target="_blank" action="http://www.google.com/search" style="margin: 0pt; display: inline;">
+		  <input style="font-size: 90%;" size="24" maxlength="255" value="half cup in milliliters" name="q" type="text">
+		  <input style="font-size: 90%;" name="sa" value="Convert" type="submit">
+		</form>
+	</div>	
+	<div class="clear"></div>
+	<table class="nav" cellpadding="0" cellspacing="1">
+		<tr><td width="11%" id="categorytd_Books"><a href="#" onClick="showcat('Books');return false">Books</a></td>
+			<td width="11%" id="categorytd_CookingTests"><a href="#" onClick="showcat('CookingTests');return false">Cooking&nbsp;Tests</a></td>
+			<td width="11%" id="categorytd_DiningOut"><a href="#" onClick="showcat('DiningOut');return false">Dining&nbsp;Out</a></td>
+			<td width="11%" id="categorytd_EquipmentGear"><a href="#" onClick="showcat('EquipmentGear');return false">Equipment&nbsp;&amp;&nbsp;Gear</a></td>
+			<td width="11%" id="categorytd_KitchenNotes"><a href="#" onClick="showcat('KitchenNotes');return false">Kitchen&nbsp;Notes</a></td>
+			<td width="11%" id="categorytd_OffTopic"><a href="#" onClick="showcat('OffTopic');return false">Off&nbsp;Topic</a></td>
+			<td width="11%" id="categorytd_RecipeFile"><a href="#" onClick="showcat('RecipeFile');return false">Recipe&nbsp;File</a></td>
+			<td width="11%" id="categorytd_SousVide"><a href="#" onClick="showcat('SousVide');return false">Sous&nbsp;Vide</a></td>
+			<td width="12%" id="categorytd_TestRecipes"><a href="#" onClick="showcat('TestRecipes');return false">Test&nbsp;Recipes</a></td>
+			</tr>
+	</table>
+	<script type="text/javascript">
+//<![CDATA[
+
+	function lb(id)
+	{
+		document.getElementById(id).style.border='1px solid #FFFF00';
+	}
+	function db(id)
+	{
+		document.getElementById(id).style.border='1px solid #99FF99';
+	}
+	function showcat(id)
+	{
+		var curdisplay = document.getElementById('navcat_'+id).style.display;
+		document.getElementById('navcat_Books').style.display='none';
+document.getElementById('navcat_CookingTests').style.display='none';
+document.getElementById('navcat_DiningOut').style.display='none';
+document.getElementById('navcat_EquipmentGear').style.display='none';
+document.getElementById('navcat_KitchenNotes').style.display='none';
+document.getElementById('navcat_OffTopic').style.display='none';
+document.getElementById('navcat_RecipeFile').style.display='none';
+document.getElementById('navcat_SousVide').style.display='none';
+document.getElementById('navcat_TestRecipes').style.display='none';
+
+		document.getElementById('categorytd_Books').style.border='1px solid #99FF99';
+document.getElementById('categorytd_Books').style.backgroundColor='transparent';
+document.getElementById('categorytd_CookingTests').style.border='1px solid #99FF99';
+document.getElementById('categorytd_CookingTests').style.backgroundColor='transparent';
+document.getElementById('categorytd_DiningOut').style.border='1px solid #99FF99';
+document.getElementById('categorytd_DiningOut').style.backgroundColor='transparent';
+document.getElementById('categorytd_EquipmentGear').style.border='1px solid #99FF99';
+document.getElementById('categorytd_EquipmentGear').style.backgroundColor='transparent';
+document.getElementById('categorytd_KitchenNotes').style.border='1px solid #99FF99';
+document.getElementById('categorytd_KitchenNotes').style.backgroundColor='transparent';
+document.getElementById('categorytd_OffTopic').style.border='1px solid #99FF99';
+document.getElementById('categorytd_OffTopic').style.backgroundColor='transparent';
+document.getElementById('categorytd_RecipeFile').style.border='1px solid #99FF99';
+document.getElementById('categorytd_RecipeFile').style.backgroundColor='transparent';
+document.getElementById('categorytd_SousVide').style.border='1px solid #99FF99';
+document.getElementById('categorytd_SousVide').style.backgroundColor='transparent';
+document.getElementById('categorytd_TestRecipes').style.border='1px solid #99FF99';
+document.getElementById('categorytd_TestRecipes').style.backgroundColor='transparent';
+
+		if (curdisplay != 'block')
+		{
+			document.getElementById('categorytd_'+id).style.border='1px solid #9999FF';
+			document.getElementById('categorytd_'+id).style.backgroundColor='#000060';
+			document.getElementById('navcat_'+id).style.display='block';
+		}
+		else
+		{
+			document.getElementById('navcat_'+id).style.display='none';
+		}
+	}
+	
+//]]>
+</script>
+	<div id="navcat_Books" style="display:none"><table width="100%" class="navlinks" cellpadding="0" cellspacing="1"><tr><td width="25%" id="nl248" onclick="window.location='/article/248/Everybody-Eats-Lunch-by-Cricket-Azima'" onMouseOver="lb('nl248')" onMouseOut="db('nl248')" ><a href="/article/248/Everybody-Eats-Lunch-by-Cricket-Azima" title="Books: Everybody Eats Lunch by Cricket Azima">Everybody Eats Lunch by Cricket Azima</a></td><td width="25%" id="nl229" onclick="window.location='/article/229/Joy-of-Cooking-75th-Anniversary-Edition-2006'" onMouseOver="lb('nl229')" onMouseOut="db('nl229')" ><a href="/article/229/Joy-of-Cooking-75th-Anniversary-Edition-2006" title="Books: Joy of Cooking (75th Anniversary Edition; 2006)">Joy of Cooking (75th Anniversary Edition; 2006)</a></td><td width="25%" id="nl307" onclick="window.location='/article/307/Ten-Great-Gifts-for-Cooking-For-Engineers-Fans'" onMouseOver="lb('nl307')" onMouseOut="db('nl307')" ><a href="/article/307/Ten-Great-Gifts-for-Cooking-For-Engineers-Fans" title="Books: Ten Great Gifts for Cooking For Engineers' Fans">Ten Great Gifts for Cooking For Engineers' Fans</a></td><td width="25%" id="nl241" onclick="window.location='/article/241/The-Story-of-Tea-by-Mary-Lou-and-Robert-Heiss'" onMouseOver="lb('nl241')" onMouseOut="db('nl241')" ><a href="/article/241/The-Story-of-Tea-by-Mary-Lou-and-Robert-Heiss" title="Books: The Story of Tea by Mary Lou and Robert Heiss">The Story of Tea by Mary Lou and Robert Heiss</a></td></tr><tr><td id="nl270" onclick="window.location='/article/270/Fun-Food-Facts-by-Mike-Bellino'" onMouseOver="lb('nl270')" onMouseOut="db('nl270')" ><a href="/article/270/Fun-Food-Facts-by-Mike-Bellino" title="Books: Fun Food Facts by Mike Bellino">Fun Food Facts by Mike Bellino</a></td><td id="nl242" onclick="window.location='/article/242/Kitchen-Mysteries-by-Herve-This'" onMouseOver="lb('nl242')" onMouseOut="db('nl242')" ><a href="/article/242/Kitchen-Mysteries-by-Herve-This" title="Books: Kitchen Mysteries by Herve This">Kitchen Mysteries by Herve This</a></td><td id="nl254" onclick="window.location='/article/254/The-Science-of-Good-Food'" onMouseOver="lb('nl254')" onMouseOut="db('nl254')" ><a href="/article/254/The-Science-of-Good-Food" title="Books: The Science of Good Food">The Science of Good Food</a></td><td id="nl220" onclick="window.location='/article/220/Toast-by-Nigel-Slater'" onMouseOver="lb('nl220')" onMouseOut="db('nl220')" ><a href="/article/220/Toast-by-Nigel-Slater" title="Books: Toast by Nigel Slater">Toast by Nigel Slater</a></td></tr><tr><td id="nl201" onclick="window.location='/article/201/Heat-by-Bill-Buford'" onMouseOver="lb('nl201')" onMouseOut="db('nl201')" ><a href="/article/201/Heat-by-Bill-Buford" title="Books: Heat by Bill Buford">Heat by Bill Buford</a></td><td id="nl333" onclick="window.location='/article/333/Modernist-Cuisine-at-Home-on-Inkling'" onMouseOver="lb('nl333')" onMouseOut="db('nl333')" ><a href="/article/333/Modernist-Cuisine-at-Home-on-Inkling" title="Books: Modernist Cuisine at Home on Inkling">Modernist Cuisine at Home on Inkling</a></td><td id="nl292" onclick="window.location='/article/292/The-Sorcerers-Apprentices-by-Lisa-Abend'" onMouseOver="lb('nl292')" onMouseOut="db('nl292')" ><a href="/article/292/The-Sorcerers-Apprentices-by-Lisa-Abend" title="Books: The Sorcerer's Apprentices by Lisa Abend">The Sorcerer's Apprentices by Lisa Abend</a></td><td id="nl233" onclick="window.location='/article/233/Vegetables-The-Culinary-Institute-of-America'" onMouseOver="lb('nl233')" onMouseOut="db('nl233')" ><a href="/article/233/Vegetables-The-Culinary-Institute-of-America" title="Books: Vegetables (The Culinary Institute of America)">Vegetables (The Culinary Institute of America)</a></td></tr></table></div>
+	<div id="navcat_CookingTests" style="display:none"><table width="100%" class="navlinks" cellpadding="0" cellspacing="1"><tr><td width="25%" id="nl3" onclick="window.location='/article/3/Bacon-Part-I'" onMouseOver="lb('nl3')" onMouseOut="db('nl3')" ><a href="/article/3/Bacon-Part-I" title="Cooking Tests: Bacon (Part I)">Bacon (Part I)</a></td><td width="25%" id="nl171" onclick="window.location='/article/171/Beer-Can-Chicken'" onMouseOver="lb('nl171')" onMouseOut="db('nl171')" ><a href="/article/171/Beer-Can-Chicken" title="Cooking Tests: Beer Can Chicken">Beer Can Chicken</a></td><td width="25%" id="nl173" onclick="window.location='/article/173/HFCS-Free-Cream-Sodas'" onMouseOver="lb('nl173')" onMouseOut="db('nl173')" ><a href="/article/173/HFCS-Free-Cream-Sodas" title="Cooking Tests: HFCS-Free Cream Sodas">HFCS-Free Cream Sodas</a></td><td width="25%" id="nl249" onclick="window.location='/article/249/Soft-Boiled-Eggs'" onMouseOver="lb('nl249')" onMouseOut="db('nl249')" ><a href="/article/249/Soft-Boiled-Eggs" title="Cooking Tests: Soft Boiled Eggs">Soft Boiled Eggs</a></td></tr><tr><td id="nl110" onclick="window.location='/article/110/Bacon-Part-II'" onMouseOver="lb('nl110')" onMouseOut="db('nl110')" ><a href="/article/110/Bacon-Part-II" title="Cooking Tests: Bacon (Part II)">Bacon (Part II)</a></td><td id="nl5" onclick="window.location='/article/5/Eggplant-Taste-Test'" onMouseOver="lb('nl5')" onMouseOut="db('nl5')" ><a href="/article/5/Eggplant-Taste-Test" title="Cooking Tests: Eggplant Taste Test">Eggplant Taste Test</a></td></tr></table></div>
+	<div id="navcat_DiningOut" style="display:none"><table width="100%" class="navlinks" cellpadding="0" cellspacing="1"><tr><td width="25%" id="nl202" onclick="window.location='/article/202/Ad-Hoc-Yountville-California'" onMouseOver="lb('nl202')" onMouseOut="db('nl202')" ><a href="/article/202/Ad-Hoc-Yountville-California" title="Dining Out: Ad Hoc (Yountville, California)">Ad Hoc (Yountville, California)</a></td><td width="25%" id="nl299" onclick="window.location='/article/299/Chicago-2011-Part-4-Gibsons-Bar-Steakhouse'" onMouseOver="lb('nl299')" onMouseOut="db('nl299')" ><a href="/article/299/Chicago-2011-Part-4-Gibsons-Bar-Steakhouse" title="Dining Out: Chicago 2011 Part 4 - Gibson's Bar &amp; Steakhouse">Chicago 2011 Part 4 - Gibson's Bar &amp; Steakhouse</a></td><td width="25%" id="nl330" onclick="window.location='/article/330/Cook-Taste-Barcelona-Spain'" onMouseOver="lb('nl330')" onMouseOut="db('nl330')" ><a href="/article/330/Cook-Taste-Barcelona-Spain" title="Dining Out: Cook &amp; Taste (Barcelona, Spain)">Cook &amp; Taste (Barcelona, Spain)</a></td><td width="25%" id="nl329" onclick="window.location='/article/329/Pakta-Barcelona-Spain'" onMouseOver="lb('nl329')" onMouseOut="db('nl329')" ><a href="/article/329/Pakta-Barcelona-Spain" title="Dining Out: Pakta (Barcelona, Spain)">Pakta (Barcelona, Spain)</a></td></tr><tr><td id="nl88" onclick="window.location='/article/88/Ahwahnee-Hotel-Kitchen-Yosemite-California'" onMouseOver="lb('nl88')" onMouseOut="db('nl88')" ><a href="/article/88/Ahwahnee-Hotel-Kitchen-Yosemite-California" title="Dining Out: Ahwahnee Hotel Kitchen (Yosemite, California)">Ahwahnee Hotel Kitchen (Yosemite, California)</a></td><td id="nl300" onclick="window.location='/article/300/Chicago-2011-Part-5-Frontera-Grill-XOCO'" onMouseOver="lb('nl300')" onMouseOut="db('nl300')" ><a href="/article/300/Chicago-2011-Part-5-Frontera-Grill-XOCO" title="Dining Out: Chicago 2011 Part 5 - Frontera Grill, XOCO">Chicago 2011 Part 5 - Frontera Grill, XOCO</a></td><td id="nl253" onclick="window.location='/article/253/Elements-Napa-California'" onMouseOver="lb('nl253')" onMouseOut="db('nl253')" ><a href="/article/253/Elements-Napa-California" title="Dining Out: Elements (Napa, California)">Elements (Napa, California)</a></td><td id="nl260" onclick="window.location='/article/260/Parcel-104-Santa-Clara-California'" onMouseOver="lb('nl260')" onMouseOut="db('nl260')" ><a href="/article/260/Parcel-104-Santa-Clara-California" title="Dining Out: Parcel 104 (Santa Clara, California)">Parcel 104 (Santa Clara, California)</a></td></tr><tr><td id="nl311" onclick="window.location='/article/311/Blue-Bell-Creamery-Factory-Tour'" onMouseOver="lb('nl311')" onMouseOut="db('nl311')" ><a href="/article/311/Blue-Bell-Creamery-Factory-Tour" title="Dining Out: Blue Bell Creamery Factory Tour">Blue Bell Creamery Factory Tour</a></td><td id="nl301" onclick="window.location='/article/301/Chicago-2011-Part-6-Noodles-by-Takashi-Yagihashi-Frontera-Fresco-Marc-Burger'" onMouseOver="lb('nl301')" onMouseOut="db('nl301')" ><a href="/article/301/Chicago-2011-Part-6-Noodles-by-Takashi-Yagihashi-Frontera-Fresco-Marc-Burger" title="Dining Out: Chicago 2011 Part 6 - Noodles by Takashi Yagihashi, Frontera Fresco, Marc Burger">Chicago 2011 Part 6 - Noodles by Takashi Yagihashi, Frontera Fresco, Marc Burger</a></td><td id="nl316" onclick="window.location='/article/316/Georges-San-Francisco-California'" onMouseOver="lb('nl316')" onMouseOut="db('nl316')" ><a href="/article/316/Georges-San-Francisco-California" title="Dining Out: Georges (San Francisco, California)">Georges (San Francisco, California)</a></td><td id="nl281" onclick="window.location='/article/281/Per-Se-New-York-New-York'" onMouseOver="lb('nl281')" onMouseOut="db('nl281')" ><a href="/article/281/Per-Se-New-York-New-York" title="Dining Out: Per Se (New York, New York)">Per Se (New York, New York)</a></td></tr><tr><td id="nl91" onclick="window.location='/article/91/Cafe-Terigo-Park-City-Utah'" onMouseOver="lb('nl91')" onMouseOut="db('nl91')" ><a href="/article/91/Cafe-Terigo-Park-City-Utah" title="Dining Out: Cafe Terigo (Park City, Utah)">Cafe Terigo (Park City, Utah)</a></td><td id="nl302" onclick="window.location='/article/302/Chicago-2011-Part-7-Alinea'" onMouseOver="lb('nl302')" onMouseOut="db('nl302')" ><a href="/article/302/Chicago-2011-Part-7-Alinea" title="Dining Out: Chicago 2011 Part 7 - Alinea">Chicago 2011 Part 7 - Alinea</a></td><td id="nl240" onclick="window.location='/article/240/Hard-Knox-Cafe-San-Francisco-California'" onMouseOver="lb('nl240')" onMouseOut="db('nl240')" ><a href="/article/240/Hard-Knox-Cafe-San-Francisco-California" title="Dining Out: Hard Knox Cafe (San Francisco, California)">Hard Knox Cafe (San Francisco, California)</a></td><td id="nl324" onclick="window.location='/article/324/Ramen-in-Austin-Michi-Ramen-and-Ramen-Tatsuya'" onMouseOver="lb('nl324')" onMouseOut="db('nl324')" ><a href="/article/324/Ramen-in-Austin-Michi-Ramen-and-Ramen-Tatsuya" title="Dining Out: Ramen in Austin (Michi Ramen and Ramen Tatsuya)">Ramen in Austin (Michi Ramen and Ramen Tatsuya)</a></td></tr><tr><td id="nl231" onclick="window.location='/article/231/Chads-Fish-Chips-Willits-California'" onMouseOver="lb('nl231')" onMouseOut="db('nl231')" ><a href="/article/231/Chads-Fish-Chips-Willits-California" title="Dining Out: Chad's Fish &amp; Chips (Willits, California)">Chad's Fish &amp; Chips (Willits, California)</a></td><td id="nl303" onclick="window.location='/article/303/Chicago-2011-Part-8-Vienna-Beef-Factory'" onMouseOver="lb('nl303')" onMouseOut="db('nl303')" ><a href="/article/303/Chicago-2011-Part-8-Vienna-Beef-Factory" title="Dining Out: Chicago 2011 Part 8 - Vienna Beef Factory">Chicago 2011 Part 8 - Vienna Beef Factory</a></td><td id="nl247" onclick="window.location='/article/247/Jai-Yun-San-Francisco'" onMouseOver="lb('nl247')" onMouseOut="db('nl247')" ><a href="/article/247/Jai-Yun-San-Francisco" title="Dining Out: Jai Yun (San Francisco)">Jai Yun (San Francisco)</a></td><td id="nl153" onclick="window.location='/article/153/Shadowbrook-Restaurant-Capitola-California'" onMouseOver="lb('nl153')" onMouseOut="db('nl153')" ><a href="/article/153/Shadowbrook-Restaurant-Capitola-California" title="Dining Out: Shadowbrook Restaurant (Capitola, California)">Shadowbrook Restaurant (Capitola, California)</a></td></tr><tr><td id="nl295" onclick="window.location='/article/295/Chicago-2011-Part-1a-Overview'" onMouseOver="lb('nl295')" onMouseOut="db('nl295')" ><a href="/article/295/Chicago-2011-Part-1a-Overview" title="Dining Out: Chicago 2011 Part 1a - Overview">Chicago 2011 Part 1a - Overview</a></td><td id="nl304" onclick="window.location='/article/304/Chicago-2011-Part-9-Girl-and-the-Goat'" onMouseOver="lb('nl304')" onMouseOut="db('nl304')" ><a href="/article/304/Chicago-2011-Part-9-Girl-and-the-Goat" title="Dining Out: Chicago 2011 Part 9 - Girl and the Goat">Chicago 2011 Part 9 - Girl and the Goat</a></td><td id="nl204" onclick="window.location='/article/204/Maverick-San-Francisco-California'" onMouseOver="lb('nl204')" onMouseOut="db('nl204')" ><a href="/article/204/Maverick-San-Francisco-California" title="Dining Out: Maverick (San Francisco, California)">Maverick (San Francisco, California)</a></td><td id="nl216" onclick="window.location='/article/216/Soul-Bar-Bistro-Auckland-New-Zealand'" onMouseOver="lb('nl216')" onMouseOut="db('nl216')" ><a href="/article/216/Soul-Bar-Bistro-Auckland-New-Zealand" title="Dining Out: Soul Bar &amp; Bistro (Auckland, New Zealand)">Soul Bar &amp; Bistro (Auckland, New Zealand)</a></td></tr><tr><td id="nl296" onclick="window.location='/article/296/Chicago-2011-Part-1b-Overview'" onMouseOver="lb('nl296')" onMouseOut="db('nl296')" ><a href="/article/296/Chicago-2011-Part-1b-Overview" title="Dining Out: Chicago 2011 Part 1b - Overview">Chicago 2011 Part 1b - Overview</a></td><td id="nl267" onclick="window.location='/article/267/Coi-San-Francisco-California'" onMouseOver="lb('nl267')" onMouseOut="db('nl267')" ><a href="/article/267/Coi-San-Francisco-California" title="Dining Out: Coi (San Francisco, California)">Coi (San Francisco, California)</a></td><td id="nl235" onclick="window.location='/article/235/Michelin-Rated-Restaurants-San-Francisco-2007'" onMouseOver="lb('nl235')" onMouseOut="db('nl235')" ><a href="/article/235/Michelin-Rated-Restaurants-San-Francisco-2007" title="Dining Out: Michelin Rated Restaurants (San Francisco 2007)">Michelin Rated Restaurants (San Francisco 2007)</a></td><td id="nl293" onclick="window.location='/article/293/The-Noble-Pig-Austin-Texas'" onMouseOver="lb('nl293')" onMouseOut="db('nl293')" ><a href="/article/293/The-Noble-Pig-Austin-Texas" title="Dining Out: The Noble Pig (Austin, Texas)">The Noble Pig (Austin, Texas)</a></td></tr><tr><td id="nl297" onclick="window.location='/article/297/Chicago-2011-Part-2-Shui-Wah-Santa-Anna-Bakery'" onMouseOver="lb('nl297')" onMouseOut="db('nl297')" ><a href="/article/297/Chicago-2011-Part-2-Shui-Wah-Santa-Anna-Bakery" title="Dining Out: Chicago 2011 Part 2 - Shui Wah, Santa Anna Bakery">Chicago 2011 Part 2 - Shui Wah, Santa Anna Bakery</a></td><td id="nl291" onclick="window.location='/article/291/Congress-Austin-Texas'" onMouseOver="lb('nl291')" onMouseOut="db('nl291')" ><a href="/article/291/Congress-Austin-Texas" title="Dining Out: Congress (Austin, Texas)">Congress (Austin, Texas)</a></td><td id="nl236" onclick="window.location='/article/236/Michelin-Rated-Restaurants-San-Francisco-2008'" onMouseOver="lb('nl236')" onMouseOut="db('nl236')" ><a href="/article/236/Michelin-Rated-Restaurants-San-Francisco-2008" title="Dining Out: Michelin Rated Restaurants (San Francisco 2008)">Michelin Rated Restaurants (San Francisco 2008)</a></td><td id="nl245" onclick="window.location='/article/245/Uchi-Austin-Texas'" onMouseOver="lb('nl245')" onMouseOut="db('nl245')" ><a href="/article/245/Uchi-Austin-Texas" title="Dining Out: Uchi (Austin, Texas)">Uchi (Austin, Texas)</a></td></tr><tr><td id="nl298" onclick="window.location='/article/298/Chicago-2011-Part-3-Pizzeria-Uno-Giordanos'" onMouseOver="lb('nl298')" onMouseOut="db('nl298')" ><a href="/article/298/Chicago-2011-Part-3-Pizzeria-Uno-Giordanos" title="Dining Out: Chicago 2011 Part 3 - Pizzeria Uno, Giordano's">Chicago 2011 Part 3 - Pizzeria Uno, Giordano's</a></td></tr></table></div>
+	<div id="navcat_EquipmentGear" style="display:none"><table width="100%" class="navlinks" cellpadding="0" cellspacing="1"><tr><td width="25%" id="nl319" onclick="window.location='/article/319/Anolon-Nouvelle-Copper-Stainless-Steel-3-qt-Covered-Saute-Pan'" onMouseOver="lb('nl319')" onMouseOut="db('nl319')" ><a href="/article/319/Anolon-Nouvelle-Copper-Stainless-Steel-3-qt-Covered-Saute-Pan" title="Equipment &amp; Gear: Anolon Nouvelle Copper Stainless Steel 3-qt Covered Saute Pan">Anolon Nouvelle Copper Stainless Steel 3-qt Covered Saute Pan</a></td><td width="25%" id="nl17" onclick="window.location='/article/17/Cutting-Boards'" onMouseOver="lb('nl17')" onMouseOut="db('nl17')" ><a href="/article/17/Cutting-Boards" title="Equipment &amp; Gear: Cutting Boards">Cutting Boards</a></td><td width="25%" id="nl95" onclick="window.location='/article/95/Kitchen-Thermometers'" onMouseOver="lb('nl95')" onMouseOut="db('nl95')" ><a href="/article/95/Kitchen-Thermometers" title="Equipment &amp; Gear: Kitchen Thermometers">Kitchen Thermometers</a></td><td width="25%" id="nl99" onclick="window.location='/article/99/Microwave-Safe-Containers'" onMouseOver="lb('nl99')" onMouseOut="db('nl99')" ><a href="/article/99/Microwave-Safe-Containers" title="Equipment &amp; Gear: Microwave Safe Containers">Microwave Safe Containers</a></td></tr><tr><td id="nl205" onclick="window.location='/article/205/Bakers-Edge'" onMouseOver="lb('nl205')" onMouseOut="db('nl205')" ><a href="/article/205/Bakers-Edge" title="Equipment &amp; Gear: Baker's Edge">Baker's Edge</a></td><td id="nl222" onclick="window.location='/article/222/Fathers-Day-Gift-Ideas'" onMouseOver="lb('nl222')" onMouseOut="db('nl222')" ><a href="/article/222/Fathers-Day-Gift-Ideas" title="Equipment &amp; Gear: Father's Day Gift Ideas">Father's Day Gift Ideas</a></td><td id="nl187" onclick="window.location='/article/187/Knife-and-Sharpening-Steel-Hardness'" onMouseOver="lb('nl187')" onMouseOut="db('nl187')" ><a href="/article/187/Knife-and-Sharpening-Steel-Hardness" title="Equipment &amp; Gear: Knife and Sharpening Steel Hardness">Knife and Sharpening Steel Hardness</a></td><td id="nl84" onclick="window.location='/article/84/NSF-Certification'" onMouseOver="lb('nl84')" onMouseOut="db('nl84')" ><a href="/article/84/NSF-Certification" title="Equipment &amp; Gear: NSF Certification">NSF Certification</a></td></tr><tr><td id="nl290" onclick="window.location='/article/290/Ceramic-Chefs-Knives-Rated'" onMouseOver="lb('nl290')" onMouseOut="db('nl290')" ><a href="/article/290/Ceramic-Chefs-Knives-Rated" title="Equipment &amp; Gear: Ceramic Chef's Knives Rated">Ceramic Chef's Knives Rated</a></td><td id="nl256" onclick="window.location='/article/256/GelPro-Mat'" onMouseOver="lb('nl256')" onMouseOut="db('nl256')" ><a href="/article/256/GelPro-Mat" title="Equipment &amp; Gear: GelPro Mat">GelPro Mat</a></td><td id="nl135" onclick="window.location='/article/135/Knife-Covers'" onMouseOver="lb('nl135')" onMouseOut="db('nl135')" ><a href="/article/135/Knife-Covers" title="Equipment &amp; Gear: Knife Covers">Knife Covers</a></td><td id="nl275" onclick="window.location='/article/275/Saber-Kitchen-Knives'" onMouseOver="lb('nl275')" onMouseOut="db('nl275')" ><a href="/article/275/Saber-Kitchen-Knives" title="Equipment &amp; Gear: Saber Kitchen Knives">Saber Kitchen Knives</a></td></tr><tr><td id="nl129" onclick="window.location='/article/129/Chefs-Knives-Rated'" onMouseOver="lb('nl129')" onMouseOut="db('nl129')" ><a href="/article/129/Chefs-Knives-Rated" title="Equipment &amp; Gear: Chef's Knives Rated">Chef's Knives Rated</a></td><td id="nl117" onclick="window.location='/article/117/Hefty-Serve-n-Store'" onMouseOver="lb('nl117')" onMouseOut="db('nl117')" ><a href="/article/117/Hefty-Serve-n-Store" title="Equipment &amp; Gear: Hefty Serve 'n Store">Hefty Serve 'n Store</a></td><td id="nl130" onclick="window.location='/article/130/Knife-Parts'" onMouseOver="lb('nl130')" onMouseOut="db('nl130')" ><a href="/article/130/Knife-Parts" title="Equipment &amp; Gear: Knife Parts">Knife Parts</a></td><td id="nl234" onclick="window.location='/article/234/Soda-Club-SodaStream'" onMouseOver="lb('nl234')" onMouseOut="db('nl234')" ><a href="/article/234/Soda-Club-SodaStream" title="Equipment &amp; Gear: Soda-Club (SodaStream)">Soda-Club (SodaStream)</a></td></tr><tr><td id="nl120" onclick="window.location='/article/120/Common-Materials-of-Cookware'" onMouseOver="lb('nl120')" onMouseOut="db('nl120')" ><a href="/article/120/Common-Materials-of-Cookware" title="Equipment &amp; Gear: Common Materials of Cookware">Common Materials of Cookware</a></td><td id="nl272" onclick="window.location='/article/272/Kapoosh-Knife-Block-not-recommended'" onMouseOver="lb('nl272')" onMouseOut="db('nl272')" ><a href="/article/272/Kapoosh-Knife-Block-not-recommended" title="Equipment &amp; Gear: Kapoosh Knife Block (not recommended)">Kapoosh Knife Block (not recommended)</a></td><td id="nl85" onclick="window.location='/article/85/Krups-Spice-Grinder'" onMouseOver="lb('nl85')" onMouseOut="db('nl85')" ><a href="/article/85/Krups-Spice-Grinder" title="Equipment &amp; Gear: Krups Spice Grinder">Krups Spice Grinder</a></td><td id="nl287" onclick="window.location='/article/287/Understanding-Blender-Specifications'" onMouseOver="lb('nl287')" onMouseOut="db('nl287')" ><a href="/article/287/Understanding-Blender-Specifications" title="Equipment &amp; Gear: Understanding Blender Specifications">Understanding Blender Specifications</a></td></tr><tr><td id="nl232" onclick="window.location='/article/232/Cooking-With-Aluminum'" onMouseOver="lb('nl232')" onMouseOut="db('nl232')" ><a href="/article/232/Cooking-With-Aluminum" title="Equipment &amp; Gear: Cooking With Aluminum">Cooking With Aluminum</a></td><td id="nl39" onclick="window.location='/article/39/Kitchen-Knives'" onMouseOver="lb('nl39')" onMouseOut="db('nl39')" ><a href="/article/39/Kitchen-Knives" title="Equipment &amp; Gear: Kitchen Knives">Kitchen Knives</a></td><td id="nl269" onclick="window.location='/article/269/Metrokane-Mighty-OJ-Not-recommended'" onMouseOver="lb('nl269')" onMouseOut="db('nl269')" ><a href="/article/269/Metrokane-Mighty-OJ-Not-recommended" title="Equipment &amp; Gear: Metrokane Mighty OJ (Not recommended)">Metrokane Mighty OJ (Not recommended)</a></td><td id="nl326" onclick="window.location='/article/326/Whats-In-Your-Non-Stick'" onMouseOver="lb('nl326')" onMouseOut="db('nl326')" ><a href="/article/326/Whats-In-Your-Non-Stick" title="Equipment &amp; Gear: What's In Your Non-Stick?">What's In Your Non-Stick?</a></td></tr><tr><td id="nl175" onclick="window.location='/article/175/CoolCover'" onMouseOver="lb('nl175')" onMouseOut="db('nl175')" ><a href="/article/175/CoolCover" title="Equipment &amp; Gear: CoolCover">CoolCover</a></td><td id="nl82" onclick="window.location='/article/82/Kitchen-Scales'" onMouseOver="lb('nl82')" onMouseOut="db('nl82')" ><a href="/article/82/Kitchen-Scales" title="Equipment &amp; Gear: Kitchen Scales">Kitchen Scales</a></td></tr></table></div>
+	<div id="navcat_KitchenNotes" style="display:none"><table width="100%" class="navlinks" cellpadding="0" cellspacing="1"><tr><td width="25%" id="nl90" onclick="window.location='/article/90/Additives'" onMouseOver="lb('nl90')" onMouseOut="db('nl90')" ><a href="/article/90/Additives" title="Kitchen Notes: Additives">Additives</a></td><td width="25%" id="nl131" onclick="window.location='/article/131/Clarified-Butter'" onMouseOver="lb('nl131')" onMouseOut="db('nl131')" ><a href="/article/131/Clarified-Butter" title="Kitchen Notes: Clarified Butter">Clarified Butter</a></td><td width="25%" id="nl51" onclick="window.location='/article/51/Glossary'" onMouseOver="lb('nl51')" onMouseOut="db('nl51')" ><a href="/article/51/Glossary" title="Kitchen Notes: Glossary">Glossary</a></td><td width="25%" id="nl40" onclick="window.location='/article/40/Saturated-Fats-Cholesterol-and-Heart-Disease'" onMouseOver="lb('nl40')" onMouseOut="db('nl40')" ><a href="/article/40/Saturated-Fats-Cholesterol-and-Heart-Disease" title="Kitchen Notes: Saturated Fats, Cholesterol, and Heart Disease">Saturated Fats, Cholesterol, and Heart Disease</a></td></tr><tr><td id="nl280" onclick="window.location='/article/280/Analyzing-a-Baking-Recipe'" onMouseOver="lb('nl280')" onMouseOut="db('nl280')" ><a href="/article/280/Analyzing-a-Baking-Recipe" title="Kitchen Notes: Analyzing a Baking Recipe">Analyzing a Baking Recipe</a></td><td id="nl198" onclick="window.location='/article/198/Clarified-Butter-II'" onMouseOver="lb('nl198')" onMouseOut="db('nl198')" ><a href="/article/198/Clarified-Butter-II" title="Kitchen Notes: Clarified Butter II">Clarified Butter II</a></td><td id="nl209" onclick="window.location='/article/209/Heat-Transfer-and-Browning-Foods'" onMouseOver="lb('nl209')" onMouseOut="db('nl209')" ><a href="/article/209/Heat-Transfer-and-Browning-Foods" title="Kitchen Notes: Heat Transfer and Browning Foods">Heat Transfer and Browning Foods</a></td><td id="nl78" onclick="window.location='/article/78/Scoville-Units'" onMouseOver="lb('nl78')" onMouseOut="db('nl78')" ><a href="/article/78/Scoville-Units" title="Kitchen Notes: Scoville Units">Scoville Units</a></td></tr><tr><td id="nl199" onclick="window.location='/article/199/Baguettes-Deconstructed'" onMouseOver="lb('nl199')" onMouseOut="db('nl199')" ><a href="/article/199/Baguettes-Deconstructed" title="Kitchen Notes: Baguettes Deconstructed">Baguettes Deconstructed</a></td><td id="nl184" onclick="window.location='/article/184/Curry'" onMouseOver="lb('nl184')" onMouseOut="db('nl184')" ><a href="/article/184/Curry" title="Kitchen Notes: Curry">Curry</a></td><td id="nl224" onclick="window.location='/article/224/Heat-Transfer-and-Cooking'" onMouseOver="lb('nl224')" onMouseOut="db('nl224')" ><a href="/article/224/Heat-Transfer-and-Cooking" title="Kitchen Notes: Heat Transfer and Cooking">Heat Transfer and Cooking</a></td><td id="nl50" onclick="window.location='/article/50/Smoke-Points-of-Various-Fats'" onMouseOver="lb('nl50')" onMouseOut="db('nl50')" ><a href="/article/50/Smoke-Points-of-Various-Fats" title="Kitchen Notes: Smoke Points of Various Fats">Smoke Points of Various Fats</a></td></tr><tr><td id="nl213" onclick="window.location='/article/213/Bakers-Yeast'" onMouseOver="lb('nl213')" onMouseOut="db('nl213')" ><a href="/article/213/Bakers-Yeast" title="Kitchen Notes: Baker's Yeast">Baker's Yeast</a></td><td id="nl97" onclick="window.location='/article/97/Cutting-Up-Chicken'" onMouseOver="lb('nl97')" onMouseOut="db('nl97')" ><a href="/article/97/Cutting-Up-Chicken" title="Kitchen Notes: Cutting Up Chicken">Cutting Up Chicken</a></td><td id="nl52" onclick="window.location='/article/52/Ingredient-Substitutions'" onMouseOver="lb('nl52')" onMouseOut="db('nl52')" ><a href="/article/52/Ingredient-Substitutions" title="Kitchen Notes: Ingredient Substitutions">Ingredient Substitutions</a></td><td id="nl155" onclick="window.location='/article/155/Tempering-Chocolate'" onMouseOver="lb('nl155')" onMouseOut="db('nl155')" ><a href="/article/155/Tempering-Chocolate" title="Kitchen Notes: Tempering Chocolate">Tempering Chocolate</a></td></tr><tr><td id="nl123" onclick="window.location='/article/123/Boning-Chicken-Breast'" onMouseOver="lb('nl123')" onMouseOut="db('nl123')" ><a href="/article/123/Boning-Chicken-Breast" title="Kitchen Notes: Boning Chicken Breast">Boning Chicken Breast</a></td><td id="nl211" onclick="window.location='/article/211/European-Designation-of-Quality-Labels'" onMouseOver="lb('nl211')" onMouseOut="db('nl211')" ><a href="/article/211/European-Designation-of-Quality-Labels" title="Kitchen Notes: European Designation of Quality Labels">European Designation of Quality Labels</a></td><td id="nl113" onclick="window.location='/article/113/Making-Butter'" onMouseOver="lb('nl113')" onMouseOut="db('nl113')" ><a href="/article/113/Making-Butter" title="Kitchen Notes: Making Butter">Making Butter</a></td><td id="nl30" onclick="window.location='/article/30/USDA-Beef-Quality-Grades'" onMouseOver="lb('nl30')" onMouseOut="db('nl30')" ><a href="/article/30/USDA-Beef-Quality-Grades" title="Kitchen Notes: USDA Beef Quality Grades">USDA Beef Quality Grades</a></td></tr><tr><td id="nl70" onclick="window.location='/article/70/Brining'" onMouseOver="lb('nl70')" onMouseOut="db('nl70')" ><a href="/article/70/Brining" title="Kitchen Notes: Brining">Brining</a></td><td id="nl244" onclick="window.location='/article/244/Fond-of-Fond'" onMouseOver="lb('nl244')" onMouseOut="db('nl244')" ><a href="/article/244/Fond-of-Fond" title="Kitchen Notes: Fond of Fond">Fond of Fond</a></td><td id="nl16" onclick="window.location='/article/16/Maple-Syrup-Grades'" onMouseOver="lb('nl16')" onMouseOut="db('nl16')" ><a href="/article/16/Maple-Syrup-Grades" title="Kitchen Notes: Maple Syrup Grades">Maple Syrup Grades</a></td><td id="nl63" onclick="window.location='/article/63/Wheat-Flour'" onMouseOver="lb('nl63')" onMouseOut="db('nl63')" ><a href="/article/63/Wheat-Flour" title="Kitchen Notes: Wheat Flour">Wheat Flour</a></td></tr><tr><td id="nl73" onclick="window.location='/article/73/Buying-Whole-Turkeys'" onMouseOver="lb('nl73')" onMouseOut="db('nl73')" ><a href="/article/73/Buying-Whole-Turkeys" title="Kitchen Notes: Buying Whole Turkeys">Buying Whole Turkeys</a></td><td id="nl27" onclick="window.location='/article/27/Freezing-Meats'" onMouseOver="lb('nl27')" onMouseOut="db('nl27')" ><a href="/article/27/Freezing-Meats" title="Kitchen Notes: Freezing Meats">Freezing Meats</a></td><td id="nl134" onclick="window.location='/article/134/Oven-Temperatures'" onMouseOver="lb('nl134')" onMouseOut="db('nl134')" ><a href="/article/134/Oven-Temperatures" title="Kitchen Notes: Oven Temperatures">Oven Temperatures</a></td><td id="nl294" onclick="window.location='/article/294/White-Wheat-Grinder-Comparison'" onMouseOver="lb('nl294')" onMouseOut="db('nl294')" ><a href="/article/294/White-Wheat-Grinder-Comparison" title="Kitchen Notes: White Wheat Grinder Comparison">White Wheat Grinder Comparison</a></td></tr><tr><td id="nl156" onclick="window.location='/article/156/Caviar'" onMouseOver="lb('nl156')" onMouseOut="db('nl156')" ><a href="/article/156/Caviar" title="Kitchen Notes: Caviar">Caviar</a></td><td id="nl315" onclick="window.location='/article/315/Fruit-Ripening'" onMouseOver="lb('nl315')" onMouseOut="db('nl315')" ><a href="/article/315/Fruit-Ripening" title="Kitchen Notes: Fruit Ripening">Fruit Ripening</a></td><td id="nl96" onclick="window.location='/article/96/Pears'" onMouseOver="lb('nl96')" onMouseOut="db('nl96')" ><a href="/article/96/Pears" title="Kitchen Notes: Pears">Pears</a></td></tr></table></div>
+	<div id="navcat_OffTopic" style="display:none"><table width="100%" class="navlinks" cellpadding="0" cellspacing="1"><tr><td width="25%" id="nl133" onclick="window.location='/article/133/African-Horned-Melon-or-Kiwano'" onMouseOver="lb('nl133')" onMouseOut="db('nl133')" ><a href="/article/133/African-Horned-Melon-or-Kiwano" title="Off Topic: African Horned Melon or Kiwano">African Horned Melon or Kiwano</a></td><td width="25%" id="nl206" onclick="window.location='/article/206/Fancy-Food-Show-Winter-2007'" onMouseOver="lb('nl206')" onMouseOut="db('nl206')" ><a href="/article/206/Fancy-Food-Show-Winter-2007" title="Off Topic: Fancy Food Show Winter 2007">Fancy Food Show Winter 2007</a></td><td width="25%" id="nl119" onclick="window.location='/article/119/Iron-Chef-America'" onMouseOver="lb('nl119')" onMouseOut="db('nl119')" ><a href="/article/119/Iron-Chef-America" title="Off Topic: Iron Chef America">Iron Chef America</a></td><td width="25%" id="nl25" onclick="window.location='/article/25/Some-Quotes'" onMouseOver="lb('nl25')" onMouseOut="db('nl25')" ><a href="/article/25/Some-Quotes" title="Off Topic: Some Quotes">Some Quotes</a></td></tr><tr><td id="nl279" onclick="window.location='/article/279/Amano-Chocolate-Contest'" onMouseOver="lb('nl279')" onMouseOut="db('nl279')" ><a href="/article/279/Amano-Chocolate-Contest" title="Off Topic: Amano Chocolate Contest">Amano Chocolate Contest</a></td><td id="nl262" onclick="window.location='/article/262/Fancy-Food-Show-Winter-2009'" onMouseOver="lb('nl262')" onMouseOut="db('nl262')" ><a href="/article/262/Fancy-Food-Show-Winter-2009" title="Off Topic: Fancy Food Show Winter 2009">Fancy Food Show Winter 2009</a></td><td id="nl286" onclick="window.location='/article/286/Johnsonville-Pastaville-Italian-Sausage-Recipe-Contest'" onMouseOver="lb('nl286')" onMouseOut="db('nl286')" ><a href="/article/286/Johnsonville-Pastaville-Italian-Sausage-Recipe-Contest" title="Off Topic: Johnsonville Pastaville Italian Sausage Recipe Contest">Johnsonville Pastaville Italian Sausage Recipe Contest</a></td><td id="nl57" onclick="window.location='/article/57/Surprises-In-Snacks'" onMouseOver="lb('nl57')" onMouseOut="db('nl57')" ><a href="/article/57/Surprises-In-Snacks" title="Off Topic: Surprises In Snacks">Surprises In Snacks</a></td></tr><tr><td id="nl321" onclick="window.location='/article/321/Anolon-Nouvelle-Copper-Stainless-Steel-Cookware-Set-2012-Giveaway'" onMouseOver="lb('nl321')" onMouseOut="db('nl321')" ><a href="/article/321/Anolon-Nouvelle-Copper-Stainless-Steel-Cookware-Set-2012-Giveaway" title="Off Topic: Anolon Nouvelle Copper Stainless Steel Cookware Set 2012 Giveaway!">Anolon Nouvelle Copper Stainless Steel Cookware Set 2012 Giveaway!</a></td><td id="nl334" onclick="window.location='/article/334/Fancy-Food-Show-Winter-2014'" onMouseOver="lb('nl334')" onMouseOut="db('nl334')" ><a href="/article/334/Fancy-Food-Show-Winter-2014" title="Off Topic: Fancy Food Show Winter 2014">Fancy Food Show Winter 2014</a></td><td id="nl165" onclick="window.location='/article/165/LASIK'" onMouseOver="lb('nl165')" onMouseOut="db('nl165')" ><a href="/article/165/LASIK" title="Off Topic: LASIK">LASIK</a></td><td id="nl149" onclick="window.location='/article/149/Thanksgiving-Dinner'" onMouseOver="lb('nl149')" onMouseOut="db('nl149')" ><a href="/article/149/Thanksgiving-Dinner" title="Off Topic: Thanksgiving Dinner">Thanksgiving Dinner</a></td></tr><tr><td id="nl179" onclick="window.location='/article/179/Asparagus-Festival'" onMouseOver="lb('nl179')" onMouseOut="db('nl179')" ><a href="/article/179/Asparagus-Festival" title="Off Topic: Asparagus Festival">Asparagus Festival</a></td><td id="nl182" onclick="window.location='/article/182/Fanpop'" onMouseOver="lb('nl182')" onMouseOut="db('nl182')" ><a href="/article/182/Fanpop" title="Off Topic: Fanpop">Fanpop</a></td><td id="nl312" onclick="window.location='/article/312/LEGO-Heavy-Weapons-Book-Review'" onMouseOver="lb('nl312')" onMouseOut="db('nl312')" ><a href="/article/312/LEGO-Heavy-Weapons-Book-Review" title="Off Topic: LEGO Heavy Weapons Book Review">LEGO Heavy Weapons Book Review</a></td><td id="nl251" onclick="window.location='/article/251/The-HP-Freshman-15-Contest-Win-a-Notebook-Computer'" onMouseOver="lb('nl251')" onMouseOut="db('nl251')" ><a href="/article/251/The-HP-Freshman-15-Contest-Win-a-Notebook-Computer" title="Off Topic: The HP Freshman 15 Contest - Win a Notebook Computer">The HP Freshman 15 Contest - Win a Notebook Computer</a></td></tr><tr><td id="nl243" onclick="window.location='/article/243/Chilis-Bacon-Burger'" onMouseOver="lb('nl243')" onMouseOut="db('nl243')" ><a href="/article/243/Chilis-Bacon-Burger" title="Off Topic: Chili's Bacon Burger">Chili's Bacon Burger</a></td><td id="nl323" onclick="window.location='/article/323/Food-Fete-2013'" onMouseOver="lb('nl323')" onMouseOut="db('nl323')" ><a href="/article/323/Food-Fete-2013" title="Off Topic: Food Fete 2013">Food Fete 2013</a></td><td id="nl67" onclick="window.location='/article/67/Lunar-Eclipse'" onMouseOver="lb('nl67')" onMouseOut="db('nl67')" ><a href="/article/67/Lunar-Eclipse" title="Off Topic: Lunar Eclipse">Lunar Eclipse</a></td><td id="nl322" onclick="window.location='/article/322/The-Unofficial-LEGO-Technic-Builders-Guide-Book-Review'" onMouseOver="lb('nl322')" onMouseOut="db('nl322')" ><a href="/article/322/The-Unofficial-LEGO-Technic-Builders-Guide-Book-Review" title="Off Topic: The Unofficial LEGO Technic Builder's Guide Book Review">The Unofficial LEGO Technic Builder's Guide Book Review</a></td></tr><tr><td id="nl284" onclick="window.location='/article/284/Christmas-Gift-Ideas'" onMouseOver="lb('nl284')" onMouseOut="db('nl284')" ><a href="/article/284/Christmas-Gift-Ideas" title="Off Topic: Christmas Gift Ideas">Christmas Gift Ideas</a></td><td id="nl335" onclick="window.location='/article/335/Food-Fete-2014'" onMouseOver="lb('nl335')" onMouseOut="db('nl335')" ><a href="/article/335/Food-Fete-2014" title="Off Topic: Food Fete 2014">Food Fete 2014</a></td><td id="nl309" onclick="window.location='/article/309/Michael-Ohenes-Cookie-Recipe-Generator'" onMouseOver="lb('nl309')" onMouseOut="db('nl309')" ><a href="/article/309/Michael-Ohenes-Cookie-Recipe-Generator" title="Off Topic: Michael Ohene's Cookie Recipe Generator">Michael Ohene's Cookie Recipe Generator</a></td><td id="nl336" onclick="window.location='/article/336/Thermoworks-Fathers-Day-2014-Giveaway'" onMouseOver="lb('nl336')" onMouseOut="db('nl336')" ><a href="/article/336/Thermoworks-Fathers-Day-2014-Giveaway" title="Off Topic: Thermoworks Father's Day 2014 Giveaway!">Thermoworks Father's Day 2014 Giveaway!</a></td></tr><tr><td id="nl328" onclick="window.location='/article/328/Codlo-Sous-Vide-Controller-Kickstarter'" onMouseOver="lb('nl328')" onMouseOut="db('nl328')" ><a href="/article/328/Codlo-Sous-Vide-Controller-Kickstarter" title="Off Topic: Codlo Sous Vide Controller Kickstarter">Codlo Sous Vide Controller Kickstarter</a></td><td id="nl271" onclick="window.location='/article/271/Food-Inc'" onMouseOver="lb('nl271')" onMouseOut="db('nl271')" ><a href="/article/271/Food-Inc" title="Off Topic: Food, Inc">Food, Inc</a></td><td id="nl7" onclick="window.location='/article/7/Orange-Juice-Shelf-Life'" onMouseOver="lb('nl7')" onMouseOut="db('nl7')" ><a href="/article/7/Orange-Juice-Shelf-Life" title="Off Topic: Orange Juice Shelf Life">Orange Juice Shelf Life</a></td><td id="nl332" onclick="window.location='/article/332/Thermoworks-Thermapen-2013-Giveaway'" onMouseOver="lb('nl332')" onMouseOut="db('nl332')" ><a href="/article/332/Thermoworks-Thermapen-2013-Giveaway" title="Off Topic: Thermoworks Thermapen 2013 Giveaway!">Thermoworks Thermapen 2013 Giveaway!</a></td></tr><tr><td id="nl116" onclick="window.location='/article/116/Comments-and-Forums'" onMouseOver="lb('nl116')" onMouseOut="db('nl116')" ><a href="/article/116/Comments-and-Forums" title="Off Topic: Comments and Forums">Comments and Forums</a></td><td id="nl263" onclick="window.location='/article/263/Foodoro'" onMouseOver="lb('nl263')" onMouseOut="db('nl263')" ><a href="/article/263/Foodoro" title="Off Topic: Foodoro">Foodoro</a></td><td id="nl217" onclick="window.location='/article/217/Orthogonal-Thought-A-New-Blog'" onMouseOver="lb('nl217')" onMouseOut="db('nl217')" ><a href="/article/217/Orthogonal-Thought-A-New-Blog" title="Off Topic: Orthogonal Thought - A New Blog">Orthogonal Thought - A New Blog</a></td><td id="nl318" onclick="window.location='/article/318/Thermoworks-Thermapen-and-Oven-Thermometer-2012-Giveaway'" onMouseOver="lb('nl318')" onMouseOut="db('nl318')" ><a href="/article/318/Thermoworks-Thermapen-and-Oven-Thermometer-2012-Giveaway" title="Off Topic: Thermoworks Thermapen and Oven Thermometer 2012 Giveaway!">Thermoworks Thermapen and Oven Thermometer 2012 Giveaway!</a></td></tr><tr><td id="nl118" onclick="window.location='/article/118/Comments-and-Forums-Back-Online'" onMouseOver="lb('nl118')" onMouseOut="db('nl118')" ><a href="/article/118/Comments-and-Forums-Back-Online" title="Off Topic: Comments and Forums Back Online">Comments and Forums Back Online</a></td><td id="nl278" onclick="window.location='/article/278/Free-Cookbook-from-Snubbr'" onMouseOver="lb('nl278')" onMouseOut="db('nl278')" ><a href="/article/278/Free-Cookbook-from-Snubbr" title="Off Topic: Free Cookbook from Snubbr">Free Cookbook from Snubbr</a></td><td id="nl228" onclick="window.location='/article/228/Pixars-Ratatouille'" onMouseOver="lb('nl228')" onMouseOut="db('nl228')" ><a href="/article/228/Pixars-Ratatouille" title="Off Topic: Pixar's Ratatouille">Pixar's Ratatouille</a></td><td id="nl214" onclick="window.location='/article/214/Two-New-Shows-on-Discovery-Health'" onMouseOver="lb('nl214')" onMouseOut="db('nl214')" ><a href="/article/214/Two-New-Shows-on-Discovery-Health" title="Off Topic: Two New Shows on Discovery Health">Two New Shows on Discovery Health</a></td></tr><tr><td id="nl196" onclick="window.location='/article/196/Cooking-With-Passion'" onMouseOver="lb('nl196')" onMouseOut="db('nl196')" ><a href="/article/196/Cooking-With-Passion" title="Off Topic: Cooking With Passion">Cooking With Passion</a></td><td id="nl282" onclick="window.location='/article/282/Hefty-Kitchen-Bags-with-Unscented-Odor-Block-Technology'" onMouseOver="lb('nl282')" onMouseOut="db('nl282')" ><a href="/article/282/Hefty-Kitchen-Bags-with-Unscented-Odor-Block-Technology" title="Off Topic: Hefty Kitchen Bags with Unscented Odor Block Technology">Hefty Kitchen Bags with Unscented Odor Block Technology</a></td><td id="nl1" onclick="window.location='/article/1/Pumpkin-Carving'" onMouseOver="lb('nl1')" onMouseOut="db('nl1')" ><a href="/article/1/Pumpkin-Carving" title="Off Topic: Pumpkin Carving">Pumpkin Carving</a></td><td id="nl143" onclick="window.location='/article/143/University-Chickens-911-Challenge'" onMouseOver="lb('nl143')" onMouseOut="db('nl143')" ><a href="/article/143/University-Chickens-911-Challenge" title="Off Topic: University Chicken's 911 Challenge">University Chicken's 911 Challenge</a></td></tr><tr><td id="nl183" onclick="window.location='/article/183/Cosentinos-Markets-Good-News-and-Bad-News'" onMouseOver="lb('nl183')" onMouseOut="db('nl183')" ><a href="/article/183/Cosentinos-Markets-Good-News-and-Bad-News" title="Off Topic: Cosentino's Markets - Good News and Bad News">Cosentino's Markets - Good News and Bad News</a></td><td id="nl197" onclick="window.location='/article/197/IEEE-Spectrum-Radio-Looking-for-Engineers-Who-Cook'" onMouseOver="lb('nl197')" onMouseOut="db('nl197')" ><a href="/article/197/IEEE-Spectrum-Radio-Looking-for-Engineers-Who-Cook" title="Off Topic: IEEE Spectrum Radio Looking for Engineers Who Cook">IEEE Spectrum Radio Looking for Engineers Who Cook</a></td><td id="nl29" onclick="window.location='/article/29/Recipe-Summaries-Standards-and-Microsoft'" onMouseOver="lb('nl29')" onMouseOut="db('nl29')" ><a href="/article/29/Recipe-Summaries-Standards-and-Microsoft" title="Off Topic: Recipe Summaries - Standards and Microsoft">Recipe Summaries - Standards and Microsoft</a></td><td id="nl22" onclick="window.location='/article/22/Welcome-to-the-New-Server'" onMouseOver="lb('nl22')" onMouseOut="db('nl22')" ><a href="/article/22/Welcome-to-the-New-Server" title="Off Topic: Welcome to the New Server">Welcome to the New Server</a></td></tr><tr><td id="nl64" onclick="window.location='/article/64/Details-of-the-Pumpkin-Carving'" onMouseOver="lb('nl64')" onMouseOut="db('nl64')" ><a href="/article/64/Details-of-the-Pumpkin-Carving" title="Off Topic: Details of the Pumpkin Carving">Details of the Pumpkin Carving</a></td><td id="nl24" onclick="window.location='/article/24/Increased-Readership-and-Traffic-Woes'" onMouseOver="lb('nl24')" onMouseOut="db('nl24')" ><a href="/article/24/Increased-Readership-and-Traffic-Woes" title="Off Topic: Increased Readership and Traffic Woes">Increased Readership and Traffic Woes</a></td><td id="nl331" onclick="window.location='/article/331/Robot-Turtles-Board-Game-Kickstarter'" onMouseOver="lb('nl331')" onMouseOut="db('nl331')" ><a href="/article/331/Robot-Turtles-Board-Game-Kickstarter" title="Off Topic: Robot Turtles Board Game Kickstarter">Robot Turtles Board Game Kickstarter</a></td><td id="nl192" onclick="window.location='/article/192/Whats-the-Most-Trans-Fat-Youve-Seen'" onMouseOver="lb('nl192')" onMouseOut="db('nl192')" ><a href="/article/192/Whats-the-Most-Trans-Fat-Youve-Seen" title="Off Topic: What's the Most Trans Fat You've Seen?">What's the Most Trans Fat You've Seen?</a></td></tr><tr><td id="nl23" onclick="window.location='/article/23/Donations-Please'" onMouseOver="lb('nl23')" onMouseOut="db('nl23')" ><a href="/article/23/Donations-Please" title="Off Topic: Donations Please!">Donations Please!</a></td><td id="nl210" onclick="window.location='/article/210/Inside-the-CIA'" onMouseOver="lb('nl210')" onMouseOut="db('nl210')" ><a href="/article/210/Inside-the-CIA" title="Off Topic: Inside the CIA">Inside the CIA</a></td><td id="nl167" onclick="window.location='/article/167/Santa-Cruz-Clam-Chowder-Cook-Off-2006'" onMouseOver="lb('nl167')" onMouseOut="db('nl167')" ><a href="/article/167/Santa-Cruz-Clam-Chowder-Cook-Off-2006" title="Off Topic: Santa Cruz Clam Chowder Cook Off 2006">Santa Cruz Clam Chowder Cook Off 2006</a></td><td id="nl325" onclick="window.location='/article/325/Wolfgang-Puck-Phone-Interview'" onMouseOver="lb('nl325')" onMouseOut="db('nl325')" ><a href="/article/325/Wolfgang-Puck-Phone-Interview" title="Off Topic: Wolfgang Puck Phone Interview">Wolfgang Puck Phone Interview</a></td></tr><tr><td id="nl157" onclick="window.location='/article/157/Fancy-Food-Show-Winter-2006'" onMouseOver="lb('nl157')" onMouseOut="db('nl157')" ><a href="/article/157/Fancy-Food-Show-Winter-2006" title="Off Topic: Fancy Food Show Winter 2006">Fancy Food Show Winter 2006</a></td></tr></table></div>
+	<div id="navcat_RecipeFile" style="display:none"><table width="100%" class="navlinks" cellpadding="0" cellspacing="1"><tr><td width="25%" id="nl188" onclick="window.location='/recipe/188/Anghelikas-Tsatsiki-Tzatziki'" onMouseOver="lb('nl188')" onMouseOut="db('nl188')" ><a href="/recipe/188/Anghelikas-Tsatsiki-Tzatziki" title="Recipe File: Anghelika's Tsatsiki (Tzatziki)">Anghelika's Tsatsiki (Tzatziki)</a></td><td width="25%" id="nl98" onclick="window.location='/recipe/98/Condensed-Milk-Fudge'" onMouseOver="lb('nl98')" onMouseOut="db('nl98')" ><a href="/recipe/98/Condensed-Milk-Fudge" title="Recipe File: Condensed Milk Fudge">Condensed Milk Fudge</a></td><td width="25%" id="nl305" onclick="window.location='/recipe/305/Honey-Pecan-Pralines'" onMouseOver="lb('nl305')" onMouseOut="db('nl305')" ><a href="/recipe/305/Honey-Pecan-Pralines" title="Recipe File: Honey Pecan Pralines">Honey Pecan Pralines</a></td><td width="25%" id="nl92" onclick="window.location='/recipe/92/Poached-Fish'" onMouseOver="lb('nl92')" onMouseOut="db('nl92')" ><a href="/recipe/92/Poached-Fish" title="Recipe File: Poached Fish">Poached Fish</a></td></tr><tr><td id="nl163" onclick="window.location='/recipe/163/Asparagus-with-Almonds'" onMouseOver="lb('nl163')" onMouseOut="db('nl163')" ><a href="/recipe/163/Asparagus-with-Almonds" title="Recipe File: Asparagus with Almonds">Asparagus with Almonds</a></td><td id="nl152" onclick="window.location='/recipe/152/Cooked-Egg-Nog'" onMouseOver="lb('nl152')" onMouseOut="db('nl152')" ><a href="/recipe/152/Cooked-Egg-Nog" title="Recipe File: Cooked Egg Nog">Cooked Egg Nog</a></td><td id="nl308" onclick="window.location='/recipe/308/Hot-Chocolate'" onMouseOver="lb('nl308')" onMouseOut="db('nl308')" ><a href="/recipe/308/Hot-Chocolate" title="Recipe File: Hot Chocolate">Hot Chocolate</a></td><td id="nl38" onclick="window.location='/recipe/38/Prime-Rib-or-Standing-Rib-Roast'" onMouseOver="lb('nl38')" onMouseOut="db('nl38')" ><a href="/recipe/38/Prime-Rib-or-Standing-Rib-Roast" title="Recipe File: Prime Rib or Standing Rib Roast">Prime Rib or Standing Rib Roast</a></td></tr><tr><td id="nl103" onclick="window.location='/recipe/103/Baked-Cinnamon-Apple'" onMouseOver="lb('nl103')" onMouseOut="db('nl103')" ><a href="/recipe/103/Baked-Cinnamon-Apple" title="Recipe File: Baked Cinnamon Apple">Baked Cinnamon Apple</a></td><td id="nl48" onclick="window.location='/recipe/48/Corn-Fritters'" onMouseOver="lb('nl48')" onMouseOut="db('nl48')" ><a href="/recipe/48/Corn-Fritters" title="Recipe File: Corn Fritters">Corn Fritters</a></td><td id="nl104" onclick="window.location='/recipe/104/Kelloggs-Rice-Krispies-Treats'" onMouseOver="lb('nl104')" onMouseOut="db('nl104')" ><a href="/recipe/104/Kelloggs-Rice-Krispies-Treats" title="Recipe File: Kellogg's Rice Krispies Treats">Kellogg's Rice Krispies Treats</a></td><td id="nl189" onclick="window.location='/recipe/189/Prosciutto-e-Melone'" onMouseOver="lb('nl189')" onMouseOut="db('nl189')" ><a href="/recipe/189/Prosciutto-e-Melone" title="Recipe File: Prosciutto e Melone">Prosciutto e Melone</a></td></tr><tr><td id="nl108" onclick="window.location='/recipe/108/Banana-Nut-Bread'" onMouseOver="lb('nl108')" onMouseOut="db('nl108')" ><a href="/recipe/108/Banana-Nut-Bread" title="Recipe File: Banana Nut Bread">Banana Nut Bread</a></td><td id="nl79" onclick="window.location='/recipe/79/Cranberry-Sauce'" onMouseOver="lb('nl79')" onMouseOut="db('nl79')" ><a href="/recipe/79/Cranberry-Sauce" title="Recipe File: Cranberry Sauce">Cranberry Sauce</a></td><td id="nl33" onclick="window.location='/recipe/33/Lemon-Bars'" onMouseOver="lb('nl33')" onMouseOut="db('nl33')" ><a href="/recipe/33/Lemon-Bars" title="Recipe File: Lemon Bars">Lemon Bars</a></td><td id="nl65" onclick="window.location='/recipe/65/Pumpkin-Pie'" onMouseOver="lb('nl65')" onMouseOut="db('nl65')" ><a href="/recipe/65/Pumpkin-Pie" title="Recipe File: Pumpkin Pie">Pumpkin Pie</a></td></tr><tr><td id="nl246" onclick="window.location='/recipe/246/Barbecue-Pork-Ribs-Baby-Back-or-Spare'" onMouseOver="lb('nl246')" onMouseOut="db('nl246')" ><a href="/recipe/246/Barbecue-Pork-Ribs-Baby-Back-or-Spare" title="Recipe File: Barbecue Pork Ribs (Baby Back or Spare)">Barbecue Pork Ribs (Baby Back or Spare)</a></td><td id="nl194" onclick="window.location='/recipe/194/Cream-of-Mushroom-Soup'" onMouseOver="lb('nl194')" onMouseOut="db('nl194')" ><a href="/recipe/194/Cream-of-Mushroom-Soup" title="Recipe File: Cream of Mushroom Soup">Cream of Mushroom Soup</a></td><td id="nl121" onclick="window.location='/recipe/121/Lemon-Iced-Tea'" onMouseOver="lb('nl121')" onMouseOut="db('nl121')" ><a href="/recipe/121/Lemon-Iced-Tea" title="Recipe File: Lemon Iced Tea">Lemon Iced Tea</a></td><td id="nl227" onclick="window.location='/recipe/227/Ratatouille'" onMouseOver="lb('nl227')" onMouseOut="db('nl227')" ><a href="/recipe/227/Ratatouille" title="Recipe File: Ratatouille">Ratatouille</a></td></tr><tr><td id="nl35" onclick="window.location='/recipe/35/Basic-Granita'" onMouseOver="lb('nl35')" onMouseOut="db('nl35')" ><a href="/recipe/35/Basic-Granita" title="Recipe File: Basic Granita">Basic Granita</a></td><td id="nl107" onclick="window.location='/recipe/107/Creamy-Garlic-Mashed-Potatoes'" onMouseOver="lb('nl107')" onMouseOut="db('nl107')" ><a href="/recipe/107/Creamy-Garlic-Mashed-Potatoes" title="Recipe File: Creamy Garlic Mashed Potatoes">Creamy Garlic Mashed Potatoes</a></td><td id="nl124" onclick="window.location='/recipe/124/Lime-Marinated-Grilled-Chicken'" onMouseOver="lb('nl124')" onMouseOut="db('nl124')" ><a href="/recipe/124/Lime-Marinated-Grilled-Chicken" title="Recipe File: Lime Marinated Grilled Chicken">Lime Marinated Grilled Chicken</a></td><td id="nl101" onclick="window.location='/recipe/101/Roasted-Asparagus-Spears'" onMouseOver="lb('nl101')" onMouseOut="db('nl101')" ><a href="/recipe/101/Roasted-Asparagus-Spears" title="Recipe File: Roasted Asparagus Spears">Roasted Asparagus Spears</a></td></tr><tr><td id="nl47" onclick="window.location='/recipe/47/Basic-Pancakes'" onMouseOver="lb('nl47')" onMouseOut="db('nl47')" ><a href="/recipe/47/Basic-Pancakes" title="Recipe File: Basic Pancakes">Basic Pancakes</a></td><td id="nl32" onclick="window.location='/recipe/32/Creme-Brulee-Cregraveme-Brucircleacutee'" onMouseOver="lb('nl32')" onMouseOut="db('nl32')" ><a href="/recipe/32/Creme-Brulee-Cregraveme-Brucircleacutee" title="Recipe File: Creme Brulee (Cr&egrave;me Br&ucirc;l&eacute;e)">Creme Brulee (Cr&egrave;me Br&ucirc;l&eacute;e)</a></td><td id="nl66" onclick="window.location='/recipe/66/Limeade'" onMouseOver="lb('nl66')" onMouseOut="db('nl66')" ><a href="/recipe/66/Limeade" title="Recipe File: Limeade">Limeade</a></td><td id="nl174" onclick="window.location='/recipe/174/Rosemary-Lamb-Chops'" onMouseOver="lb('nl174')" onMouseOut="db('nl174')" ><a href="/recipe/174/Rosemary-Lamb-Chops" title="Recipe File: Rosemary Lamb Chops">Rosemary Lamb Chops</a></td></tr><tr><td id="nl44" onclick="window.location='/recipe/44/Basic-Vinaigrette-Salad-Dressing'" onMouseOver="lb('nl44')" onMouseOut="db('nl44')" ><a href="/recipe/44/Basic-Vinaigrette-Salad-Dressing" title="Recipe File: Basic Vinaigrette Salad Dressing">Basic Vinaigrette Salad Dressing</a></td><td id="nl317" onclick="window.location='/recipe/317/Crunchy-Bloody-Mary'" onMouseOver="lb('nl317')" onMouseOut="db('nl317')" ><a href="/recipe/317/Crunchy-Bloody-Mary" title="Recipe File: Crunchy Bloody Mary">Crunchy Bloody Mary</a></td><td id="nl230" onclick="window.location='/recipe/230/Macaroni-and-Cheese-Bake'" onMouseOver="lb('nl230')" onMouseOut="db('nl230')" ><a href="/recipe/230/Macaroni-and-Cheese-Bake" title="Recipe File: Macaroni and Cheese Bake">Macaroni and Cheese Bake</a></td><td id="nl53" onclick="window.location='/recipe/53/Salsa-Cruda'" onMouseOver="lb('nl53')" onMouseOut="db('nl53')" ><a href="/recipe/53/Salsa-Cruda" title="Recipe File: Salsa Cruda">Salsa Cruda</a></td></tr><tr><td id="nl122" onclick="window.location='/recipe/122/Beef-Stroganoff'" onMouseOver="lb('nl122')" onMouseOut="db('nl122')" ><a href="/recipe/122/Beef-Stroganoff" title="Recipe File: Beef Stroganoff">Beef Stroganoff</a></td><td id="nl158" onclick="window.location='/recipe/158/Dark-Chocolate-Brownies'" onMouseOver="lb('nl158')" onMouseOut="db('nl158')" ><a href="/recipe/158/Dark-Chocolate-Brownies" title="Recipe File: Dark Chocolate Brownies">Dark Chocolate Brownies</a></td><td id="nl177" onclick="window.location='/recipe/177/Matzo-Matzah-Ball-Soup'" onMouseOver="lb('nl177')" onMouseOut="db('nl177')" ><a href="/recipe/177/Matzo-Matzah-Ball-Soup" title="Recipe File: Matzo (Matzah) Ball Soup">Matzo (Matzah) Ball Soup</a></td><td id="nl8" onclick="window.location='/recipe/8/Sauteed-Okra-with-Roasted-Red-Peppers'" onMouseOver="lb('nl8')" onMouseOut="db('nl8')" ><a href="/recipe/8/Sauteed-Okra-with-Roasted-Red-Peppers" title="Recipe File: Sauteed Okra with Roasted Red Peppers">Sauteed Okra with Roasted Red Peppers</a></td></tr><tr><td id="nl154" onclick="window.location='/recipe/154/Biscotti'" onMouseOver="lb('nl154')" onMouseOut="db('nl154')" ><a href="/recipe/154/Biscotti" title="Recipe File: Biscotti">Biscotti</a></td><td id="nl160" onclick="window.location='/recipe/160/Dark-Chocolate-Souffle'" onMouseOver="lb('nl160')" onMouseOut="db('nl160')" ><a href="/recipe/160/Dark-Chocolate-Souffle" title="Recipe File: Dark Chocolate Souffle">Dark Chocolate Souffle</a></td><td id="nl36" onclick="window.location='/recipe/36/Meat-Lasagna'" onMouseOver="lb('nl36')" onMouseOut="db('nl36')" ><a href="/recipe/36/Meat-Lasagna" title="Recipe File: Meat Lasagna">Meat Lasagna</a></td><td id="nl320" onclick="window.location='/recipe/320/Sauteed-Spinach'" onMouseOver="lb('nl320')" onMouseOut="db('nl320')" ><a href="/recipe/320/Sauteed-Spinach" title="Recipe File: Sauteed Spinach">Sauteed Spinach</a></td></tr><tr><td id="nl288" onclick="window.location='/recipe/288/Biscuits-Southern-Buttermilk-Biscuits'" onMouseOver="lb('nl288')" onMouseOut="db('nl288')" ><a href="/recipe/288/Biscuits-Southern-Buttermilk-Biscuits" title="Recipe File: Biscuits (Southern Buttermilk Biscuits)">Biscuits (Southern Buttermilk Biscuits)</a></td><td id="nl147" onclick="window.location='/recipe/147/Dirty-Rice'" onMouseOver="lb('nl147')" onMouseOut="db('nl147')" ><a href="/recipe/147/Dirty-Rice" title="Recipe File: Dirty Rice">Dirty Rice</a></td><td id="nl55" onclick="window.location='/recipe/55/Mini-Hamburgers'" onMouseOver="lb('nl55')" onMouseOut="db('nl55')" ><a href="/recipe/55/Mini-Hamburgers" title="Recipe File: Mini Hamburgers">Mini Hamburgers</a></td><td id="nl127" onclick="window.location='/recipe/127/Shepherds-Pie-Cottage-Pie'" onMouseOver="lb('nl127')" onMouseOut="db('nl127')" ><a href="/recipe/127/Shepherds-Pie-Cottage-Pie" title="Recipe File: Shepherd's Pie (Cottage Pie)">Shepherd's Pie (Cottage Pie)</a></td></tr><tr><td id="nl136" onclick="window.location='/recipe/136/Braised-Brussels-Sprouts'" onMouseOver="lb('nl136')" onMouseOut="db('nl136')" ><a href="/recipe/136/Braised-Brussels-Sprouts" title="Recipe File: Braised Brussels Sprouts">Braised Brussels Sprouts</a></td><td id="nl255" onclick="window.location='/recipe/255/Dulce-de-Leche'" onMouseOver="lb('nl255')" onMouseOut="db('nl255')" ><a href="/recipe/255/Dulce-de-Leche" title="Recipe File: Dulce de Leche">Dulce de Leche</a></td><td id="nl151" onclick="window.location='/recipe/151/Mulled-Cider-Spiced-Apple-Cider'" onMouseOver="lb('nl151')" onMouseOut="db('nl151')" ><a href="/recipe/151/Mulled-Cider-Spiced-Apple-Cider" title="Recipe File: Mulled Cider (Spiced Apple Cider)">Mulled Cider (Spiced Apple Cider)</a></td><td id="nl15" onclick="window.location='/recipe/15/Shrimp-Scampi'" onMouseOver="lb('nl15')" onMouseOut="db('nl15')" ><a href="/recipe/15/Shrimp-Scampi" title="Recipe File: Shrimp Scampi">Shrimp Scampi</a></td></tr><tr><td id="nl268" onclick="window.location='/recipe/268/Buffalo-Chicken-Chili'" onMouseOver="lb('nl268')" onMouseOut="db('nl268')" ><a href="/recipe/268/Buffalo-Chicken-Chili" title="Recipe File: Buffalo Chicken Chili">Buffalo Chicken Chili</a></td><td id="nl203" onclick="window.location='/recipe/203/Egg-Custard-with-Clams'" onMouseOver="lb('nl203')" onMouseOut="db('nl203')" ><a href="/recipe/203/Egg-Custard-with-Clams" title="Recipe File: Egg Custard with Clams">Egg Custard with Clams</a></td><td id="nl185" onclick="window.location='/recipe/185/Nestle-Toll-House-Chocolate-Chip-Cookies'" onMouseOver="lb('nl185')" onMouseOut="db('nl185')" ><a href="/recipe/185/Nestle-Toll-House-Chocolate-Chip-Cookies" title="Recipe File: Nestle Toll House Chocolate Chip Cookies">Nestle Toll House Chocolate Chip Cookies</a></td><td id="nl26" onclick="window.location='/recipe/26/Simple-Tiramisu'" onMouseOver="lb('nl26')" onMouseOut="db('nl26')" ><a href="/recipe/26/Simple-Tiramisu" title="Recipe File: Simple Tiramisu">Simple Tiramisu</a></td></tr><tr><td id="nl306" onclick="window.location='/recipe/306/Butter-Pecan-Ice-Cream'" onMouseOver="lb('nl306')" onMouseOut="db('nl306')" ><a href="/recipe/306/Butter-Pecan-Ice-Cream" title="Recipe File: Butter Pecan Ice Cream">Butter Pecan Ice Cream</a></td><td id="nl159" onclick="window.location='/recipe/159/English-Toffee'" onMouseOver="lb('nl159')" onMouseOut="db('nl159')" ><a href="/recipe/159/English-Toffee" title="Recipe File: English Toffee">English Toffee</a></td><td id="nl86" onclick="window.location='/recipe/86/Okra-Stew-Fast-Gumbo'" onMouseOver="lb('nl86')" onMouseOut="db('nl86')" ><a href="/recipe/86/Okra-Stew-Fast-Gumbo" title="Recipe File: Okra Stew (Fast Gumbo)">Okra Stew (Fast Gumbo)</a></td><td id="nl28" onclick="window.location='/recipe/28/Slow-Simmered-Spicy-Barbeque-Sauce'" onMouseOver="lb('nl28')" onMouseOut="db('nl28')" ><a href="/recipe/28/Slow-Simmered-Spicy-Barbeque-Sauce" title="Recipe File: Slow Simmered Spicy Barbeque Sauce">Slow Simmered Spicy Barbeque Sauce</a></td></tr><tr><td id="nl180" onclick="window.location='/recipe/180/Buttercream-Frosting-American'" onMouseOver="lb('nl180')" onMouseOut="db('nl180')" ><a href="/recipe/180/Buttercream-Frosting-American" title="Recipe File: Buttercream Frosting (American)">Buttercream Frosting (American)</a></td><td id="nl327" onclick="window.location='/recipe/327/Espresso-Brownies'" onMouseOver="lb('nl327')" onMouseOut="db('nl327')" ><a href="/recipe/327/Espresso-Brownies" title="Recipe File: Espresso Brownies">Espresso Brownies</a></td><td id="nl200" onclick="window.location='/recipe/200/Osso-Buco'" onMouseOver="lb('nl200')" onMouseOut="db('nl200')" ><a href="/recipe/200/Osso-Buco" title="Recipe File: Osso Buco">Osso Buco</a></td><td id="nl144" onclick="window.location='/recipe/144/Smoked-Beer-Can-Turkey'" onMouseOver="lb('nl144')" onMouseOut="db('nl144')" ><a href="/recipe/144/Smoked-Beer-Can-Turkey" title="Recipe File: Smoked Beer Can Turkey">Smoked Beer Can Turkey</a></td></tr><tr><td id="nl9" onclick="window.location='/recipe/9/Campbells-Green-Bean-Casserole'" onMouseOver="lb('nl9')" onMouseOut="db('nl9')" ><a href="/recipe/9/Campbells-Green-Bean-Casserole" title="Recipe File: Campbell's Green Bean Casserole">Campbell's Green Bean Casserole</a></td><td id="nl34" onclick="window.location='/recipe/34/Garlic-Roasted-Potatoes'" onMouseOver="lb('nl34')" onMouseOut="db('nl34')" ><a href="/recipe/34/Garlic-Roasted-Potatoes" title="Recipe File: Garlic Roasted Potatoes">Garlic Roasted Potatoes</a></td><td id="nl81" onclick="window.location='/recipe/81/Oven-Baked-Chicken-and-Rice'" onMouseOver="lb('nl81')" onMouseOut="db('nl81')" ><a href="/recipe/81/Oven-Baked-Chicken-and-Rice" title="Recipe File: Oven Baked Chicken and Rice">Oven Baked Chicken and Rice</a></td><td id="nl239" onclick="window.location='/recipe/239/Soft-Boiled-Eggs'" onMouseOver="lb('nl239')" onMouseOut="db('nl239')" ><a href="/recipe/239/Soft-Boiled-Eggs" title="Recipe File: Soft Boiled Eggs">Soft Boiled Eggs</a></td></tr><tr><td id="nl181" onclick="window.location='/recipe/181/Cheesecake-Cupcakes'" onMouseOver="lb('nl181')" onMouseOut="db('nl181')" ><a href="/recipe/181/Cheesecake-Cupcakes" title="Recipe File: Cheesecake Cupcakes">Cheesecake Cupcakes</a></td><td id="nl132" onclick="window.location='/recipe/132/Gravlax'" onMouseOver="lb('nl132')" onMouseOut="db('nl132')" ><a href="/recipe/132/Gravlax" title="Recipe File: Gravlax">Gravlax</a></td><td id="nl45" onclick="window.location='/recipe/45/Oven-Baked-Spare-Ribs-Two-Ways'" onMouseOver="lb('nl45')" onMouseOut="db('nl45')" ><a href="/recipe/45/Oven-Baked-Spare-Ribs-Two-Ways" title="Recipe File: Oven Baked Spare Ribs - Two Ways">Oven Baked Spare Ribs - Two Ways</a></td><td id="nl83" onclick="window.location='/recipe/83/Strawberry-Glazed-Angel-Food-Cake'" onMouseOver="lb('nl83')" onMouseOut="db('nl83')" ><a href="/recipe/83/Strawberry-Glazed-Angel-Food-Cake" title="Recipe File: Strawberry Glazed Angel Food Cake">Strawberry Glazed Angel Food Cake</a></td></tr><tr><td id="nl89" onclick="window.location='/recipe/89/Cheesecake-Plain-New-York-Style'" onMouseOver="lb('nl89')" onMouseOut="db('nl89')" ><a href="/recipe/89/Cheesecake-Plain-New-York-Style" title="Recipe File: Cheesecake, Plain New York Style">Cheesecake, Plain New York Style</a></td><td id="nl111" onclick="window.location='/recipe/111/Grilled-Artichokes'" onMouseOver="lb('nl111')" onMouseOut="db('nl111')" ><a href="/recipe/111/Grilled-Artichokes" title="Recipe File: Grilled Artichokes">Grilled Artichokes</a></td><td id="nl37" onclick="window.location='/recipe/37/Pan-Fried-Fish-Fillets'" onMouseOver="lb('nl37')" onMouseOut="db('nl37')" ><a href="/recipe/37/Pan-Fried-Fish-Fillets" title="Recipe File: Pan Fried Fish Fillets">Pan Fried Fish Fillets</a></td><td id="nl4" onclick="window.location='/recipe/4/Sweet-Corn-Bread'" onMouseOver="lb('nl4')" onMouseOut="db('nl4')" ><a href="/recipe/4/Sweet-Corn-Bread" title="Recipe File: Sweet Corn Bread">Sweet Corn Bread</a></td></tr><tr><td id="nl59" onclick="window.location='/recipe/59/Chicken-Mushroom-Marsala'" onMouseOver="lb('nl59')" onMouseOut="db('nl59')" ><a href="/recipe/59/Chicken-Mushroom-Marsala" title="Recipe File: Chicken &amp; Mushroom Marsala">Chicken &amp; Mushroom Marsala</a></td><td id="nl20" onclick="window.location='/recipe/20/Grilled-Pork-Chops'" onMouseOver="lb('nl20')" onMouseOut="db('nl20')" ><a href="/recipe/20/Grilled-Pork-Chops" title="Recipe File: Grilled Pork Chops">Grilled Pork Chops</a></td><td id="nl71" onclick="window.location='/recipe/71/Pan-Seared-Scallops-with-Roasted-Red-Pepper-Sauce'" onMouseOver="lb('nl71')" onMouseOut="db('nl71')" ><a href="/recipe/71/Pan-Seared-Scallops-with-Roasted-Red-Pepper-Sauce" title="Recipe File: Pan Seared Scallops with Roasted Red Pepper Sauce">Pan Seared Scallops with Roasted Red Pepper Sauce</a></td><td id="nl42" onclick="window.location='/recipe/42/Traditional-Chicken-Pot-Pie'" onMouseOver="lb('nl42')" onMouseOut="db('nl42')" ><a href="/recipe/42/Traditional-Chicken-Pot-Pie" title="Recipe File: Traditional Chicken Pot Pie">Traditional Chicken Pot Pie</a></td></tr><tr><td id="nl178" onclick="window.location='/recipe/178/Chocolate-Cake'" onMouseOver="lb('nl178')" onMouseOut="db('nl178')" ><a href="/recipe/178/Chocolate-Cake" title="Recipe File: Chocolate Cake">Chocolate Cake</a></td><td id="nl31" onclick="window.location='/recipe/31/Grilled-Porterhouse-or-T-Bone-Steak'" onMouseOver="lb('nl31')" onMouseOut="db('nl31')" ><a href="/recipe/31/Grilled-Porterhouse-or-T-Bone-Steak" title="Recipe File: Grilled Porterhouse or T-Bone Steak">Grilled Porterhouse or T-Bone Steak</a></td><td id="nl164" onclick="window.location='/recipe/164/Parmesan-Garlic-Bread'" onMouseOver="lb('nl164')" onMouseOut="db('nl164')" ><a href="/recipe/164/Parmesan-Garlic-Bread" title="Recipe File: Parmesan Garlic Bread">Parmesan Garlic Bread</a></td><td id="nl18" onclick="window.location='/recipe/18/Traditional-Pecan-Pie'" onMouseOver="lb('nl18')" onMouseOut="db('nl18')" ><a href="/recipe/18/Traditional-Pecan-Pie" title="Recipe File: Traditional Pecan Pie">Traditional Pecan Pie</a></td></tr><tr><td id="nl195" onclick="window.location='/recipe/195/Chocolate-Truffles'" onMouseOver="lb('nl195')" onMouseOut="db('nl195')" ><a href="/recipe/195/Chocolate-Truffles" title="Recipe File: Chocolate Truffles">Chocolate Truffles</a></td><td id="nl10" onclick="window.location='/recipe/10/Grilled-Salmon'" onMouseOver="lb('nl10')" onMouseOut="db('nl10')" ><a href="/recipe/10/Grilled-Salmon" title="Recipe File: Grilled Salmon">Grilled Salmon</a></td><td id="nl58" onclick="window.location='/recipe/58/Peanut-Butter-Cookies'" onMouseOver="lb('nl58')" onMouseOut="db('nl58')" ><a href="/recipe/58/Peanut-Butter-Cookies" title="Recipe File: Peanut Butter Cookies">Peanut Butter Cookies</a></td><td id="nl62" onclick="window.location='/recipe/62/Tuna-Noodle-Casserole'" onMouseOver="lb('nl62')" onMouseOut="db('nl62')" ><a href="/recipe/62/Tuna-Noodle-Casserole" title="Recipe File: Tuna Noodle Casserole">Tuna Noodle Casserole</a></td></tr><tr><td id="nl112" onclick="window.location='/recipe/112/Clam-Chowder-New-England-Style'" onMouseOver="lb('nl112')" onMouseOut="db('nl112')" ><a href="/recipe/112/Clam-Chowder-New-England-Style" title="Recipe File: Clam Chowder, New England Style">Clam Chowder, New England Style</a></td><td id="nl6" onclick="window.location='/recipe/6/Grilled-Skinless-Chicken-Breast'" onMouseOver="lb('nl6')" onMouseOut="db('nl6')" ><a href="/recipe/6/Grilled-Skinless-Chicken-Breast" title="Recipe File: Grilled Skinless Chicken Breast">Grilled Skinless Chicken Breast</a></td><td id="nl168" onclick="window.location='/recipe/168/Pecan-Coffee-Cake'" onMouseOver="lb('nl168')" onMouseOut="db('nl168')" ><a href="/recipe/168/Pecan-Coffee-Cake" title="Recipe File: Pecan Coffee Cake">Pecan Coffee Cake</a></td><td id="nl75" onclick="window.location='/recipe/75/Turkey-or-Chicken-Stock'" onMouseOver="lb('nl75')" onMouseOut="db('nl75')" ><a href="/recipe/75/Turkey-or-Chicken-Stock" title="Recipe File: Turkey or Chicken Stock">Turkey or Chicken Stock</a></td></tr><tr><td id="nl74" onclick="window.location='/recipe/74/Classic-Roast-Turkey'" onMouseOver="lb('nl74')" onMouseOut="db('nl74')" ><a href="/recipe/74/Classic-Roast-Turkey" title="Recipe File: Classic Roast Turkey">Classic Roast Turkey</a></td><td id="nl43" onclick="window.location='/recipe/43/Homemade-Mayonnaise'" onMouseOver="lb('nl43')" onMouseOut="db('nl43')" ><a href="/recipe/43/Homemade-Mayonnaise" title="Recipe File: Homemade Mayonnaise">Homemade Mayonnaise</a></td></tr></table></div>
+	<div id="navcat_SousVide" style="display:none"><table width="100%" class="navlinks" cellpadding="0" cellspacing="1"><tr><td width="25%" id="nl283" onclick="window.location='/article/283/An-Introduction-to-Sous-Vide-Cooking'" onMouseOver="lb('nl283')" onMouseOut="db('nl283')" ><a href="/article/283/An-Introduction-to-Sous-Vide-Cooking" title="Sous Vide: An Introduction to Sous Vide Cooking">An Introduction to Sous Vide Cooking</a></td><td width="25%" id="nl289" onclick="window.location='/article/289/Sous-Vide-Cooking-at-Home-Setup-Guide'" onMouseOver="lb('nl289')" onMouseOut="db('nl289')" ><a href="/article/289/Sous-Vide-Cooking-at-Home-Setup-Guide" title="Sous Vide: Sous Vide Cooking at Home Setup Guide">Sous Vide Cooking at Home Setup Guide</a></td></tr></table></div>
+	<div id="navcat_TestRecipes" style="display:none"><table width="100%" class="navlinks" cellpadding="0" cellspacing="1"><tr><td width="25%" id="nl14" onclick="window.location='/recipe/14/Albers-Corn-Bread'" onMouseOver="lb('nl14')" onMouseOut="db('nl14')" ><a href="/recipe/14/Albers-Corn-Bread" title="Test Recipes: Albers Corn Bread">Albers Corn Bread</a></td><td width="25%" id="nl19" onclick="window.location='/recipe/19/Erics-Chocolate-Pecan-Pie'" onMouseOver="lb('nl19')" onMouseOut="db('nl19')" ><a href="/recipe/19/Erics-Chocolate-Pecan-Pie" title="Test Recipes: Eric's Chocolate Pecan Pie">Eric's Chocolate Pecan Pie</a></td><td width="25%" id="nl215" onclick="window.location='/recipe/215/Hot-Cross-Buns-Delia-Smiths'" onMouseOver="lb('nl215')" onMouseOut="db('nl215')" ><a href="/recipe/215/Hot-Cross-Buns-Delia-Smiths" title="Test Recipes: Hot Cross Buns (Delia Smith's)">Hot Cross Buns (Delia Smith's)</a></td><td width="25%" id="nl172" onclick="window.location='/recipe/172/Pan-Pizza'" onMouseOver="lb('nl172')" onMouseOut="db('nl172')" ><a href="/recipe/172/Pan-Pizza" title="Test Recipes: Pan Pizza">Pan Pizza</a></td></tr><tr><td id="nl77" onclick="window.location='/recipe/77/Asian-Taco'" onMouseOver="lb('nl77')" onMouseOut="db('nl77')" ><a href="/recipe/77/Asian-Taco" title="Test Recipes: Asian Taco">Asian Taco</a></td><td id="nl46" onclick="window.location='/recipe/46/Faux-BBQ-Beef-Ribs'" onMouseOver="lb('nl46')" onMouseOut="db('nl46')" ><a href="/recipe/46/Faux-BBQ-Beef-Ribs" title="Test Recipes: Faux BBQ Beef Ribs">Faux BBQ Beef Ribs</a></td><td id="nl49" onclick="window.location='/recipe/49/Joy-of-Cookings-Peanut-Butter-Cookies-14-in-one'" onMouseOver="lb('nl49')" onMouseOut="db('nl49')" ><a href="/recipe/49/Joy-of-Cookings-Peanut-Butter-Cookies-14-in-one" title="Test Recipes: Joy of Cooking's Peanut Butter Cookies (14-in-one)">Joy of Cooking's Peanut Butter Cookies (14-in-one)</a></td><td id="nl252" onclick="window.location='/recipe/252/Quick-Gazpacho'" onMouseOver="lb('nl252')" onMouseOut="db('nl252')" ><a href="/recipe/252/Quick-Gazpacho" title="Test Recipes: Quick Gazpacho">Quick Gazpacho</a></td></tr><tr><td id="nl12" onclick="window.location='/recipe/12/Avocado-Pork-Stuffed-Peppers'" onMouseOver="lb('nl12')" onMouseOut="db('nl12')" ><a href="/recipe/12/Avocado-Pork-Stuffed-Peppers" title="Test Recipes: Avocado Pork Stuffed Peppers">Avocado Pork Stuffed Peppers</a></td><td id="nl76" onclick="window.location='/recipe/76/Giblet-Pan-Gravy'" onMouseOver="lb('nl76')" onMouseOut="db('nl76')" ><a href="/recipe/76/Giblet-Pan-Gravy" title="Test Recipes: Giblet Pan Gravy">Giblet Pan Gravy</a></td><td id="nl80" onclick="window.location='/recipe/80/Leftover-Cranberry-Sauce-Pie'" onMouseOver="lb('nl80')" onMouseOut="db('nl80')" ><a href="/recipe/80/Leftover-Cranberry-Sauce-Pie" title="Test Recipes: Leftover Cranberry Sauce Pie">Leftover Cranberry Sauce Pie</a></td><td id="nl13" onclick="window.location='/recipe/13/Sauteed-Zucchini-with-Mushrooms'" onMouseOver="lb('nl13')" onMouseOut="db('nl13')" ><a href="/recipe/13/Sauteed-Zucchini-with-Mushrooms" title="Test Recipes: Sauteed Zucchini with Mushrooms">Sauteed Zucchini with Mushrooms</a></td></tr><tr><td id="nl41" onclick="window.location='/recipe/41/Basic-Biscuits'" onMouseOver="lb('nl41')" onMouseOut="db('nl41')" ><a href="/recipe/41/Basic-Biscuits" title="Test Recipes: Basic Biscuits">Basic Biscuits</a></td><td id="nl72" onclick="window.location='/recipe/72/Good-Eats-Peanut-Brittle'" onMouseOver="lb('nl72')" onMouseOut="db('nl72')" ><a href="/recipe/72/Good-Eats-Peanut-Brittle" title="Test Recipes: Good Eats Peanut Brittle">Good Eats Peanut Brittle</a></td><td id="nl106" onclick="window.location='/recipe/106/Marshmallows'" onMouseOver="lb('nl106')" onMouseOut="db('nl106')" ><a href="/recipe/106/Marshmallows" title="Test Recipes: Marshmallows">Marshmallows</a></td><td id="nl60" onclick="window.location='/recipe/60/The-Classic-Tiramisu-original-recipe'" onMouseOver="lb('nl60')" onMouseOut="db('nl60')" ><a href="/recipe/60/The-Classic-Tiramisu-original-recipe" title="Test Recipes: The Classic Tiramisu (original recipe?)">The Classic Tiramisu (original recipe?)</a></td></tr><tr><td id="nl87" onclick="window.location='/recipe/87/Carrot-Pulp-Cake-Part-I'" onMouseOver="lb('nl87')" onMouseOut="db('nl87')" ><a href="/recipe/87/Carrot-Pulp-Cake-Part-I" title="Test Recipes: Carrot Pulp Cake, Part I">Carrot Pulp Cake, Part I</a></td><td id="nl69" onclick="window.location='/recipe/69/Halloween-Green-Slime-Spinach-Dip'" onMouseOver="lb('nl69')" onMouseOut="db('nl69')" ><a href="/recipe/69/Halloween-Green-Slime-Spinach-Dip" title="Test Recipes: Halloween Green Slime Spinach Dip">Halloween Green Slime Spinach Dip</a></td><td id="nl161" onclick="window.location='/recipe/161/Orzo-Risotto-with-Buttery-Shrimp'" onMouseOver="lb('nl161')" onMouseOut="db('nl161')" ><a href="/recipe/161/Orzo-Risotto-with-Buttery-Shrimp" title="Test Recipes: Orzo Risotto with Buttery Shrimp">Orzo Risotto with Buttery Shrimp</a></td><td id="nl193" onclick="window.location='/recipe/193/TrailBlaze-Bake-At-Home-Energy-Bars'" onMouseOver="lb('nl193')" onMouseOut="db('nl193')" ><a href="/recipe/193/TrailBlaze-Bake-At-Home-Energy-Bars" title="Test Recipes: TrailBlaze Bake-At-Home Energy Bars">TrailBlaze Bake-At-Home Energy Bars</a></td></tr><tr><td id="nl170" onclick="window.location='/recipe/170/Chinese-Almond-Cookies'" onMouseOver="lb('nl170')" onMouseOut="db('nl170')" ><a href="/recipe/170/Chinese-Almond-Cookies" title="Test Recipes: Chinese Almond Cookies">Chinese Almond Cookies</a></td><td id="nl274" onclick="window.location='/recipe/274/Hatch-Chile-Infused-Chocolate-Truffles'" onMouseOver="lb('nl274')" onMouseOut="db('nl274')" ><a href="/recipe/274/Hatch-Chile-Infused-Chocolate-Truffles" title="Test Recipes: Hatch Chile Infused Chocolate Truffles">Hatch Chile Infused Chocolate Truffles</a></td><td id="nl176" onclick="window.location='/recipe/176/Oven-Fried-Onion-Rings'" onMouseOver="lb('nl176')" onMouseOut="db('nl176')" ><a href="/recipe/176/Oven-Fried-Onion-Rings" title="Test Recipes: Oven-Fried Onion Rings">Oven-Fried Onion Rings</a></td></tr></table></div>
+	
+</div>
+<div class="navbarbottom"></div>
+			<table class="tl_table" cellpadding="0" cellspacing="1" border="0">
+	<tr align="center">
+		<td class="indexsummary">
+			<a href="/toc.php?sort=date">Table of Contents</a>
+		</td>
+		<td class="indexsummary">
+			<a href="/forums">Forums</a>
+		</td>
+		<td class="indexsummary">
+			<a href="/dictionary">Dictionary</a>
+		</td>
+		<td class="indexsummary">
+			<a href="/books">Recommended Reading</a>
+		</td>
+		<td class="indexsummary">
+			<a href="http://astore.amazon.com/themichaelupdate">Marketplace</a>
+		</td>
+		<td class="indexsummary">
+			<a href="http://www.cafepress.com/cookingengineer">Giftshop</a>
+		</td>
+		<td class="indexsummary">
+			<a href="/what_i_ate">What I Ate</a>
+		</td>
+		<td class="indexsummary" style="border:1px solid #C00000">
+			<a href="http://www.orthogonalthought.com/blog" title="Read Michael's Blog: Orthogonal Thought" style="background-color:#FFFFC0">Michael's Blog</a>
+		</td>
+	</tr>
+</table>
+
+
+		
+		
+		
+
+
+		
+	<div id="orthogonalthought" onclick="window.location='http://www.orthogonalthought.com/blog/index.php/2014/08/fall-television-season-2014-grid/';" style="cursor:pointer">
+		Latest Post on Michael's Blog: <a href="http://www.orthogonalthought.com/blog/index.php/2014/08/fall-television-season-2014-grid/">Fall Television Season 2014 Grid</a>
+	</div>	
+	
+
+
+		
+		<div class="mainbody">
+			
+
+<table cellpadding="0" cellspacing="2" border="0" style="margin:0 auto 0 auto">
+	<tr>
+		
+		<td style="background: #000000 url(http://www.cookingforengineers.com/pics2/160/DSC_3055_crop2.jpg) no-repeat center center; cursor:pointer;border:2px solid #FFFFA0;padding:0">
+			<a href="/recipe/193/TrailBlaze-Bake-At-Home-Energy-Bars" title="Test Recipes: TrailBlaze Bake-At-Home Energy Bars"><div style="height:100px;width:100px;cursor:pointer"></div></a>
+		</td>
+		
+		<td style="background: #000000 url(http://www.cookingforengineers.com/pics/160/DSC_1559_crop.jpg) no-repeat center center; cursor:pointer;border:2px solid #FFFFA0;padding:0">
+			<a href="/recipe/74/Classic-Roast-Turkey" title="Recipe File: Classic Roast Turkey"><div style="height:100px;width:100px;cursor:pointer"></div></a>
+		</td>
+		
+		<td style="background: #000000 url(http://www.cookingforengineers.com/pics6/anolon/DSC_1395_320.jpg) no-repeat center center; cursor:pointer;border:2px solid #FFFFA0;padding:0">
+			<a href="/article/319/Anolon-Nouvelle-Copper-Stainless-Steel-3-qt-Covered-Saute-Pan" title="Equipment & Gear: Anolon Nouvelle Copper Stainless Steel 3-qt Covered Saute Pan"><div style="height:100px;width:100px;cursor:pointer"></div></a>
+		</td>
+		
+		<td style="background: #000000 url(http://www.cookingforengineers.com/pics2/160/DSC_1144_crop.jpg) no-repeat center center; cursor:pointer;border:2px solid #FFFFA0;padding:0">
+			<a href="/recipe/160/Dark-Chocolate-Souffle" title="Recipe File: Dark Chocolate Souffle"><div style="height:100px;width:100px;cursor:pointer"></div></a>
+		</td>
+		
+		<td style="background: #000000 url(http://www.cookingforengineers.com/pics4/160/chili_Pic_LR.jpg) no-repeat center center; cursor:pointer;border:2px solid #FFFFA0;padding:0">
+			<a href="/recipe/268/Buffalo-Chicken-Chili" title="Recipe File: Buffalo Chicken Chili"><div style="height:100px;width:100px;cursor:pointer"></div></a>
+		</td>
+		
+		<td style="background: #000000 url(http://www.cookingforengineers.com/pics/160/DSC_3743_crop.jpg) no-repeat center center; cursor:pointer;border:2px solid #FFFFA0;padding:0">
+			<a href="/recipe/98/Condensed-Milk-Fudge" title="Recipe File: Condensed Milk Fudge"><div style="height:100px;width:100px;cursor:pointer"></div></a>
+		</td>
+		
+		<td style="background: #000000 url(http://www.cookingforengineers.com/pics/160/DSC_3354_crop.jpg) no-repeat center center; cursor:pointer;border:2px solid #FFFFA0;padding:0">
+			<a href="/recipe/89/Cheesecake-Plain-New-York-Style" title="Recipe File: Cheesecake, Plain New York Style"><div style="height:100px;width:100px;cursor:pointer"></div></a>
+		</td>
+		
+		<td style="background: #000000 url(http://www.cookingforengineers.com/pics/160/DSC_4467_crop.jpg) no-repeat center center; cursor:pointer;border:2px solid #FFFFA0;padding:0">
+			<a href="/recipe/104/Kelloggs-Rice-Krispies-Treats" title="Recipe File: Kellogg's Rice Krispies Treats"><div style="height:100px;width:100px;cursor:pointer"></div></a>
+		</td>
+		
+	</tr>
+</table>
+
+
+<div itemscope itemtype="http://data-vocabulary.org/Recipe">
+	<div id="articleheader">
+			<div class="headertitle"><div>
+				<span class="category">
+					Recipe File
+				</span><br />
+				<h1 class="title" style="display:inline" itemprop="name">
+					Peanut Butter Cookies
+				</h1>
+				<span class="author">
+					by <span itemprop="author">Michael Chu</span>
+				</span>
+			</div></div>
+		<div class="formatbutton"><a href="/recipe/58/Peanut-Butter-Cookies/trn">Recipe Card</a></div>
+		<div class="formatbutton"><a href="/recipe/58/Peanut-Butter-Cookies/print">Printer-friendly</a></div>
+		
+		<div class="selectedformatbutton">Normal view</div>
+		
+		<div class="hr"></div>
+	</div>
+
+	<div id="articlebody">
+		
+		
+			<div style="font-size:12pt;font-weight:bold;float:right;margin:0px -6px 0 0;padding:0 4px 6px 8px;background-color:#FFFFA0"><a href="/recipe/59/Chicken-Mushroom-Marsala">Next &#187;</a></div>
+			<div style="font-size:12pt;font-weight:bold;float:left;margin:0px 0 0 -6px;padding:0 8px 6px 4px;background-color:#FFFFA0"><a href="/recipe/55/Mini-Hamburgers">&#171; Prev</a></div>
+			
+			<div style="clear:both"></div>
+			<div style="float:right;clear:right;padding:4px 0 12px 8px;" class="nothing">
+				
+<!-- Google DFP Article_160x600-->
+<center>
+<div id='dfp_gpt_1' style='width:160px; height:600px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('dfp_gpt_1'); });
+</script>
+</div>
+</center>
+
+				<div style="margin:30px 0 0 0;line-height:0px"><!-- --></div>
+				
+			</div>
+			
+<!-- Google DFP Article_300x250-->
+<div class="adsense-left">
+<div id='dfp_gpt_2' style='width:300px; height:250px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('dfp_gpt_2'); });
+</script>
+</div>
+</div>
+
+
+		
+		
+			
+			Four months ago, I tested a new (to me) recipe for <a href="http://www.cookingforengineers.com/article.php?id=49">Peanut Butter Cookies</a> and found them to be cakey, bland, and not well received by my coworkers. In that article, I alluded to "my normal recipe" but did not elaborate on what that recipe was. Well, here's how I make Peanut Butter Cookies.<span class="fullpost"><?if($fullpost==1){?><br />
+<br />
+The ingredients are very similar to the Joy of Cooking recipe, but the proportions are quite different with more sugar and more peanut butter. <br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/hello/259/958/640/DSC_1128_crop.jpg'><img border='0'  src='http://www.cookingforengineers.com/hello/259/958/320/DSC_1128_crop.jpg'  width='320' height='209' class='left' alt='' /></a>
+To make about two dozen cookies, start with 1/2 cup peanut butter and 1/2 cup unsalted butter. This time around I chose to use <a href="http://www.peanutbutter.com">Skippy</a> brand peanut butter. There is some concern that commercial peanut butters contain trans fatty acids since partially hydrogenated vegetable oils are used to stabilize the butter (preventing separation). On the other hand, it is common to find higher levels of aflatoxins in old fashioned peanut butter leading to a higher risk of liver cancer (if consumed regularly). According to both Skippy's nutrition <a href="http://www.peanutbutter.com/faq.asp#nutrition">FAQ</a> and the <a href="http://www.ars.usda.gov/is/pr/2001/010612.htm">USDA</a> claim that there are no measurable amounts of trans fats present in commercial peanut butter. Skippy explains that the vegetable oils are almost completely fully hydrogenated (which as you remember from the <a href="http://cookingforengineers.com/2004/06/saturated-fats-cholesterol-and-heart.html">Saturated Fats</a> article cannot be trans fats since fully hydrogenated fats are chemically the same as saturated fats).<br /><div style='clear:left'></div><br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/hello/259/958/640/DSC_1127_crop.jpg'><img border='0'  src='http://www.cookingforengineers.com/hello/259/958/320/DSC_1127_crop.jpg'  width='320' height='179' class='left' alt='' /></a>
+Sift 1-1/4 cup all purpose flour, 1/2 tsp. baking soda, and 1/4 tsp. salt together. The remaining ingredients are 1/2 cup granulated sugar, 1/2 cup light brown sugar, and 1 egg.<br /><div style='clear:left'></div><br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/hello/259/958/640/DSC_1130_crop.jpg'><img border='0'  src='http://www.cookingforengineers.com/hello/259/958/320/DSC_1130_crop.jpg'  width='320' height='244' class='left' alt='' /></a>
+Using a stand mixer, hand mixer, or arms of steel, mix the peanut butter and butter together until relatively smooth. Don't worry about any small lumps of butter that might persist, when we mix in the sugar, the sugar crystals will perforate the butter until it's smooth.<br /><div style='clear:left'></div><br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/hello/259/958/640/DSC_1131_crop.jpg'><img border='0'  src='http://www.cookingforengineers.com/hello/259/958/320/DSC_1131_crop.jpg'  width='320' height='200' class='left' alt='' /></a>
+Scrape the bowl down and mix both the granulated sugar and brown sugar into the butter. Mix until smooth.<br /><div style='clear:left'></div><br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/hello/259/958/640/DSC_1132_crop.jpg'><img border='0'  src='http://www.cookingforengineers.com/hello/259/958/320/DSC_1132_crop.jpg'  width='320' height='226' class='left' alt='' /></a>
+Add the egg to the mixture and mix until integrated.<br /><div style='clear:left'></div><br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/hello/259/958/640/DSC_1134_crop.jpg'><img border='0'  src='http://www.cookingforengineers.com/hello/259/958/320/DSC_1134_crop.jpg'  width='320' height='266' class='left' alt='' /></a>
+Once the egg has been mixed in, slowly add the flour as you stir (use the lowest setting on your mixer). I control the flow of flour by sifting the flour onto wax paper (or parchment paper) and folding it over so I can pour easily. By pouring the flour slowly, you won't overwhelm the batter and the flour will properly mix into the batter to form the final dough.<br /><div style='clear:left'></div><br />
+<br />
+<div class="larticles">
+	<div class="title">Related Articles</div>
+	<div class="link">
+			<a href="/recipe/49/Joy-of-Cookings-Peanut-Butter-Cookies-14-in-one">Joy of Cooking's Peanut Butter Cookies (14-in-one)</a>
+		</div><div class="link">
+			<a href="/recipe/59/Chicken-Mushroom-Marsala">Chicken & Mushroom Marsala</a>
+		</div><div class="link">
+			<a href="/recipe/55/Mini-Hamburgers">Mini Hamburgers</a>
+		</div><div class="link">
+			<a href="/recipe/185/Nestle-Toll-House-Chocolate-Chip-Cookies">Nestle Toll House Chocolate Chip Cookies</a>
+		</div><div class="link">
+			<a href="/recipe/159/English-Toffee">English Toffee</a>
+		</div>
+	
+</div>
+	At this point, the dough should be double wrapped in plastic and refrigerated for an hour. The dough can keep in the refrigerator for a couple days or stored in the freezer for a month. I decided to make this batch immediately (without chilling). This will create a thinner, crisper cookie (because the warm dough will spread quickly).<br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/hello/259/958/640/DSC_1135_crop.jpg'><img border='0'  src='http://www.cookingforengineers.com/hello/259/958/320/DSC_1135_crop.jpg'  width='320' height='136' class='left' alt='' /></a>
+Form the dough into about two dozen 1 inch balls. I do this by picking up a lump of dough, rolling it between my hands, and finishing up by tossing the ball lightly between my hands. Place the balls of dough onto a greased or lined cookie sheet. In the pictures below, I lined the cookie sheet with aluminum foil (parchment paper works well also).<br /><div style='clear:left'></div><br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/hello/259/958/640/DSC_1139_crop.jpg'><img border='0'  src='http://www.cookingforengineers.com/hello/259/958/320/DSC_1139_crop.jpg'  width='320' height='213' class='left' alt='' /></a>
+Flatten each of the balls with a fork.<br /><div style='clear:left'></div><br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/hello/259/958/640/DSC_1140_crop.jpg'><img border='0'  src='http://www.cookingforengineers.com/hello/259/958/320/DSC_1140_crop.jpg'  width='320' height='213' class='left' alt='' /></a>
+Place one cookie sheet at a time in the center rack of an oven preheated to 375&#176;F. Bake for nine minutes and remove. Let stand on cookie sheet for one minute, then transfer to cooling racks to cool.<br /><div style='clear:left'></div><br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/hello/259/958/640/DSC_1144_crop.jpg'><img border='0'  src='http://www.cookingforengineers.com/hello/259/958/320/DSC_1144_crop.jpg'  width='320' height='203' class='left' alt='' /></a>
+These peanut butter cookies come out golden brown with a light crispiness that melts in your mouth.<br /><div style='clear:left'></div><br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/hello/259/958/640/DSC_1163_crop.jpg'><img itemprop="photo" border='0'  src='http://www.cookingforengineers.com/hello/259/958/320/DSC_1163_crop.jpg'  width='320' height='189' class='left' alt='' /></a>
+For a soft and chewy peanut butter cookie, make sure you refrigerate the dough first. Then form dough balls and press down with a fork as before. Then, simply refrigerate the uncooked cookies for at least fifteen minutes to firm it back up. Then with the oven preheated to 300&#176;F, slide one tray in at a time for a baking time of 15 minutes.</span><br /><div style='clear:left'></div><span class="fullpost"><br />
+<br />
+The reason this trick works is that the butter in the dough is not as fluid when cold. Warm dough will spread out more during the first few minutes of cooking, resulting in a thinner, crispier cookie. Starting the cookie sheet and dough cold, reduces the spread, making thicker cookies. The lower oven temperature keeps the outside of the cookie from getting too crunchy before the inside of the thicker cookie finishes cooking. It should be noted that if you want to make soft cookies of the same diameter as the crispy cookies, you'll need to use a little more dough in each so the spread ends up the same.<?}?></span><br />
+<br />
+<b>Peanut Butter Cookies</b><br />
+Cookie Dough<br />
+<table><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">1/2&nbsp;cup (130&nbsp;g)</span> <span itemprop="name">peanut butter</span></span></td><td rowspan=2 class="vertical">mix</td><td rowspan=4 class="vertical">mix</td><td rowspan=5 class="vertical">mix</td><td rowspan=8 class="vertical">slowly add while stirring</td><td rowspan=8 class="vertical">refrigerate at least 1 hour</td></tr><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">1/2&nbsp;cup (110&nbsp;g)</span> <span itemprop="name">unsalted butter </span></span></td></tr><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">1/2&nbsp;cup (100&nbsp;g)</span> <span itemprop="name">granulated sugar</span></span></td><td rowspan=2 class="righthide"></td></tr><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">1/2&nbsp;cup (110&nbsp;g)</span> <span itemprop="name">brown sugar</span></span></td></td></tr><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">1</span> <span itemprop="name">egg</span></span></td><td colspan=2 class="righthide"></td></tr><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">1-1/4&nbsp;cup (160&nbsp;g)</span> <span itemprop="name">all purpose flour</span></span></td><td rowspan=3 class="vertical">sift</td><td rowspan=3 colspan=2 class="righthide"></td></tr><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">1/2&nbsp;tsp. (2.3&nbsp;g)</span> <span itemprop="name">baking soda </span></span></td></tr><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">1/4&nbsp;tsp. (1.5&nbsp;g)</span> <span itemprop="name">salt </span></span></td></tr></table><br />
+Light & Crispy Cookies (makes about 24 cookies)<br />
+<table><tr><td colspan=4 align=center>Preheat oven to 375&#176;F (190&#176;C)</td></tr><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">1 batch</span> <span itemprop="name">cookie dough</span></span></td><td>form 1 in. balls</td><td>flatten with fork</td><td>bake 375&#176;F 9 min.</td></tr></table><br />
+Soft & Chewy Cookies (makes about 18 cookies)<br />
+<table><tr><td colspan=4 align=center>Preheat oven to 300&#176;F (150&#176;C)</td></tr><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">1 batch</span> <span itemprop="name">cookie dough</span></span></td><td>form 1.1 in. balls</td><td>flatten with fork</td><td>refrigerate 15 min.</td><td>bake 300&#176;F 15 min.</td></tr></table><span class="copy">Copyright Michael Chu 2004</span><div class="larticles">
+	<div class="title">Related Articles</div>
+	<div class="link">
+			<a href="/recipe/49/Joy-of-Cookings-Peanut-Butter-Cookies-14-in-one">Joy of Cooking's Peanut Butter Cookies (14-in-one)</a>
+		</div><div class="link">
+			<a href="/recipe/59/Chicken-Mushroom-Marsala">Chicken & Mushroom Marsala</a>
+		</div><div class="link">
+			<a href="/recipe/55/Mini-Hamburgers">Mini Hamburgers</a>
+		</div><div class="link">
+			<a href="/recipe/185/Nestle-Toll-House-Chocolate-Chip-Cookies">Nestle Toll House Chocolate Chip Cookies</a>
+		</div><div class="link">
+			<a href="/recipe/159/English-Toffee">English Toffee</a>
+		</div>
+	
+</div>
+	<div style="clear:both;margin-bottom:8px"></div>
+			
+		
+		
+		<div class="clear"></div>
+		
+			<div style="font-size:12pt;font-weight:bold;float:right;margin:0 -6px -4px 0;padding:0 2px 2px 6px;background-color:#FFFFA0"><a href="/recipe/59/Chicken-Mushroom-Marsala">Next &#187;</a></div>
+			<div style="font-size:12pt;font-weight:bold;float:left;margin:0 0 -4px -6px;padding:0 6px 2px 2px;background-color:#FFFFA0"><a href="/recipe/55/Mini-Hamburgers">&#171; Prev</a></div>
+		
+		<div class="clear"></div>
+	</div>
+	
+	<div id="articlefooter">
+		<div class="author">Written by Michael Chu</div>
+		<div class="timestamp">Published on <time itemprop="publishDate" itemprop="published" datetime="2004-10-14">October 14, 2004 at 11:55 PM</time></div>
+		<div class="clear"></div>
+	</div>
+	
+</div>
+
+
+
+
+
+	<div class="spacer3"></div>
+		
+<!-- Google DFP Article_728x90-->
+<center>
+<div id='dfp_gpt_3' style='width:728px; height:90px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('dfp_gpt_3'); });
+</script>
+</div>
+</center>
+
+		
+	
+	
+  <div id="comments">
+		<div id="articlecomments">
+			<div class="header">135 comments on <b>Peanut Butter Cookies</b>:<span class="commentlink">(<a href="/forums/posting.php?mode=reply&t=132" style="font-size:12pt" title="Comments are managed in the Cooking For Engineers Forums">Post a comment</a>)</span></div>
+			
+					<hr size="1" noshade />
+					<div class="commentheading">On August 10, 2005 at 11:05 PM, jumex (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">Man, what I wouldn't do for some real peanut butter. Japan doesn't believe in the stuff, it seems. You can get Peanut Cream, but ti is beyond horrible.<br />
+<br />
+I have to admit I hadn't given your site a good look until today, and I am amazed! Your receipt format is so simple and obvious that even I can effortlessly understand it (and that is saying something).<br />
+<br />
+Keep up the good work. Signe and I think of you and Tina often.<br />
+<br />
+Take care,<br />
+trv</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 10, 2005 at 11:06 PM, oboeman (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">If you are going to be so precise as to use grams for the measurement of the goods, then why do you use inches to tell us the size to make the cookie dough balls?</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 10, 2005 at 11:06 PM, Michael Chu said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">re: grams<br />
+<br />
+The use of grams is not so much for precision as to provide readers from outside of the United States an ability to cook th recipes. A lot of kitchens don't have dry measuring cups, so I do the conversions now.<br />
+<br />
+Using inches is not imprecise, it's just not metric and I apologize for forgetting to convert inches to cm for people who are not familiar with U.S. units.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 10, 2005 at 11:07 PM, Missy (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">I'm making a batch right now, thanks for the metrics.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 10, 2005 at 11:07 PM, Michael Chu said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">jumex,<br />
+<br />
+Doesn't Costco Japan sell peanut butter? Next time someone makes a Costco run, you can bribe them in bringing back some.<br />
+<br />
+I checked amazon and found that they do sell <a href='http://www.blogger.com/r?http%3A%2F%2Fwww.amazon.com%2Fexec%2Fobidos%2FASIN%2FB00032E9MA%2Fthemichaelupdate'>Skippy Creamy Peanut Butter</a> through a third party company, but they don't ship to Japan. There's got to be a way to get peanut butter out to where you are...</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 10, 2005 at 11:08 PM, jumex (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">That is a good point about Costco Japan. I forgot about <a href='http://www.blogger.com/r?http%3A%2F%2Fwww.theflyingpig.com%2Ftfp%2FShop.ASP'>The Flying Pig</a>, they will buy stuff from Costco and send it to you where you live in Japan. Thanks for reminding me!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 10, 2005 at 11:08 PM, Sarah (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">This is great! Have you thought about writing a book? The way you have laid out your recipes is exactly how my husband would need to see it to conceptualize a recipe.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 10, 2005 at 11:09 PM, Iced Nyior (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">wat kind of peanut butter are u using? chunky or smooth? Does it even matter?<br />
+<br />
+Btw, im love ur site and visit it regularly...keep up d good work :)</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 10, 2005 at 11:09 PM, Michael Chu said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">I used creamy peanut butter. If you like little bits of peanuts in your cookies, then use chunky. Both work well.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 10, 2005 at 11:10 PM, Jack Styger (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">Hi, this looks good. I'm a vegetarian though. I'd appreciate some comments on my blog too. God bless!<br />
+<br />
+<a href='http://www.blogger.com/profile/1781873'>Jack</a></div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 10, 2005 at 11:10 PM, Intellectual mollusc (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">I'm glad to see someone understanding the reason to use grams. And I'm also glad that you dont see the need to use the very ridiculous imperial measurements system more than necessary.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 10, 2005 at 11:11 PM, Shay (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">I recently made cookies for the first time and used this recipe; the cookies are great. The main error I made was adding the ingredients in a different order; your descriptions of why the sugar is added first helped me appreciate the importance of order. When I added them in the recommended order, it went more smoothly.<br />
+<br />
+Out of three batches, I used half the butter for the last two and didn't notice much difference in the taste. Also, a mixer was an overkill since there is so little dough (when I tried I got bits of dough all over the kitchen). A mixing spoon worked much better and didn't tire my hand much.<br />
+<br />
+I plan on making some oatmeal cookies next, then branching out to muffins and bread!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 10, 2005 at 11:11 PM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">In your recipe you say you use more peanut butter than the Joy of Cooking recipe. But you call for a 1/2 cup of pb and Joy of Cooking calls for 1 cup (I have the 1960s edition, maybe you have a newer revised one?) Please advise!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 10, 2005 at 11:12 PM, Michael Chu said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">re: joy of cooking recipe<br />
+<br />
+Proportionally, this recipe uses more sugar and peanut butter than the Joy of Cooking. The Joy of Cooking recipe yields two batches of cookies, while this recipe is for one batch. My edition of joy of cooking calls for 2/3 cup peanut butter resulting in 1/3 cup per batch. Starting with 1 cup peanut butter as your edition recommends, would result in the same 1/2 cup of peanut butter.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 10, 2005 at 11:12 PM, Alex (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">This site is just great! I can't wait to see more recipes!<br />
+I also wanted to add that, being a professional cook, I admit I have a difficult time understanding any measurements in cups. I think it's dreadfully unprecise! Concerning the cookies, Oboeman might have tried to point out that you should mention the size of the balls in weight, not in size.<br />
+<br />
+Great work!<br />
+Take care,<br />
+Alex</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 10, 2005 at 11:13 PM, Sally (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">PLEASE leave in the cups, tablespoons, and inches for those of us who wouldn't have a clue what a gram is.<br />
+<br />
+Also...regarding the comment listing cookie size by weight...how could you tell how big to make them if you don't won a cooking scale? I don't know anyone who does own one.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 10, 2005 at 11:13 PM, Michael Chu said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">You can't satisfy everyone :) but I do spent quite a bit of time making sure that I present the recipes in both U.S. (cups, etc.) and the-rest-of-the-world units.<br />
+<br />
+I have no desire to drop the U.S. units since I do live in the U.S. and cater to a mostly U.S. audience - but I have been making sure that I include mass when appropriate. I actually cook with a mix of volume and mass measurements depending on which is faster or more expedient to the task.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 10, 2005 at 11:13 PM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">instead of using brown sugar could you use regular white sugar?</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 10, 2005 at 11:19 PM, Michael Chu said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">Yes, you can use white sugar, but the cookie will lack some moistness. Try replacing the brown sugar with 1/2 cup granulated white and add about one to two teaspoons (~10 mL) of mild molasses.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 31, 2005 at 07:08 PM, FGT (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Substituting Peanut Butter</span><br /></div>
+					<div class="commentbody">Do any of the other nut butters work rather than peanut butter, i.e. almond or maccadamian butter for peanut butter cookies?</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On September 09, 2005 at 03:47 AM, donna (guest) said...</div>
+					<div class="commentsubject">Subject: <span>nut butters</span><br /></div>
+					<div class="commentbody">I would like to read your answer to that last question about substituting other nut butters for peanut butter...</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On September 25, 2005 at 03:27 AM, velma in tejas (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">OH --- MIGAWSH - I want that now! It's a cozy night for cookies and milk....Having gale force winds tonight here in North Texas! ... but still, I need your vote for for my new cookie company name: Kalini's Kuki's or Auntie Eme's Macadamias. -- Email me or post blog comments. Mahalo iâ `oe! --- Aloha wau iâ `oe.<br />
+--  peace out - - <br />
+me<br />
+http://velma17.blogspot.com/</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On October 10, 2005 at 02:46 PM, Corinne (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Peanut Butter Cookie Recipe-Brown Sugar Substitution</span><br /></div>
+					<div class="commentbody">You can substitute some molasses with white granulated to substitute for brown sugar, but the cookie will have a strange texture.  Believe me, I tried it and it just isn't pretty.....</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 29, 2005 at 06:18 PM, guest (guest) said...</div>
+					<div class="commentsubject">Subject: <span>nut butters</span><br /></div>
+					<div class="commentbody">Hello, love the site.<br />
+<br />
+As for using other nut butters, I have had wonderful results from almond butter. (Places like Sunflower market, Sprouts, or other natural food stores, I'm sure, you can grind your own-- resulting in a slightly textured, very healthy butter that is perfect for cookies. A bit on the pricey side, though!!)<br />
+<br />
+Since there's no added salt or hydrogenated oils, this is a great alternative for people looking for a slightly heathier cookie. Also, great for people with peanut allergies. <br />
+<br />
+(You might even be able to make your own coarse nut butter in a food processor, though I have yet to try this.)<br />
+<br />
+Good luck, and hope you enjoy the other butters as much as I do!!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 06, 2005 at 06:09 PM, Di (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Peanut Butter Cookie Rush Order</span><br /></div>
+					<div class="commentbody">My son came home last night to let me know they were having a cookie exchange.   This was at 9pm I was told.  When I got off of work I looked on the interenet &amp; found this great site. <br />
+(All my cook books are in storage)<br />
+ Pulled up peanut butter cookies..woke him up &amp; we were off by 7:30 am we were finished &amp; off to school with wonderful tasting cookies.  I did not get to refrigerate them but they still came out great.  <br />
+You have saved my reputation &amp; my son is the hero. <br />
+Thank you, Thank you, Thank you.!!!<br />
+Most Sincerely, Di</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On January 04, 2006 at 05:57 AM, MiniMike said...</div>
+					<div class="commentsubject">Subject: <span>Cups n Grams</span><br /></div>
+					<div class="commentbody">Hands up who watches Good Eats ? anyone ?? <br />
+<br />
+OK stuff like flour should be weighed as it can settle in the jar/packet and therefore a cup isn't always a cup , but a gram is always a gram.<br />
+<br />
+Gotta love Good eats for little tidbits of info  ;)</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On January 04, 2006 at 07:33 AM, helgabluefin (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Peanut Butter Cookies</span><br /></div>
+					<div class="commentbody">Wow!  Nice page- loved the detailed photos, too.  But you don't mention a brand of peanut butter- my fave is Adam's, please tell me you used Adam's..</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On January 04, 2006 at 06:22 PM, an anonymous reader said...</div>
+					<div class="commentsubject">Subject: <span>peanut butter cookie</span><br /></div>
+					<div class="commentbody">:P OMG!!!  these cookies are delicious!  just took them out of the oven I ate two already! Crispy with soft center. I made exactly as per your recipe<br />
+Ab61qsolutely the best!  10 minutes with 1 inch cookie scoop. Thanks for the great recipe!  <br />
+Beachgranny</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On January 21, 2006 at 02:43 AM, (guest)Kayla (guest) said...</div>
+					<div class="commentsubject">Subject: <span>I LOVE The Recipe!!!!!!!!</span><br /></div>
+					<div class="commentbody">:) I loved this recipe!!!!!  I got a little confused though when it said what to pre-heat to. :I sure:  :huh: ?????????  Over all, [u:048c67fb1f][/u:048c67fb1f][/b][/i][b][i][u]I LOVED the recipe!!!!!!!!!!!!!! :)  :D  ;)  B) <br />
+<br />
+<br />
+                                                        Kayla</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On January 27, 2006 at 02:52 AM, pith (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">I just made them.  Great!  The dough is the best I have ever used - easy to handle and soft.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On January 29, 2006 at 10:24 PM, Gamma (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Other nuts.</span><br /></div>
+					<div class="commentbody">I made this up just now using rice flour instead of normal flour and in place of the peanut butter about 3/4 cup pecans, run through the coleslaw attachment on my food processor and then put in with the normal blade and drizzled a little bit of light corn syrup on it to make it stickier. (This was still fairly coarse and dry, but even.) By the time I finished mixing everything together the batter was very smooth (no noticable chunks of nuts) and had a pleasantly nutty taste over all... not like what you'd call a peanut butter cookie but still very good.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On February 03, 2006 at 10:44 PM, Heather (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Peanut Butter Cookies</span><br /></div>
+					<div class="commentbody">These cookies are phenominal!!! I have been looking for a way to soften up peanut butter cookies myself and they always came out crispy and crunchy. Delicious! I am baking them as we speak and decided to make yet another batch. Thank you for posting such a great recipe!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On February 28, 2006 at 08:48 AM, bkd69 (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Old fashioned peanut butter?</span><br /></div>
+					<div class="commentbody">What do you mean by "old fashioned" peanut butter, vice Skippy? To my USAian mind, Skippy belongs to that variety of peanut butter that's overly processed, with added oil, perhaps some added sweetener, and ultrasmooth. The other variety that we have is "natural," which has a much coarser texture, no additives whatsoever, and the peanut oil tends to separate out.<br />
+<br />
+It used to be cost prohibitive, but the past ten or fifteen years or so, the price has come down to be competeive with the standard variety. I've long been meaning to try making peanut butter cookies with it, but just haven't gotten to it yet.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On February 28, 2006 at 06:34 PM, Michael Chu said...</div>
+					<div class="commentsubject">Subject: <span>Re: Old fashioned peanut butter?</span><br /></div>
+					<div class="commentbody"><div class='commentquote'>bkd69 wrote:<div class='commentquotebody'>What do you mean by "old fashioned" peanut butter, vice Skippy? To my USAian mind, Skippy belongs to that variety of peanut butter that's overly processed, with added oil, perhaps some added sweetener, and ultrasmooth. The other variety that we have is "natural," which has a much coarser texture, no additives whatsoever, and the peanut oil tends to separate out.</div></div><br />
+The "Old fashioned" peanut butter that I refer to is the non-(regular) Skippy/Jif  brand stuff which separates. The FDA found in random testing that in general those peanut butters have a higher aflatoxin content than the "ultra-processed" varieties that we generally think of. This is one of those cases where processed may be better for you than natural/traditional. In any case, processed peanut butter turns out to be a not-so-processed food when we compare it to other processed foods.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On April 02, 2006 at 01:15 PM, psychotron (guest) said...</div>
+					<div class="commentsubject">Subject: <span>peanut butter cookies</span><br /></div>
+					<div class="commentbody">A much better recipe is:<br />
+1 cup peanut butter (chunky is best)<br />
+1 cup sugar<br />
+1 egg<br />
+<br />
+As every engineer knows, less is more ;)</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On April 02, 2006 at 02:52 PM, Dominic (guest) said...</div>
+					<div class="commentsubject">Subject: <span>you really think that makes a better cookie??</span><br /></div>
+					<div class="commentbody">It obviously has less ingredients.  But less is not necessarily more.  I've made that recipe before (when I was much younger) and those cookies don't even compare to the recipe found here.  Lacking flour and butter, they turn into hard, crumbly peanut butter discs -- not the chewy peanut butter cookies I'd rather be eating.<br />
+<br />
+I'm all for simple, but quality trumps simplicity in my book  :)</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On April 06, 2006 at 03:32 PM, HereandThere123 (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Peanut butter cookies</span><br /></div>
+					<div class="commentbody">I have a substitution question--I need to use agave nectar instead of sugar. The tip on the bottle says to use less of the liquid sweetener and cut the liquids in the recipe. I tried this with another pb cookie recipe recently (please see my blog at <a href='http://hereandthere123.blogspot.com'>http://hereandthere123.blogspot.com</a> for the posting on it), but actually had to add the liquid back in. <br />
+<br />
+Any advice? <br />
+<br />
+Many thanks!<br />
+<br />
+Best,<br />
+Deb<br />
+P.S. Michael, we eventually went with the Global knives -- I blogged about them, too.  ;)</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On April 21, 2006 at 12:32 AM, Ray Y (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Spammers</span><br /></div>
+					<div class="commentbody">Would it be possible to IP ban these people who's posts consist of little more then: 'come to my blog!'?  It's getting a little silly, by memory, there was more then 5 this thread alone.  Love the web site though.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On April 24, 2006 at 09:18 PM, Hilk (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Dry</span><br /></div>
+					<div class="commentbody">The flavor of the cookies is subtle and has that salty hint that I love about peanut butter cookies.  However, this recipe is extremely DRY.  I thought maybe I overcooked them, but I made another batch and cooked less, they were just as dry.  I would probably recommend doubling the batch, but cutting the flour by 1/8 - to a 1/4 of a cup and maybe lowering the temperature to about 370.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On April 24, 2006 at 09:20 PM, an anonymous reader said...</div>
+					<div class="commentsubject">Subject: <span>Re: Dry</span><br /></div>
+					<div class="commentbody"><div class='commentquote'>Hilk wrote:<div class='commentquotebody'>The flavor of the cookies is subtle and has that salty hint that I love about peanut butter cookies.  However, this recipe is extremely DRY.  I thought maybe I overcooked them, but I made another batch and cooked less, they were just as dry.  I would probably recommend doubling the batch, but cutting the flour by 1/8 - to a 1/4 of a cup and maybe lowering the temperature to about 370.</div></div><br />
+<br />
+or add more butter a stick and a half perhaps per batch.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On May 01, 2006 at 10:15 PM, hitchhiker72 (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Good recipe</span><br /></div>
+					<div class="commentbody">Just tried this peanut butter cookie recipe and like it a lot. I halved the amount of sugar and it still tastes great.<br />
+<br />
+I divided the dough into two. Baked one batch immediately (couldn't wait :P) and refrigerated the other batch to try out the two versions you mentioned.<br />
+<br />
+Thanks.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On May 11, 2006 at 02:18 PM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">I've been using a very similar recipe for awhile. (My boyfriend's favorite are peanut butter cookies).  I've had much better results using all-natural peanut butter from the local co-op.  I can buy it in bulk, it's much cheaper, and the texture comes out much better.  My boyfriend thinks he hates this kind of peanut butter but when I started to use it in the cookies (as opposed to Jif or Skippy), he said "make them like you did last time again!"<br />
+Also, I don't have a mixer so I've been using my food processor to blend all the ingredients, and I get a very smooth, somewhat sticky dough that makes great chewy cookies.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On May 22, 2006 at 07:59 AM, chris waite (guest) said...</div>
+					<div class="commentsubject">Subject: <span>cookies</span><br /></div>
+					<div class="commentbody">The reason why the REST of the world changed to metric is because it is so simple.  All measurements, whether solid or liquid or by weight relate perfectly to one another and whoever thought of CUPS as a measuring device should be banned from the kitchen.  I'm going to dive right in and make some peanut butter cookies this weekend. I'll use fresh ground chunky peanutbutter. Thanks, Chris. (born Canada now Australian)<br />
+<br />
+PS the ingredients chart at the end of each recipe is inspirational!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On June 06, 2006 at 09:31 PM, shelby (guest) said...</div>
+					<div class="commentsubject">Subject: <span>cookies</span><br /></div>
+					<div class="commentbody">Love them to bits!! I made them the instent i found the web site. <br />
+THANK YOU!!  <br />
+             SHELBY :D  :D  :)  ;)</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On June 19, 2006 at 02:23 PM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">This is such a cool website.  I love the way you organize the recipe.  I use the "light and crispy" cooking method, and that's exactly how they turned out!  They're delicious.  Thanks. :D</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On July 01, 2006 at 04:21 PM, hope (guest) said...</div>
+					<div class="commentsubject">Subject: <span>WOW</span><br /></div>
+					<div class="commentbody">GREAT RECIPE i made it right now<br />
+im only like 13 and its EASY to do :)<br />
+wow your amazing<br />
+they tasted great. the dough tasted GOOD</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On July 05, 2006 at 08:46 PM, spoolymontana (guest) said...</div>
+					<div class="commentsubject">Subject: <span>thanks!</span><br /></div>
+					<div class="commentbody">appreciate the great recipe with thorough details!<br />
+sending to a friend overseas to make a batch for herself in Europe!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On July 11, 2006 at 06:30 PM, Dave (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Cookie Failure in Amsterdam...</span><br /></div>
+					<div class="commentbody">Well I tried. And I am an excellent cook. But I do admit failure. I followed your recipe to the "T". What I ended up with was a crumbly, sandy-like, too light and dry cookie. I wanted to get the kind of peanut-butter cookies I grew up with in San Francisco available at all the cafés we had out there: soft, chewey, pastey-like, almost undercooked (like the cookie dough in Cookie Dough Icecream), and big and chunky. I did not get that. The ingredients here in Amsterdam are all the same as in the US. Do you think the flour here is the problem? I know American flour is more durable because when I tried to make proper French-style baguettes in the States, I would never get the same bread you get in France. I guess I just give up American recipes and assimilate to what we are used to here. Any suggestions would be grateful. Thanks everyone! Dave, Amsterdam, The Netherlands</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On July 11, 2006 at 06:46 PM, GaryProtein said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">Dave, assuming you did follow everything to the "T", I think you hit the nail on the head with the flour--either its variety of wheat/protein/gluten or its density/volumetric vs weight measurement.  I would vary the flour in your recipe and keep the other indregients constant and see how you do.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On July 14, 2006 at 02:39 PM, Nancy Ho, Singapore (guest) said...</div>
+					<div class="commentsubject">Subject: <span>too oily...?</span><br /></div>
+					<div class="commentbody">The cookies are sooooooooooo delicious! My husband loves them. Can I cut down the butter? My fingers were greasy after that? Is it normal? I weight all the ingredients in gram... unless my butter is different... or my peanut butter? I am using crunchy peter pan peanut butter...</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On July 14, 2006 at 04:26 PM, Michael Chu said...</div>
+					<div class="commentsubject">Subject: <span>Re: too oily...?</span><br /></div>
+					<div class="commentbody"><div class='commentquote'>Nancy Ho, Singapore wrote:<div class='commentquotebody'>The cookies are sooooooooooo delicious! My husband loves them. Can I cut down the butter? My fingers were greasy after that? Is it normal? I weight all the ingredients in gram... unless my butter is different... or my peanut butter? I am using crunchy peter pan peanut butter...</div></div><br />
+Sounds like you made them correctly. Your fingers will become greasy as you mold the dough. You can try reducing butter, but at some point you'll be able to detect a texture and flavor difference. This is up to personal preference and will require some experimenting. For some people, they can make an all peanut butter cookie and others need all the butter. Try making a batch with reduced butter and see if you still like it. If so, reduce th ebutter some more and keep going. Of course, peanut butter has a lot of oil in it (it is mostly fat), so your fingers will always be greasy. At some point you won't be ablet o mold the dough without the dough sticking to your fingers - so dip your hand in water to help keep everything off your fingers as you work.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On July 24, 2006 at 11:06 PM, patricele (guest) said...</div>
+					<div class="commentsubject">Subject: <span>perfect recipe!</span><br /></div>
+					<div class="commentbody">Oh my gosh! I'm totally over my fear of making peanut butter cookies now! I usually pride myself in being able to bake just about anything I want to, but PB cookies have always been a challenge until now. Thank you for the wonderful recipe! I've used this recipe several times now (with the helpful instructions about baking extra soft cookies) and they've come out perfect every time! You saved my cookie reputation...big thanks!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On July 25, 2006 at 01:48 AM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">Best PB recipe ever!  I did cut down on the butter -- used about 5 Tb instead of 8.  I also used the all natural Smuckers PB. Thanks so much for posting this recipe!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On July 30, 2006 at 05:52 AM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">Everyone here in phoenix arizonia sure is loves the cokies they did not want to make at  first with being 110 out. They remind of the cookies granma made when i was kid that miss now i can have them again . Thanks so much much.                                                                                                                                                                                                                                                                                                                                                                                                     sarah</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 20, 2006 at 12:00 AM, Molly (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Almonds?</span><br /></div>
+					<div class="commentbody">I've never been able to try peanut butter anything before because I'm allergic to peanuts. I absolutely love almond butter (just plain almonds ground into a paste) and thought maybe I could make almond butter cookies. I didn't know if it would work with almonds. I know you have a recipe for just almond cookies, but would this be different?</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 20, 2006 at 03:33 AM, GaryProtein said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">My mother used to make almond cookies often, less frequently now.  I don't know the recipe, but she used almond butter she bought in the health food store or she ground her own blanched almonds.  The cookies were great, better than with peanut butter as far as I am concerned.  She would press an almond into the top of the cookie before baking.  Off the top of my head, I would try to substitute almond butter directly in the peanut butter recipe.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On September 05, 2006 at 12:30 AM, Deanna (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Peanut Butter Cookies</span><br /></div>
+					<div class="commentbody">Thank you for the lovely recipe.  It's within my range of interest as I do like to be precise, and I want to understand why my cookies are turning out to be discs from hell.  I have a batch chilling in the fridge as I type this, and I am looking forward to viewing more of your site.  Again, thanks.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On September 07, 2006 at 04:43 AM, jennilam said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">I didn't have any brown sugar in the pantry, so instead I substituted a half cup of regular sugar mixed with two tablespoons of molasses. The peanut butter cookies turned out wonderfully. Yummers!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On September 27, 2006 at 08:25 PM, Chris Lee (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Very late message about the conversion between metric and US</span><br /></div>
+					<div class="commentbody">Being an Engineer myself, Married to a Physicist (yes its an interesting relationship with many interesting arguments), I was quite pleased to find this site today by pure accident while searching for another recipe.<br />
+<br />
+Of course when I saw this site on Google, I came here right away to check on it, and my Wife loved it so much as well, she is planning on posting it to all her physics friends tomorrow on her blog site.<br />
+<br />
+Anyway, Back to topic. Micheal, Thank you for a BRILLENT site. Everything from your explainations to the recipe summary cards is out of this world and if somebody cant understand it.. well I won't comment<br />
+<br />
+However with regards to the comments made some time ago (almost a year from me finding your site) I would like to let the person who made the comments about you using inches. Know that any engineer should know how to convert between imperial and metric systems. If any engineer around the world (and I use metric BTW where I live) doesn't know what an inch is.. they need to go back to varsity.. if not junior school</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On September 30, 2006 at 02:56 PM, allish said...</div>
+					<div class="commentsubject">Subject: <span>Press with a fork?</span><br /></div>
+					<div class="commentbody">This seems to be the site to ask this question...<br />
+<br />
+Why do we press peanut butter cookies with a fork before baking them?</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On October 18, 2006 at 01:55 AM, Katy (guest) said...</div>
+					<div class="commentsubject">Subject: <span>A Natural peanut butter without aflatoxin</span><br /></div>
+					<div class="commentbody">Just use Arrowhead Mills brand Organic peanut butter if you want to avoid the cancer-causing mold toxin found in peanuts, according to Dr. Mercola.  It does cost more, though.  But I imagine in the long run it is cheaper than chemotherapy.  I've found it in the Kroger health food section before (if you don't live near a health food store).  <br />
+    <br />
+According to Dr. Mercola's book <i>Total Health Program</i>, not only are aflatoxins a problem in peanut butter, but also peanuts have one of the highest pesticide residues of any crop.  He says that the natural brand "Arrowhead Mills", uses peanuts grown in New Mexico <div class='commentquote'>Quote:<div class='commentquotebody'>where aflatoxin has not been reported as a problem due to the dry conditions, and thier organic peanut butter is free of pesticides.</div></div>  He goes on to say  <div class='commentquote'>Quote:<div class='commentquotebody'>you can pour off the excess oil on the top to lower the omega-6 content and further improve the vitally important omega-3:6 ratio.</div></div>    <br />
+    But I might not pour off the oil if you'll be baking as this could alter the recipe.  Besides, we're making cookies here, not trying to get our daily dose of omegas!   <br />
+  Thanks for having such a great website!  <br />
+<br />
+   -Katy</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On October 30, 2006 at 07:30 AM, Enne (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Size of cookies</span><br /></div>
+					<div class="commentbody">I read with amusement the fuss you people made about the size of your cookies.  Does it matter if the cookies turn out 1 inch or 2 inches as long as it tastes good?<br />
+<br />
+And for the question on why you use a fork to press the cookie...I would say its just to flatten the cookies and make some patterns on it in the process.<br />
+<br />
+Lastly, I'm for weighing my ingredients in grams...I've always wonder how one measure butter in a cup.  Stuff it in? Cold? Hmmm...how accurate can that be?  Where I am, butter comes in sticks of 250 grams. :)</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 24, 2006 at 08:13 PM, babychica (guest) said...</div>
+					<div class="commentsubject">Subject: <span>not an engineer, but i love this site</span><br /></div>
+					<div class="commentbody">hey everybody out there in engineerland!<br />
+i love this site and the comments were hilarious.<br />
+im not an engineer, nor do i intend to become one, but i love to cook, always have. i have to say if you wrote a cookbook i would buy it in a nano-second, i know thats not physically possible, but look at the point, not the delivery. <br />
+dry and crunchy cookies? <br />
+how do you get your  family to stay away from them long enough for them to cool, let alone get hard?</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On January 07, 2007 at 11:06 PM, GuestChemist (guest) said...</div>
+					<div class="commentsubject">Subject: <span>trans fat</span><br /></div>
+					<div class="commentbody">I like the site very much.<br />
+One correction:  I am a chemist with extensive experience in fat and oils.<br />
+The statement:<br />
+"which as you remember from the Saturated Fats article cannot be trans fats since fully hydrogenated fats are chemically the same as saturated fats"<br />
+Is incorrect.  <br />
+When you hydrogenate any oil or fat, either partially or fully, about 2% trans isomers are formed.   (Nature makes only cis isomers)<br />
+If nature made the fully saturated fat it would not have any trans fat.<br />
+But when man fully hydrogenates an unsaturated fat to a saturated fat about 2% are trans isomers.<br />
+So read labels carefully!  If it says "hydrogenated" anywhere,  it has trans fat.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On January 28, 2007 at 11:00 AM, ying said...</div>
+					<div class="commentsubject">Subject: <span>Re: Press with a fork?</span><br /></div>
+					<div class="commentbody"><div class='commentquote'>allish wrote:<div class='commentquotebody'>This seems to be the site to ask this question...<br />
+<br />
+Why do we press peanut butter cookies with a fork before baking them?</div></div><br />
+<br />
+I've tried mine without using a fork to flatten the cookies and they turned out thick and soft. Personally I love crunchy cookies.<br />
+<br />
+Is there another purpose rather than to flatten it and just a pattern on the surface? Does it affect the texture?<br />
+ :unsure:</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On January 28, 2007 at 06:56 PM, Michael Chu said...</div>
+					<div class="commentsubject">Subject: <span>Re: Press with a fork?</span><br /></div>
+					<div class="commentbody"><div class='commentquote'>ying wrote:<div class='commentquotebody'>I've tried mine without using a fork to flatten the cookies and they turned out thick and soft. Personally I love crunchy cookies.<br />
+<br />
+Is there another purpose rather than to flatten it and just a pattern on the surface? Does it affect the texture?</div></div><br />
+The fork flattening is used mainly to produce the pattern (to preserve the long tradition of crosshatches on a peanut butter cookie). Does it affect the final texture? Minimally - the crosshatching themselves cook up a bit differently from the rest of the cookie and so have a texture difference, but that's a very small part of the cookie. It's mostly costmetic.<br />
+<br />
+These cookies are designed to be soft and chewy - if you like crispy/crunchy cookies, you can try to cook them longer - but chances are we'll need to modify the recipe a bit to get the desired consistency. Replacing the brwon sugar with granulated white sugar should be a good start.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On February 02, 2007 at 06:41 AM, ying said...</div>
+					<div class="commentsubject">Subject: <span>Re: Press with a fork?</span><br /></div>
+					<div class="commentbody"><div class='commentquote'>Michael Chu wrote:<div class='commentquotebody'><div class='commentquote'>ying wrote:<div class='commentquotebody'>I've tried mine without using a fork to flatten the cookies and they turned out thick and soft. Personally I love crunchy cookies.<br />
+<br />
+Is there another purpose rather than to flatten it and just a pattern on the surface? Does it affect the texture?</div></div><br />
+The fork flattening is used mainly to produce the pattern (to preserve the long tradition of crosshatches on a peanut butter cookie). Does it affect the final texture? Minimally - the crosshatching themselves cook up a bit differently from the rest of the cookie and so have a texture difference, but that's a very small part of the cookie. It's mostly costmetic.<br />
+<br />
+<br />
+These cookies are designed to be soft and chewy - if you like crispy/crunchy cookies, you can try to cook them longer - but chances are we'll need to modify the recipe a bit to get the desired consistency. Replacing the brwon sugar with granulated white sugar should be a good start.</div></div><br />
+<br />
+<br />
+Hi Michael,<br />
+<br />
+Thanks for the advice. I tried replacing the brown sugar entirely with white sugar but the cookies are still so soft that it will break easily if I press it harder. <br />
+<br />
+I followed everything in your recipe except for the sugars,(I used less sugar) and I also replace the egg with 10g of whole egg powder. I've heard that using egg powder rather than fresh eggs will make the cookies last longer. Is that true? How long can cookies using fresh eggs last?<br />
+Pls help.. Thanks in advance!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On February 18, 2007 at 08:12 PM, CAPT Bob (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Peanut butter</span><br /></div>
+					<div class="commentbody">I've made peanut butter for some time using cocktail peanuts (24 oz) in a blender.  Process as long as you want to get the consistancy you want - anything from chunky to super-smooth.  It is very superior to commercial peanut butter.<br />
+<br />
+Aflatoxins should not be a problem - most of the moldy peanuts are going to go to commercial peanut butter or animal feed.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On April 14, 2007 at 11:45 PM, maggie (guest) said...</div>
+					<div class="commentsubject">Subject: <span>substitute low fat peanut butter</span><br /></div>
+					<div class="commentbody">Hi.  Great cookies.  I'm stuck with a jar of low fat pb by Kraft  8| .  I'm afraid to substitute it in these great cookies but...  do you think it would work?  Any suggestions?</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On June 02, 2007 at 12:11 PM, SEETH said...</div>
+					<div class="commentsubject">Subject: <span>What's wrong with the dough I made?</span><br /></div>
+					<div class="commentbody">Thank you for your site. It is simply Excellent!<br />
+<br />
+I followed quite closely the steps. But the dough did not seem to have enough stickiness to gel together. This made it slightly difficult to form nicely into one-inch balls. Worst, when pressed with a fork, it cracks easily at the edge. Any clue what went wrong?</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On June 11, 2007 at 01:56 AM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">You can make the cookies the same size more easily if you buy the scoops in a shop. They look like small ice cream scoops, and work really well to make all the cookies the same size, and it's way easier to use.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On June 18, 2007 at 01:29 AM, Shannon (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Chocolate?</span><br /></div>
+					<div class="commentbody">Any way to incorporate some chocolate chips into this recipe...?  Or could you just press a chocolate kiss somewhere into the cookie?<br />
+<br />
+Sorry for the dumb question, but I've never made peanut butter cookies before... and I just love the peanut butter/chocolate combination!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On July 27, 2007 at 06:07 PM, shannon (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">I followed the recipe exactly (I'm in Europe-Belgium) and got a sandy, crumbly, dry and not too peanutty cookie.  Maybe it is the flour (as the Amsterdam person said).</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 13, 2007 at 09:24 PM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">would using margarine affect the texture of the cookies</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 14, 2007 at 04:35 AM, Michael Chu said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody"><div class='commentquote'>Anonymous wrote:<div class='commentquotebody'>would using margarine affect the texture of the cookies</div></div><br />
+It would probably affect taste more than texture. There will be some textural difference however. Generally, butter will create a more tender and crumbly cookie than margarine. Besides tasting better and producing a better texture, butter doesn't have any trans fats.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On September 02, 2007 at 08:40 PM, Modified mummy (guest) said...</div>
+					<div class="commentsubject">Subject: <span>I thank you!</span><br /></div>
+					<div class="commentbody">hello,<br />
+<br />
+I have never made peanut butter 'cookies' before this recipe. In fact, it was only whilst watching an america programme that the I realised such an idea was even possible! (I've a limited mind apparantly when it comes to baking).<br />
+<br />
+My second batch of dough is chilling right now, and I must say I was impressed with the first lot yesterday! (Indeed, already they've all gone and I must make more ;) )<br />
+<br />
+And I live in england, so thank you muchly for using grams in your measurments. the whole concept of 'cups' is beyond me, as it is not a way of measuring I have ever used before (or heard of, for that matter).<br />
+<br />
+Thank you again!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On September 03, 2007 at 02:07 AM, Cheryl (guest) said...</div>
+					<div class="commentsubject">Subject: <span>measurements</span><br /></div>
+					<div class="commentbody">Thank you for using the cup measurement as well as the gram.  I have never used or had recipes that measured by grams (until recently)  I have baked for many years and don't intend to learn a new measurement at this age.  Thanks again.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On September 10, 2007 at 04:52 PM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">You really upset me, I just used you're other recipe - which had no business being posted - and wasted all the ingredients, just to read the last sentence on the recipe- the cookies were bland and you didn't eat them!!!!!!!! All that wasted effort, I will never use another one of your recipes!!!!!!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On September 10, 2007 at 05:07 PM, Michael Chu said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody"><div class='commentquote'>Anonymous wrote:<div class='commentquotebody'>You really upset me, I just used you're other recipe - which had no business being posted - and wasted all the ingredients, just to read the last sentence on the recipe- the cookies were bland and you didn't eat them!!!!!!!! All that wasted effort, I will never use another one of your recipes!!!!!!</div></div><br />
+I'm sorry! Not all the test recipes work out well. The Recipe File is where I put all the recipes that I whole heartedly back. There are some hits and some misses in the Test Recipes section. I'll try to make it clear upfront in the future when a recipe didn't live up to my expectations. THIS peanut butter cookie recipe, on the other hand, is awesome.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On October 02, 2007 at 11:56 PM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">These are the best peanut butter cookies I've ever had (I did the soft and chewy version).  In fact, this is the best peanut butter cookie dough I've ever had... it didn't all get baked.  I stumbled across your site searching for 'peanut butter cookies' and I'm so glad I did -- bless you for including temperatures in C and catering to the left-brained cookie craver.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On October 04, 2007 at 08:43 PM, msalley (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">In response to "How on earth do you measure butter by the cup? Just stick it in..." - it's easy. On this side of the pond, the butter packet has a notation on the wrapper which reads "1 stick = half cup. 1/2 stick = 1/4 cup." and so on. It stems from the fact that the butter can easily, when soft (as when it is formed into the stick and then cooled to harden) be fitted into a tablespoon to measure. There are 16 tablespoons in one cup, so each stick of butter is worth eight tablespoons or 1/2 a cup. It's marked that way on the butter wrapper... there are even lines marked to cut along at every tablespoon.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On October 06, 2007 at 04:31 PM, Laura Newcomb (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Peanut Butter Cookies</span><br /></div>
+					<div class="commentbody">Dear Mr. Chu,<br />
+<br />
+I've been making cookies for years, I won't tell you how many! (Ok - probably something like 40 years.)  I now understand how to accomplish making soft and chewy cookies, and why the last batch of cookies (dough resting on warm countertop) is different from that first cool batch going into the oven.  I hope you are earning big bucks as a food science engineer!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On October 28, 2007 at 11:42 PM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">Thanks for the helpful site.  I've long wondered why I couldn't get my cookies as chewy as I wanted and now I understand why.  For anyone else interested in the science behind cookies of different consistencies, there is a great episode of Good Eats (Food Network show featuring Alton Brown) explaining what recipe changes do (the episode is centered around chocolate chip cookies, but the principles are applicable to any cookie).<br />
+<br />
+I think I would use a tiny bit less flour next time personally - and make the balls significantly larger than 1" (closer to 2") for the chewy version.  <br />
+<br />
+Thanks again for the great info!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 12, 2007 at 12:59 AM, Cole Christensen (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Warning!</span><br /></div>
+					<div class="commentbody">Don't over-mix! I made these earlier today mixing the batter in a food processor.  I left it running while cleaning up a bit and unfortunately what I assume to be the oil from the peanut butter separated out of the mixture as it heated from the intense stirring.  A quick trip to the freezer and another few seconds of mixing reintegrated most of the oil.  A little bit oozed out during baking but the cookies still turned out okay (my roommate was happy with them) so no big loss.  They turned out tasting a bit too much like peanuts (peanut oil in particular) for my taste but maybe this is because of the overmixing.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 01, 2007 at 12:16 AM, an anonymous reader said...</div>
+					<div class="commentsubject">Subject: <span>Change to recipe card</span><br /></div>
+					<div class="commentbody">Shouldn't you add the "refrigerate for an hour" to the recipe card.  If I was going off of just the card, I would miss this important step for either (crispy or soft) type of cookie.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 03, 2007 at 08:01 AM, Michael Chu said...</div>
+					<div class="commentsubject">Subject: <span>Re: Change to recipe card</span><br /></div>
+					<div class="commentbody"><div class='commentquote'>Anonymous wrote:<div class='commentquotebody'>Shouldn't you add the "refrigerate for an hour" to the recipe card.  If I was going off of just the card, I would miss this important step for either (crispy or soft) type of cookie.</div></div><br />
+Thanks - fixed that on the recipe card.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 04, 2007 at 08:36 PM, Cookie Monster (guest) said...</div>
+					<div class="commentsubject">Subject: <span>mmmm Cookies</span><br /></div>
+					<div class="commentbody"><font color='blue'></font> Me LOVE these cookies.... Me made crunchy Me made soft. All good cookies yes. Me no more want to be a fruit monster or broccoli monster. MMMMM Cookies....Ohhhh Cookie Cookie Cookie starts with C !!<br />
+xo CM</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On January 16, 2008 at 02:44 AM, tahrey (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">mm.... wow. seriously going to be making some of these tomorrow. just got a new electric whisking device, needs to be broken in on something non-critical. and there's that big jar of peanut butter that will probably just go bad if it's not used up :)</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On February 03, 2008 at 04:34 AM, ab01 (guest) said...</div>
+					<div class="commentsubject">Subject: <span>metrics</span><br /></div>
+					<div class="commentbody">I learned to cook using imperial measurements-- ounces, cups, etc.  When I graduated to making breads, I found that it was easier to weigh rather than measure the ingredients.  Simply put the mixing bowl on the scale, zero it, add the ingredients (zero between each addition).  No dirty measuring cups, just the one bowl.   Electronic scales are not that expensive, and they certainly lessen the work load, as well as improve the result.  The scales have a button that will allow me to switch between metric and imperial.  I have found that using metrics works much better than imperial, and I'm gradually adding metrics to my recipes.  I really appreciate recipes such as yours that include both.  By the way, the cookies are great.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On February 09, 2008 at 04:19 AM, tangela (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">I made half a batch of these with all white sugar and a teaspoon of molasses. They were delicious. Using the crispy cookie method produced crisp edges and a slightly chewy center. I'll probably make them again with no molasses, since I LOVE cookies with "a light crispiness that melts in your mouth." [Nice description! I couldn't find an adequate way to describe it before &gt;__&gt;]<br />
+<br />
+My cookie attempts are usually denser. I avoid recipes that call for creaming butter since I don't have a mixer and am too much of a wimp to try doing it by hand. [Although that may change in the near future. The wimp part, I mean.] I think mixing the peanut butter and butter and then adding sugar replicated the airy texture produced by normal creaming. Neat. :]<br />
+<br />
+Thanks for the great recipe!<br />
+<br />
+[Random afterthought: I noticed your Chinese Almond Cookies test recipe. Have you ever thought of trying to make those yellow muffin-things eaten during Lunar New Year? They look all exploded at the top and are steamed rather than baked. The commonly accepted Anglicized name is huat kueh or kuih, I think. I would use an already existing recipe, but all the measurements are in imperial units.]</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On February 23, 2008 at 01:50 AM, @_@ (guest) said...</div>
+					<div class="commentsubject">Subject: <span>&quot;Yellow 'Muffin-Things' Eaten During Lunar New Years&qu</span><br /></div>
+					<div class="commentbody">Are you referring to those mini muffins steamed in small teacups, also known as Prosperity Cakes? In addition, even more off topic are those Moon Cakes, which usually are usually filled with a lotus paste(yum), and sometimes with an egg yolk(yuck &gt;.&lt;) in the middle?</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On March 24, 2008 at 07:03 AM, noahzark (guest) said...</div>
+					<div class="commentsubject">Subject: <span>peanut butter cookies</span><br /></div>
+					<div class="commentbody">My favorite site on he web. Michael really knows how to "Chu" his food.<br />
+I made a single batch and they were excellent&gt; This was my first attempt ever to make any type of cookie. Yesterday I made a second batch, doubling all ingredientsnand folded in three generous handfuls of chocolate chips. I use an icecream type, spring loaded scoop of about <br />
+1 1/2'  diameter. I wet the fork in water and press down just a tiny bit to spread batter. refrigeratd for 15  mn. Baked at 300f for 15 min . results in soft chewy 3" dia cookies. My sons loved them. didn't count but yeild of double batch about 4 dozen.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On April 06, 2008 at 03:55 AM, jadedraven (guest) said...</div>
+					<div class="commentsubject">Subject: <span>awesome</span><br /></div>
+					<div class="commentbody">This is such a good recipe...i was bored and looking to make something with ingredients i had in the house already, and i happen to have organic cashew butter...so i used that and margarine instead of butter, added a sprinkle of cinnamon, and i put a whole cashew on top before baking...they turned out really really well, and i will definately use this recipe again, maybe try almond butter next time and see if they taste just as good.  I am always concerned about making peanut butter cookies because i only use organic stuff, and it has a much different consistancy than the jiffy kind, but there was no issue at all, they baked up just like normal, they were quite greasy when i was rolling the balls, but i chilled them for 15 mins (like the directions say) and they were fine</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On April 27, 2008 at 12:25 AM, an anonymous reader said...</div>
+					<div class="commentsubject">Subject: <span>baking soda</span><br /></div>
+					<div class="commentbody">do i realy need to use the baking soda for these cookies<br />
+what happens if i dont</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On April 27, 2008 at 11:55 AM, Dilbert said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">baking soda is the leavening - it is required - without you'll have very dense very flat cookies.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On June 26, 2008 at 11:13 PM, ciganka (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Baking soda vs Baking powder</span><br /></div>
+					<div class="commentbody">:huh:   Checking out several peanut butter cookie receipies, I find them to be similar, but some say baking powder &amp; others say baking powder.  Which should I use?   Thanks</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On June 27, 2008 at 03:49 AM, ciganka (guest) said...</div>
+					<div class="commentsubject">Subject: <span>soda vs powder</span><br /></div>
+					<div class="commentbody">:(   Made a typing error in my first note.  Is it baking soda or baking powder that is preferred?</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On June 27, 2008 at 06:41 AM, Michael Chu said...</div>
+					<div class="commentsubject">Subject: <span>Re: soda vs powder</span><br /></div>
+					<div class="commentbody"><div class='commentquote'>ciganka wrote:<div class='commentquotebody'>Is it baking soda or baking powder that is preferred?</div></div><br />
+It's not a matter of preference - for a particular recipe there is a certain amount of baking soda that can be used (depending on the acidity of the final mix of ingredients). If there isn't enough acidity, then only a little (or no) baking soda can be added to the recipe and more leavening agent is needed. In that case you add baking powder (which is both acid and base) to provide the additional leavening.<br />
+<br />
+Most recipes call for a certain amount of baking soda and baking powder and these shouldn't be changed without careful experimentation (take notes so you see what change did what to the rising of the batter and how it tastes - too much baking soda can taste metallic/alkaline and too much baking powder can also contribute to an off taste).</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On June 28, 2008 at 12:03 PM, PeggyC (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Flours</span><br /></div>
+					<div class="commentbody">I'd love to try these but I only have self-raising flour at the moment - would I simply leave out the baking powder/soda from the recipe as an adequate substitute?<br />
+<br />
+The recipe looks lovely and I'm grateful for the knowledge on the effects of refrigeration on cookies - I'll be refrigerating these for soft and chewy cookies.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On June 28, 2008 at 12:09 PM, Dilbert said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">self-rising flour has about 1.25 teaspoon baking powder per cup - you can adjust any additional baking powder from there but do not omit the baking soda.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On July 31, 2008 at 06:20 PM, Pazu (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">I made a batch tonight but forgot to add the soda! The texture became similar to a sable. I imagine these would be crisp if i added the soda... o well!<br />
+Just a question about the baking time. Surely if one wants a crisper cookie one should bake at a lower temperature for longer to let the heat flatten out the dough before it finally sets? I would imagine baking at a higher temperature for shorter would mean that the outside is cooked while the middle remains moist. Kindly let us know whether this is unfounded pls...<br />
+Many thanks!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 12, 2008 at 06:05 PM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">I have a question about peanut butter cookies more generally: I had a peanut butter cookie that was oversized, quite thin but very soft and chewy.  they were used as sandwich cookies with a jam filling.  they were so soft that if I had held a single cookie on its edge, it would have folded on itself. Do you know of any techniques aside from not overcooking at a low temperature that would help create a cookie like this?  I know that using brown sugar is probably a better idea.  I was thinking of experimenting with molassas.  What i do not want is a peanut butter cookie that is crumbly in any way.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 12, 2008 at 08:32 PM, IcedNyior (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">I just made this and they taste great! You can really taste all the peanut butter goodness. I used chunky peanut butter so it has bits of nuts inside. One complaint tho, its a bit too sweet! Will reduce the sugar the next time i make it :)<br />
+<br />
+Great recipe nonetheless!<br />
+<br />
+~IcedNyior<br />
+http://me.zestful.org<br />
+http://eats.zestful.org</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 13, 2008 at 10:44 AM, sandra (guest) said...</div>
+					<div class="commentsubject">Subject: <span>awesome</span><br /></div>
+					<div class="commentbody">hey...just bumped in2 ure site n just love it..made pancakes...n they came out perfect...keep up d good work!!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 18, 2008 at 06:01 AM, Sheryl (guest) said...</div>
+					<div class="commentsubject">Subject: <span>PB Cookies</span><br /></div>
+					<div class="commentbody">Very good cookies.  My 9 year old is very picky and loves them.  I've never been able to make a good peanut butter cookie.  I followed the recipe card and just skimmed through the directions so it was very easy to follow.  I will try other recipes from this site.  As far as The Imperial measuring system;  Yes it is easier and more accurate to use metric, but the US has been using this system for a long time and it works for us.  Until we change over (maybe never) I will continue using cups.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On September 05, 2008 at 03:41 PM, Dee_S said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">We made 2 batches, one with the original recipe and one with just the brown sugar for those without a sweet tooth. Both turned out yummy. We also used a perforated tray on the less sweet batch which turned out rather crispy delicious :)</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On October 23, 2008 at 11:17 PM, Betsy (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Try dark brown sugar</span><br /></div>
+					<div class="commentbody">Try using daark brown sugar. It should result in a cookie that spreads well and is nice and chewy. Not sure of the science, but maybe it has a higher moisture content than the light brown sugar, but not so much liquid as if you substituted molasses?</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 29, 2008 at 05:46 AM, kevco53 (guest) said...</div>
+					<div class="commentsubject">Subject: <span>just like Mom's</span><br /></div>
+					<div class="commentbody">Wow, this looks like Mom's old recipe from when I was a kid 50 years ago. Can't wait to make a batch. Thanks!!!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 03, 2008 at 11:19 PM, an anonymous reader said...</div>
+					<div class="commentsubject">Subject: <span>cut-outs?</span><br /></div>
+					<div class="commentbody">I have a cookie cutter I want to use with this recipe. Is it okay to roll out the dough, or will it ruin the cookies somehow? Any input would be a big help.<br />
+<br />
+Thanks!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 04, 2008 at 02:10 PM, Dilbert said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">technically you could roll it out (no too thin, tho) and cookie cutter it<br />
+<br />
+but I suspect you may be disappointed in the results<br />
+because<br />
+the dough by ingredients and design is intended to "spread" when it gets hot.  that's the make a ball and press it with a fork approach.<br />
+<br />
+even if rolled, the dough will spread (hence the not too thin part) and may lose the shape you intended with the cookie cutter.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 05, 2008 at 07:29 PM, KennethR (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Peanut Butter Cookies</span><br /></div>
+					<div class="commentbody">Instructions, amounts and ease contributed to my first attempt at making cookies.  They came out great and I will certainly make again. Thanks!!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 15, 2008 at 06:36 PM, chacha_booboo (guest) said...</div>
+					<div class="commentsubject">Subject: <span>great recipe!</span><br /></div>
+					<div class="commentbody">After scouring the depths of the internet over several days I took a chance on looking at this site-and am I glad!!!<br />
+<br />
+Peanut butter is more a US than UK thing, so living in England no one seems to have a great recipe for these cookies. I looked on several english sites-but didnt like the sound of the dough, and looked on several US sites-but measurements were in cups!<br />
+Your site not only has a great peanut butter cookie dough recipe that is easy to follow, but it breaks it all down at the end and offers the measurements in grams!!! (I love chewy cookies, but had no idea about the chilling thing, and none of the other sites mentioned this, so thank you!!<br />
+Thank you so much! I am in the process of baking my 1st batch, and can't wait to try them out  :D</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 19, 2008 at 03:17 AM, an anonymous reader said...</div>
+					<div class="commentsubject">Subject: <span>Peanut Butter and Jelly Cookies</span><br /></div>
+					<div class="commentbody">What you don't want to do with the dough for these cookies is to:  After rolling the dough into a ball, make a small, deep indentation in the top; fill the indentation with jelly, then bake as usual.<br />
+<br />
+This way of baking the cookies is definitely addictive.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On January 14, 2009 at 12:06 AM, Recipe Mashups (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Made Your Peanut Butter Cookies</span><br /></div>
+					<div class="commentbody">I baked this recipe today and the cookies are fantastic.  Exactly what I was looking for.  And you totally saved me from wasting all afternoon on the Joy of Cooking recipe.  Many thanks, you have a new fan.  Here's a link to my blog post about your peanut butter cookies:  http://www.recipemashups.com/?p=2140 .  Cheers!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On March 14, 2009 at 04:31 PM, stazee (guest) said...</div>
+					<div class="commentsubject">Subject: <span>inches</span><br /></div>
+					<div class="commentbody">lovely recipe, can't wait to try it!<br />
+<br />
+and oboeman you're a jerk! using inches as a measurement is not a big deal, you obviously have nothing better to do with your time yeah?</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On April 11, 2009 at 07:00 AM, Jellynail (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Homemade peanut butter</span><br /></div>
+					<div class="commentbody">Great recipe!  For non-US readers and health food buffs, it's worth emphasizing how shockingly simple it is to make your own peanut butter from scratch, provided you have at least a mini food processor.  You just process the peanuts with a (surprisingly) small amount of vegetable oil--you only need enough to get things sliding around nicely while you mix.  You can make it chunky or smooth by simply mixing less or more.  Add salt to taste; if you are using salted peanuts, you will instead probably want to rinse the salt off some of the peanuts first.  It has no shelf-life, unlike processed store-bought peanut butters, but since it tastes wonderful and is so quick and easy to whip up when needed, this shouldn't pose much of a problem.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On April 12, 2009 at 05:07 AM, islander (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">Looking for a chewy peanut butter cookie recipe is what lead me to this site a few days ago. I am now ready to give the recipe a shot. Now I have read a few other recipes (like 30) and know that this one bakery that made killer chocolate chewy cookies only used egg whites so I am omitting the yolk and think I might make my own peanut butter as mabey that what also gives the 'sandy' texture and am contemplating a 1 Tbsp of corn syrup. What do you guys think? The low heat sounds great and I knew about chilling. So here goes!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On October 28, 2009 at 07:36 AM, sugarbabe (guest) said...</div>
+					<div class="commentsubject">Subject: <span>peanutbutter cookies</span><br /></div>
+					<div class="commentbody">I just came across your receipe.  I'm going to try and make a batch.  When I was in High School, many years ago, we made these cookies in home economic class.  We made the plain kind and then we another batch and added hersheys cocoa powder.  I can not remember how much.  Do you have any suggestions? <br />
+ :D</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On October 28, 2009 at 04:21 PM, drshoey (guest) said...</div>
+					<div class="commentsubject">Subject: <span>peanutbutter cookies</span><br /></div>
+					<div class="commentbody">best recipe 1 cup peanutbutter   1cup sugar  1egg  mix and bake[/b]</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On October 28, 2009 at 05:51 PM, Dilbert said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">&gt;&gt;hersheys cocoa powder. I can not remember how much. <br />
+<br />
+try 1 tablespoon coca per cup of flour.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 20, 2009 at 12:24 AM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">I'm making this cookies now.  They have been really simple so far, and I can't wait to try one.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On January 09, 2010 at 06:57 PM, Janine (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Peanut butter cookies worked great</span><br /></div>
+					<div class="commentbody">You might be surprised to find your peanut butter recipe has made it all the way to Uganda in Africa now; I am a missionary here and cooked your cookies from this site and they worked wonderfully. I baked them in a wood-fired outdoor oven  made from mud and bricks,  at about a medium heat.  I had to substitute the sugar (here I have what you would call "raw sugar") and used margarine instead of butter. Despite these variations the cookies worked great so you obviously have a very solid recipe.  Thanks for the wonderful directions and logical layout. I also love the graphical arrangement of the instructions for the recipe cards and your excellent photographs. I look forward to trying other foods from this webstie. Well done!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On March 12, 2010 at 11:31 PM, an anonymous reader said...</div>
+					<div class="commentsubject">Subject: <span>IM in LOVE</span><br /></div>
+					<div class="commentbody">Im in looove these are the best i've ever had and come on people "the size" ??really?? Forget the size i'll eat them even if they look like turds! thank you soooo much my family loves me thanks to you!! YOu have a fan in San Antonio, Texas  :)</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On May 06, 2010 at 10:31 AM, jim-p (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Peanut Butter Cookies</span><br /></div>
+					<div class="commentbody">I've been making soft gingernut biscuits (cookies) for years, and I imagine that I would need to use the same practices as those that I follow for making soft peanut butter cookies.<br />
+I add flour to the mix gradually until it is soft but does not stick to the fingers when putting  lumps of it onto the baking tray. Too much flour and the biscuits turn out dry and hard.<br />
+Making balls is too fussy for me - I just put lumps (which would be about 1 inch diameter if I made them into balls) onto the tray, and don't even bother flattening them - they flatten naturally in the oven. <br />
+All ovens are not the same! Times and temperatures given in recipes should be used as starting points, and varied to get the desired results. If the oven is too hot, the mixture (for my gingernuts) flows and cooks into a "fried egg" type puddle.<br />
+I find that cooking at a low temperature (about 150 deg C, the gingernuts do not brown unless I turn the oven to "Grill" and get some top radiant heating onto them.<br />
+<br />
+Here in New Zealand, our butter comes in 500 gram packs with the wrapper marked in 50 gram divisions. the concept of cups of butter is strange to me.<br />
+<br />
+Regards,<br />
+<br />
+Jim.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On June 23, 2010 at 12:05 AM, Cookiecrazed (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">This is an amazing recipe! Best peanut butter coookies I've ever had! Perfectly soft and chewy . YUM!!!!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 28, 2010 at 01:35 PM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">Tried this recipe with two small changes.  I added in about 40g each of chips and dried cranberries, then reduce the sugars by 20g each to compensate.  I measured sugar and flour out on a scale.  had some issues with my brown sugar because it was in clumps and wasnt mixing well so that too a while.  Anyways, I formed 1.1in balls but ended up with 37 of them.  Not sure what happened, maybe my scale is bad, or my ruler.  still came out good.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On February 27, 2011 at 06:19 PM, matthew (guest) said...</div>
+					<div class="commentsubject">Subject: <span>a little dry</span><br /></div>
+					<div class="commentbody">I am new to cooking and baking. My cookies came out a little dry.<br />
+When I pushed the dough ball flat with a fork, it broke up into several peaces. I was able to push them back together and it remained one peace, but in general I feel like it was a little dry. After baking, I felt the same way. It was definitely sugary and ~soft, but it was almost too soft with no cohesiveness - the cookie easily fell apart.<br />
+<br />
+Given these properties, what do you think i may have added a little too much of or too little of or done wrong? Anyone got any ideas?</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On February 28, 2011 at 09:27 AM, Michael Chu said...</div>
+					<div class="commentsubject">Subject: <span>Re: a little dry</span><br /></div>
+					<div class="commentbody"><div class='commentquote'>matthew wrote:<div class='commentquotebody'>When I pushed the dough ball flat with a fork, it broke up into several peaces. I was able to push them back together and it remained one peace, but in general I feel like it was a little dry. After baking, I felt the same way. It was definitely sugary and ~soft, but it was almost too soft with no cohesiveness - the cookie easily fell apart.</div></div><br />
+What brand (and type) of peanut butter did you use? I like to use Jif. I haven't tried it, but some other brands seem "drier" (less fat) which would result in a crumblier dough.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On June 25, 2011 at 04:20 PM, Athena (guest) said...</div>
+					<div class="commentsubject">Subject: <span>The perfect peanut butter cookie</span><br /></div>
+					<div class="commentbody">I have been using this peanut butter cookie recipe for years. The only difference is I add a 1/2 tsp vanilla but otherwise its spot on. I have tried it with creamy and crunchy, cashew butter, almond butter..  They're everyone's favorite - from peanut butter lovers to people who don't normally like peanut butter.<br />
+<br />
+I also enjoy making pb&amp;j sandwiches out of them.<br />
+<br />
+Best,<br />
+<br />
+Athena the Systems Ecologist &amp; Biologist.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On June 28, 2011 at 07:22 AM, Fawnet (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Best recipe for peanut butter cookies, hands down.</span><br /></div>
+					<div class="commentbody">I've had this recipe in my arsenal for about two years now, and everyone thinks the cookies are unusually good. A friend who doesn't notice food much at all, still stopped eating to comment that they were "awesome". <br />
+<br />
+As a side note, I made a batch tonight and forgot to put the eggs in; I couldn't figure out, at first, why the first tray kept breaking so easily. I corrected it and mixed the eggs into the remainder of the dough, but you know, I liked that first trayful and may do it on purpose sometime. They were like a pecan sandy, only with a rich peanut flavor. They broke like crazy, but I think you could get around that just by making the cookies smaller.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On January 18, 2012 at 08:55 PM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">This is nearly identical to my Grandfather's recipe. He was the cookie baker in our family and the peanut butter was one of his two favorites. I have his recipe cards--now old, brittle, yellowed and decorated with lots of spills. Thanks to you for revealing the method behind his repeated edits lowering the temperature. We never knew why he edited the recipe in that direction--LOL--we just knew they were good. Gpa was an accountant, but his 2 sons were both engineers. RIP Gpa (1900-1987).B</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 19, 2012 at 01:08 AM, Mister_Rob (guest) said...</div>
+					<div class="commentsubject">Subject: <span>I'm really impressed!</span><br /></div>
+					<div class="commentbody">This is such a simple, direct recipe and the cookies turned out great! I used chunky peanut butter for an extra layer of crunchy dimension and followed your advice on cooking without refrigerating for a light crispy texture. I like my cookies sweet, so this was perfect!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On March 13, 2013 at 07:47 PM, mimi (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Peanut butter cookies</span><br /></div>
+					<div class="commentbody">Skippy? No thanks. Try Laura Scudder's Old Fashioned Peanut Butter. I prefer the "smooth" for cookies. Yes, you need to stir up the Scudder's because the oil separates, but that's what oil DOES under normal circumstances. Just mix the oil in when you first open the jar, then refrigerate the peanut butter and the oil will not separate again. My never-fail recipe from a 1937 cookbook calls for: 1/2 c. shortening, 1/3 c. peanut butter, 1/2 cup brown sugar, 1/2 cup white sugar, 1 egg, 1 1/2 cups white flour, 1 t. soda, 1/2 t. salt, 1/2 t. vanilla. Mix it all together, roll the dough into 1" dia. balls, then flatten with a fork. Bake at 350°F for 10-12 min. The opinions of hundreds of people are, "These are GOOD."  (Of course everybody used Crisco for the "shortening" until we learned that Crisco was a no-no; you can use butter. Oil? Not too good. The texture is different. Honestly? Crisco works best.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 27, 2013 at 09:45 PM, CookieLover (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Crispy but chewy?</span><br /></div>
+					<div class="commentbody">Hi there.<br />
+<br />
+I love your site especially the little charts at the end!<br />
+I saw this recipe and wanted to know if there's a way to make a hard and crispy cookie but with a interior chew.  I remember having some like this in lemon or peanut butter with a when I was in elementary school that came with our school lunch. They were really large and had a cracked appearance on the top.<br />
+All the recipes I've tried are either soft and chewy or hard and crispy.  <br />
+<br />
+Thanks in advance!<br />
+<br />
+CookieLover</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 04, 2013 at 02:42 PM, henrybrice (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Making your own peanut butter</span><br /></div>
+					<div class="commentbody">For those cho can't get peanut butter, you can make your own without too much trouble, especially if you don't mind slightly chunky peanut butter...<br />
+Either put salted roast peanuts through a meat grinder (this can even be done twice, to get it smoother), or blend them thoroughly for 2-3 minutes in a good blender, maybe a little longer if you want it really smooth. If you like sweetened peanut butter, you can add sugar, molasses or honey to taste. If it is too dry you can add a tbsp of oil (ground nut is best, canola or soya will also work) The peanut butter doesn't last as well as the commercial stuff (you should finish it in a week or two, or it will taste stale), but is delicious!</div>
+					<hr size="1" noshade />
+				
+		<div class="commentlink">
+			<a href="/forums/posting.php?mode=reply&t=132" title="Comments are managed in the Cooking For Engineers Forums">Post a comment on <i>Peanut Butter Cookies</i></a>
+		</div>
+	</div>
+	
+</div>
+	
+  
+	<div class="spacer3"></div>
+	
+<!-- Google DFP Article_Footer_728x90-->
+<center>
+<div id='dfp_gpt_4' style='width:728px; height:90px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('dfp_gpt_4'); });
+</script>
+</div>
+</center>
+
+	<div class="spacer3"></div>
+
+
+		</div>
+		
+		
+			
+<table class="fl_table" cellspacing="2" cellpadding="0" border="0">
+	<tr>
+		<td width="16%">
+			<a href="/article/138/About-Cooking-For-Engineers" title="About Cooking For Engineers">About CfE</a>
+		</td>
+		<td width="17%">
+			<a href="/article/139/Contact-Cooking-For-Engineers" title="Contact Cooking For Engineers">Contact</a>
+		</td>
+		<td width="17%">
+			<a href="/article/190/User-Agreement" title="User Agreement">User Agreement</a>
+		</td>
+		<td width="16%">
+			<a href="/article/140/Frequently-Asked-Questions" title="Frequently Asked Questions">FAQ's</a>
+		</td>
+		<td width="17%">
+			<a href="/article/141/In-the-Press" title="Cooking For Engineers in the Press">In the Press</a>
+		</td>
+		<td width="17%">
+			<a href="/article/191/Article-Submission-Program" title="Article Submission Program">Write for CfE</a>
+		</td>
+	</tr>
+</table>
+			
+		
+		<div id="footer">
+	
+  <center><span style="font-size: 85%; line-height: 110%;">All content published by CFE Enterprises, Inc. under license with copyright holders<br>Tabular Recipe Notation Patent Pending (Michael Chu)</span></center>
+
+	<center><a href="/atom.xml">Syndicate</a> <a href="/atom.xml"><img src="/pics/xml.gif" alt="(XML)" style="vertical-align: middle;" border="0" /></a></center>
+
+	
+
+	
+
+	
+	
+	  <!-- Google Analytics -->
+	<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+	</script>
+	<script type="text/javascript">
+	_uacct = "UA-254248-1";
+	urchinTracker();
+	</script>
+
+		
+	<script type="text/javascript">stLight.options({publisher: "b3ed4fb7-bc1d-41a0-b780-15d3cf6b7561"});</script>
+<script>
+var options={ "publisher": "b3ed4fb7-bc1d-41a0-b780-15d3cf6b7561", "position": "left", "ad": { "visible": false, "openDelay": 5, "closeDelay": 0}, "chicklets": { "items": ["facebook", "pinterest", "twitter", "googleplus", "stumbleupon", "email"]}};
+var st_hover_widget = new sharethis.widgets.hoverbuttons(options);
+</script>
+ </div>
+		
+	</body>
+</html>

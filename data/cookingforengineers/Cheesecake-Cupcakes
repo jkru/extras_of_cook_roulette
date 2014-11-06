@@ -1,0 +1,1238 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+	<head>
+		<title>Cheesecake Cupcakes - Recipe File - Cooking For Engineers</title>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="description" content="Step by step recipe instructions for cheesecake cupcakes complete with photographs and reader comments and discussion" />
+		<meta name="keywords" content="cooking,recipes,techniques,photos,discussion,cheesecake cupcakes" />
+		
+		
+		<link href="/stylesheets/style.css?1381092548" media="screen" rel="Stylesheet" type="text/css" /><link href="/stylesheets/frontpage.css?1204359954" media="screen" rel="Stylesheet" type="text/css" />
+		
+		
+		
+		<script src="/javascripts/prototype.js?1204375576" type="text/javascript"></script><script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript" src="http://s.sharethis.com/loader.js"></script>
+
+		
+<script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + 
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
+
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+
+googletag.defineSlot('/1057967/Article_160x600', [160, 600], 'dfp_gpt_1').addService(googletag.pubads());
+
+googletag.defineSlot('/1057967/Article_300x250', [300, 250], 'dfp_gpt_2').addService(googletag.pubads());
+
+googletag.defineSlot('/1057967/Article_728x90', [728, 90], 'dfp_gpt_3').addService(googletag.pubads());
+
+googletag.defineSlot('/1057967/Article_Footer_728x90', [728, 90], 'dfp_gpt_4').addService(googletag.pubads());
+
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+});
+</script>
+
+		<link href="http://www.cookingforengineers.com/atom.xml" rel="alternate" title="Atom 1.0 Feed" type="application/atom+xml" />
+		
+		<link rel="shortcut icon" href="http://www.cookingforengineers.com/favicon.ico" />
+	</head>
+	<body>
+		
+		
+		
+			<div class="navbar">
+	<div style="float:left">
+		<div class="sitetitle"><a href="/">Cooking For Engineers<span class="trademark">&reg;</span></a></div>
+		<div class="subtitle">Have an analytical mind? Like to cook? This is the site to read!</div>
+	</div>
+	<div style="float:right; margin: 15px 8px 0 0">
+		<form method="get" action="/searchform" style="margin: 0pt; display: inline;">
+		  <input style="margin: 0pt 0pt 2px; font-size: 90%;" name="terms" size="25" maxlength="255" value="" type="text">
+		  <input style="margin: 0pt 0pt 2px; font-size: 90%;" name="search" value="Search" type="submit">
+	  </form>
+	  <br>
+	  <!-- Google Search -->
+	  <form target="_blank" action="http://www.google.com/search" style="margin: 0pt; display: inline;">
+		  <input style="font-size: 90%;" size="24" maxlength="255" value="half cup in milliliters" name="q" type="text">
+		  <input style="font-size: 90%;" name="sa" value="Convert" type="submit">
+		</form>
+	</div>	
+	<div class="clear"></div>
+	<table class="nav" cellpadding="0" cellspacing="1">
+		<tr><td width="11%" id="categorytd_Books"><a href="#" onClick="showcat('Books');return false">Books</a></td>
+			<td width="11%" id="categorytd_CookingTests"><a href="#" onClick="showcat('CookingTests');return false">Cooking&nbsp;Tests</a></td>
+			<td width="11%" id="categorytd_DiningOut"><a href="#" onClick="showcat('DiningOut');return false">Dining&nbsp;Out</a></td>
+			<td width="11%" id="categorytd_EquipmentGear"><a href="#" onClick="showcat('EquipmentGear');return false">Equipment&nbsp;&amp;&nbsp;Gear</a></td>
+			<td width="11%" id="categorytd_KitchenNotes"><a href="#" onClick="showcat('KitchenNotes');return false">Kitchen&nbsp;Notes</a></td>
+			<td width="11%" id="categorytd_OffTopic"><a href="#" onClick="showcat('OffTopic');return false">Off&nbsp;Topic</a></td>
+			<td width="11%" id="categorytd_RecipeFile"><a href="#" onClick="showcat('RecipeFile');return false">Recipe&nbsp;File</a></td>
+			<td width="11%" id="categorytd_SousVide"><a href="#" onClick="showcat('SousVide');return false">Sous&nbsp;Vide</a></td>
+			<td width="12%" id="categorytd_TestRecipes"><a href="#" onClick="showcat('TestRecipes');return false">Test&nbsp;Recipes</a></td>
+			</tr>
+	</table>
+	<script type="text/javascript">
+//<![CDATA[
+
+	function lb(id)
+	{
+		document.getElementById(id).style.border='1px solid #FFFF00';
+	}
+	function db(id)
+	{
+		document.getElementById(id).style.border='1px solid #99FF99';
+	}
+	function showcat(id)
+	{
+		var curdisplay = document.getElementById('navcat_'+id).style.display;
+		document.getElementById('navcat_Books').style.display='none';
+document.getElementById('navcat_CookingTests').style.display='none';
+document.getElementById('navcat_DiningOut').style.display='none';
+document.getElementById('navcat_EquipmentGear').style.display='none';
+document.getElementById('navcat_KitchenNotes').style.display='none';
+document.getElementById('navcat_OffTopic').style.display='none';
+document.getElementById('navcat_RecipeFile').style.display='none';
+document.getElementById('navcat_SousVide').style.display='none';
+document.getElementById('navcat_TestRecipes').style.display='none';
+
+		document.getElementById('categorytd_Books').style.border='1px solid #99FF99';
+document.getElementById('categorytd_Books').style.backgroundColor='transparent';
+document.getElementById('categorytd_CookingTests').style.border='1px solid #99FF99';
+document.getElementById('categorytd_CookingTests').style.backgroundColor='transparent';
+document.getElementById('categorytd_DiningOut').style.border='1px solid #99FF99';
+document.getElementById('categorytd_DiningOut').style.backgroundColor='transparent';
+document.getElementById('categorytd_EquipmentGear').style.border='1px solid #99FF99';
+document.getElementById('categorytd_EquipmentGear').style.backgroundColor='transparent';
+document.getElementById('categorytd_KitchenNotes').style.border='1px solid #99FF99';
+document.getElementById('categorytd_KitchenNotes').style.backgroundColor='transparent';
+document.getElementById('categorytd_OffTopic').style.border='1px solid #99FF99';
+document.getElementById('categorytd_OffTopic').style.backgroundColor='transparent';
+document.getElementById('categorytd_RecipeFile').style.border='1px solid #99FF99';
+document.getElementById('categorytd_RecipeFile').style.backgroundColor='transparent';
+document.getElementById('categorytd_SousVide').style.border='1px solid #99FF99';
+document.getElementById('categorytd_SousVide').style.backgroundColor='transparent';
+document.getElementById('categorytd_TestRecipes').style.border='1px solid #99FF99';
+document.getElementById('categorytd_TestRecipes').style.backgroundColor='transparent';
+
+		if (curdisplay != 'block')
+		{
+			document.getElementById('categorytd_'+id).style.border='1px solid #9999FF';
+			document.getElementById('categorytd_'+id).style.backgroundColor='#000060';
+			document.getElementById('navcat_'+id).style.display='block';
+		}
+		else
+		{
+			document.getElementById('navcat_'+id).style.display='none';
+		}
+	}
+	
+//]]>
+</script>
+	<div id="navcat_Books" style="display:none"><table width="100%" class="navlinks" cellpadding="0" cellspacing="1"><tr><td width="25%" id="nl248" onclick="window.location='/article/248/Everybody-Eats-Lunch-by-Cricket-Azima'" onMouseOver="lb('nl248')" onMouseOut="db('nl248')" ><a href="/article/248/Everybody-Eats-Lunch-by-Cricket-Azima" title="Books: Everybody Eats Lunch by Cricket Azima">Everybody Eats Lunch by Cricket Azima</a></td><td width="25%" id="nl229" onclick="window.location='/article/229/Joy-of-Cooking-75th-Anniversary-Edition-2006'" onMouseOver="lb('nl229')" onMouseOut="db('nl229')" ><a href="/article/229/Joy-of-Cooking-75th-Anniversary-Edition-2006" title="Books: Joy of Cooking (75th Anniversary Edition; 2006)">Joy of Cooking (75th Anniversary Edition; 2006)</a></td><td width="25%" id="nl307" onclick="window.location='/article/307/Ten-Great-Gifts-for-Cooking-For-Engineers-Fans'" onMouseOver="lb('nl307')" onMouseOut="db('nl307')" ><a href="/article/307/Ten-Great-Gifts-for-Cooking-For-Engineers-Fans" title="Books: Ten Great Gifts for Cooking For Engineers' Fans">Ten Great Gifts for Cooking For Engineers' Fans</a></td><td width="25%" id="nl241" onclick="window.location='/article/241/The-Story-of-Tea-by-Mary-Lou-and-Robert-Heiss'" onMouseOver="lb('nl241')" onMouseOut="db('nl241')" ><a href="/article/241/The-Story-of-Tea-by-Mary-Lou-and-Robert-Heiss" title="Books: The Story of Tea by Mary Lou and Robert Heiss">The Story of Tea by Mary Lou and Robert Heiss</a></td></tr><tr><td id="nl270" onclick="window.location='/article/270/Fun-Food-Facts-by-Mike-Bellino'" onMouseOver="lb('nl270')" onMouseOut="db('nl270')" ><a href="/article/270/Fun-Food-Facts-by-Mike-Bellino" title="Books: Fun Food Facts by Mike Bellino">Fun Food Facts by Mike Bellino</a></td><td id="nl242" onclick="window.location='/article/242/Kitchen-Mysteries-by-Herve-This'" onMouseOver="lb('nl242')" onMouseOut="db('nl242')" ><a href="/article/242/Kitchen-Mysteries-by-Herve-This" title="Books: Kitchen Mysteries by Herve This">Kitchen Mysteries by Herve This</a></td><td id="nl254" onclick="window.location='/article/254/The-Science-of-Good-Food'" onMouseOver="lb('nl254')" onMouseOut="db('nl254')" ><a href="/article/254/The-Science-of-Good-Food" title="Books: The Science of Good Food">The Science of Good Food</a></td><td id="nl220" onclick="window.location='/article/220/Toast-by-Nigel-Slater'" onMouseOver="lb('nl220')" onMouseOut="db('nl220')" ><a href="/article/220/Toast-by-Nigel-Slater" title="Books: Toast by Nigel Slater">Toast by Nigel Slater</a></td></tr><tr><td id="nl201" onclick="window.location='/article/201/Heat-by-Bill-Buford'" onMouseOver="lb('nl201')" onMouseOut="db('nl201')" ><a href="/article/201/Heat-by-Bill-Buford" title="Books: Heat by Bill Buford">Heat by Bill Buford</a></td><td id="nl333" onclick="window.location='/article/333/Modernist-Cuisine-at-Home-on-Inkling'" onMouseOver="lb('nl333')" onMouseOut="db('nl333')" ><a href="/article/333/Modernist-Cuisine-at-Home-on-Inkling" title="Books: Modernist Cuisine at Home on Inkling">Modernist Cuisine at Home on Inkling</a></td><td id="nl292" onclick="window.location='/article/292/The-Sorcerers-Apprentices-by-Lisa-Abend'" onMouseOver="lb('nl292')" onMouseOut="db('nl292')" ><a href="/article/292/The-Sorcerers-Apprentices-by-Lisa-Abend" title="Books: The Sorcerer's Apprentices by Lisa Abend">The Sorcerer's Apprentices by Lisa Abend</a></td><td id="nl233" onclick="window.location='/article/233/Vegetables-The-Culinary-Institute-of-America'" onMouseOver="lb('nl233')" onMouseOut="db('nl233')" ><a href="/article/233/Vegetables-The-Culinary-Institute-of-America" title="Books: Vegetables (The Culinary Institute of America)">Vegetables (The Culinary Institute of America)</a></td></tr></table></div>
+	<div id="navcat_CookingTests" style="display:none"><table width="100%" class="navlinks" cellpadding="0" cellspacing="1"><tr><td width="25%" id="nl3" onclick="window.location='/article/3/Bacon-Part-I'" onMouseOver="lb('nl3')" onMouseOut="db('nl3')" ><a href="/article/3/Bacon-Part-I" title="Cooking Tests: Bacon (Part I)">Bacon (Part I)</a></td><td width="25%" id="nl171" onclick="window.location='/article/171/Beer-Can-Chicken'" onMouseOver="lb('nl171')" onMouseOut="db('nl171')" ><a href="/article/171/Beer-Can-Chicken" title="Cooking Tests: Beer Can Chicken">Beer Can Chicken</a></td><td width="25%" id="nl173" onclick="window.location='/article/173/HFCS-Free-Cream-Sodas'" onMouseOver="lb('nl173')" onMouseOut="db('nl173')" ><a href="/article/173/HFCS-Free-Cream-Sodas" title="Cooking Tests: HFCS-Free Cream Sodas">HFCS-Free Cream Sodas</a></td><td width="25%" id="nl249" onclick="window.location='/article/249/Soft-Boiled-Eggs'" onMouseOver="lb('nl249')" onMouseOut="db('nl249')" ><a href="/article/249/Soft-Boiled-Eggs" title="Cooking Tests: Soft Boiled Eggs">Soft Boiled Eggs</a></td></tr><tr><td id="nl110" onclick="window.location='/article/110/Bacon-Part-II'" onMouseOver="lb('nl110')" onMouseOut="db('nl110')" ><a href="/article/110/Bacon-Part-II" title="Cooking Tests: Bacon (Part II)">Bacon (Part II)</a></td><td id="nl5" onclick="window.location='/article/5/Eggplant-Taste-Test'" onMouseOver="lb('nl5')" onMouseOut="db('nl5')" ><a href="/article/5/Eggplant-Taste-Test" title="Cooking Tests: Eggplant Taste Test">Eggplant Taste Test</a></td></tr></table></div>
+	<div id="navcat_DiningOut" style="display:none"><table width="100%" class="navlinks" cellpadding="0" cellspacing="1"><tr><td width="25%" id="nl202" onclick="window.location='/article/202/Ad-Hoc-Yountville-California'" onMouseOver="lb('nl202')" onMouseOut="db('nl202')" ><a href="/article/202/Ad-Hoc-Yountville-California" title="Dining Out: Ad Hoc (Yountville, California)">Ad Hoc (Yountville, California)</a></td><td width="25%" id="nl299" onclick="window.location='/article/299/Chicago-2011-Part-4-Gibsons-Bar-Steakhouse'" onMouseOver="lb('nl299')" onMouseOut="db('nl299')" ><a href="/article/299/Chicago-2011-Part-4-Gibsons-Bar-Steakhouse" title="Dining Out: Chicago 2011 Part 4 - Gibson's Bar &amp; Steakhouse">Chicago 2011 Part 4 - Gibson's Bar &amp; Steakhouse</a></td><td width="25%" id="nl330" onclick="window.location='/article/330/Cook-Taste-Barcelona-Spain'" onMouseOver="lb('nl330')" onMouseOut="db('nl330')" ><a href="/article/330/Cook-Taste-Barcelona-Spain" title="Dining Out: Cook &amp; Taste (Barcelona, Spain)">Cook &amp; Taste (Barcelona, Spain)</a></td><td width="25%" id="nl329" onclick="window.location='/article/329/Pakta-Barcelona-Spain'" onMouseOver="lb('nl329')" onMouseOut="db('nl329')" ><a href="/article/329/Pakta-Barcelona-Spain" title="Dining Out: Pakta (Barcelona, Spain)">Pakta (Barcelona, Spain)</a></td></tr><tr><td id="nl88" onclick="window.location='/article/88/Ahwahnee-Hotel-Kitchen-Yosemite-California'" onMouseOver="lb('nl88')" onMouseOut="db('nl88')" ><a href="/article/88/Ahwahnee-Hotel-Kitchen-Yosemite-California" title="Dining Out: Ahwahnee Hotel Kitchen (Yosemite, California)">Ahwahnee Hotel Kitchen (Yosemite, California)</a></td><td id="nl300" onclick="window.location='/article/300/Chicago-2011-Part-5-Frontera-Grill-XOCO'" onMouseOver="lb('nl300')" onMouseOut="db('nl300')" ><a href="/article/300/Chicago-2011-Part-5-Frontera-Grill-XOCO" title="Dining Out: Chicago 2011 Part 5 - Frontera Grill, XOCO">Chicago 2011 Part 5 - Frontera Grill, XOCO</a></td><td id="nl253" onclick="window.location='/article/253/Elements-Napa-California'" onMouseOver="lb('nl253')" onMouseOut="db('nl253')" ><a href="/article/253/Elements-Napa-California" title="Dining Out: Elements (Napa, California)">Elements (Napa, California)</a></td><td id="nl260" onclick="window.location='/article/260/Parcel-104-Santa-Clara-California'" onMouseOver="lb('nl260')" onMouseOut="db('nl260')" ><a href="/article/260/Parcel-104-Santa-Clara-California" title="Dining Out: Parcel 104 (Santa Clara, California)">Parcel 104 (Santa Clara, California)</a></td></tr><tr><td id="nl311" onclick="window.location='/article/311/Blue-Bell-Creamery-Factory-Tour'" onMouseOver="lb('nl311')" onMouseOut="db('nl311')" ><a href="/article/311/Blue-Bell-Creamery-Factory-Tour" title="Dining Out: Blue Bell Creamery Factory Tour">Blue Bell Creamery Factory Tour</a></td><td id="nl301" onclick="window.location='/article/301/Chicago-2011-Part-6-Noodles-by-Takashi-Yagihashi-Frontera-Fresco-Marc-Burger'" onMouseOver="lb('nl301')" onMouseOut="db('nl301')" ><a href="/article/301/Chicago-2011-Part-6-Noodles-by-Takashi-Yagihashi-Frontera-Fresco-Marc-Burger" title="Dining Out: Chicago 2011 Part 6 - Noodles by Takashi Yagihashi, Frontera Fresco, Marc Burger">Chicago 2011 Part 6 - Noodles by Takashi Yagihashi, Frontera Fresco, Marc Burger</a></td><td id="nl316" onclick="window.location='/article/316/Georges-San-Francisco-California'" onMouseOver="lb('nl316')" onMouseOut="db('nl316')" ><a href="/article/316/Georges-San-Francisco-California" title="Dining Out: Georges (San Francisco, California)">Georges (San Francisco, California)</a></td><td id="nl281" onclick="window.location='/article/281/Per-Se-New-York-New-York'" onMouseOver="lb('nl281')" onMouseOut="db('nl281')" ><a href="/article/281/Per-Se-New-York-New-York" title="Dining Out: Per Se (New York, New York)">Per Se (New York, New York)</a></td></tr><tr><td id="nl91" onclick="window.location='/article/91/Cafe-Terigo-Park-City-Utah'" onMouseOver="lb('nl91')" onMouseOut="db('nl91')" ><a href="/article/91/Cafe-Terigo-Park-City-Utah" title="Dining Out: Cafe Terigo (Park City, Utah)">Cafe Terigo (Park City, Utah)</a></td><td id="nl302" onclick="window.location='/article/302/Chicago-2011-Part-7-Alinea'" onMouseOver="lb('nl302')" onMouseOut="db('nl302')" ><a href="/article/302/Chicago-2011-Part-7-Alinea" title="Dining Out: Chicago 2011 Part 7 - Alinea">Chicago 2011 Part 7 - Alinea</a></td><td id="nl240" onclick="window.location='/article/240/Hard-Knox-Cafe-San-Francisco-California'" onMouseOver="lb('nl240')" onMouseOut="db('nl240')" ><a href="/article/240/Hard-Knox-Cafe-San-Francisco-California" title="Dining Out: Hard Knox Cafe (San Francisco, California)">Hard Knox Cafe (San Francisco, California)</a></td><td id="nl324" onclick="window.location='/article/324/Ramen-in-Austin-Michi-Ramen-and-Ramen-Tatsuya'" onMouseOver="lb('nl324')" onMouseOut="db('nl324')" ><a href="/article/324/Ramen-in-Austin-Michi-Ramen-and-Ramen-Tatsuya" title="Dining Out: Ramen in Austin (Michi Ramen and Ramen Tatsuya)">Ramen in Austin (Michi Ramen and Ramen Tatsuya)</a></td></tr><tr><td id="nl231" onclick="window.location='/article/231/Chads-Fish-Chips-Willits-California'" onMouseOver="lb('nl231')" onMouseOut="db('nl231')" ><a href="/article/231/Chads-Fish-Chips-Willits-California" title="Dining Out: Chad's Fish &amp; Chips (Willits, California)">Chad's Fish &amp; Chips (Willits, California)</a></td><td id="nl303" onclick="window.location='/article/303/Chicago-2011-Part-8-Vienna-Beef-Factory'" onMouseOver="lb('nl303')" onMouseOut="db('nl303')" ><a href="/article/303/Chicago-2011-Part-8-Vienna-Beef-Factory" title="Dining Out: Chicago 2011 Part 8 - Vienna Beef Factory">Chicago 2011 Part 8 - Vienna Beef Factory</a></td><td id="nl247" onclick="window.location='/article/247/Jai-Yun-San-Francisco'" onMouseOver="lb('nl247')" onMouseOut="db('nl247')" ><a href="/article/247/Jai-Yun-San-Francisco" title="Dining Out: Jai Yun (San Francisco)">Jai Yun (San Francisco)</a></td><td id="nl153" onclick="window.location='/article/153/Shadowbrook-Restaurant-Capitola-California'" onMouseOver="lb('nl153')" onMouseOut="db('nl153')" ><a href="/article/153/Shadowbrook-Restaurant-Capitola-California" title="Dining Out: Shadowbrook Restaurant (Capitola, California)">Shadowbrook Restaurant (Capitola, California)</a></td></tr><tr><td id="nl295" onclick="window.location='/article/295/Chicago-2011-Part-1a-Overview'" onMouseOver="lb('nl295')" onMouseOut="db('nl295')" ><a href="/article/295/Chicago-2011-Part-1a-Overview" title="Dining Out: Chicago 2011 Part 1a - Overview">Chicago 2011 Part 1a - Overview</a></td><td id="nl304" onclick="window.location='/article/304/Chicago-2011-Part-9-Girl-and-the-Goat'" onMouseOver="lb('nl304')" onMouseOut="db('nl304')" ><a href="/article/304/Chicago-2011-Part-9-Girl-and-the-Goat" title="Dining Out: Chicago 2011 Part 9 - Girl and the Goat">Chicago 2011 Part 9 - Girl and the Goat</a></td><td id="nl204" onclick="window.location='/article/204/Maverick-San-Francisco-California'" onMouseOver="lb('nl204')" onMouseOut="db('nl204')" ><a href="/article/204/Maverick-San-Francisco-California" title="Dining Out: Maverick (San Francisco, California)">Maverick (San Francisco, California)</a></td><td id="nl216" onclick="window.location='/article/216/Soul-Bar-Bistro-Auckland-New-Zealand'" onMouseOver="lb('nl216')" onMouseOut="db('nl216')" ><a href="/article/216/Soul-Bar-Bistro-Auckland-New-Zealand" title="Dining Out: Soul Bar &amp; Bistro (Auckland, New Zealand)">Soul Bar &amp; Bistro (Auckland, New Zealand)</a></td></tr><tr><td id="nl296" onclick="window.location='/article/296/Chicago-2011-Part-1b-Overview'" onMouseOver="lb('nl296')" onMouseOut="db('nl296')" ><a href="/article/296/Chicago-2011-Part-1b-Overview" title="Dining Out: Chicago 2011 Part 1b - Overview">Chicago 2011 Part 1b - Overview</a></td><td id="nl267" onclick="window.location='/article/267/Coi-San-Francisco-California'" onMouseOver="lb('nl267')" onMouseOut="db('nl267')" ><a href="/article/267/Coi-San-Francisco-California" title="Dining Out: Coi (San Francisco, California)">Coi (San Francisco, California)</a></td><td id="nl235" onclick="window.location='/article/235/Michelin-Rated-Restaurants-San-Francisco-2007'" onMouseOver="lb('nl235')" onMouseOut="db('nl235')" ><a href="/article/235/Michelin-Rated-Restaurants-San-Francisco-2007" title="Dining Out: Michelin Rated Restaurants (San Francisco 2007)">Michelin Rated Restaurants (San Francisco 2007)</a></td><td id="nl293" onclick="window.location='/article/293/The-Noble-Pig-Austin-Texas'" onMouseOver="lb('nl293')" onMouseOut="db('nl293')" ><a href="/article/293/The-Noble-Pig-Austin-Texas" title="Dining Out: The Noble Pig (Austin, Texas)">The Noble Pig (Austin, Texas)</a></td></tr><tr><td id="nl297" onclick="window.location='/article/297/Chicago-2011-Part-2-Shui-Wah-Santa-Anna-Bakery'" onMouseOver="lb('nl297')" onMouseOut="db('nl297')" ><a href="/article/297/Chicago-2011-Part-2-Shui-Wah-Santa-Anna-Bakery" title="Dining Out: Chicago 2011 Part 2 - Shui Wah, Santa Anna Bakery">Chicago 2011 Part 2 - Shui Wah, Santa Anna Bakery</a></td><td id="nl291" onclick="window.location='/article/291/Congress-Austin-Texas'" onMouseOver="lb('nl291')" onMouseOut="db('nl291')" ><a href="/article/291/Congress-Austin-Texas" title="Dining Out: Congress (Austin, Texas)">Congress (Austin, Texas)</a></td><td id="nl236" onclick="window.location='/article/236/Michelin-Rated-Restaurants-San-Francisco-2008'" onMouseOver="lb('nl236')" onMouseOut="db('nl236')" ><a href="/article/236/Michelin-Rated-Restaurants-San-Francisco-2008" title="Dining Out: Michelin Rated Restaurants (San Francisco 2008)">Michelin Rated Restaurants (San Francisco 2008)</a></td><td id="nl245" onclick="window.location='/article/245/Uchi-Austin-Texas'" onMouseOver="lb('nl245')" onMouseOut="db('nl245')" ><a href="/article/245/Uchi-Austin-Texas" title="Dining Out: Uchi (Austin, Texas)">Uchi (Austin, Texas)</a></td></tr><tr><td id="nl298" onclick="window.location='/article/298/Chicago-2011-Part-3-Pizzeria-Uno-Giordanos'" onMouseOver="lb('nl298')" onMouseOut="db('nl298')" ><a href="/article/298/Chicago-2011-Part-3-Pizzeria-Uno-Giordanos" title="Dining Out: Chicago 2011 Part 3 - Pizzeria Uno, Giordano's">Chicago 2011 Part 3 - Pizzeria Uno, Giordano's</a></td></tr></table></div>
+	<div id="navcat_EquipmentGear" style="display:none"><table width="100%" class="navlinks" cellpadding="0" cellspacing="1"><tr><td width="25%" id="nl319" onclick="window.location='/article/319/Anolon-Nouvelle-Copper-Stainless-Steel-3-qt-Covered-Saute-Pan'" onMouseOver="lb('nl319')" onMouseOut="db('nl319')" ><a href="/article/319/Anolon-Nouvelle-Copper-Stainless-Steel-3-qt-Covered-Saute-Pan" title="Equipment &amp; Gear: Anolon Nouvelle Copper Stainless Steel 3-qt Covered Saute Pan">Anolon Nouvelle Copper Stainless Steel 3-qt Covered Saute Pan</a></td><td width="25%" id="nl17" onclick="window.location='/article/17/Cutting-Boards'" onMouseOver="lb('nl17')" onMouseOut="db('nl17')" ><a href="/article/17/Cutting-Boards" title="Equipment &amp; Gear: Cutting Boards">Cutting Boards</a></td><td width="25%" id="nl95" onclick="window.location='/article/95/Kitchen-Thermometers'" onMouseOver="lb('nl95')" onMouseOut="db('nl95')" ><a href="/article/95/Kitchen-Thermometers" title="Equipment &amp; Gear: Kitchen Thermometers">Kitchen Thermometers</a></td><td width="25%" id="nl99" onclick="window.location='/article/99/Microwave-Safe-Containers'" onMouseOver="lb('nl99')" onMouseOut="db('nl99')" ><a href="/article/99/Microwave-Safe-Containers" title="Equipment &amp; Gear: Microwave Safe Containers">Microwave Safe Containers</a></td></tr><tr><td id="nl205" onclick="window.location='/article/205/Bakers-Edge'" onMouseOver="lb('nl205')" onMouseOut="db('nl205')" ><a href="/article/205/Bakers-Edge" title="Equipment &amp; Gear: Baker's Edge">Baker's Edge</a></td><td id="nl222" onclick="window.location='/article/222/Fathers-Day-Gift-Ideas'" onMouseOver="lb('nl222')" onMouseOut="db('nl222')" ><a href="/article/222/Fathers-Day-Gift-Ideas" title="Equipment &amp; Gear: Father's Day Gift Ideas">Father's Day Gift Ideas</a></td><td id="nl187" onclick="window.location='/article/187/Knife-and-Sharpening-Steel-Hardness'" onMouseOver="lb('nl187')" onMouseOut="db('nl187')" ><a href="/article/187/Knife-and-Sharpening-Steel-Hardness" title="Equipment &amp; Gear: Knife and Sharpening Steel Hardness">Knife and Sharpening Steel Hardness</a></td><td id="nl84" onclick="window.location='/article/84/NSF-Certification'" onMouseOver="lb('nl84')" onMouseOut="db('nl84')" ><a href="/article/84/NSF-Certification" title="Equipment &amp; Gear: NSF Certification">NSF Certification</a></td></tr><tr><td id="nl290" onclick="window.location='/article/290/Ceramic-Chefs-Knives-Rated'" onMouseOver="lb('nl290')" onMouseOut="db('nl290')" ><a href="/article/290/Ceramic-Chefs-Knives-Rated" title="Equipment &amp; Gear: Ceramic Chef's Knives Rated">Ceramic Chef's Knives Rated</a></td><td id="nl256" onclick="window.location='/article/256/GelPro-Mat'" onMouseOver="lb('nl256')" onMouseOut="db('nl256')" ><a href="/article/256/GelPro-Mat" title="Equipment &amp; Gear: GelPro Mat">GelPro Mat</a></td><td id="nl135" onclick="window.location='/article/135/Knife-Covers'" onMouseOver="lb('nl135')" onMouseOut="db('nl135')" ><a href="/article/135/Knife-Covers" title="Equipment &amp; Gear: Knife Covers">Knife Covers</a></td><td id="nl275" onclick="window.location='/article/275/Saber-Kitchen-Knives'" onMouseOver="lb('nl275')" onMouseOut="db('nl275')" ><a href="/article/275/Saber-Kitchen-Knives" title="Equipment &amp; Gear: Saber Kitchen Knives">Saber Kitchen Knives</a></td></tr><tr><td id="nl129" onclick="window.location='/article/129/Chefs-Knives-Rated'" onMouseOver="lb('nl129')" onMouseOut="db('nl129')" ><a href="/article/129/Chefs-Knives-Rated" title="Equipment &amp; Gear: Chef's Knives Rated">Chef's Knives Rated</a></td><td id="nl117" onclick="window.location='/article/117/Hefty-Serve-n-Store'" onMouseOver="lb('nl117')" onMouseOut="db('nl117')" ><a href="/article/117/Hefty-Serve-n-Store" title="Equipment &amp; Gear: Hefty Serve 'n Store">Hefty Serve 'n Store</a></td><td id="nl130" onclick="window.location='/article/130/Knife-Parts'" onMouseOver="lb('nl130')" onMouseOut="db('nl130')" ><a href="/article/130/Knife-Parts" title="Equipment &amp; Gear: Knife Parts">Knife Parts</a></td><td id="nl234" onclick="window.location='/article/234/Soda-Club-SodaStream'" onMouseOver="lb('nl234')" onMouseOut="db('nl234')" ><a href="/article/234/Soda-Club-SodaStream" title="Equipment &amp; Gear: Soda-Club (SodaStream)">Soda-Club (SodaStream)</a></td></tr><tr><td id="nl120" onclick="window.location='/article/120/Common-Materials-of-Cookware'" onMouseOver="lb('nl120')" onMouseOut="db('nl120')" ><a href="/article/120/Common-Materials-of-Cookware" title="Equipment &amp; Gear: Common Materials of Cookware">Common Materials of Cookware</a></td><td id="nl272" onclick="window.location='/article/272/Kapoosh-Knife-Block-not-recommended'" onMouseOver="lb('nl272')" onMouseOut="db('nl272')" ><a href="/article/272/Kapoosh-Knife-Block-not-recommended" title="Equipment &amp; Gear: Kapoosh Knife Block (not recommended)">Kapoosh Knife Block (not recommended)</a></td><td id="nl85" onclick="window.location='/article/85/Krups-Spice-Grinder'" onMouseOver="lb('nl85')" onMouseOut="db('nl85')" ><a href="/article/85/Krups-Spice-Grinder" title="Equipment &amp; Gear: Krups Spice Grinder">Krups Spice Grinder</a></td><td id="nl287" onclick="window.location='/article/287/Understanding-Blender-Specifications'" onMouseOver="lb('nl287')" onMouseOut="db('nl287')" ><a href="/article/287/Understanding-Blender-Specifications" title="Equipment &amp; Gear: Understanding Blender Specifications">Understanding Blender Specifications</a></td></tr><tr><td id="nl232" onclick="window.location='/article/232/Cooking-With-Aluminum'" onMouseOver="lb('nl232')" onMouseOut="db('nl232')" ><a href="/article/232/Cooking-With-Aluminum" title="Equipment &amp; Gear: Cooking With Aluminum">Cooking With Aluminum</a></td><td id="nl39" onclick="window.location='/article/39/Kitchen-Knives'" onMouseOver="lb('nl39')" onMouseOut="db('nl39')" ><a href="/article/39/Kitchen-Knives" title="Equipment &amp; Gear: Kitchen Knives">Kitchen Knives</a></td><td id="nl269" onclick="window.location='/article/269/Metrokane-Mighty-OJ-Not-recommended'" onMouseOver="lb('nl269')" onMouseOut="db('nl269')" ><a href="/article/269/Metrokane-Mighty-OJ-Not-recommended" title="Equipment &amp; Gear: Metrokane Mighty OJ (Not recommended)">Metrokane Mighty OJ (Not recommended)</a></td><td id="nl326" onclick="window.location='/article/326/Whats-In-Your-Non-Stick'" onMouseOver="lb('nl326')" onMouseOut="db('nl326')" ><a href="/article/326/Whats-In-Your-Non-Stick" title="Equipment &amp; Gear: What's In Your Non-Stick?">What's In Your Non-Stick?</a></td></tr><tr><td id="nl175" onclick="window.location='/article/175/CoolCover'" onMouseOver="lb('nl175')" onMouseOut="db('nl175')" ><a href="/article/175/CoolCover" title="Equipment &amp; Gear: CoolCover">CoolCover</a></td><td id="nl82" onclick="window.location='/article/82/Kitchen-Scales'" onMouseOver="lb('nl82')" onMouseOut="db('nl82')" ><a href="/article/82/Kitchen-Scales" title="Equipment &amp; Gear: Kitchen Scales">Kitchen Scales</a></td></tr></table></div>
+	<div id="navcat_KitchenNotes" style="display:none"><table width="100%" class="navlinks" cellpadding="0" cellspacing="1"><tr><td width="25%" id="nl90" onclick="window.location='/article/90/Additives'" onMouseOver="lb('nl90')" onMouseOut="db('nl90')" ><a href="/article/90/Additives" title="Kitchen Notes: Additives">Additives</a></td><td width="25%" id="nl131" onclick="window.location='/article/131/Clarified-Butter'" onMouseOver="lb('nl131')" onMouseOut="db('nl131')" ><a href="/article/131/Clarified-Butter" title="Kitchen Notes: Clarified Butter">Clarified Butter</a></td><td width="25%" id="nl51" onclick="window.location='/article/51/Glossary'" onMouseOver="lb('nl51')" onMouseOut="db('nl51')" ><a href="/article/51/Glossary" title="Kitchen Notes: Glossary">Glossary</a></td><td width="25%" id="nl40" onclick="window.location='/article/40/Saturated-Fats-Cholesterol-and-Heart-Disease'" onMouseOver="lb('nl40')" onMouseOut="db('nl40')" ><a href="/article/40/Saturated-Fats-Cholesterol-and-Heart-Disease" title="Kitchen Notes: Saturated Fats, Cholesterol, and Heart Disease">Saturated Fats, Cholesterol, and Heart Disease</a></td></tr><tr><td id="nl280" onclick="window.location='/article/280/Analyzing-a-Baking-Recipe'" onMouseOver="lb('nl280')" onMouseOut="db('nl280')" ><a href="/article/280/Analyzing-a-Baking-Recipe" title="Kitchen Notes: Analyzing a Baking Recipe">Analyzing a Baking Recipe</a></td><td id="nl198" onclick="window.location='/article/198/Clarified-Butter-II'" onMouseOver="lb('nl198')" onMouseOut="db('nl198')" ><a href="/article/198/Clarified-Butter-II" title="Kitchen Notes: Clarified Butter II">Clarified Butter II</a></td><td id="nl209" onclick="window.location='/article/209/Heat-Transfer-and-Browning-Foods'" onMouseOver="lb('nl209')" onMouseOut="db('nl209')" ><a href="/article/209/Heat-Transfer-and-Browning-Foods" title="Kitchen Notes: Heat Transfer and Browning Foods">Heat Transfer and Browning Foods</a></td><td id="nl78" onclick="window.location='/article/78/Scoville-Units'" onMouseOver="lb('nl78')" onMouseOut="db('nl78')" ><a href="/article/78/Scoville-Units" title="Kitchen Notes: Scoville Units">Scoville Units</a></td></tr><tr><td id="nl199" onclick="window.location='/article/199/Baguettes-Deconstructed'" onMouseOver="lb('nl199')" onMouseOut="db('nl199')" ><a href="/article/199/Baguettes-Deconstructed" title="Kitchen Notes: Baguettes Deconstructed">Baguettes Deconstructed</a></td><td id="nl184" onclick="window.location='/article/184/Curry'" onMouseOver="lb('nl184')" onMouseOut="db('nl184')" ><a href="/article/184/Curry" title="Kitchen Notes: Curry">Curry</a></td><td id="nl224" onclick="window.location='/article/224/Heat-Transfer-and-Cooking'" onMouseOver="lb('nl224')" onMouseOut="db('nl224')" ><a href="/article/224/Heat-Transfer-and-Cooking" title="Kitchen Notes: Heat Transfer and Cooking">Heat Transfer and Cooking</a></td><td id="nl50" onclick="window.location='/article/50/Smoke-Points-of-Various-Fats'" onMouseOver="lb('nl50')" onMouseOut="db('nl50')" ><a href="/article/50/Smoke-Points-of-Various-Fats" title="Kitchen Notes: Smoke Points of Various Fats">Smoke Points of Various Fats</a></td></tr><tr><td id="nl213" onclick="window.location='/article/213/Bakers-Yeast'" onMouseOver="lb('nl213')" onMouseOut="db('nl213')" ><a href="/article/213/Bakers-Yeast" title="Kitchen Notes: Baker's Yeast">Baker's Yeast</a></td><td id="nl97" onclick="window.location='/article/97/Cutting-Up-Chicken'" onMouseOver="lb('nl97')" onMouseOut="db('nl97')" ><a href="/article/97/Cutting-Up-Chicken" title="Kitchen Notes: Cutting Up Chicken">Cutting Up Chicken</a></td><td id="nl52" onclick="window.location='/article/52/Ingredient-Substitutions'" onMouseOver="lb('nl52')" onMouseOut="db('nl52')" ><a href="/article/52/Ingredient-Substitutions" title="Kitchen Notes: Ingredient Substitutions">Ingredient Substitutions</a></td><td id="nl155" onclick="window.location='/article/155/Tempering-Chocolate'" onMouseOver="lb('nl155')" onMouseOut="db('nl155')" ><a href="/article/155/Tempering-Chocolate" title="Kitchen Notes: Tempering Chocolate">Tempering Chocolate</a></td></tr><tr><td id="nl123" onclick="window.location='/article/123/Boning-Chicken-Breast'" onMouseOver="lb('nl123')" onMouseOut="db('nl123')" ><a href="/article/123/Boning-Chicken-Breast" title="Kitchen Notes: Boning Chicken Breast">Boning Chicken Breast</a></td><td id="nl211" onclick="window.location='/article/211/European-Designation-of-Quality-Labels'" onMouseOver="lb('nl211')" onMouseOut="db('nl211')" ><a href="/article/211/European-Designation-of-Quality-Labels" title="Kitchen Notes: European Designation of Quality Labels">European Designation of Quality Labels</a></td><td id="nl113" onclick="window.location='/article/113/Making-Butter'" onMouseOver="lb('nl113')" onMouseOut="db('nl113')" ><a href="/article/113/Making-Butter" title="Kitchen Notes: Making Butter">Making Butter</a></td><td id="nl30" onclick="window.location='/article/30/USDA-Beef-Quality-Grades'" onMouseOver="lb('nl30')" onMouseOut="db('nl30')" ><a href="/article/30/USDA-Beef-Quality-Grades" title="Kitchen Notes: USDA Beef Quality Grades">USDA Beef Quality Grades</a></td></tr><tr><td id="nl70" onclick="window.location='/article/70/Brining'" onMouseOver="lb('nl70')" onMouseOut="db('nl70')" ><a href="/article/70/Brining" title="Kitchen Notes: Brining">Brining</a></td><td id="nl244" onclick="window.location='/article/244/Fond-of-Fond'" onMouseOver="lb('nl244')" onMouseOut="db('nl244')" ><a href="/article/244/Fond-of-Fond" title="Kitchen Notes: Fond of Fond">Fond of Fond</a></td><td id="nl16" onclick="window.location='/article/16/Maple-Syrup-Grades'" onMouseOver="lb('nl16')" onMouseOut="db('nl16')" ><a href="/article/16/Maple-Syrup-Grades" title="Kitchen Notes: Maple Syrup Grades">Maple Syrup Grades</a></td><td id="nl63" onclick="window.location='/article/63/Wheat-Flour'" onMouseOver="lb('nl63')" onMouseOut="db('nl63')" ><a href="/article/63/Wheat-Flour" title="Kitchen Notes: Wheat Flour">Wheat Flour</a></td></tr><tr><td id="nl73" onclick="window.location='/article/73/Buying-Whole-Turkeys'" onMouseOver="lb('nl73')" onMouseOut="db('nl73')" ><a href="/article/73/Buying-Whole-Turkeys" title="Kitchen Notes: Buying Whole Turkeys">Buying Whole Turkeys</a></td><td id="nl27" onclick="window.location='/article/27/Freezing-Meats'" onMouseOver="lb('nl27')" onMouseOut="db('nl27')" ><a href="/article/27/Freezing-Meats" title="Kitchen Notes: Freezing Meats">Freezing Meats</a></td><td id="nl134" onclick="window.location='/article/134/Oven-Temperatures'" onMouseOver="lb('nl134')" onMouseOut="db('nl134')" ><a href="/article/134/Oven-Temperatures" title="Kitchen Notes: Oven Temperatures">Oven Temperatures</a></td><td id="nl294" onclick="window.location='/article/294/White-Wheat-Grinder-Comparison'" onMouseOver="lb('nl294')" onMouseOut="db('nl294')" ><a href="/article/294/White-Wheat-Grinder-Comparison" title="Kitchen Notes: White Wheat Grinder Comparison">White Wheat Grinder Comparison</a></td></tr><tr><td id="nl156" onclick="window.location='/article/156/Caviar'" onMouseOver="lb('nl156')" onMouseOut="db('nl156')" ><a href="/article/156/Caviar" title="Kitchen Notes: Caviar">Caviar</a></td><td id="nl315" onclick="window.location='/article/315/Fruit-Ripening'" onMouseOver="lb('nl315')" onMouseOut="db('nl315')" ><a href="/article/315/Fruit-Ripening" title="Kitchen Notes: Fruit Ripening">Fruit Ripening</a></td><td id="nl96" onclick="window.location='/article/96/Pears'" onMouseOver="lb('nl96')" onMouseOut="db('nl96')" ><a href="/article/96/Pears" title="Kitchen Notes: Pears">Pears</a></td></tr></table></div>
+	<div id="navcat_OffTopic" style="display:none"><table width="100%" class="navlinks" cellpadding="0" cellspacing="1"><tr><td width="25%" id="nl133" onclick="window.location='/article/133/African-Horned-Melon-or-Kiwano'" onMouseOver="lb('nl133')" onMouseOut="db('nl133')" ><a href="/article/133/African-Horned-Melon-or-Kiwano" title="Off Topic: African Horned Melon or Kiwano">African Horned Melon or Kiwano</a></td><td width="25%" id="nl206" onclick="window.location='/article/206/Fancy-Food-Show-Winter-2007'" onMouseOver="lb('nl206')" onMouseOut="db('nl206')" ><a href="/article/206/Fancy-Food-Show-Winter-2007" title="Off Topic: Fancy Food Show Winter 2007">Fancy Food Show Winter 2007</a></td><td width="25%" id="nl119" onclick="window.location='/article/119/Iron-Chef-America'" onMouseOver="lb('nl119')" onMouseOut="db('nl119')" ><a href="/article/119/Iron-Chef-America" title="Off Topic: Iron Chef America">Iron Chef America</a></td><td width="25%" id="nl25" onclick="window.location='/article/25/Some-Quotes'" onMouseOver="lb('nl25')" onMouseOut="db('nl25')" ><a href="/article/25/Some-Quotes" title="Off Topic: Some Quotes">Some Quotes</a></td></tr><tr><td id="nl279" onclick="window.location='/article/279/Amano-Chocolate-Contest'" onMouseOver="lb('nl279')" onMouseOut="db('nl279')" ><a href="/article/279/Amano-Chocolate-Contest" title="Off Topic: Amano Chocolate Contest">Amano Chocolate Contest</a></td><td id="nl262" onclick="window.location='/article/262/Fancy-Food-Show-Winter-2009'" onMouseOver="lb('nl262')" onMouseOut="db('nl262')" ><a href="/article/262/Fancy-Food-Show-Winter-2009" title="Off Topic: Fancy Food Show Winter 2009">Fancy Food Show Winter 2009</a></td><td id="nl286" onclick="window.location='/article/286/Johnsonville-Pastaville-Italian-Sausage-Recipe-Contest'" onMouseOver="lb('nl286')" onMouseOut="db('nl286')" ><a href="/article/286/Johnsonville-Pastaville-Italian-Sausage-Recipe-Contest" title="Off Topic: Johnsonville Pastaville Italian Sausage Recipe Contest">Johnsonville Pastaville Italian Sausage Recipe Contest</a></td><td id="nl57" onclick="window.location='/article/57/Surprises-In-Snacks'" onMouseOver="lb('nl57')" onMouseOut="db('nl57')" ><a href="/article/57/Surprises-In-Snacks" title="Off Topic: Surprises In Snacks">Surprises In Snacks</a></td></tr><tr><td id="nl321" onclick="window.location='/article/321/Anolon-Nouvelle-Copper-Stainless-Steel-Cookware-Set-2012-Giveaway'" onMouseOver="lb('nl321')" onMouseOut="db('nl321')" ><a href="/article/321/Anolon-Nouvelle-Copper-Stainless-Steel-Cookware-Set-2012-Giveaway" title="Off Topic: Anolon Nouvelle Copper Stainless Steel Cookware Set 2012 Giveaway!">Anolon Nouvelle Copper Stainless Steel Cookware Set 2012 Giveaway!</a></td><td id="nl334" onclick="window.location='/article/334/Fancy-Food-Show-Winter-2014'" onMouseOver="lb('nl334')" onMouseOut="db('nl334')" ><a href="/article/334/Fancy-Food-Show-Winter-2014" title="Off Topic: Fancy Food Show Winter 2014">Fancy Food Show Winter 2014</a></td><td id="nl165" onclick="window.location='/article/165/LASIK'" onMouseOver="lb('nl165')" onMouseOut="db('nl165')" ><a href="/article/165/LASIK" title="Off Topic: LASIK">LASIK</a></td><td id="nl149" onclick="window.location='/article/149/Thanksgiving-Dinner'" onMouseOver="lb('nl149')" onMouseOut="db('nl149')" ><a href="/article/149/Thanksgiving-Dinner" title="Off Topic: Thanksgiving Dinner">Thanksgiving Dinner</a></td></tr><tr><td id="nl179" onclick="window.location='/article/179/Asparagus-Festival'" onMouseOver="lb('nl179')" onMouseOut="db('nl179')" ><a href="/article/179/Asparagus-Festival" title="Off Topic: Asparagus Festival">Asparagus Festival</a></td><td id="nl182" onclick="window.location='/article/182/Fanpop'" onMouseOver="lb('nl182')" onMouseOut="db('nl182')" ><a href="/article/182/Fanpop" title="Off Topic: Fanpop">Fanpop</a></td><td id="nl312" onclick="window.location='/article/312/LEGO-Heavy-Weapons-Book-Review'" onMouseOver="lb('nl312')" onMouseOut="db('nl312')" ><a href="/article/312/LEGO-Heavy-Weapons-Book-Review" title="Off Topic: LEGO Heavy Weapons Book Review">LEGO Heavy Weapons Book Review</a></td><td id="nl251" onclick="window.location='/article/251/The-HP-Freshman-15-Contest-Win-a-Notebook-Computer'" onMouseOver="lb('nl251')" onMouseOut="db('nl251')" ><a href="/article/251/The-HP-Freshman-15-Contest-Win-a-Notebook-Computer" title="Off Topic: The HP Freshman 15 Contest - Win a Notebook Computer">The HP Freshman 15 Contest - Win a Notebook Computer</a></td></tr><tr><td id="nl243" onclick="window.location='/article/243/Chilis-Bacon-Burger'" onMouseOver="lb('nl243')" onMouseOut="db('nl243')" ><a href="/article/243/Chilis-Bacon-Burger" title="Off Topic: Chili's Bacon Burger">Chili's Bacon Burger</a></td><td id="nl323" onclick="window.location='/article/323/Food-Fete-2013'" onMouseOver="lb('nl323')" onMouseOut="db('nl323')" ><a href="/article/323/Food-Fete-2013" title="Off Topic: Food Fete 2013">Food Fete 2013</a></td><td id="nl67" onclick="window.location='/article/67/Lunar-Eclipse'" onMouseOver="lb('nl67')" onMouseOut="db('nl67')" ><a href="/article/67/Lunar-Eclipse" title="Off Topic: Lunar Eclipse">Lunar Eclipse</a></td><td id="nl322" onclick="window.location='/article/322/The-Unofficial-LEGO-Technic-Builders-Guide-Book-Review'" onMouseOver="lb('nl322')" onMouseOut="db('nl322')" ><a href="/article/322/The-Unofficial-LEGO-Technic-Builders-Guide-Book-Review" title="Off Topic: The Unofficial LEGO Technic Builder's Guide Book Review">The Unofficial LEGO Technic Builder's Guide Book Review</a></td></tr><tr><td id="nl284" onclick="window.location='/article/284/Christmas-Gift-Ideas'" onMouseOver="lb('nl284')" onMouseOut="db('nl284')" ><a href="/article/284/Christmas-Gift-Ideas" title="Off Topic: Christmas Gift Ideas">Christmas Gift Ideas</a></td><td id="nl335" onclick="window.location='/article/335/Food-Fete-2014'" onMouseOver="lb('nl335')" onMouseOut="db('nl335')" ><a href="/article/335/Food-Fete-2014" title="Off Topic: Food Fete 2014">Food Fete 2014</a></td><td id="nl309" onclick="window.location='/article/309/Michael-Ohenes-Cookie-Recipe-Generator'" onMouseOver="lb('nl309')" onMouseOut="db('nl309')" ><a href="/article/309/Michael-Ohenes-Cookie-Recipe-Generator" title="Off Topic: Michael Ohene's Cookie Recipe Generator">Michael Ohene's Cookie Recipe Generator</a></td><td id="nl336" onclick="window.location='/article/336/Thermoworks-Fathers-Day-2014-Giveaway'" onMouseOver="lb('nl336')" onMouseOut="db('nl336')" ><a href="/article/336/Thermoworks-Fathers-Day-2014-Giveaway" title="Off Topic: Thermoworks Father's Day 2014 Giveaway!">Thermoworks Father's Day 2014 Giveaway!</a></td></tr><tr><td id="nl328" onclick="window.location='/article/328/Codlo-Sous-Vide-Controller-Kickstarter'" onMouseOver="lb('nl328')" onMouseOut="db('nl328')" ><a href="/article/328/Codlo-Sous-Vide-Controller-Kickstarter" title="Off Topic: Codlo Sous Vide Controller Kickstarter">Codlo Sous Vide Controller Kickstarter</a></td><td id="nl271" onclick="window.location='/article/271/Food-Inc'" onMouseOver="lb('nl271')" onMouseOut="db('nl271')" ><a href="/article/271/Food-Inc" title="Off Topic: Food, Inc">Food, Inc</a></td><td id="nl7" onclick="window.location='/article/7/Orange-Juice-Shelf-Life'" onMouseOver="lb('nl7')" onMouseOut="db('nl7')" ><a href="/article/7/Orange-Juice-Shelf-Life" title="Off Topic: Orange Juice Shelf Life">Orange Juice Shelf Life</a></td><td id="nl332" onclick="window.location='/article/332/Thermoworks-Thermapen-2013-Giveaway'" onMouseOver="lb('nl332')" onMouseOut="db('nl332')" ><a href="/article/332/Thermoworks-Thermapen-2013-Giveaway" title="Off Topic: Thermoworks Thermapen 2013 Giveaway!">Thermoworks Thermapen 2013 Giveaway!</a></td></tr><tr><td id="nl116" onclick="window.location='/article/116/Comments-and-Forums'" onMouseOver="lb('nl116')" onMouseOut="db('nl116')" ><a href="/article/116/Comments-and-Forums" title="Off Topic: Comments and Forums">Comments and Forums</a></td><td id="nl263" onclick="window.location='/article/263/Foodoro'" onMouseOver="lb('nl263')" onMouseOut="db('nl263')" ><a href="/article/263/Foodoro" title="Off Topic: Foodoro">Foodoro</a></td><td id="nl217" onclick="window.location='/article/217/Orthogonal-Thought-A-New-Blog'" onMouseOver="lb('nl217')" onMouseOut="db('nl217')" ><a href="/article/217/Orthogonal-Thought-A-New-Blog" title="Off Topic: Orthogonal Thought - A New Blog">Orthogonal Thought - A New Blog</a></td><td id="nl318" onclick="window.location='/article/318/Thermoworks-Thermapen-and-Oven-Thermometer-2012-Giveaway'" onMouseOver="lb('nl318')" onMouseOut="db('nl318')" ><a href="/article/318/Thermoworks-Thermapen-and-Oven-Thermometer-2012-Giveaway" title="Off Topic: Thermoworks Thermapen and Oven Thermometer 2012 Giveaway!">Thermoworks Thermapen and Oven Thermometer 2012 Giveaway!</a></td></tr><tr><td id="nl118" onclick="window.location='/article/118/Comments-and-Forums-Back-Online'" onMouseOver="lb('nl118')" onMouseOut="db('nl118')" ><a href="/article/118/Comments-and-Forums-Back-Online" title="Off Topic: Comments and Forums Back Online">Comments and Forums Back Online</a></td><td id="nl278" onclick="window.location='/article/278/Free-Cookbook-from-Snubbr'" onMouseOver="lb('nl278')" onMouseOut="db('nl278')" ><a href="/article/278/Free-Cookbook-from-Snubbr" title="Off Topic: Free Cookbook from Snubbr">Free Cookbook from Snubbr</a></td><td id="nl228" onclick="window.location='/article/228/Pixars-Ratatouille'" onMouseOver="lb('nl228')" onMouseOut="db('nl228')" ><a href="/article/228/Pixars-Ratatouille" title="Off Topic: Pixar's Ratatouille">Pixar's Ratatouille</a></td><td id="nl214" onclick="window.location='/article/214/Two-New-Shows-on-Discovery-Health'" onMouseOver="lb('nl214')" onMouseOut="db('nl214')" ><a href="/article/214/Two-New-Shows-on-Discovery-Health" title="Off Topic: Two New Shows on Discovery Health">Two New Shows on Discovery Health</a></td></tr><tr><td id="nl196" onclick="window.location='/article/196/Cooking-With-Passion'" onMouseOver="lb('nl196')" onMouseOut="db('nl196')" ><a href="/article/196/Cooking-With-Passion" title="Off Topic: Cooking With Passion">Cooking With Passion</a></td><td id="nl282" onclick="window.location='/article/282/Hefty-Kitchen-Bags-with-Unscented-Odor-Block-Technology'" onMouseOver="lb('nl282')" onMouseOut="db('nl282')" ><a href="/article/282/Hefty-Kitchen-Bags-with-Unscented-Odor-Block-Technology" title="Off Topic: Hefty Kitchen Bags with Unscented Odor Block Technology">Hefty Kitchen Bags with Unscented Odor Block Technology</a></td><td id="nl1" onclick="window.location='/article/1/Pumpkin-Carving'" onMouseOver="lb('nl1')" onMouseOut="db('nl1')" ><a href="/article/1/Pumpkin-Carving" title="Off Topic: Pumpkin Carving">Pumpkin Carving</a></td><td id="nl143" onclick="window.location='/article/143/University-Chickens-911-Challenge'" onMouseOver="lb('nl143')" onMouseOut="db('nl143')" ><a href="/article/143/University-Chickens-911-Challenge" title="Off Topic: University Chicken's 911 Challenge">University Chicken's 911 Challenge</a></td></tr><tr><td id="nl183" onclick="window.location='/article/183/Cosentinos-Markets-Good-News-and-Bad-News'" onMouseOver="lb('nl183')" onMouseOut="db('nl183')" ><a href="/article/183/Cosentinos-Markets-Good-News-and-Bad-News" title="Off Topic: Cosentino's Markets - Good News and Bad News">Cosentino's Markets - Good News and Bad News</a></td><td id="nl197" onclick="window.location='/article/197/IEEE-Spectrum-Radio-Looking-for-Engineers-Who-Cook'" onMouseOver="lb('nl197')" onMouseOut="db('nl197')" ><a href="/article/197/IEEE-Spectrum-Radio-Looking-for-Engineers-Who-Cook" title="Off Topic: IEEE Spectrum Radio Looking for Engineers Who Cook">IEEE Spectrum Radio Looking for Engineers Who Cook</a></td><td id="nl29" onclick="window.location='/article/29/Recipe-Summaries-Standards-and-Microsoft'" onMouseOver="lb('nl29')" onMouseOut="db('nl29')" ><a href="/article/29/Recipe-Summaries-Standards-and-Microsoft" title="Off Topic: Recipe Summaries - Standards and Microsoft">Recipe Summaries - Standards and Microsoft</a></td><td id="nl22" onclick="window.location='/article/22/Welcome-to-the-New-Server'" onMouseOver="lb('nl22')" onMouseOut="db('nl22')" ><a href="/article/22/Welcome-to-the-New-Server" title="Off Topic: Welcome to the New Server">Welcome to the New Server</a></td></tr><tr><td id="nl64" onclick="window.location='/article/64/Details-of-the-Pumpkin-Carving'" onMouseOver="lb('nl64')" onMouseOut="db('nl64')" ><a href="/article/64/Details-of-the-Pumpkin-Carving" title="Off Topic: Details of the Pumpkin Carving">Details of the Pumpkin Carving</a></td><td id="nl24" onclick="window.location='/article/24/Increased-Readership-and-Traffic-Woes'" onMouseOver="lb('nl24')" onMouseOut="db('nl24')" ><a href="/article/24/Increased-Readership-and-Traffic-Woes" title="Off Topic: Increased Readership and Traffic Woes">Increased Readership and Traffic Woes</a></td><td id="nl331" onclick="window.location='/article/331/Robot-Turtles-Board-Game-Kickstarter'" onMouseOver="lb('nl331')" onMouseOut="db('nl331')" ><a href="/article/331/Robot-Turtles-Board-Game-Kickstarter" title="Off Topic: Robot Turtles Board Game Kickstarter">Robot Turtles Board Game Kickstarter</a></td><td id="nl192" onclick="window.location='/article/192/Whats-the-Most-Trans-Fat-Youve-Seen'" onMouseOver="lb('nl192')" onMouseOut="db('nl192')" ><a href="/article/192/Whats-the-Most-Trans-Fat-Youve-Seen" title="Off Topic: What's the Most Trans Fat You've Seen?">What's the Most Trans Fat You've Seen?</a></td></tr><tr><td id="nl23" onclick="window.location='/article/23/Donations-Please'" onMouseOver="lb('nl23')" onMouseOut="db('nl23')" ><a href="/article/23/Donations-Please" title="Off Topic: Donations Please!">Donations Please!</a></td><td id="nl210" onclick="window.location='/article/210/Inside-the-CIA'" onMouseOver="lb('nl210')" onMouseOut="db('nl210')" ><a href="/article/210/Inside-the-CIA" title="Off Topic: Inside the CIA">Inside the CIA</a></td><td id="nl167" onclick="window.location='/article/167/Santa-Cruz-Clam-Chowder-Cook-Off-2006'" onMouseOver="lb('nl167')" onMouseOut="db('nl167')" ><a href="/article/167/Santa-Cruz-Clam-Chowder-Cook-Off-2006" title="Off Topic: Santa Cruz Clam Chowder Cook Off 2006">Santa Cruz Clam Chowder Cook Off 2006</a></td><td id="nl325" onclick="window.location='/article/325/Wolfgang-Puck-Phone-Interview'" onMouseOver="lb('nl325')" onMouseOut="db('nl325')" ><a href="/article/325/Wolfgang-Puck-Phone-Interview" title="Off Topic: Wolfgang Puck Phone Interview">Wolfgang Puck Phone Interview</a></td></tr><tr><td id="nl157" onclick="window.location='/article/157/Fancy-Food-Show-Winter-2006'" onMouseOver="lb('nl157')" onMouseOut="db('nl157')" ><a href="/article/157/Fancy-Food-Show-Winter-2006" title="Off Topic: Fancy Food Show Winter 2006">Fancy Food Show Winter 2006</a></td></tr></table></div>
+	<div id="navcat_RecipeFile" style="display:none"><table width="100%" class="navlinks" cellpadding="0" cellspacing="1"><tr><td width="25%" id="nl188" onclick="window.location='/recipe/188/Anghelikas-Tsatsiki-Tzatziki'" onMouseOver="lb('nl188')" onMouseOut="db('nl188')" ><a href="/recipe/188/Anghelikas-Tsatsiki-Tzatziki" title="Recipe File: Anghelika's Tsatsiki (Tzatziki)">Anghelika's Tsatsiki (Tzatziki)</a></td><td width="25%" id="nl98" onclick="window.location='/recipe/98/Condensed-Milk-Fudge'" onMouseOver="lb('nl98')" onMouseOut="db('nl98')" ><a href="/recipe/98/Condensed-Milk-Fudge" title="Recipe File: Condensed Milk Fudge">Condensed Milk Fudge</a></td><td width="25%" id="nl305" onclick="window.location='/recipe/305/Honey-Pecan-Pralines'" onMouseOver="lb('nl305')" onMouseOut="db('nl305')" ><a href="/recipe/305/Honey-Pecan-Pralines" title="Recipe File: Honey Pecan Pralines">Honey Pecan Pralines</a></td><td width="25%" id="nl92" onclick="window.location='/recipe/92/Poached-Fish'" onMouseOver="lb('nl92')" onMouseOut="db('nl92')" ><a href="/recipe/92/Poached-Fish" title="Recipe File: Poached Fish">Poached Fish</a></td></tr><tr><td id="nl163" onclick="window.location='/recipe/163/Asparagus-with-Almonds'" onMouseOver="lb('nl163')" onMouseOut="db('nl163')" ><a href="/recipe/163/Asparagus-with-Almonds" title="Recipe File: Asparagus with Almonds">Asparagus with Almonds</a></td><td id="nl152" onclick="window.location='/recipe/152/Cooked-Egg-Nog'" onMouseOver="lb('nl152')" onMouseOut="db('nl152')" ><a href="/recipe/152/Cooked-Egg-Nog" title="Recipe File: Cooked Egg Nog">Cooked Egg Nog</a></td><td id="nl308" onclick="window.location='/recipe/308/Hot-Chocolate'" onMouseOver="lb('nl308')" onMouseOut="db('nl308')" ><a href="/recipe/308/Hot-Chocolate" title="Recipe File: Hot Chocolate">Hot Chocolate</a></td><td id="nl38" onclick="window.location='/recipe/38/Prime-Rib-or-Standing-Rib-Roast'" onMouseOver="lb('nl38')" onMouseOut="db('nl38')" ><a href="/recipe/38/Prime-Rib-or-Standing-Rib-Roast" title="Recipe File: Prime Rib or Standing Rib Roast">Prime Rib or Standing Rib Roast</a></td></tr><tr><td id="nl103" onclick="window.location='/recipe/103/Baked-Cinnamon-Apple'" onMouseOver="lb('nl103')" onMouseOut="db('nl103')" ><a href="/recipe/103/Baked-Cinnamon-Apple" title="Recipe File: Baked Cinnamon Apple">Baked Cinnamon Apple</a></td><td id="nl48" onclick="window.location='/recipe/48/Corn-Fritters'" onMouseOver="lb('nl48')" onMouseOut="db('nl48')" ><a href="/recipe/48/Corn-Fritters" title="Recipe File: Corn Fritters">Corn Fritters</a></td><td id="nl104" onclick="window.location='/recipe/104/Kelloggs-Rice-Krispies-Treats'" onMouseOver="lb('nl104')" onMouseOut="db('nl104')" ><a href="/recipe/104/Kelloggs-Rice-Krispies-Treats" title="Recipe File: Kellogg's Rice Krispies Treats">Kellogg's Rice Krispies Treats</a></td><td id="nl189" onclick="window.location='/recipe/189/Prosciutto-e-Melone'" onMouseOver="lb('nl189')" onMouseOut="db('nl189')" ><a href="/recipe/189/Prosciutto-e-Melone" title="Recipe File: Prosciutto e Melone">Prosciutto e Melone</a></td></tr><tr><td id="nl108" onclick="window.location='/recipe/108/Banana-Nut-Bread'" onMouseOver="lb('nl108')" onMouseOut="db('nl108')" ><a href="/recipe/108/Banana-Nut-Bread" title="Recipe File: Banana Nut Bread">Banana Nut Bread</a></td><td id="nl79" onclick="window.location='/recipe/79/Cranberry-Sauce'" onMouseOver="lb('nl79')" onMouseOut="db('nl79')" ><a href="/recipe/79/Cranberry-Sauce" title="Recipe File: Cranberry Sauce">Cranberry Sauce</a></td><td id="nl33" onclick="window.location='/recipe/33/Lemon-Bars'" onMouseOver="lb('nl33')" onMouseOut="db('nl33')" ><a href="/recipe/33/Lemon-Bars" title="Recipe File: Lemon Bars">Lemon Bars</a></td><td id="nl65" onclick="window.location='/recipe/65/Pumpkin-Pie'" onMouseOver="lb('nl65')" onMouseOut="db('nl65')" ><a href="/recipe/65/Pumpkin-Pie" title="Recipe File: Pumpkin Pie">Pumpkin Pie</a></td></tr><tr><td id="nl246" onclick="window.location='/recipe/246/Barbecue-Pork-Ribs-Baby-Back-or-Spare'" onMouseOver="lb('nl246')" onMouseOut="db('nl246')" ><a href="/recipe/246/Barbecue-Pork-Ribs-Baby-Back-or-Spare" title="Recipe File: Barbecue Pork Ribs (Baby Back or Spare)">Barbecue Pork Ribs (Baby Back or Spare)</a></td><td id="nl194" onclick="window.location='/recipe/194/Cream-of-Mushroom-Soup'" onMouseOver="lb('nl194')" onMouseOut="db('nl194')" ><a href="/recipe/194/Cream-of-Mushroom-Soup" title="Recipe File: Cream of Mushroom Soup">Cream of Mushroom Soup</a></td><td id="nl121" onclick="window.location='/recipe/121/Lemon-Iced-Tea'" onMouseOver="lb('nl121')" onMouseOut="db('nl121')" ><a href="/recipe/121/Lemon-Iced-Tea" title="Recipe File: Lemon Iced Tea">Lemon Iced Tea</a></td><td id="nl227" onclick="window.location='/recipe/227/Ratatouille'" onMouseOver="lb('nl227')" onMouseOut="db('nl227')" ><a href="/recipe/227/Ratatouille" title="Recipe File: Ratatouille">Ratatouille</a></td></tr><tr><td id="nl35" onclick="window.location='/recipe/35/Basic-Granita'" onMouseOver="lb('nl35')" onMouseOut="db('nl35')" ><a href="/recipe/35/Basic-Granita" title="Recipe File: Basic Granita">Basic Granita</a></td><td id="nl107" onclick="window.location='/recipe/107/Creamy-Garlic-Mashed-Potatoes'" onMouseOver="lb('nl107')" onMouseOut="db('nl107')" ><a href="/recipe/107/Creamy-Garlic-Mashed-Potatoes" title="Recipe File: Creamy Garlic Mashed Potatoes">Creamy Garlic Mashed Potatoes</a></td><td id="nl124" onclick="window.location='/recipe/124/Lime-Marinated-Grilled-Chicken'" onMouseOver="lb('nl124')" onMouseOut="db('nl124')" ><a href="/recipe/124/Lime-Marinated-Grilled-Chicken" title="Recipe File: Lime Marinated Grilled Chicken">Lime Marinated Grilled Chicken</a></td><td id="nl101" onclick="window.location='/recipe/101/Roasted-Asparagus-Spears'" onMouseOver="lb('nl101')" onMouseOut="db('nl101')" ><a href="/recipe/101/Roasted-Asparagus-Spears" title="Recipe File: Roasted Asparagus Spears">Roasted Asparagus Spears</a></td></tr><tr><td id="nl47" onclick="window.location='/recipe/47/Basic-Pancakes'" onMouseOver="lb('nl47')" onMouseOut="db('nl47')" ><a href="/recipe/47/Basic-Pancakes" title="Recipe File: Basic Pancakes">Basic Pancakes</a></td><td id="nl32" onclick="window.location='/recipe/32/Creme-Brulee-Cregraveme-Brucircleacutee'" onMouseOver="lb('nl32')" onMouseOut="db('nl32')" ><a href="/recipe/32/Creme-Brulee-Cregraveme-Brucircleacutee" title="Recipe File: Creme Brulee (Cr&egrave;me Br&ucirc;l&eacute;e)">Creme Brulee (Cr&egrave;me Br&ucirc;l&eacute;e)</a></td><td id="nl66" onclick="window.location='/recipe/66/Limeade'" onMouseOver="lb('nl66')" onMouseOut="db('nl66')" ><a href="/recipe/66/Limeade" title="Recipe File: Limeade">Limeade</a></td><td id="nl174" onclick="window.location='/recipe/174/Rosemary-Lamb-Chops'" onMouseOver="lb('nl174')" onMouseOut="db('nl174')" ><a href="/recipe/174/Rosemary-Lamb-Chops" title="Recipe File: Rosemary Lamb Chops">Rosemary Lamb Chops</a></td></tr><tr><td id="nl44" onclick="window.location='/recipe/44/Basic-Vinaigrette-Salad-Dressing'" onMouseOver="lb('nl44')" onMouseOut="db('nl44')" ><a href="/recipe/44/Basic-Vinaigrette-Salad-Dressing" title="Recipe File: Basic Vinaigrette Salad Dressing">Basic Vinaigrette Salad Dressing</a></td><td id="nl317" onclick="window.location='/recipe/317/Crunchy-Bloody-Mary'" onMouseOver="lb('nl317')" onMouseOut="db('nl317')" ><a href="/recipe/317/Crunchy-Bloody-Mary" title="Recipe File: Crunchy Bloody Mary">Crunchy Bloody Mary</a></td><td id="nl230" onclick="window.location='/recipe/230/Macaroni-and-Cheese-Bake'" onMouseOver="lb('nl230')" onMouseOut="db('nl230')" ><a href="/recipe/230/Macaroni-and-Cheese-Bake" title="Recipe File: Macaroni and Cheese Bake">Macaroni and Cheese Bake</a></td><td id="nl53" onclick="window.location='/recipe/53/Salsa-Cruda'" onMouseOver="lb('nl53')" onMouseOut="db('nl53')" ><a href="/recipe/53/Salsa-Cruda" title="Recipe File: Salsa Cruda">Salsa Cruda</a></td></tr><tr><td id="nl122" onclick="window.location='/recipe/122/Beef-Stroganoff'" onMouseOver="lb('nl122')" onMouseOut="db('nl122')" ><a href="/recipe/122/Beef-Stroganoff" title="Recipe File: Beef Stroganoff">Beef Stroganoff</a></td><td id="nl158" onclick="window.location='/recipe/158/Dark-Chocolate-Brownies'" onMouseOver="lb('nl158')" onMouseOut="db('nl158')" ><a href="/recipe/158/Dark-Chocolate-Brownies" title="Recipe File: Dark Chocolate Brownies">Dark Chocolate Brownies</a></td><td id="nl177" onclick="window.location='/recipe/177/Matzo-Matzah-Ball-Soup'" onMouseOver="lb('nl177')" onMouseOut="db('nl177')" ><a href="/recipe/177/Matzo-Matzah-Ball-Soup" title="Recipe File: Matzo (Matzah) Ball Soup">Matzo (Matzah) Ball Soup</a></td><td id="nl8" onclick="window.location='/recipe/8/Sauteed-Okra-with-Roasted-Red-Peppers'" onMouseOver="lb('nl8')" onMouseOut="db('nl8')" ><a href="/recipe/8/Sauteed-Okra-with-Roasted-Red-Peppers" title="Recipe File: Sauteed Okra with Roasted Red Peppers">Sauteed Okra with Roasted Red Peppers</a></td></tr><tr><td id="nl154" onclick="window.location='/recipe/154/Biscotti'" onMouseOver="lb('nl154')" onMouseOut="db('nl154')" ><a href="/recipe/154/Biscotti" title="Recipe File: Biscotti">Biscotti</a></td><td id="nl160" onclick="window.location='/recipe/160/Dark-Chocolate-Souffle'" onMouseOver="lb('nl160')" onMouseOut="db('nl160')" ><a href="/recipe/160/Dark-Chocolate-Souffle" title="Recipe File: Dark Chocolate Souffle">Dark Chocolate Souffle</a></td><td id="nl36" onclick="window.location='/recipe/36/Meat-Lasagna'" onMouseOver="lb('nl36')" onMouseOut="db('nl36')" ><a href="/recipe/36/Meat-Lasagna" title="Recipe File: Meat Lasagna">Meat Lasagna</a></td><td id="nl320" onclick="window.location='/recipe/320/Sauteed-Spinach'" onMouseOver="lb('nl320')" onMouseOut="db('nl320')" ><a href="/recipe/320/Sauteed-Spinach" title="Recipe File: Sauteed Spinach">Sauteed Spinach</a></td></tr><tr><td id="nl288" onclick="window.location='/recipe/288/Biscuits-Southern-Buttermilk-Biscuits'" onMouseOver="lb('nl288')" onMouseOut="db('nl288')" ><a href="/recipe/288/Biscuits-Southern-Buttermilk-Biscuits" title="Recipe File: Biscuits (Southern Buttermilk Biscuits)">Biscuits (Southern Buttermilk Biscuits)</a></td><td id="nl147" onclick="window.location='/recipe/147/Dirty-Rice'" onMouseOver="lb('nl147')" onMouseOut="db('nl147')" ><a href="/recipe/147/Dirty-Rice" title="Recipe File: Dirty Rice">Dirty Rice</a></td><td id="nl55" onclick="window.location='/recipe/55/Mini-Hamburgers'" onMouseOver="lb('nl55')" onMouseOut="db('nl55')" ><a href="/recipe/55/Mini-Hamburgers" title="Recipe File: Mini Hamburgers">Mini Hamburgers</a></td><td id="nl127" onclick="window.location='/recipe/127/Shepherds-Pie-Cottage-Pie'" onMouseOver="lb('nl127')" onMouseOut="db('nl127')" ><a href="/recipe/127/Shepherds-Pie-Cottage-Pie" title="Recipe File: Shepherd's Pie (Cottage Pie)">Shepherd's Pie (Cottage Pie)</a></td></tr><tr><td id="nl136" onclick="window.location='/recipe/136/Braised-Brussels-Sprouts'" onMouseOver="lb('nl136')" onMouseOut="db('nl136')" ><a href="/recipe/136/Braised-Brussels-Sprouts" title="Recipe File: Braised Brussels Sprouts">Braised Brussels Sprouts</a></td><td id="nl255" onclick="window.location='/recipe/255/Dulce-de-Leche'" onMouseOver="lb('nl255')" onMouseOut="db('nl255')" ><a href="/recipe/255/Dulce-de-Leche" title="Recipe File: Dulce de Leche">Dulce de Leche</a></td><td id="nl151" onclick="window.location='/recipe/151/Mulled-Cider-Spiced-Apple-Cider'" onMouseOver="lb('nl151')" onMouseOut="db('nl151')" ><a href="/recipe/151/Mulled-Cider-Spiced-Apple-Cider" title="Recipe File: Mulled Cider (Spiced Apple Cider)">Mulled Cider (Spiced Apple Cider)</a></td><td id="nl15" onclick="window.location='/recipe/15/Shrimp-Scampi'" onMouseOver="lb('nl15')" onMouseOut="db('nl15')" ><a href="/recipe/15/Shrimp-Scampi" title="Recipe File: Shrimp Scampi">Shrimp Scampi</a></td></tr><tr><td id="nl268" onclick="window.location='/recipe/268/Buffalo-Chicken-Chili'" onMouseOver="lb('nl268')" onMouseOut="db('nl268')" ><a href="/recipe/268/Buffalo-Chicken-Chili" title="Recipe File: Buffalo Chicken Chili">Buffalo Chicken Chili</a></td><td id="nl203" onclick="window.location='/recipe/203/Egg-Custard-with-Clams'" onMouseOver="lb('nl203')" onMouseOut="db('nl203')" ><a href="/recipe/203/Egg-Custard-with-Clams" title="Recipe File: Egg Custard with Clams">Egg Custard with Clams</a></td><td id="nl185" onclick="window.location='/recipe/185/Nestle-Toll-House-Chocolate-Chip-Cookies'" onMouseOver="lb('nl185')" onMouseOut="db('nl185')" ><a href="/recipe/185/Nestle-Toll-House-Chocolate-Chip-Cookies" title="Recipe File: Nestle Toll House Chocolate Chip Cookies">Nestle Toll House Chocolate Chip Cookies</a></td><td id="nl26" onclick="window.location='/recipe/26/Simple-Tiramisu'" onMouseOver="lb('nl26')" onMouseOut="db('nl26')" ><a href="/recipe/26/Simple-Tiramisu" title="Recipe File: Simple Tiramisu">Simple Tiramisu</a></td></tr><tr><td id="nl306" onclick="window.location='/recipe/306/Butter-Pecan-Ice-Cream'" onMouseOver="lb('nl306')" onMouseOut="db('nl306')" ><a href="/recipe/306/Butter-Pecan-Ice-Cream" title="Recipe File: Butter Pecan Ice Cream">Butter Pecan Ice Cream</a></td><td id="nl159" onclick="window.location='/recipe/159/English-Toffee'" onMouseOver="lb('nl159')" onMouseOut="db('nl159')" ><a href="/recipe/159/English-Toffee" title="Recipe File: English Toffee">English Toffee</a></td><td id="nl86" onclick="window.location='/recipe/86/Okra-Stew-Fast-Gumbo'" onMouseOver="lb('nl86')" onMouseOut="db('nl86')" ><a href="/recipe/86/Okra-Stew-Fast-Gumbo" title="Recipe File: Okra Stew (Fast Gumbo)">Okra Stew (Fast Gumbo)</a></td><td id="nl28" onclick="window.location='/recipe/28/Slow-Simmered-Spicy-Barbeque-Sauce'" onMouseOver="lb('nl28')" onMouseOut="db('nl28')" ><a href="/recipe/28/Slow-Simmered-Spicy-Barbeque-Sauce" title="Recipe File: Slow Simmered Spicy Barbeque Sauce">Slow Simmered Spicy Barbeque Sauce</a></td></tr><tr><td id="nl180" onclick="window.location='/recipe/180/Buttercream-Frosting-American'" onMouseOver="lb('nl180')" onMouseOut="db('nl180')" ><a href="/recipe/180/Buttercream-Frosting-American" title="Recipe File: Buttercream Frosting (American)">Buttercream Frosting (American)</a></td><td id="nl327" onclick="window.location='/recipe/327/Espresso-Brownies'" onMouseOver="lb('nl327')" onMouseOut="db('nl327')" ><a href="/recipe/327/Espresso-Brownies" title="Recipe File: Espresso Brownies">Espresso Brownies</a></td><td id="nl200" onclick="window.location='/recipe/200/Osso-Buco'" onMouseOver="lb('nl200')" onMouseOut="db('nl200')" ><a href="/recipe/200/Osso-Buco" title="Recipe File: Osso Buco">Osso Buco</a></td><td id="nl144" onclick="window.location='/recipe/144/Smoked-Beer-Can-Turkey'" onMouseOver="lb('nl144')" onMouseOut="db('nl144')" ><a href="/recipe/144/Smoked-Beer-Can-Turkey" title="Recipe File: Smoked Beer Can Turkey">Smoked Beer Can Turkey</a></td></tr><tr><td id="nl9" onclick="window.location='/recipe/9/Campbells-Green-Bean-Casserole'" onMouseOver="lb('nl9')" onMouseOut="db('nl9')" ><a href="/recipe/9/Campbells-Green-Bean-Casserole" title="Recipe File: Campbell's Green Bean Casserole">Campbell's Green Bean Casserole</a></td><td id="nl34" onclick="window.location='/recipe/34/Garlic-Roasted-Potatoes'" onMouseOver="lb('nl34')" onMouseOut="db('nl34')" ><a href="/recipe/34/Garlic-Roasted-Potatoes" title="Recipe File: Garlic Roasted Potatoes">Garlic Roasted Potatoes</a></td><td id="nl81" onclick="window.location='/recipe/81/Oven-Baked-Chicken-and-Rice'" onMouseOver="lb('nl81')" onMouseOut="db('nl81')" ><a href="/recipe/81/Oven-Baked-Chicken-and-Rice" title="Recipe File: Oven Baked Chicken and Rice">Oven Baked Chicken and Rice</a></td><td id="nl239" onclick="window.location='/recipe/239/Soft-Boiled-Eggs'" onMouseOver="lb('nl239')" onMouseOut="db('nl239')" ><a href="/recipe/239/Soft-Boiled-Eggs" title="Recipe File: Soft Boiled Eggs">Soft Boiled Eggs</a></td></tr><tr><td id="nl181" onclick="window.location='/recipe/181/Cheesecake-Cupcakes'" onMouseOver="lb('nl181')" onMouseOut="db('nl181')" ><a href="/recipe/181/Cheesecake-Cupcakes" title="Recipe File: Cheesecake Cupcakes">Cheesecake Cupcakes</a></td><td id="nl132" onclick="window.location='/recipe/132/Gravlax'" onMouseOver="lb('nl132')" onMouseOut="db('nl132')" ><a href="/recipe/132/Gravlax" title="Recipe File: Gravlax">Gravlax</a></td><td id="nl45" onclick="window.location='/recipe/45/Oven-Baked-Spare-Ribs-Two-Ways'" onMouseOver="lb('nl45')" onMouseOut="db('nl45')" ><a href="/recipe/45/Oven-Baked-Spare-Ribs-Two-Ways" title="Recipe File: Oven Baked Spare Ribs - Two Ways">Oven Baked Spare Ribs - Two Ways</a></td><td id="nl83" onclick="window.location='/recipe/83/Strawberry-Glazed-Angel-Food-Cake'" onMouseOver="lb('nl83')" onMouseOut="db('nl83')" ><a href="/recipe/83/Strawberry-Glazed-Angel-Food-Cake" title="Recipe File: Strawberry Glazed Angel Food Cake">Strawberry Glazed Angel Food Cake</a></td></tr><tr><td id="nl89" onclick="window.location='/recipe/89/Cheesecake-Plain-New-York-Style'" onMouseOver="lb('nl89')" onMouseOut="db('nl89')" ><a href="/recipe/89/Cheesecake-Plain-New-York-Style" title="Recipe File: Cheesecake, Plain New York Style">Cheesecake, Plain New York Style</a></td><td id="nl111" onclick="window.location='/recipe/111/Grilled-Artichokes'" onMouseOver="lb('nl111')" onMouseOut="db('nl111')" ><a href="/recipe/111/Grilled-Artichokes" title="Recipe File: Grilled Artichokes">Grilled Artichokes</a></td><td id="nl37" onclick="window.location='/recipe/37/Pan-Fried-Fish-Fillets'" onMouseOver="lb('nl37')" onMouseOut="db('nl37')" ><a href="/recipe/37/Pan-Fried-Fish-Fillets" title="Recipe File: Pan Fried Fish Fillets">Pan Fried Fish Fillets</a></td><td id="nl4" onclick="window.location='/recipe/4/Sweet-Corn-Bread'" onMouseOver="lb('nl4')" onMouseOut="db('nl4')" ><a href="/recipe/4/Sweet-Corn-Bread" title="Recipe File: Sweet Corn Bread">Sweet Corn Bread</a></td></tr><tr><td id="nl59" onclick="window.location='/recipe/59/Chicken-Mushroom-Marsala'" onMouseOver="lb('nl59')" onMouseOut="db('nl59')" ><a href="/recipe/59/Chicken-Mushroom-Marsala" title="Recipe File: Chicken &amp; Mushroom Marsala">Chicken &amp; Mushroom Marsala</a></td><td id="nl20" onclick="window.location='/recipe/20/Grilled-Pork-Chops'" onMouseOver="lb('nl20')" onMouseOut="db('nl20')" ><a href="/recipe/20/Grilled-Pork-Chops" title="Recipe File: Grilled Pork Chops">Grilled Pork Chops</a></td><td id="nl71" onclick="window.location='/recipe/71/Pan-Seared-Scallops-with-Roasted-Red-Pepper-Sauce'" onMouseOver="lb('nl71')" onMouseOut="db('nl71')" ><a href="/recipe/71/Pan-Seared-Scallops-with-Roasted-Red-Pepper-Sauce" title="Recipe File: Pan Seared Scallops with Roasted Red Pepper Sauce">Pan Seared Scallops with Roasted Red Pepper Sauce</a></td><td id="nl42" onclick="window.location='/recipe/42/Traditional-Chicken-Pot-Pie'" onMouseOver="lb('nl42')" onMouseOut="db('nl42')" ><a href="/recipe/42/Traditional-Chicken-Pot-Pie" title="Recipe File: Traditional Chicken Pot Pie">Traditional Chicken Pot Pie</a></td></tr><tr><td id="nl178" onclick="window.location='/recipe/178/Chocolate-Cake'" onMouseOver="lb('nl178')" onMouseOut="db('nl178')" ><a href="/recipe/178/Chocolate-Cake" title="Recipe File: Chocolate Cake">Chocolate Cake</a></td><td id="nl31" onclick="window.location='/recipe/31/Grilled-Porterhouse-or-T-Bone-Steak'" onMouseOver="lb('nl31')" onMouseOut="db('nl31')" ><a href="/recipe/31/Grilled-Porterhouse-or-T-Bone-Steak" title="Recipe File: Grilled Porterhouse or T-Bone Steak">Grilled Porterhouse or T-Bone Steak</a></td><td id="nl164" onclick="window.location='/recipe/164/Parmesan-Garlic-Bread'" onMouseOver="lb('nl164')" onMouseOut="db('nl164')" ><a href="/recipe/164/Parmesan-Garlic-Bread" title="Recipe File: Parmesan Garlic Bread">Parmesan Garlic Bread</a></td><td id="nl18" onclick="window.location='/recipe/18/Traditional-Pecan-Pie'" onMouseOver="lb('nl18')" onMouseOut="db('nl18')" ><a href="/recipe/18/Traditional-Pecan-Pie" title="Recipe File: Traditional Pecan Pie">Traditional Pecan Pie</a></td></tr><tr><td id="nl195" onclick="window.location='/recipe/195/Chocolate-Truffles'" onMouseOver="lb('nl195')" onMouseOut="db('nl195')" ><a href="/recipe/195/Chocolate-Truffles" title="Recipe File: Chocolate Truffles">Chocolate Truffles</a></td><td id="nl10" onclick="window.location='/recipe/10/Grilled-Salmon'" onMouseOver="lb('nl10')" onMouseOut="db('nl10')" ><a href="/recipe/10/Grilled-Salmon" title="Recipe File: Grilled Salmon">Grilled Salmon</a></td><td id="nl58" onclick="window.location='/recipe/58/Peanut-Butter-Cookies'" onMouseOver="lb('nl58')" onMouseOut="db('nl58')" ><a href="/recipe/58/Peanut-Butter-Cookies" title="Recipe File: Peanut Butter Cookies">Peanut Butter Cookies</a></td><td id="nl62" onclick="window.location='/recipe/62/Tuna-Noodle-Casserole'" onMouseOver="lb('nl62')" onMouseOut="db('nl62')" ><a href="/recipe/62/Tuna-Noodle-Casserole" title="Recipe File: Tuna Noodle Casserole">Tuna Noodle Casserole</a></td></tr><tr><td id="nl112" onclick="window.location='/recipe/112/Clam-Chowder-New-England-Style'" onMouseOver="lb('nl112')" onMouseOut="db('nl112')" ><a href="/recipe/112/Clam-Chowder-New-England-Style" title="Recipe File: Clam Chowder, New England Style">Clam Chowder, New England Style</a></td><td id="nl6" onclick="window.location='/recipe/6/Grilled-Skinless-Chicken-Breast'" onMouseOver="lb('nl6')" onMouseOut="db('nl6')" ><a href="/recipe/6/Grilled-Skinless-Chicken-Breast" title="Recipe File: Grilled Skinless Chicken Breast">Grilled Skinless Chicken Breast</a></td><td id="nl168" onclick="window.location='/recipe/168/Pecan-Coffee-Cake'" onMouseOver="lb('nl168')" onMouseOut="db('nl168')" ><a href="/recipe/168/Pecan-Coffee-Cake" title="Recipe File: Pecan Coffee Cake">Pecan Coffee Cake</a></td><td id="nl75" onclick="window.location='/recipe/75/Turkey-or-Chicken-Stock'" onMouseOver="lb('nl75')" onMouseOut="db('nl75')" ><a href="/recipe/75/Turkey-or-Chicken-Stock" title="Recipe File: Turkey or Chicken Stock">Turkey or Chicken Stock</a></td></tr><tr><td id="nl74" onclick="window.location='/recipe/74/Classic-Roast-Turkey'" onMouseOver="lb('nl74')" onMouseOut="db('nl74')" ><a href="/recipe/74/Classic-Roast-Turkey" title="Recipe File: Classic Roast Turkey">Classic Roast Turkey</a></td><td id="nl43" onclick="window.location='/recipe/43/Homemade-Mayonnaise'" onMouseOver="lb('nl43')" onMouseOut="db('nl43')" ><a href="/recipe/43/Homemade-Mayonnaise" title="Recipe File: Homemade Mayonnaise">Homemade Mayonnaise</a></td></tr></table></div>
+	<div id="navcat_SousVide" style="display:none"><table width="100%" class="navlinks" cellpadding="0" cellspacing="1"><tr><td width="25%" id="nl283" onclick="window.location='/article/283/An-Introduction-to-Sous-Vide-Cooking'" onMouseOver="lb('nl283')" onMouseOut="db('nl283')" ><a href="/article/283/An-Introduction-to-Sous-Vide-Cooking" title="Sous Vide: An Introduction to Sous Vide Cooking">An Introduction to Sous Vide Cooking</a></td><td width="25%" id="nl289" onclick="window.location='/article/289/Sous-Vide-Cooking-at-Home-Setup-Guide'" onMouseOver="lb('nl289')" onMouseOut="db('nl289')" ><a href="/article/289/Sous-Vide-Cooking-at-Home-Setup-Guide" title="Sous Vide: Sous Vide Cooking at Home Setup Guide">Sous Vide Cooking at Home Setup Guide</a></td></tr></table></div>
+	<div id="navcat_TestRecipes" style="display:none"><table width="100%" class="navlinks" cellpadding="0" cellspacing="1"><tr><td width="25%" id="nl14" onclick="window.location='/recipe/14/Albers-Corn-Bread'" onMouseOver="lb('nl14')" onMouseOut="db('nl14')" ><a href="/recipe/14/Albers-Corn-Bread" title="Test Recipes: Albers Corn Bread">Albers Corn Bread</a></td><td width="25%" id="nl19" onclick="window.location='/recipe/19/Erics-Chocolate-Pecan-Pie'" onMouseOver="lb('nl19')" onMouseOut="db('nl19')" ><a href="/recipe/19/Erics-Chocolate-Pecan-Pie" title="Test Recipes: Eric's Chocolate Pecan Pie">Eric's Chocolate Pecan Pie</a></td><td width="25%" id="nl215" onclick="window.location='/recipe/215/Hot-Cross-Buns-Delia-Smiths'" onMouseOver="lb('nl215')" onMouseOut="db('nl215')" ><a href="/recipe/215/Hot-Cross-Buns-Delia-Smiths" title="Test Recipes: Hot Cross Buns (Delia Smith's)">Hot Cross Buns (Delia Smith's)</a></td><td width="25%" id="nl172" onclick="window.location='/recipe/172/Pan-Pizza'" onMouseOver="lb('nl172')" onMouseOut="db('nl172')" ><a href="/recipe/172/Pan-Pizza" title="Test Recipes: Pan Pizza">Pan Pizza</a></td></tr><tr><td id="nl77" onclick="window.location='/recipe/77/Asian-Taco'" onMouseOver="lb('nl77')" onMouseOut="db('nl77')" ><a href="/recipe/77/Asian-Taco" title="Test Recipes: Asian Taco">Asian Taco</a></td><td id="nl46" onclick="window.location='/recipe/46/Faux-BBQ-Beef-Ribs'" onMouseOver="lb('nl46')" onMouseOut="db('nl46')" ><a href="/recipe/46/Faux-BBQ-Beef-Ribs" title="Test Recipes: Faux BBQ Beef Ribs">Faux BBQ Beef Ribs</a></td><td id="nl49" onclick="window.location='/recipe/49/Joy-of-Cookings-Peanut-Butter-Cookies-14-in-one'" onMouseOver="lb('nl49')" onMouseOut="db('nl49')" ><a href="/recipe/49/Joy-of-Cookings-Peanut-Butter-Cookies-14-in-one" title="Test Recipes: Joy of Cooking's Peanut Butter Cookies (14-in-one)">Joy of Cooking's Peanut Butter Cookies (14-in-one)</a></td><td id="nl252" onclick="window.location='/recipe/252/Quick-Gazpacho'" onMouseOver="lb('nl252')" onMouseOut="db('nl252')" ><a href="/recipe/252/Quick-Gazpacho" title="Test Recipes: Quick Gazpacho">Quick Gazpacho</a></td></tr><tr><td id="nl12" onclick="window.location='/recipe/12/Avocado-Pork-Stuffed-Peppers'" onMouseOver="lb('nl12')" onMouseOut="db('nl12')" ><a href="/recipe/12/Avocado-Pork-Stuffed-Peppers" title="Test Recipes: Avocado Pork Stuffed Peppers">Avocado Pork Stuffed Peppers</a></td><td id="nl76" onclick="window.location='/recipe/76/Giblet-Pan-Gravy'" onMouseOver="lb('nl76')" onMouseOut="db('nl76')" ><a href="/recipe/76/Giblet-Pan-Gravy" title="Test Recipes: Giblet Pan Gravy">Giblet Pan Gravy</a></td><td id="nl80" onclick="window.location='/recipe/80/Leftover-Cranberry-Sauce-Pie'" onMouseOver="lb('nl80')" onMouseOut="db('nl80')" ><a href="/recipe/80/Leftover-Cranberry-Sauce-Pie" title="Test Recipes: Leftover Cranberry Sauce Pie">Leftover Cranberry Sauce Pie</a></td><td id="nl13" onclick="window.location='/recipe/13/Sauteed-Zucchini-with-Mushrooms'" onMouseOver="lb('nl13')" onMouseOut="db('nl13')" ><a href="/recipe/13/Sauteed-Zucchini-with-Mushrooms" title="Test Recipes: Sauteed Zucchini with Mushrooms">Sauteed Zucchini with Mushrooms</a></td></tr><tr><td id="nl41" onclick="window.location='/recipe/41/Basic-Biscuits'" onMouseOver="lb('nl41')" onMouseOut="db('nl41')" ><a href="/recipe/41/Basic-Biscuits" title="Test Recipes: Basic Biscuits">Basic Biscuits</a></td><td id="nl72" onclick="window.location='/recipe/72/Good-Eats-Peanut-Brittle'" onMouseOver="lb('nl72')" onMouseOut="db('nl72')" ><a href="/recipe/72/Good-Eats-Peanut-Brittle" title="Test Recipes: Good Eats Peanut Brittle">Good Eats Peanut Brittle</a></td><td id="nl106" onclick="window.location='/recipe/106/Marshmallows'" onMouseOver="lb('nl106')" onMouseOut="db('nl106')" ><a href="/recipe/106/Marshmallows" title="Test Recipes: Marshmallows">Marshmallows</a></td><td id="nl60" onclick="window.location='/recipe/60/The-Classic-Tiramisu-original-recipe'" onMouseOver="lb('nl60')" onMouseOut="db('nl60')" ><a href="/recipe/60/The-Classic-Tiramisu-original-recipe" title="Test Recipes: The Classic Tiramisu (original recipe?)">The Classic Tiramisu (original recipe?)</a></td></tr><tr><td id="nl87" onclick="window.location='/recipe/87/Carrot-Pulp-Cake-Part-I'" onMouseOver="lb('nl87')" onMouseOut="db('nl87')" ><a href="/recipe/87/Carrot-Pulp-Cake-Part-I" title="Test Recipes: Carrot Pulp Cake, Part I">Carrot Pulp Cake, Part I</a></td><td id="nl69" onclick="window.location='/recipe/69/Halloween-Green-Slime-Spinach-Dip'" onMouseOver="lb('nl69')" onMouseOut="db('nl69')" ><a href="/recipe/69/Halloween-Green-Slime-Spinach-Dip" title="Test Recipes: Halloween Green Slime Spinach Dip">Halloween Green Slime Spinach Dip</a></td><td id="nl161" onclick="window.location='/recipe/161/Orzo-Risotto-with-Buttery-Shrimp'" onMouseOver="lb('nl161')" onMouseOut="db('nl161')" ><a href="/recipe/161/Orzo-Risotto-with-Buttery-Shrimp" title="Test Recipes: Orzo Risotto with Buttery Shrimp">Orzo Risotto with Buttery Shrimp</a></td><td id="nl193" onclick="window.location='/recipe/193/TrailBlaze-Bake-At-Home-Energy-Bars'" onMouseOver="lb('nl193')" onMouseOut="db('nl193')" ><a href="/recipe/193/TrailBlaze-Bake-At-Home-Energy-Bars" title="Test Recipes: TrailBlaze Bake-At-Home Energy Bars">TrailBlaze Bake-At-Home Energy Bars</a></td></tr><tr><td id="nl170" onclick="window.location='/recipe/170/Chinese-Almond-Cookies'" onMouseOver="lb('nl170')" onMouseOut="db('nl170')" ><a href="/recipe/170/Chinese-Almond-Cookies" title="Test Recipes: Chinese Almond Cookies">Chinese Almond Cookies</a></td><td id="nl274" onclick="window.location='/recipe/274/Hatch-Chile-Infused-Chocolate-Truffles'" onMouseOver="lb('nl274')" onMouseOut="db('nl274')" ><a href="/recipe/274/Hatch-Chile-Infused-Chocolate-Truffles" title="Test Recipes: Hatch Chile Infused Chocolate Truffles">Hatch Chile Infused Chocolate Truffles</a></td><td id="nl176" onclick="window.location='/recipe/176/Oven-Fried-Onion-Rings'" onMouseOver="lb('nl176')" onMouseOut="db('nl176')" ><a href="/recipe/176/Oven-Fried-Onion-Rings" title="Test Recipes: Oven-Fried Onion Rings">Oven-Fried Onion Rings</a></td></tr></table></div>
+	
+</div>
+<div class="navbarbottom"></div>
+			<table class="tl_table" cellpadding="0" cellspacing="1" border="0">
+	<tr align="center">
+		<td class="indexsummary">
+			<a href="/toc.php?sort=date">Table of Contents</a>
+		</td>
+		<td class="indexsummary">
+			<a href="/forums">Forums</a>
+		</td>
+		<td class="indexsummary">
+			<a href="/dictionary">Dictionary</a>
+		</td>
+		<td class="indexsummary">
+			<a href="/books">Recommended Reading</a>
+		</td>
+		<td class="indexsummary">
+			<a href="http://astore.amazon.com/themichaelupdate">Marketplace</a>
+		</td>
+		<td class="indexsummary">
+			<a href="http://www.cafepress.com/cookingengineer">Giftshop</a>
+		</td>
+		<td class="indexsummary">
+			<a href="/what_i_ate">What I Ate</a>
+		</td>
+		<td class="indexsummary" style="border:1px solid #C00000">
+			<a href="http://www.orthogonalthought.com/blog" title="Read Michael's Blog: Orthogonal Thought" style="background-color:#FFFFC0">Michael's Blog</a>
+		</td>
+	</tr>
+</table>
+
+
+		
+		
+		
+
+
+		
+	<div id="orthogonalthought" onclick="window.location='http://www.orthogonalthought.com/blog/index.php/2014/08/fall-television-season-2014-grid/';" style="cursor:pointer">
+		Latest Post on Michael's Blog: <a href="http://www.orthogonalthought.com/blog/index.php/2014/08/fall-television-season-2014-grid/">Fall Television Season 2014 Grid</a>
+	</div>	
+	
+
+
+		
+		<div class="mainbody">
+			
+
+<table cellpadding="0" cellspacing="2" border="0" style="margin:0 auto 0 auto">
+	<tr>
+		
+		<td style="background: #000000 url(http://www.cookingforengineers.com/pics2/160/DSC_1748_crop.jpg) no-repeat center center; cursor:pointer;border:2px solid #FFFFA0;padding:0">
+			<a href="/recipe/177/Matzo-Matzah-Ball-Soup" title="Recipe File: Matzo (Matzah) Ball Soup"><div style="height:100px;width:100px;cursor:pointer"></div></a>
+		</td>
+		
+		<td style="background: #000000 url(http://www.cookingforengineers.com/pics/160/DSC_3354_crop.jpg) no-repeat center center; cursor:pointer;border:2px solid #FFFFA0;padding:0">
+			<a href="/recipe/89/Cheesecake-Plain-New-York-Style" title="Recipe File: Cheesecake, Plain New York Style"><div style="height:100px;width:100px;cursor:pointer"></div></a>
+		</td>
+		
+		<td style="background: #000000 url(http://www.cookingforengineers.com/pics/160/DSC_4625_crop.jpg) no-repeat center center; cursor:pointer;border:2px solid #FFFFA0;padding:0">
+			<a href="/article/110/Bacon-Part-II" title="Cooking Tests: Bacon (Part II)"><div style="height:100px;width:100px;cursor:pointer"></div></a>
+		</td>
+		
+		<td style="background: #000000 url(http://www.cookingforengineers.com/hello/259/958/160/IMG_3345_crop.jpg) no-repeat center center; cursor:pointer;border:2px solid #FFFFA0;padding:0">
+			<a href="/recipe/31/Grilled-Porterhouse-or-T-Bone-Steak" title="Recipe File: Grilled Porterhouse or T-Bone Steak"><div style="height:100px;width:100px;cursor:pointer"></div></a>
+		</td>
+		
+		<td style="background: #000000 url(http://www.cookingforengineers.com/pics2/160/DSC_1503_crop.jpg) no-repeat center center; cursor:pointer;border:2px solid #FFFFA0;padding:0">
+			<a href="/recipe/168/Pecan-Coffee-Cake" title="Recipe File: Pecan Coffee Cake"><div style="height:100px;width:100px;cursor:pointer"></div></a>
+		</td>
+		
+		<td style="background: #000000 url(http://www.cookingforengineers.com/hello/259/958/160/IMG_3137_sharp.jpg) no-repeat center center; cursor:pointer;border:2px solid #FFFFA0;padding:0">
+			<a href="/recipe/48/Corn-Fritters" title="Recipe File: Corn Fritters"><div style="height:100px;width:100px;cursor:pointer"></div></a>
+		</td>
+		
+		<td style="background: #000000 url(http://www.cookingforengineers.com/pics6/biscuits/DSC_0223_320.jpg) no-repeat center center; cursor:pointer;border:2px solid #FFFFA0;padding:0">
+			<a href="/recipe/288/Biscuits-Southern-Buttermilk-Biscuits" title="Recipe File: Biscuits (Southern Buttermilk Biscuits)"><div style="height:100px;width:100px;cursor:pointer"></div></a>
+		</td>
+		
+		<td style="background: #000000 url(http://www.cookingforengineers.com/pics/160/DSC_3761_crop.jpg) no-repeat center center; cursor:pointer;border:2px solid #FFFFA0;padding:0">
+			<a href="/recipe/101/Roasted-Asparagus-Spears" title="Recipe File: Roasted Asparagus Spears"><div style="height:100px;width:100px;cursor:pointer"></div></a>
+		</td>
+		
+	</tr>
+</table>
+
+
+<div itemscope itemtype="http://data-vocabulary.org/Recipe">
+	<div id="articleheader">
+			<div class="headertitle"><div>
+				<span class="category">
+					Recipe File
+				</span><br />
+				<h1 class="title" style="display:inline" itemprop="name">
+					Cheesecake Cupcakes
+				</h1>
+				<span class="author">
+					by <span itemprop="author">Michael Chu</span>
+				</span>
+			</div></div>
+		<div class="formatbutton"><a href="/recipe/181/Cheesecake-Cupcakes/trn">Recipe Card</a></div>
+		<div class="formatbutton"><a href="/recipe/181/Cheesecake-Cupcakes/print">Printer-friendly</a></div>
+		
+		<div class="selectedformatbutton">Normal view</div>
+		
+		<div class="hr"></div>
+	</div>
+
+	<div id="articlebody">
+		
+		
+			<div style="font-size:12pt;font-weight:bold;float:right;margin:0px -6px 0 0;padding:0 4px 6px 8px;background-color:#FFFFA0"><a href="/article/184/Curry">Next &#187;</a></div>
+			<div style="font-size:12pt;font-weight:bold;float:left;margin:0px 0 0 -6px;padding:0 8px 6px 4px;background-color:#FFFFA0"><a href="/recipe/178/Chocolate-Cake">&#171; Prev</a></div>
+			
+			<div style="clear:both"></div>
+			<div style="float:right;clear:right;padding:4px 0 12px 8px;" class="nothing">
+				
+<!-- Google DFP Article_160x600-->
+<center>
+<div id='dfp_gpt_1' style='width:160px; height:600px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('dfp_gpt_1'); });
+</script>
+</div>
+</center>
+
+				<div style="margin:30px 0 0 0;line-height:0px"><!-- --></div>
+				
+			</div>
+			
+<!-- Google DFP Article_300x250-->
+<div class="adsense-left">
+<div id='dfp_gpt_2' style='width:300px; height:250px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('dfp_gpt_2'); });
+</script>
+</div>
+</div>
+
+
+		
+		
+			
+			A few years ago, a friend of mine showed me a way to get the cheesecake flavor and texture without taking several hours to bake and cool before serving. If you need to provide individually portioned snacks or dessert to a casual party or gathering, these simple cheesecakes are easy to make and disappear fast.<span class="fullpost"><?if($fullpost==1){?><br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/pics2/640/DSC_1948_crop.jpg'><img src='http://www.cookingforengineers.com/pics2/320/DSC_1948_crop.jpg'  width='246' height='320' title='' class='left' alt='' /></a>
+We'll use Vanilla Wafer cookies (<a href="http://www.amazon.com/exec/obidos/ASIN/B0005ZV1EO/ref%3Dnosim/themichaelupdate">Nabisco's Nilla Wafers</a> is the most commonly available brand) as a bottom crust for these cheesecake cupcakes. To make a dozen cheesecakes, gather up one pound (455 g) cream cheese, 2 large eggs, 1 teaspoon pure vanilla extract, and 1/2 cup (100 g) granulated sugar. The cheesecakes can be topped with whatever you like - maraschino cherries, streusel, Hershey's kisses. I like to use mandarin orange slices.<br /><div style='clear:left'></div><br />
+<br />
+Preheat the oven to 350&#176;F (175&#176;C).<br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/pics2/640/DSC_1949_crop.jpg'><img src='http://www.cookingforengineers.com/pics2/320/DSC_1949_crop.jpg'  width='320' height='208' title='' class='left' alt='' /></a>
+Place the cream cheese, sugar, eggs, and vanilla extract into a mixing bowl and beat on medium-low speed until creamy.<br /><div style='clear:left'></div><br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/pics2/640/DSC_1953_crop.jpg'><img src='http://www.cookingforengineers.com/pics2/320/DSC_1953_crop.jpg'  width='320' height='249' title='' class='left' alt='' /></a>
+Starting with softened cream cheese will speed up the process, but even cold cream cheese will eventually beat in with the eggs to form a creamy mixture.<br /><div style='clear:left'></div><br />
+<br />
+<div class="larticles">
+	<div class="title">Related Articles</div>
+	<div class="link">
+			<a href="/recipe/89/Cheesecake-Plain-New-York-Style">Cheesecake, Plain New York Style</a>
+		</div><div class="link">
+			<a href="/recipe/178/Chocolate-Cake">Chocolate Cake</a>
+		</div><div class="link">
+			<a href="/article/184/Curry">Curry</a>
+		</div><div class="link">
+			<a href="/recipe/98/Condensed-Milk-Fudge">Condensed Milk Fudge</a>
+		</div><div class="link">
+			<a href="/recipe/48/Corn-Fritters">Corn Fritters</a>
+		</div>
+	
+</div>
+	Place cupcake or muffin liners (also called baking cups) into each cup of a muffin pan. While preparing these pictures and reading up on other recipes, I read a recipe that recommended getting aluminum cupcake liners but removing the paper layer (aluminum muffin liners have an inner paper lining placed within the aluminum liner). I decided to take this opportunity to test out different liners: aluminum with paper insert, aluminum without paper, and paper muffin liners. <a href="http://www.amazon.com/exec/obidos/ASIN/B0006M4XTG/ref%3Dnosim/themichaelupdate">Aluminum with paper</a> is what I recommend (more on why later).<br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/pics2/640/DSC_1951_crop.jpg'><img src='http://www.cookingforengineers.com/pics2/320/DSC_1951_crop.jpg'  width='320' height='177' title='' class='left' alt='' /></a>
+Place a vanilla wafer cookie into the bottom of each muffin liner.<br /><div style='clear:left'></div><br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/pics2/640/DSC_1954_crop.jpg'><img src='http://www.cookingforengineers.com/pics2/320/DSC_1954_crop.jpg'  width='320' height='212' title='' class='left' alt='' /></a>
+Pour the cheesecake batter into each muffin liner. Fill to about 3/4 full. The batter should be sufficient for twelve cupcakes with possibly a little left over. Top the individual cheesecakes.<br /><div style='clear:left'></div><br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/pics2/640/DSC_1957_crop.jpg'><img src='http://www.cookingforengineers.com/pics2/320/DSC_1957_crop.jpg'  width='320' height='212' title='' class='left' alt='' /></a>
+Bake the cheesecake cupcakes for about 15 minutes in the preheated 350&#176;F (175&#176;C) oven. As soon as the cheesecakes are set, remove the muffin pan and let it cool for a couple minutes on a wire rack. After the pan has cooled a bit, pull out each of the cheesecakes and let them completely cool before refrigerating.<br /><div style='clear:left'></div><br />
+<br />
+While pulling out the baking cups from the muffin pan, I realized that the aluminum liners made it easy to lift up and pull out. The cupcakes lined with only paper cups were a bit more difficult to grasp and lift up due to the less rigid nature of the liner.<br />
+<br />
+However, the paper lined cupcakes peeled easily while the aluminum only cup had a tendency to stick to the cheesecake. Sometimes while peeling the aluminum lining off, it would tear the cupcake. So, for the best of both worlds, use the <a href="http://www.amazon.com/exec/obidos/ASIN/B0006M4XTG/ref%3Dnosim/themichaelupdate">aluminum baking cups</a> with the paper lining left inside.<br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/pics2/640/DSC_1963_crop.jpg'><img itemprop="photo" src='http://www.cookingforengineers.com/pics2/320/DSC_1963_crop.jpg'  width='289' height='320' title='' class='left' alt='' /></a>
+After chilling, the cheesecakes will keep for a couple days - ready for a quick snack or for delivery to your next get-together.<?}?></span><br /><div style='clear:left'></div><br />
+<br />
+<b>Cheesecake cupcakes</b> (makes 12 cupcakes, can be scaled)<br />
+<table><tr><td align="center" colspan=7>Prepare muffin pan with foil baking cups</td></tr><tr><td align="center" colspan=7>Preheat oven to 350&#176;F (175&#176;C)</td></tr><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">1 lb. (455 g)</span> <span itemprop="name">cream cheese, softened</span></span></td><td rowspan=4 class="vertical">beat until creamy</td><td rowspan=5 class="vertical">fill cups 3/4 full</td><td rowspan=6 class="vertical">top with an orange slice</td><td rowspan=6 class="vertical">bake 350&#176;F (175&#176;C) 15 min.</td><td rowspan=6 class="vertical">cool individually on wire rack</td><td rowspan=6 class="vertical">refrigerate before serving</td></tr><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">2 large (100 g)</span> <span itemprop="name">eggs</span></span></td></tr><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">1 tsp. (5 mL)</span> <span itemprop="name">pure vanilla extract</span></span></td></tr><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">1/2 cup (100 g)</span> <span itemprop="name">granulated sugar</span></span></td></tr><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">12 vanilla</span> <span itemprop="name">wafer cookies</span></span></td><td>place in each cup</td></tr><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">12 mandarin</span> <span itemprop="name">orange slices</span></span></td><td colspan=2 class="righthide"></td></tr></table><br />
+<div class="larticles">
+	<div class="title">Related Articles</div>
+	<div class="link">
+			<a href="/recipe/89/Cheesecake-Plain-New-York-Style">Cheesecake, Plain New York Style</a>
+		</div><div class="link">
+			<a href="/recipe/178/Chocolate-Cake">Chocolate Cake</a>
+		</div><div class="link">
+			<a href="/article/184/Curry">Curry</a>
+		</div><div class="link">
+			<a href="/recipe/98/Condensed-Milk-Fudge">Condensed Milk Fudge</a>
+		</div><div class="link">
+			<a href="/recipe/48/Corn-Fritters">Corn Fritters</a>
+		</div>
+	
+</div>
+	<div style="clear:both;margin-bottom:8px"></div>
+			
+		
+		
+		<div class="clear"></div>
+		
+			<div style="font-size:12pt;font-weight:bold;float:right;margin:0 -6px -4px 0;padding:0 2px 2px 6px;background-color:#FFFFA0"><a href="/article/184/Curry">Next &#187;</a></div>
+			<div style="font-size:12pt;font-weight:bold;float:left;margin:0 0 -4px -6px;padding:0 6px 2px 2px;background-color:#FFFFA0"><a href="/recipe/178/Chocolate-Cake">&#171; Prev</a></div>
+		
+		<div class="clear"></div>
+	</div>
+	
+	<div id="articlefooter">
+		<div class="author">Written by Michael Chu</div>
+		<div class="timestamp">Published on <time itemprop="publishDate" itemprop="published" datetime="2006-06-02">June 02, 2006 at 04:17 PM</time></div>
+		<div class="clear"></div>
+	</div>
+	
+</div>
+
+
+
+
+
+	<div class="spacer3"></div>
+		
+<!-- Google DFP Article_728x90-->
+<center>
+<div id='dfp_gpt_3' style='width:728px; height:90px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('dfp_gpt_3'); });
+</script>
+</div>
+</center>
+
+		
+	
+	
+  <div id="comments">
+		<div id="articlecomments">
+			<div class="header">96 comments on <b>Cheesecake Cupcakes</b>:<span class="commentlink">(<a href="/forums/posting.php?mode=reply&t=684" style="font-size:12pt" title="Comments are managed in the Cooking For Engineers Forums">Post a comment</a>)</span></div>
+			
+					<hr size="1" noshade />
+					<div class="commentheading">On June 03, 2006 at 01:17 PM, xinxin said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody"><font color='orange'>:D  I like it but afraid it will make me fat  ;) </font></div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On June 03, 2006 at 07:46 PM, Chez Christine (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Yum!</span><br /></div>
+					<div class="commentbody">My mom used to make these and put blueberry pie topping on the top.  Mmmm...</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On June 04, 2006 at 12:53 AM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">:P these turned out awsome!!  My kids loved them!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On June 04, 2006 at 01:55 AM, Brian (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Biscuit base for cheese cupcakes</span><br /></div>
+					<div class="commentbody">Try maing your own base from a 50/50 mixture of Digestive and Ginger biscuits, crumbled and bound with unsalted butter</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On June 05, 2006 at 04:45 AM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">I like the idea of using a cookie as the base of the cheese cupcake.  :)</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On June 05, 2006 at 01:42 PM, Crystal said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">From a view, the madarin oranges look like little hearts :)<br />
+<br />
+These look tasty!  Any idea of the nutritional value though?  Probably less than a slice of cheesecake...</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On June 05, 2006 at 03:24 PM, SirisC (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Chocolate</span><br /></div>
+					<div class="commentbody">I wonder what adding a bit of bittersweet baking chocolate would do for flaver?  I'm going to have to try that.  (Any suggestions on how much to use?)</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On June 05, 2006 at 06:24 PM, Audrey (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">I once made 300 of these mini cheesecakes for a friends wedding reception.  How I wish I had seen your recipe first!  The cookie-as-crust thing is genious... I spent hours and hours pressing graham cracker crumbs into teeny paper cups with my thumbs.  :(</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On June 05, 2006 at 08:13 PM, foodscigeek said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">For chocolate cheesecake, I usually use about 1 oz (1 square of bakers chocolate) per 8 oz package of cream cheese.  So for this recipe, you'd likely want 2 oz.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On June 05, 2006 at 09:48 PM, awi (guest) said...</div>
+					<div class="commentsubject">Subject: <span>mini muffin</span><br /></div>
+					<div class="commentbody">I want to try this recipe using a mini muffin pan. How long do you think the baking time will be?</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On June 06, 2006 at 12:49 AM, Michael Chu said...</div>
+					<div class="commentsubject">Subject: <span>Re: mini muffin</span><br /></div>
+					<div class="commentbody"><div class='commentquote'>awi wrote:<div class='commentquotebody'>I want to try this recipe using a mini muffin pan. How long do you think the baking time will be?</div></div><br />
+For something that small, I'd rely on examination over an estimated baking time. Start by checking at 8 minutes and check every two minutes after that. Just gently swing the pan left and right a little and see if the center of the cupcakes still jiggle. If they barely move (about as stiff as jello) then they are done. If they move as if they were liquid, keep baking.<br />
+<br />
+After your first batch, add up the time in the oven and subtract a few minutes and use that as your new first check point for testing doneness on your second batch. On your third batch, you'll probably know the exact time it takes to set your cupcakes with your mini-muffin pan and oven.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On June 06, 2006 at 04:04 AM, an anonymous reader said...</div>
+					<div class="commentsubject">Subject: <span>Cheesecake Cupcakes-Puff up</span><br /></div>
+					<div class="commentbody">When I baked them, they puffed up and fell, is this normal?</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On June 06, 2006 at 04:33 AM, Michael Chu said...</div>
+					<div class="commentsubject">Subject: <span>Re: Cheesecake Cupcakes-Puff up</span><br /></div>
+					<div class="commentbody"><div class='commentquote'>Anonymous wrote:<div class='commentquotebody'>When I baked them, they puffed up and fell, is this normal?</div></div><br />
+They might puff up if air bubbles are trapped in the batter. Try letting them sit for half an hour before you bake (and aggitate the pan intermittantly) to let bubbles work themselves out before baking if this happens all the time for you.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On June 07, 2006 at 09:36 PM, foodscigeek said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">I've always found if you soften the cream cheese with the sugar, and minimize mixing after adding the eggs you don't get the aeration in the batter. <br />
+<br />
+Crystal, I did a quick and dirty calculation on the nutritionals of the mini cheesecakes.  I used USDA database numbers on the full fat versions of all the ingredients.  If you get 12 mini cheesecakes out of this recipe, here's the nutrition content (including the vanilla wafer, but no topping):<br />
+<br />
+Calories                  210<br />
+Fat                           15 g<br />
+Calories from Fat     135<br />
+Protein                       4 g<br />
+Carbohydrates          14 g</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On June 08, 2006 at 04:38 PM, blessedmomma said...</div>
+					<div class="commentsubject">Subject: <span>gingersnaps</span><br /></div>
+					<div class="commentbody">Michael have you thought about using gingersnaps for the "crust" ? I'm feeling experimental so I got some. Will make the batch tonight with half of them nilla half gingersnap. I'll give a review to let you all know.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On June 09, 2006 at 03:40 AM, blessedmomma said...</div>
+					<div class="commentsubject">Subject: <span>Gingersnap followup</span><br /></div>
+					<div class="commentbody">ok, first off everything went according to plan with the recipe and I got 15 nice cheesecakes. I opted to put 5 frozen blueberries on top of each one, nice complimentary tartness. As for the gingersnap crust, it was a bit denser and had just a bit of chewiness to it where the wafer seemed to become one with the cheesecake texture. I prefer the dense texture. Flavor was suprisingly mild compared to eating a gingersnap out of the box. The ginger "bite" was all but gone where the wafer seems to again absorb the cheesecake and the flavor is not easy to distinguish. Bottom line, I like both. If you want to taste the crust try the gingersnap, if you want the cheesecake flavor unhindered, use the wafer. I'm half tempted to do a batch with brown sugar sprinkled on the bottom of the cups before the cookie is placed for a carmalized crust. What fun. Thanks Michael.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On June 09, 2006 at 05:13 PM, Crystal said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody"><div class='commentquote'>foodscigeek wrote:<div class='commentquotebody'><br />
+Calories                  210<br />
+Fat                           15 g<br />
+Calories from Fat     135<br />
+Protein                       4 g<br />
+Carbohydrates          14 g</div></div><br />
+<br />
+Not bad considering it is cheesecake we're taking about!  Thanks very much foodscigeek ^_^</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On June 11, 2006 at 02:42 AM, Ryn (guest) said...</div>
+					<div class="commentsubject">Subject: <span>healthy...cheesecake</span><br /></div>
+					<div class="commentbody">I was wondering whether it'd work to use reduced-fat or even fat-free cream cheese...I'm slightly afraid that the reduction in fat content will upset them =/</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On June 12, 2006 at 03:12 PM, Rev.Krull (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Results From My Attempt</span><br /></div>
+					<div class="commentbody">I made the cheesecake cupcakes last night.  They turned out really good!<br />
+Instead of vanilla wafers for the "crust," I used chocolate chip cookies.  The kind which are advertised as "soft" or "chewy" worked the best.  They are generally larger than the bottom of a muffin cup, so I had to manually trim away the edges of the cookies to get them to fit (and you get to eat the trimmings, of course).  Also, I'll note that the resulting mixture after beating had the consistency of pudding.  You had to spoon the mixture into the cups, rather than pour.  I topped my with canned cherries (3 per muffin).</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On June 15, 2006 at 04:52 PM, slick (guest) said...</div>
+					<div class="commentsubject">Subject: <span>upside-down</span><br /></div>
+					<div class="commentbody">I wonder if a silicone muffin pan would work.  Also, if you put the crust on the top and the topping on the bottom would it still cook the same?</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On June 16, 2006 at 09:04 PM, abr9er1 (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Mini cheesecakes</span><br /></div>
+					<div class="commentbody">Love your website, thank you.<br />
+<br />
+I made a similar recipe using prepared cookie dough from the grocery store refrigerator section as the crust.  I liked the options for mixing the different kinds of crusts --- chocolate chip cookie dough, chococolate chocolate chip cookie dough, sugar cookie dough, etc. with a myriad of different fruit or candy toppings.<br />
+<br />
+And the individual, smaller servings are great for transporting.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On June 17, 2006 at 04:39 PM, Catherine (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">Wow! Recipe looks DELICIUOS. And the picture of the empty muffin liners with wafer is great.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On June 18, 2006 at 09:44 PM, chuie (guest) said...</div>
+					<div class="commentsubject">Subject: <span>crusts</span><br /></div>
+					<div class="commentbody">For those of you who prefer to make a crumb crust, try this:<br />
+Sprinkle the crumbs into the cups then use the bottom of a second muffin pan to compress the mixture.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On June 23, 2006 at 06:38 PM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">I have baked these for wedding showers before and they're always a huge hit.  I prefer graham cracker/gingersnap crusts and I top with a fanned out sliced strawberry and a few small chocolate curls.<br />
+<br />
+You can also make wee key lime pies this way, too.<br />
+<br />
+Heels<br />
+http://www.mundanesuperhero.com</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On July 12, 2006 at 02:40 PM, sheila said...</div>
+					<div class="commentsubject">Subject: <span>EASY ENOUGH FOR MY LITTLE SAIL BOAT GALLEY</span><br /></div>
+					<div class="commentbody">Thank you so much for this cheesecake recipe.  My husband LOVES cheesecake and this is simple enough to make in my little galley on our "classic plastic" 1969 CAL 34 liveaboard sailboat.<br />
+<br />
+Hopefully, being individual cupcakes will allow for good portion control!<br />
+<br />
+If interested, check out our <a href='http://allaboutboats.blogspot.com'>sailing blog</a>. We are currently on the Lagoon in the French/Dutch island of St. Martin / Sint Maarten in the Caribbean. We plan to head south (St. Kitts, Martinique, Grenadines, Trinidad) by the end of July.<br />
+<br />
+Looking forward to perusing your site for more recipes that will fit our cruising lifestyle.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On July 12, 2006 at 06:41 PM, serenpoly (guest) said...</div>
+					<div class="commentsubject">Subject: <span>cheesecake cupcakes</span><br /></div>
+					<div class="commentbody">From my experience, you can use just about any cookie that fits for the 'crust'.  I've had excellent results with the shortbread and chocolate-mint Girl Scout cookies (a chocolate filling with those...) or the grocery-store equivalents.<br />
+<br />
+For whoever asked about using low-fat dairy, the best cheesecake I ever made was with _extremely_ well-drained yogurt cheese.  It was just tart enough to accent the sweet/rich tastes from the sugar and eggs, and I couldn't tell that the texture suffered, either.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On July 13, 2006 at 03:48 AM, superwife (guest) said...</div>
+					<div class="commentsubject">Subject: <span>yum!</span><br /></div>
+					<div class="commentbody">I tried this recipe out with fabulous results. I have photos and modifications at my site- <a href='http://theadventuresofsuperwife.com/plog'>http://theadventuresofsuperwife.com/plog</a><br />
+<br />
+As far as the crust- I really preferred a crubled graham cracker with some brown sugar sprinkled in. It gave it a very authentic cheescake taste![/url]</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On July 18, 2006 at 02:14 AM, thedessertcafe said...</div>
+					<div class="commentsubject">Subject: <span>Great Recipe</span><br /></div>
+					<div class="commentbody">I own an online dessert site and these are the types of dessert that would sell quite well.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 10, 2006 at 04:24 PM, mitchypoo (guest) said...</div>
+					<div class="commentsubject">Subject: <span>YUMMY!</span><br /></div>
+					<div class="commentbody">I made this recipe and it was really wonderful! The recipe is great the way it is and we had guests over and they enjoyed them also. I like that they are individual so even if you are watching your calories you can have one and not feel guilty. And the recipe is versatile too, next time i'm going to try a ginger snap for the crust and add some orange zest to the mixture.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 10, 2006 at 09:41 PM, Phipps said...</div>
+					<div class="commentsubject">Subject: <span>Very good</span><br /></div>
+					<div class="commentbody">I made these last night.  They came out superb.  Thanks.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 13, 2006 at 01:32 PM, billhuber said...</div>
+					<div class="commentsubject">Subject: <span>Another great simple recipe</span><br /></div>
+					<div class="commentbody">My wife and son were very pleased with the cupcakes. The only things I would change would be to let the cream cheese soften more before mixing and let them sit for a half hour or longer. My cupcakes rose and fell. I like the idea of crumbled graham crackers but I am afraid they will be messier to eat with your fingers.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 16, 2006 at 12:58 AM, Heidi (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Our appreciation of your site!</span><br /></div>
+					<div class="commentbody">Hi! I wanted to tell you that we found your site a few months back when at the cottage as a family. We needed a recipe for pancakes, and my Dad pulled out his iBook and did a Google search. Being an engineer himself, and a gourmand, you can imagine his total excitement at finding a website for engineers who love to cook! Your recipe was great, too. Thanks very much for your hard work!<br />
+<br />
+Heidi<br />
+<br />
+My websites: <a href='http://www.botanicalpaperworks.com'>Handmade wedding invitations, seed wedding favors and handmade paper</a> &amp; <a href='http://www.absorbcreative.com'>Modern photo wedding invitations</a>.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 21, 2006 at 06:40 PM, Chef Geek (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Rev A was good</span><br /></div>
+					<div class="commentbody">These were very yummy but As an engineer I want to improve the product instructions. See below:<br />
+<br />
+1 - "Cream" (blend) the softened cheese with the sugar, BEFORE adding the eggs.<br />
+<br />
+2 - Add those eggs 1 egg at a time beating between each. This makes getting to a homegenous mixture much quicker.<br />
+<br />
+Makes 14 or 15 cupcakes we found.<br />
+Fresh Bluberries are great on top!<br />
+<br />
+Thanks! Chef Geek</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On September 08, 2006 at 05:20 AM, J (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">I made this recipe according to the directions, and like others have mentioned, by the time the room-temperature cream cheese was fully incorporated into the mixture, the eggs suffered and as a result I experienced the rise, crack and fall result. And it makes about 14 cheesecakes, so I placed them on heavy-duty foil to bake alongside the muffin pan, which worked well.<br />
+<br />
+The second time I made them, I did what typical cheesecake recipes state, and that is to beat the cream cheese till smooth before the addition of any other ingredients. As a result, they turned out perfectly the second time around.<br />
+<br />
+I found that 1/2 cup sugar is too much. The rich cheesecake flavor tastes best when made with only 1/3 cup.<br />
+<br />
+Thank you for a great addition to my saved recipe file!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On September 25, 2006 at 09:45 PM, Pocky (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Toppings</span><br /></div>
+					<div class="commentbody">I'd like to top mine off with strawberries, but is it okay to add the strawberries after baking the cheesecakes, or do you have to bake the cheesecakes with the strawberries?</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On September 25, 2006 at 11:28 PM, Michael Chu said...</div>
+					<div class="commentsubject">Subject: <span>Re: Toppings</span><br /></div>
+					<div class="commentbody"><div class='commentquote'>Pocky wrote:<div class='commentquotebody'>I'd like to top mine off with strawberries, but is it okay to add the strawberries after baking the cheesecakes, or do you have to bake the cheesecakes with the strawberries?</div></div><br />
+Topping after is fine, but the strawberry (or strawberry pieces) won't be embedded in the cheesecake. It's mostly a matter of aesthetics but the short cooking time may alter the taste of the fruit a little (mostly mellow out the flavors).</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On October 05, 2006 at 02:48 PM, bekbek (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Failing to follow scientific method</span><br /></div>
+					<div class="commentbody">I have abandoned all hope of ever being a good kitchen mechanic, because my brain apparently does not accept the need to follow anything remotely resembling scientific method. That said, this is a good opportunity to say how much I enjoy this site --it's my favorite cooking resource, even if I then proceed to ruin all your hard work.<br />
+<br />
+Made the little cheesecakes, but modified the recipe in response to other readings. I added sour cream and heavy cream (amounts by eye) to the cream cheese and egg and sugar mixture, and I used ginger snaps as the base. Then I cooked it all in a water bath.<br />
+<br />
+And then (don't hate me!) I completely failed to adjust the cooking time.<br />
+<br />
+What's worse is I'd decided to do them as caramel apple cheesecakes, based on a cake slice I once had at Dufflett's in Toronto (to DIE for), so I'd place thin slices of apple on top of each one of the cakes...<br />
+<br />
+...meaning I could not observe the giggle factor!  :shock: <br />
+<br />
+Yes, you're reading this whole thing right. I changed the ingredients and the cooking method but not the cooking time, and failed to provide a way to properly observe the results.<br />
+<br />
+Kill me now.<br />
+<br />
+On the up side, the newly dubbed "cheesecake puddings" were AMAZING. I pooled hot caramel on top of each one. They had to be eaten with spoons, but they were delightful.<br />
+<br />
+I have been asked to try again (with some greater care in the procedure) and will report back with the result.<br />
+<br />
+Again, love the web site. Even if I fail to follow the instructions.  :( <br />
+<br />
+<a href='http://nothard.blogspot.com'>http://nothard.blogspot.com</a></div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On October 09, 2006 at 06:12 AM, kskerr said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">This recipe was awesome, and I also got more than 12 cheese cakes (not that I minded at all  ;) ).  Only thing I did different was a swiped the recipe for a graham cracker crust from another recipe, can't remember which at the moment or even if it was on this site, since I had no desire to invest in vanilla wafers for just this recipe (not a huge fan of the things) and to me only Eli's is allowed to not have a graham cracker crust, little extra work but it was so tastey :D!  I did make the mistake of getting impatient and trying one before it was chilled, boy was that disgusting, especially since I generally eat my cheesecake when it is still frozen!  Oh and I didn't put fruit on it since I like my cheesecake plain, would definately make this recipe again!!!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 18, 2006 at 10:38 PM, maryofdoom said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">I just made a double batch of these, with a few modifications.<br />
+<br />
+I thought, "What better to bring to a Thanksgiving potluck dinner than pumpkin cheesecake cupcakes?"<br />
+<br />
+To a double batch of the cheesecake mixture, I added:<br />
+<br />
+1 can pumpkin (15 oz.)<br />
+1 tsp cinnamon<br />
+1/2 tsp. ginger<br />
+1/2 tsp. nutmeg<br />
+1/4 tsp. ground cloves<br />
+Pinch salt<br />
+<br />
+Then I baked them like normal. I ended up with about 40 cupcakes. They have a tasty cheesecake flavor with a nice pumpkin pie addition - I'm hoping they'll be a big hit at the potluck tomorrow!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 06, 2006 at 08:35 AM, lilmoon (guest) said...</div>
+					<div class="commentsubject">Subject: <span>gonna be my first time</span><br /></div>
+					<div class="commentbody">:)  this is kewl as it comes with pictures to assist..cause i'll have no idea how it suppose to look like when i get my hands on...i'll like to make a normal cupcake for a start but i couldn't find the steps to do it..<br />
+and for the cheese cupcake.. how should i make a chocolate cheese cupcake? my dad loves them more.. would like to bake my first time for christmas  :D thank you..</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On January 01, 2007 at 12:23 AM, richsisters (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Cheesecake</span><br /></div>
+					<div class="commentbody">Hi!  Can the individual cheesecakes be frozen for later consumption?<br />
+Thanks!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On January 01, 2007 at 07:40 PM, Michael Chu said...</div>
+					<div class="commentsubject">Subject: <span>Re: Cheesecake</span><br /></div>
+					<div class="commentbody"><div class='commentquote'>richsisters wrote:<div class='commentquotebody'>Hi!  Can the individual cheesecakes be frozen for later consumption?</div></div><br />
+Yep, they should freeze up just fine. Slide them into a ziploc freezer bag for convenience - you can pull out as many as you need/want on demand.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On January 10, 2007 at 05:39 AM, newcook (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Awesome...</span><br /></div>
+					<div class="commentbody">I used this recipe tonight an it was so quick and ended up being so delicious!  Thanks so much.....I topped it off with a slice of strawberry and 2 bueberries to spice it up! :)</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On February 19, 2007 at 01:39 PM, Gerald Graham (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Removing mini-cakes from pan</span><br /></div>
+					<div class="commentbody">I have found that, after the cakes have cooled, you can flip the muffin pan onto a baking sheet.  Place the baking sheet on top of the muffin pan, "flip" and the cakes will stay on the baking sheet (inverted),  Cakes are easier to handle in the liners without disturbing their appearance and will not stick to the baking sheet.  Turn them back over onto the serving dish and refridgerate. 8|</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On June 29, 2007 at 04:36 PM, GSteed (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Cheese cake cupcakes</span><br /></div>
+					<div class="commentbody">Cooks/Engineers. Engineers work with the materials available. Make the recipe exactly as noted. Keep a notebook handy. Record brand or substitution. Cream cheese comes in many variations. Eggs are fresh and old. Oven performances vary. Ambient room temperatures as well as elevations are different. Question? Is cooking an art or a science? If you have poor results try again, vary only one item at a time. Re-read the recipe.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On January 24, 2008 at 01:04 AM, JasonJ1052 (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Cheesecake Theory</span><br /></div>
+					<div class="commentbody">My sister in law went to Culinary School (CIA in California) and her instructor said: cooking (on top of the stove) is art, while baking (in the oven) is science. They were doing breads with yeast an all sorts of gooies at the time.<br />
+I am a culinary scientist in the mold of Alton Brown. While I *never* share my cheesecake recipes, I will, however, share cooking advice.<br />
+First off, the cardinal sin of cheesecakes is a cracked cheesecake. The reason people put pie filling or whipped cream on top is often to hide the cracks.<br />
+The number one cause of cracking is air inside the cheesecake escaping and cracking the outside. So we need to prevent adding air to the batter, and slowing the formation of a "skin" on the outside of the cheesecake.<br />
+After 13 years and likely over 100 cheesecakes here's the best tricks for avoiding cracking.<br />
+Bring EVERYTHING to room temperature before you start (cream cheese, eggs, butter if you use it.)<br />
+Beat the cream cheese and sugar til its smooth, add vanilla if needed and beat again, but don't overbeat. <br />
+Add eggs ONE AT A TIME and only beat until there's no "obvious" egg before you add the next egg. Once the eggs are in you want to minimize any beating. Overbeating forces air into the batter which will crack it trying to escape later.<br />
+If you are adding any flavors into the batter (chocolate, lemon, lime, etc) now is the time, but beat as little as possible.<br />
+Before pouring into the crust, bang the bowl of batter on the counter some to release any bubbles "stuck" in the batter.<br />
+While preheating the oven, place a pyrex dish full of water on the shelf below where the cheesecake will be. This will heat up and keep the oven moist, so the surfact of the cheesecake won't dry and crack while baking.<br />
+While baking, watch thru the door but avoid opening the door. This willthrow off your time and could potentially cause small cracks to form large cracks.<br />
+Last and most important is to cool the cheesecake incredibly slowly. Stop early when there's a half dolloar size of apparently "uncooked" cheesecake in the middle. This will cook via "push" (carry over heat) When your tie is up, turn off the oven, open the door slightly but leave the cheesecake in the oven for 10-20 minutes. Then move it to the counter, keeping it in the springform pan. Cover with a clean dry dishtowel to keep some of the steam in but allow it to cool. Lastly, when it is cool enough to pick up and move by hand, you can move it to the fridge, still covered with a dish towel. After a few hours, you can safely run a knife around the inside of the springform pan and then release it, but don't remove it.<br />
+Let the cheesecake chill in the fridge at least overnight.<br />
+I know this sounds WAY over the top, but I assure you it's worth the effort. And once you get used to the process it's not really "work." All the extra time spent waiting gives time for cleaning up. (I make heavy use of Mise en place, so I routinely have 6 or 8 bowls that need to be washed after I make a cheesecake.)<br />
+<br />
+Finally, for the muffin cheesecakes, I have used a banana cheesecake batter before and placed oreo cookies in the bottom of my muffin tins. The crust is a bit of a surprise when you bit into the cheesecake and are suddenly met by the cookie. I can only assume most any round sandwich cookie would also work, and thus the variety and creativity of cooking kick in.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On April 15, 2008 at 04:29 PM, Cecilia (guest) said...</div>
+					<div class="commentsubject">Subject: <span>About kitchen aid</span><br /></div>
+					<div class="commentbody">Oh boy! I see that you have an exact same kitchenaid mixer as mine!! Just some questions though, does your kitchenaid 'slide' all over the kitchen counter when you turn it on(ie when mixing dough) - and you have to stand there and hold it down to stop it from falling over the edge.... also how do you make you mixer to stay on a 'low-stir speed' i found that for mine, the stir speed is fast already....nothing like stirring!! thanks for answering my questions :)</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On April 15, 2008 at 05:01 PM, Michael Chu said...</div>
+					<div class="commentsubject">Subject: <span>Re: About kitchen aid</span><br /></div>
+					<div class="commentbody"><div class='commentquote'>Cecilia wrote:<div class='commentquotebody'>Oh boy! I see that you have an exact same kitchenaid mixer as mine!! Just some questions though, does your kitchenaid 'slide' all over the kitchen counter when you turn it on(ie when mixing dough) - and you have to stand there and hold it down to stop it from falling over the edge.... also how do you make you mixer to stay on a 'low-stir speed' i found that for mine, the stir speed is fast already....nothing like stirring!! thanks for answering my questions :)</div></div><br />
+No, my kitchenaid mixer is heavy enough that it doesn't move on the counter at all when it's on. The rubber feet help keep it in place as well. What surface is your kitchen counter and does your kitchenaid mixer feel really heavy (it should)? If it's a lack of friction with your counter, I would suggest putting down a sheet of <a href='http://www.amazon.com/exec/obidos/ASIN/B000H7TSNQ/ref%3Dnosim/themichaelupdate'>shelf liner</a>.<br />
+<br />
+Working from memory, stir speed is about one major revolution per second. It doesn't go much slower than that - it's slow enough that adding ingredients usually doesn't splatter, but if it looks like it might, then just shut off the machine to add ingredients. Once the ingredients are in the bowl, it's unlikely that anything will splash out on stir speed.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On April 16, 2008 at 11:35 AM, Cecilia (guest) said...</div>
+					<div class="commentsubject">Subject: <span>About kitchen aid</span><br /></div>
+					<div class="commentbody">Oh thanks so much for replying, yes my kitchenaid is REALLY heavy lol! which is why it is a surprise to me that it rotates/moves when you mix something with it! (mine's a 5 quart one by the way) and also, the surface of my kitchen bench is like "rough" not smooth...so wouldn't that create greater friction ...hrmm correct me if i'm wrong! :) Also, yes my slow stir started off like slow...ie it goes one rev per second... then it increases it's speed to very fast for some reason ... speed two for me is VERY fast .... i haven't known anyone who owns a kitchenaid around me so I can't check with someone else ...damn! :(</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On May 01, 2008 at 03:55 PM, thedessertdiva (guest) said...</div>
+					<div class="commentsubject">Subject: <span>cheesecake cupcakes topped with SMBC</span><br /></div>
+					<div class="commentbody">I have a litle boy who is not a big fan of cake, so these cheesecake cupcakes fit the bill perfect for him. He wants his friends, who are coming to his party, to feel like they are getting a "real" cupcake, so my question is, can you top these with a nice swiss meringue buttercream?</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On May 02, 2008 at 07:15 AM, Michael Chu said...</div>
+					<div class="commentsubject">Subject: <span>Re: cheesecake cupcakes topped with SMBC</span><br /></div>
+					<div class="commentbody"><div class='commentquote'>thedessertdiva wrote:<div class='commentquotebody'>I have a litle boy who is not a big fan of cake, so these cheesecake cupcakes fit the bill perfect for him. He wants his friends, who are coming to his party, to feel like they are getting a "real" cupcake, so my question is, can you top these with a nice swiss meringue buttercream?</div></div><br />
+Sounds like it would work, but these are quite thin/flat when compared to a cupcake.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On May 21, 2008 at 07:51 AM, babygirl30721 (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Icing on the cupcake??</span><br /></div>
+					<div class="commentbody">I am going to make some of these for a friends birthday. Chocolate cheesecake. I wanted to put a swirly topping. Icing is what I was thinking but any certain type anyone recommends? I was going to just use chocolate. He is a chocolate lover and so I was going to do it all in chocolate. <br />
+Any suggestions.<br />
+Thanks</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On June 04, 2008 at 07:19 AM, The Scarlet Pervygirl (guest) said...</div>
+					<div class="commentsubject">Subject: <span>High-Altitude Adjustments</span><br /></div>
+					<div class="commentbody">Does anyone have high-altitude bake time for these?  I added ten minutes, which left me with no jiggle but no browning at the edges, either, and I don't know if they got hot enough to destroy any bacteria in the eggs.<br />
+<br />
+Not that this will stop me from eating them, of course.  I'm just saying.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On June 10, 2008 at 09:33 PM, babygirl30721 (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Chocolate cheesecake cupcakes</span><br /></div>
+					<div class="commentbody">I used the recipe as someone suggested and made the cheesecake chocolate and I did not add oranges or anything but I did swirl some chocolate icing on top and it was a huge hit. People went crazy for them. The birthday I gave them for was a success I found letting the batter sit for half hour before baking was a good idea. <br />
+Thanks for a wonderful recipe.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On June 19, 2008 at 04:24 PM, Babz1223 (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Cheesecakes</span><br /></div>
+					<div class="commentbody">I used several different cookies for the crust- Windmills, chocolate,etc. The best tasting was a plain old gingersnap! I topped those with a tiny peice a  soft caramel candy. Dee-licious!![/b]</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 25, 2008 at 12:18 AM, an anonymous reader said...</div>
+					<div class="commentsubject">Subject: <span>YUMMY!!!!!!!!!!</span><br /></div>
+					<div class="commentbody">YUM!!!!!!!!!!!!!!!!!!!!!!!!! They were delicious, and had a great aftertaste. The Nilla wafer on the bottom really made a difference instead of regualar graham crackers. Once again, yum! :)  :)  :)  :)  ;)  ;)  ;)  B)  B)  B)</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On October 20, 2008 at 09:40 PM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">I like to make these with an Oreo crust.  The filling provides a bit of a moisture barrier, so while the top cookie gets a bit soggy (like the nilla wafers), the bottom cookie stays nice and crispy even after a few days in the fridge.  I few handfuls of mini-chocolate chips in the batter complete the event (regular chips are too big, I think, for the little cupcakes).</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 17, 2008 at 01:37 PM, rmasea25 (guest) said...</div>
+					<div class="commentsubject">Subject: <span>I love cheesecakes</span><br /></div>
+					<div class="commentbody">Thnx for the<i> tips</i> on how to prevent the baked cheesecakes from sinking and cracking. Will try them for my baked lemon cheesecake. Thnx again folks - you've all been very helpful.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 08, 2008 at 07:13 AM, diggydag (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Cheesecake cupcakes</span><br /></div>
+					<div class="commentbody">Hi, just discovered this site and tried the cheesescake cupcakes. My question was even though I have never noticed my oven temperature being off before... I had to cook thm 25 minutes as opposed to the directions saying 15. They didn't seem done  prior to that... Any suggestions/thoughts?</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 08, 2008 at 12:34 PM, Dilbert said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">&gt;&gt;suggestions:<br />
+<br />
+yup, bake 'em 25 minutes &lt;g&gt;<br />
+<br />
+seriously the baking time is affected by any temp errors, also how heat is distributed in your oven - "hot spots" are famous things... - where you put them (hi-middle-low) in the oven, type of pan you are using, paper cups, foil cups, phase of the moon (!), all kinds of stuff.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 20, 2008 at 12:05 AM, KCATRI (guest) said...</div>
+					<div class="commentsubject">Subject: <span>cheesecake cupcakes</span><br /></div>
+					<div class="commentbody"><font color='blue'> ;)  AWESOME!!  I recently had to make something to take to school.  We were really into cheesecake at the time and this recipe is so quick and delicious! I gave out the recipe and now other people are making them to bring to the next party! Thanks!</font></div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On January 03, 2009 at 04:45 PM, goldsky (guest) said...</div>
+					<div class="commentsubject">Subject: <span>gluten-free cheesecake mini cupcakes</span><br /></div>
+					<div class="commentbody">I just made, for the first time, mini cupcakes with gluten free ginger snaps. Those of us, who need gluten free crusts, should try this.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On January 03, 2009 at 11:34 PM, genakole (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">The only change that I made was I ditched the muffin tins and just put the aluminum cups with the paper liners directly on a cookie sheet.  This works well for cupcakes and anything that used to require muffin tins.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On January 13, 2009 at 08:33 PM, Tina (guest) said...</div>
+					<div class="commentsubject">Subject: <span>My mini cheesecakes cracks in the oven help please</span><br /></div>
+					<div class="commentbody">Mini cheesecake are cracking while the same formula works for bigger sizes.<br />
+I am using a convection oven with low fan speed and using steam feature which inject 2liter water in the first minute. The oven is industerial oven.<br />
+<br />
+To realease steam the oven shold be 300F to release the steam. after steam is being rleased I droped the temp to lower but within 8 min they start cracking and they are still not done and its inside is soft. What do you suggest pease help.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On January 27, 2009 at 05:59 PM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">Any ideas about using the mini (24) cupcake tins, with liners or without, mini oreos fit nicely, split them or leave the whole, crush them to put in the bottom, take out the oreo filling first or leave it in.<br />
+Just a guy playing in my wife's kitchen</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On January 30, 2009 at 09:20 PM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">I just made these and they turned out great!  Delicious and much easier than a full cheesecake.  I'm bringing them to a work potluck.  I ate one myself and it's so good.<br />
+<br />
+I modified it by making my own graham crumb crust (it didn't take hours... more like 10 minutes...) which I blind baked for 4-5 minutes in the 350 degree oven.  It's kind of crispy.<br />
+<br />
+I also added some lemon juice to the batter.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On February 11, 2009 at 06:07 AM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">Grandma always said a recipe was a good place to start.... so who am I to argue with her.  :) <br />
+<br />
+Used the recipe above (sorta) as my starting point.  Then I added some Grand Marnier and frozen Orange juice concentrate (thawed).  I did 1 1/2 the recipe and made the cupcake version with paper cups (that's all I had) and the balance into the smaller (8 1/2 in?) cheesecake pan.  For the crust, I used 1/3 each of graham crumbs, ginger snap crumbs and chopped pecans.  I used my tart tamp to tamp the crumbs into the paper cups - and it worked beautifully!! <br />
+<br />
+After allowing to cool - I made a chocolate Ganache and before it thickened to much (cooled) I put a thin layer on both the cupcakes and cheesecake. I would suggest that you let this cool until VERY set before the next thing I did. (learned the hard way)  Then topped it off with a whipped cream type topping.  Place in the fridge and chill for 4 to 6 hours.   (topping was whip cream, sugar, vanilla, dissolved gelatin and Grand Marnier)<br />
+<br />
+Both were a huge hit at the office... so much so that I am now asked to bring in cheesecake at all meetings - now matter how small.   I guess they like 'em! <br />
+<br />
+P.S.  the above crust is also very yummy with a pumpkin cheesecake.  For the topping on pumpkin - I used one of the whip cream makers that use the cylinders - added some vanilla, cinnamon and ginger.  I did not add any sweetener as the contrast between the topping and cheesecake were a perfect match. ( you could use pumpkin pie spice in place of the above spices).  Serve as you would pumpkin pie - with a dollup of the seasoned whipped cream.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On February 14, 2009 at 07:12 AM, an anonymous reader said...</div>
+					<div class="commentsubject">Subject: <span>Prerequisite</span><br /></div>
+					<div class="commentbody">Quick and easy recipe that I absolutely adore; thank you! Instead of oranges, I used strawberry slices that vaguely look like hearts if you back up and squint before looking at them. Happy Valentine's Day, everyone.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On March 22, 2009 at 10:37 AM, mase (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Re: To prevent cheesecake from cracking during baking</span><br /></div>
+					<div class="commentbody">I have successfully tried a tip I overheard on AFC and it has never failed me - creaming the cheese cake ingredients with a cake mixer incorporates too much air thus the cake rises during baking then cracks. Upon cooling the cakes falls but craters appear on top of the cake which can be cleverly hidden with some kind of topping. To avoid incorporating air in the cream cheese mixture try  mixing the cream cheese and the rest of the ingredients in a food processor (the close and covered food processor prevents too much air from being beaten into the cream cheese mixture). <br />
+<br />
+I would like to share this simple baked cheesecake recipe that my family love. The cake sinks ever slightly in the centre thus enabling me to pour a bluberry pie filling topping just before cutting. Sometimes I add lemon juice from 2 lemons to produce a lemon baked cheese cake.<br />
+<br />
+<br />
+Cream cheese mixture:<br />
+<br />
+24 oz cream cheese at room temperature<br />
+1 cup castor sugar<br />
+1 cup sour cream<br />
+3 eggs lightly beaten<br />
+1 tbsp grated lemon zest<br />
+<br />
+Crumb base:<br />
+<br />
+10 pieces digestive biscuits - finely crushed<br />
+1/2 cup melted butter<br />
+1 tbsp sugar<br />
+<br />
+Mix crushed biscuits with melted butter and sugar. Press firmly to base of a 8" spring form pan that has been lined with aluminium foil. Chill in fridge.<br />
+<br />
+Cream the cheese in the food processor till soft. Add sugar followed by beaten egg, sour cream and finally lemon zest. Use a spatula if necessary to scrape the sides of the food processor to ensure the cheese mixture is well  combined. Avoid beating the final mixture too long.<br />
+<br />
+Pour over prepared crumb base. Bake bain-marie 170C for 50-55mins. Cool in spring-form pan.<br />
+Remove onto a serving plate. Pour 1 cup blueberry pie filling.<br />
+<br />
+Enjoy.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On May 26, 2009 at 12:46 AM, Becky (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Thank you for this recipe</span><br /></div>
+					<div class="commentbody">I just made 66 of them for a lunch at a center for mentally ill patients.  It's great to have a simple recipe that scales and gives good results.  One thing I discovered -- the ginger snaps I used were too solid and stayed crunchy instead of melding with the cream cheese.  So I dabbed about 1/2 tsp of water on each one before adding the cream cheese batter -- a big improvement.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On June 12, 2009 at 04:57 PM, Gogogirl739 (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Refridgeration Duration</span><br /></div>
+					<div class="commentbody">I don't we where it says it specifically, How long are we suppose to keep the  cheesecake in the refridgerator??</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On July 17, 2009 at 11:24 PM, britt holman (guest) said...</div>
+					<div class="commentsubject">Subject: <span>mini cheese cakes</span><br /></div>
+					<div class="commentbody">Please help. I have lost the baking instructions for using ready made chocolate chip cookie dough squares as the crust for cheesecake cupcakes. I took them to my college classes and they were always a hit with the professors. I would have several topping choices (canned pie fillings) for them to choose from. I can not say that they improved my grades but the professors always insisted on taking the "left overs" back with them to "share" with their department.  ;)</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On October 29, 2009 at 08:40 PM, Jbear (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Mini Cheesecakes</span><br /></div>
+					<div class="commentbody">I have made a similar recipe using crushed vanilla wafers and mini muffin liners. I add 1/2 cup lemon juice and 1 tbs lemon zest to the batter. Then after cooled, I put a dollop of Lemon Curd and then a fresh raspberry. They have been a huge hit! The lemon cuts the sweetness of the sugar and the raspberry makes the taste pop!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 20, 2009 at 06:54 AM, calyn (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Mini Ceesecake</span><br /></div>
+					<div class="commentbody">I like this idea - the mini size cheesecake. I had slightly modified the recipe and it tastes good too. Thanks for the great tip!<br />
+<br />
+<a href='http://www.blogger.com/post-edit.g?blogID=4965788436398420148&amp;postID=6949602081200283930'>http://www.blogger.com/post-edit.g?blogID=4965788436398420148&amp;postID=6949...930</a><br />
+<br />
+or http://recipesnextdoor.blogspot.com<br />
+<br />
+btw, i was an engineer but now is a SAHM :-)</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 17, 2009 at 03:33 AM, jimcfs said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">I made it the other day using Biscoffs for the cookie base.  It came out excellent!!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On March 06, 2010 at 08:32 PM, skoshman (guest) said...</div>
+					<div class="commentsubject">Subject: <span>freezing?</span><br /></div>
+					<div class="commentbody">Does anyone know if these can be frozen? If so, how long will they keep in the freezer?</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On May 28, 2010 at 02:55 AM, TT (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">This may be a silly question.. but how you meant to eat these? Do you peel away the liners and eat it like a cupcake or do you use a fork/spoon and eat it like a slice of cheesecake?</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On May 30, 2010 at 07:44 AM, Michael Chu said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody"><div class='commentquote'>TT wrote:<div class='commentquotebody'>This may be a silly question.. but how you meant to eat these? Do you peel away the liners and eat it like a cupcake or do you use a fork/spoon and eat it like a slice of cheesecake?</div></div><br />
+I peel the liners and eat like a cupcake.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On July 12, 2010 at 04:31 AM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">Yummy!  I used graham sticks for the base and homemade chocolate cream cheese icing on the top.  I use at least 4 oz. of chocolate for 1 batch of icing to cut down on the sweetness.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On July 12, 2010 at 05:33 PM, an anonymous reader said...</div>
+					<div class="commentsubject">Subject: <span>Great taste but mine are collapsing in the centre?</span><br /></div>
+					<div class="commentbody">Hi there - <br />
+<br />
+These cupcakes taste great but i'm just wondering about a few things - my cupcakes fall in the middle after they have been in the oven. Does this have something to do with the amount of time I heat them or the way I mix them? Just wondering if there is anyone who knows how to remedy this? Also - should the cupcakes be firm/ should the liners come off easily - as mine keep sticking to the liners. <br />
+<br />
+Any help would be highly appreciated! <br />
+<br />
+Thanks</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On July 12, 2010 at 08:37 PM, Dilbert said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">the falling in the middle has a couple of potential causes - the most common is temperature too high - the outsides cook before the center has time to set.<br />
+<br />
+check your oven temp with an independent thermometer to ensure it is close to the set point - ovens are notorious for errors on that.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On July 14, 2010 at 04:38 PM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">The cupcakes should yield slightly when touched when they are done.  They will further set as they cool.  Mine come out of paper liners without sticking.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On October 04, 2010 at 02:14 AM, Chinacan (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Filling</span><br /></div>
+					<div class="commentbody">I have a recipe for an entire cheesecake and it has cherry pie filing in the middle of the cheescake (placed there obviously before cooking). I was thinking about making muffin sized cheescakes with the same filling. Any ideas on whterh this would work or not?</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On October 04, 2010 at 12:42 PM, Dilbert said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">yes, that'll work.<br />
+<br />
+you'll need to pay attention to the bake temp - the smaller muffin size will bake fast and burn easier - so start with a somewhat lower temp - I'd guess 50F ' less....</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On April 14, 2011 at 01:44 AM, Eunice (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Cheescake Cupcakes</span><br /></div>
+					<div class="commentbody">I have made this recipe for over 25 years... and have recently made it with Splenda -- and it was fine!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On May 26, 2011 at 04:42 AM, snackingkitchen (guest) said...</div>
+					<div class="commentsubject">Subject: <span>creamcheese cupcakes</span><br /></div>
+					<div class="commentbody">Thanks for the inspiration!  Here is my version of the recipe : Sour Cherry Crustless Cheesecake Cupcakes with Sour Cherry Glaze http://www.snackinginthekitchen.com/2011/05/sour-cherry-crustless-cheesecake.html</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On September 13, 2011 at 01:34 AM, Ciara (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Yumm Yumm</span><br /></div>
+					<div class="commentbody">These cupcakes are awesome, honestly didnt mind the cupcake falling....I could barely wait for them to chill, I decided to put some cherry topping; Thank you so much for sharing this recipe.....  :D</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On October 04, 2011 at 01:00 AM, Wanda (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Not sure where I went wrong</span><br /></div>
+					<div class="commentbody">I made what seemed like a simple recipe for mini pumpkin cheesecakes using a gingersnap cookie as the crust.   It tastes fine, however, all the cookies rose to the top..??   Where did I go wrong?</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On October 05, 2011 at 10:19 AM, dean1756 said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">Great recipe.  I love cheesecake and these are good for picnics.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On October 08, 2011 at 05:54 AM, BillKx said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">Cheesecake Cupcakes! What a novel idea - I have never had this before.<br />
+I am definitely going to try this recipe - love cheesecake. As an engineer, not too worried about the calories - will figure that out later... :P <br />
+Thanks for posting this delicious recipe.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On October 27, 2011 at 12:30 AM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">Hi! I would like to try this recipe. I am using an almost black non-stick muffin pan, should I adjust the temperature to 25 degree lower as what they recommend when baking with pans like mine? Or are your pans also non-stick and 350 is the right temp for non stick pans?<br />
+<br />
+Sorry.. I am a newbie in baking and I ask the most stupid questions... bear with me. :unsure:</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On October 27, 2011 at 12:20 PM, Dilbert said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">if you chk this pix<br />
+http://www.cookingforengineers.com/pics2/640/DSC_1951_crop.jpg<br />
+they are not the dark non-stick.<br />
+<br />
+on the first go around I'd follow the manufacturer's recommendation and adjust as needed from that experience.<br />
+<br />
+good luck!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On October 27, 2011 at 07:06 PM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">Thanks for the reply. I'll try the recipe. :)</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 17, 2011 at 10:00 PM, Lulu (guest) said...</div>
+					<div class="commentsubject">Subject: <span>no bake cheesecake</span><br /></div>
+					<div class="commentbody">Try the "no bake cheesecake"  recipes for the pumpkin cheesecake cupcakes in a mini pan with a ginger snap in the bottom. No need to worry about bake times and falling. It firms up in the fridge.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 05, 2011 at 07:47 AM, scole456 said...</div>
+					<div class="commentsubject">Subject: <span>Cheesecake cupcakes</span><br /></div>
+					<div class="commentbody">According to Here in America's Test Kitchen, 2002, tasters could [u:ae099d6966]not[/u:ae099d6966] tell the difference between Pure Vanilla Extract and Imitation Vanilla.  As a matter fact <i>Imitation</i> Vanilla was preferred in taste tests &amp; there wasn't any difference in cooking.  So, if you have imitation Vanilla, don't rush out and buy pure Vanilla to make this recipe.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On September 27, 2013 at 10:51 PM, Cyn (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Gluten free</span><br /></div>
+					<div class="commentbody">I made these for some gluten intolerant teachers while my daughter made cupcakes for others. I used a store bought gluten free shortbread cookie as the crust. Since there was no flour in the batter this recipe was perfect. They were so excited to have such a delicious treat. Thanks!</div>
+					<hr size="1" noshade />
+				
+		<div class="commentlink">
+			<a href="/forums/posting.php?mode=reply&t=684" title="Comments are managed in the Cooking For Engineers Forums">Post a comment on <i>Cheesecake Cupcakes</i></a>
+		</div>
+	</div>
+	
+</div>
+	
+  
+	<div class="spacer3"></div>
+	
+<!-- Google DFP Article_Footer_728x90-->
+<center>
+<div id='dfp_gpt_4' style='width:728px; height:90px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('dfp_gpt_4'); });
+</script>
+</div>
+</center>
+
+	<div class="spacer3"></div>
+
+
+		</div>
+		
+		
+			
+<table class="fl_table" cellspacing="2" cellpadding="0" border="0">
+	<tr>
+		<td width="16%">
+			<a href="/article/138/About-Cooking-For-Engineers" title="About Cooking For Engineers">About CfE</a>
+		</td>
+		<td width="17%">
+			<a href="/article/139/Contact-Cooking-For-Engineers" title="Contact Cooking For Engineers">Contact</a>
+		</td>
+		<td width="17%">
+			<a href="/article/190/User-Agreement" title="User Agreement">User Agreement</a>
+		</td>
+		<td width="16%">
+			<a href="/article/140/Frequently-Asked-Questions" title="Frequently Asked Questions">FAQ's</a>
+		</td>
+		<td width="17%">
+			<a href="/article/141/In-the-Press" title="Cooking For Engineers in the Press">In the Press</a>
+		</td>
+		<td width="17%">
+			<a href="/article/191/Article-Submission-Program" title="Article Submission Program">Write for CfE</a>
+		</td>
+	</tr>
+</table>
+			
+		
+		<div id="footer">
+	
+  <center><span style="font-size: 85%; line-height: 110%;">All content published by CFE Enterprises, Inc. under license with copyright holders<br>Tabular Recipe Notation Patent Pending (Michael Chu)</span></center>
+
+	<center><a href="/atom.xml">Syndicate</a> <a href="/atom.xml"><img src="/pics/xml.gif" alt="(XML)" style="vertical-align: middle;" border="0" /></a></center>
+
+	
+
+	
+
+	
+	
+	  <!-- Google Analytics -->
+	<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+	</script>
+	<script type="text/javascript">
+	_uacct = "UA-254248-1";
+	urchinTracker();
+	</script>
+
+		
+	<script type="text/javascript">stLight.options({publisher: "b3ed4fb7-bc1d-41a0-b780-15d3cf6b7561"});</script>
+<script>
+var options={ "publisher": "b3ed4fb7-bc1d-41a0-b780-15d3cf6b7561", "position": "left", "ad": { "visible": false, "openDelay": 5, "closeDelay": 0}, "chicklets": { "items": ["facebook", "pinterest", "twitter", "googleplus", "stumbleupon", "email"]}};
+var st_hover_widget = new sharethis.widgets.hoverbuttons(options);
+</script>
+ </div>
+		
+	</body>
+</html>

@@ -1,0 +1,1184 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+	<head>
+		<title>Shrimp Scampi - Recipe File - Cooking For Engineers</title>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="description" content="Step by step recipe instructions for shrimp scampi complete with photographs and reader comments and discussion" />
+		<meta name="keywords" content="cooking,recipes,techniques,photos,discussion,shrimp scampi" />
+		
+		
+		<link href="/stylesheets/style.css?1381092548" media="screen" rel="Stylesheet" type="text/css" /><link href="/stylesheets/frontpage.css?1204359954" media="screen" rel="Stylesheet" type="text/css" />
+		
+		
+		
+		<script src="/javascripts/prototype.js?1204375576" type="text/javascript"></script><script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript" src="http://s.sharethis.com/loader.js"></script>
+
+		
+<script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + 
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
+
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+
+googletag.defineSlot('/1057967/Article_160x600', [160, 600], 'dfp_gpt_1').addService(googletag.pubads());
+
+googletag.defineSlot('/1057967/Article_300x250', [300, 250], 'dfp_gpt_2').addService(googletag.pubads());
+
+googletag.defineSlot('/1057967/Article_728x90', [728, 90], 'dfp_gpt_3').addService(googletag.pubads());
+
+googletag.defineSlot('/1057967/Article_Footer_728x90', [728, 90], 'dfp_gpt_4').addService(googletag.pubads());
+
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+});
+</script>
+
+		<link href="http://www.cookingforengineers.com/atom.xml" rel="alternate" title="Atom 1.0 Feed" type="application/atom+xml" />
+		
+		<link rel="shortcut icon" href="http://www.cookingforengineers.com/favicon.ico" />
+	</head>
+	<body>
+		
+		
+		
+			<div class="navbar">
+	<div style="float:left">
+		<div class="sitetitle"><a href="/">Cooking For Engineers<span class="trademark">&reg;</span></a></div>
+		<div class="subtitle">Have an analytical mind? Like to cook? This is the site to read!</div>
+	</div>
+	<div style="float:right; margin: 15px 8px 0 0">
+		<form method="get" action="/searchform" style="margin: 0pt; display: inline;">
+		  <input style="margin: 0pt 0pt 2px; font-size: 90%;" name="terms" size="25" maxlength="255" value="" type="text">
+		  <input style="margin: 0pt 0pt 2px; font-size: 90%;" name="search" value="Search" type="submit">
+	  </form>
+	  <br>
+	  <!-- Google Search -->
+	  <form target="_blank" action="http://www.google.com/search" style="margin: 0pt; display: inline;">
+		  <input style="font-size: 90%;" size="24" maxlength="255" value="half cup in milliliters" name="q" type="text">
+		  <input style="font-size: 90%;" name="sa" value="Convert" type="submit">
+		</form>
+	</div>	
+	<div class="clear"></div>
+	<table class="nav" cellpadding="0" cellspacing="1">
+		<tr><td width="11%" id="categorytd_Books"><a href="#" onClick="showcat('Books');return false">Books</a></td>
+			<td width="11%" id="categorytd_CookingTests"><a href="#" onClick="showcat('CookingTests');return false">Cooking&nbsp;Tests</a></td>
+			<td width="11%" id="categorytd_DiningOut"><a href="#" onClick="showcat('DiningOut');return false">Dining&nbsp;Out</a></td>
+			<td width="11%" id="categorytd_EquipmentGear"><a href="#" onClick="showcat('EquipmentGear');return false">Equipment&nbsp;&amp;&nbsp;Gear</a></td>
+			<td width="11%" id="categorytd_KitchenNotes"><a href="#" onClick="showcat('KitchenNotes');return false">Kitchen&nbsp;Notes</a></td>
+			<td width="11%" id="categorytd_OffTopic"><a href="#" onClick="showcat('OffTopic');return false">Off&nbsp;Topic</a></td>
+			<td width="11%" id="categorytd_RecipeFile"><a href="#" onClick="showcat('RecipeFile');return false">Recipe&nbsp;File</a></td>
+			<td width="11%" id="categorytd_SousVide"><a href="#" onClick="showcat('SousVide');return false">Sous&nbsp;Vide</a></td>
+			<td width="12%" id="categorytd_TestRecipes"><a href="#" onClick="showcat('TestRecipes');return false">Test&nbsp;Recipes</a></td>
+			</tr>
+	</table>
+	<script type="text/javascript">
+//<![CDATA[
+
+	function lb(id)
+	{
+		document.getElementById(id).style.border='1px solid #FFFF00';
+	}
+	function db(id)
+	{
+		document.getElementById(id).style.border='1px solid #99FF99';
+	}
+	function showcat(id)
+	{
+		var curdisplay = document.getElementById('navcat_'+id).style.display;
+		document.getElementById('navcat_Books').style.display='none';
+document.getElementById('navcat_CookingTests').style.display='none';
+document.getElementById('navcat_DiningOut').style.display='none';
+document.getElementById('navcat_EquipmentGear').style.display='none';
+document.getElementById('navcat_KitchenNotes').style.display='none';
+document.getElementById('navcat_OffTopic').style.display='none';
+document.getElementById('navcat_RecipeFile').style.display='none';
+document.getElementById('navcat_SousVide').style.display='none';
+document.getElementById('navcat_TestRecipes').style.display='none';
+
+		document.getElementById('categorytd_Books').style.border='1px solid #99FF99';
+document.getElementById('categorytd_Books').style.backgroundColor='transparent';
+document.getElementById('categorytd_CookingTests').style.border='1px solid #99FF99';
+document.getElementById('categorytd_CookingTests').style.backgroundColor='transparent';
+document.getElementById('categorytd_DiningOut').style.border='1px solid #99FF99';
+document.getElementById('categorytd_DiningOut').style.backgroundColor='transparent';
+document.getElementById('categorytd_EquipmentGear').style.border='1px solid #99FF99';
+document.getElementById('categorytd_EquipmentGear').style.backgroundColor='transparent';
+document.getElementById('categorytd_KitchenNotes').style.border='1px solid #99FF99';
+document.getElementById('categorytd_KitchenNotes').style.backgroundColor='transparent';
+document.getElementById('categorytd_OffTopic').style.border='1px solid #99FF99';
+document.getElementById('categorytd_OffTopic').style.backgroundColor='transparent';
+document.getElementById('categorytd_RecipeFile').style.border='1px solid #99FF99';
+document.getElementById('categorytd_RecipeFile').style.backgroundColor='transparent';
+document.getElementById('categorytd_SousVide').style.border='1px solid #99FF99';
+document.getElementById('categorytd_SousVide').style.backgroundColor='transparent';
+document.getElementById('categorytd_TestRecipes').style.border='1px solid #99FF99';
+document.getElementById('categorytd_TestRecipes').style.backgroundColor='transparent';
+
+		if (curdisplay != 'block')
+		{
+			document.getElementById('categorytd_'+id).style.border='1px solid #9999FF';
+			document.getElementById('categorytd_'+id).style.backgroundColor='#000060';
+			document.getElementById('navcat_'+id).style.display='block';
+		}
+		else
+		{
+			document.getElementById('navcat_'+id).style.display='none';
+		}
+	}
+	
+//]]>
+</script>
+	<div id="navcat_Books" style="display:none"><table width="100%" class="navlinks" cellpadding="0" cellspacing="1"><tr><td width="25%" id="nl248" onclick="window.location='/article/248/Everybody-Eats-Lunch-by-Cricket-Azima'" onMouseOver="lb('nl248')" onMouseOut="db('nl248')" ><a href="/article/248/Everybody-Eats-Lunch-by-Cricket-Azima" title="Books: Everybody Eats Lunch by Cricket Azima">Everybody Eats Lunch by Cricket Azima</a></td><td width="25%" id="nl229" onclick="window.location='/article/229/Joy-of-Cooking-75th-Anniversary-Edition-2006'" onMouseOver="lb('nl229')" onMouseOut="db('nl229')" ><a href="/article/229/Joy-of-Cooking-75th-Anniversary-Edition-2006" title="Books: Joy of Cooking (75th Anniversary Edition; 2006)">Joy of Cooking (75th Anniversary Edition; 2006)</a></td><td width="25%" id="nl307" onclick="window.location='/article/307/Ten-Great-Gifts-for-Cooking-For-Engineers-Fans'" onMouseOver="lb('nl307')" onMouseOut="db('nl307')" ><a href="/article/307/Ten-Great-Gifts-for-Cooking-For-Engineers-Fans" title="Books: Ten Great Gifts for Cooking For Engineers' Fans">Ten Great Gifts for Cooking For Engineers' Fans</a></td><td width="25%" id="nl241" onclick="window.location='/article/241/The-Story-of-Tea-by-Mary-Lou-and-Robert-Heiss'" onMouseOver="lb('nl241')" onMouseOut="db('nl241')" ><a href="/article/241/The-Story-of-Tea-by-Mary-Lou-and-Robert-Heiss" title="Books: The Story of Tea by Mary Lou and Robert Heiss">The Story of Tea by Mary Lou and Robert Heiss</a></td></tr><tr><td id="nl270" onclick="window.location='/article/270/Fun-Food-Facts-by-Mike-Bellino'" onMouseOver="lb('nl270')" onMouseOut="db('nl270')" ><a href="/article/270/Fun-Food-Facts-by-Mike-Bellino" title="Books: Fun Food Facts by Mike Bellino">Fun Food Facts by Mike Bellino</a></td><td id="nl242" onclick="window.location='/article/242/Kitchen-Mysteries-by-Herve-This'" onMouseOver="lb('nl242')" onMouseOut="db('nl242')" ><a href="/article/242/Kitchen-Mysteries-by-Herve-This" title="Books: Kitchen Mysteries by Herve This">Kitchen Mysteries by Herve This</a></td><td id="nl254" onclick="window.location='/article/254/The-Science-of-Good-Food'" onMouseOver="lb('nl254')" onMouseOut="db('nl254')" ><a href="/article/254/The-Science-of-Good-Food" title="Books: The Science of Good Food">The Science of Good Food</a></td><td id="nl220" onclick="window.location='/article/220/Toast-by-Nigel-Slater'" onMouseOver="lb('nl220')" onMouseOut="db('nl220')" ><a href="/article/220/Toast-by-Nigel-Slater" title="Books: Toast by Nigel Slater">Toast by Nigel Slater</a></td></tr><tr><td id="nl201" onclick="window.location='/article/201/Heat-by-Bill-Buford'" onMouseOver="lb('nl201')" onMouseOut="db('nl201')" ><a href="/article/201/Heat-by-Bill-Buford" title="Books: Heat by Bill Buford">Heat by Bill Buford</a></td><td id="nl333" onclick="window.location='/article/333/Modernist-Cuisine-at-Home-on-Inkling'" onMouseOver="lb('nl333')" onMouseOut="db('nl333')" ><a href="/article/333/Modernist-Cuisine-at-Home-on-Inkling" title="Books: Modernist Cuisine at Home on Inkling">Modernist Cuisine at Home on Inkling</a></td><td id="nl292" onclick="window.location='/article/292/The-Sorcerers-Apprentices-by-Lisa-Abend'" onMouseOver="lb('nl292')" onMouseOut="db('nl292')" ><a href="/article/292/The-Sorcerers-Apprentices-by-Lisa-Abend" title="Books: The Sorcerer's Apprentices by Lisa Abend">The Sorcerer's Apprentices by Lisa Abend</a></td><td id="nl233" onclick="window.location='/article/233/Vegetables-The-Culinary-Institute-of-America'" onMouseOver="lb('nl233')" onMouseOut="db('nl233')" ><a href="/article/233/Vegetables-The-Culinary-Institute-of-America" title="Books: Vegetables (The Culinary Institute of America)">Vegetables (The Culinary Institute of America)</a></td></tr></table></div>
+	<div id="navcat_CookingTests" style="display:none"><table width="100%" class="navlinks" cellpadding="0" cellspacing="1"><tr><td width="25%" id="nl3" onclick="window.location='/article/3/Bacon-Part-I'" onMouseOver="lb('nl3')" onMouseOut="db('nl3')" ><a href="/article/3/Bacon-Part-I" title="Cooking Tests: Bacon (Part I)">Bacon (Part I)</a></td><td width="25%" id="nl171" onclick="window.location='/article/171/Beer-Can-Chicken'" onMouseOver="lb('nl171')" onMouseOut="db('nl171')" ><a href="/article/171/Beer-Can-Chicken" title="Cooking Tests: Beer Can Chicken">Beer Can Chicken</a></td><td width="25%" id="nl173" onclick="window.location='/article/173/HFCS-Free-Cream-Sodas'" onMouseOver="lb('nl173')" onMouseOut="db('nl173')" ><a href="/article/173/HFCS-Free-Cream-Sodas" title="Cooking Tests: HFCS-Free Cream Sodas">HFCS-Free Cream Sodas</a></td><td width="25%" id="nl249" onclick="window.location='/article/249/Soft-Boiled-Eggs'" onMouseOver="lb('nl249')" onMouseOut="db('nl249')" ><a href="/article/249/Soft-Boiled-Eggs" title="Cooking Tests: Soft Boiled Eggs">Soft Boiled Eggs</a></td></tr><tr><td id="nl110" onclick="window.location='/article/110/Bacon-Part-II'" onMouseOver="lb('nl110')" onMouseOut="db('nl110')" ><a href="/article/110/Bacon-Part-II" title="Cooking Tests: Bacon (Part II)">Bacon (Part II)</a></td><td id="nl5" onclick="window.location='/article/5/Eggplant-Taste-Test'" onMouseOver="lb('nl5')" onMouseOut="db('nl5')" ><a href="/article/5/Eggplant-Taste-Test" title="Cooking Tests: Eggplant Taste Test">Eggplant Taste Test</a></td></tr></table></div>
+	<div id="navcat_DiningOut" style="display:none"><table width="100%" class="navlinks" cellpadding="0" cellspacing="1"><tr><td width="25%" id="nl202" onclick="window.location='/article/202/Ad-Hoc-Yountville-California'" onMouseOver="lb('nl202')" onMouseOut="db('nl202')" ><a href="/article/202/Ad-Hoc-Yountville-California" title="Dining Out: Ad Hoc (Yountville, California)">Ad Hoc (Yountville, California)</a></td><td width="25%" id="nl299" onclick="window.location='/article/299/Chicago-2011-Part-4-Gibsons-Bar-Steakhouse'" onMouseOver="lb('nl299')" onMouseOut="db('nl299')" ><a href="/article/299/Chicago-2011-Part-4-Gibsons-Bar-Steakhouse" title="Dining Out: Chicago 2011 Part 4 - Gibson's Bar &amp; Steakhouse">Chicago 2011 Part 4 - Gibson's Bar &amp; Steakhouse</a></td><td width="25%" id="nl330" onclick="window.location='/article/330/Cook-Taste-Barcelona-Spain'" onMouseOver="lb('nl330')" onMouseOut="db('nl330')" ><a href="/article/330/Cook-Taste-Barcelona-Spain" title="Dining Out: Cook &amp; Taste (Barcelona, Spain)">Cook &amp; Taste (Barcelona, Spain)</a></td><td width="25%" id="nl329" onclick="window.location='/article/329/Pakta-Barcelona-Spain'" onMouseOver="lb('nl329')" onMouseOut="db('nl329')" ><a href="/article/329/Pakta-Barcelona-Spain" title="Dining Out: Pakta (Barcelona, Spain)">Pakta (Barcelona, Spain)</a></td></tr><tr><td id="nl88" onclick="window.location='/article/88/Ahwahnee-Hotel-Kitchen-Yosemite-California'" onMouseOver="lb('nl88')" onMouseOut="db('nl88')" ><a href="/article/88/Ahwahnee-Hotel-Kitchen-Yosemite-California" title="Dining Out: Ahwahnee Hotel Kitchen (Yosemite, California)">Ahwahnee Hotel Kitchen (Yosemite, California)</a></td><td id="nl300" onclick="window.location='/article/300/Chicago-2011-Part-5-Frontera-Grill-XOCO'" onMouseOver="lb('nl300')" onMouseOut="db('nl300')" ><a href="/article/300/Chicago-2011-Part-5-Frontera-Grill-XOCO" title="Dining Out: Chicago 2011 Part 5 - Frontera Grill, XOCO">Chicago 2011 Part 5 - Frontera Grill, XOCO</a></td><td id="nl253" onclick="window.location='/article/253/Elements-Napa-California'" onMouseOver="lb('nl253')" onMouseOut="db('nl253')" ><a href="/article/253/Elements-Napa-California" title="Dining Out: Elements (Napa, California)">Elements (Napa, California)</a></td><td id="nl260" onclick="window.location='/article/260/Parcel-104-Santa-Clara-California'" onMouseOver="lb('nl260')" onMouseOut="db('nl260')" ><a href="/article/260/Parcel-104-Santa-Clara-California" title="Dining Out: Parcel 104 (Santa Clara, California)">Parcel 104 (Santa Clara, California)</a></td></tr><tr><td id="nl311" onclick="window.location='/article/311/Blue-Bell-Creamery-Factory-Tour'" onMouseOver="lb('nl311')" onMouseOut="db('nl311')" ><a href="/article/311/Blue-Bell-Creamery-Factory-Tour" title="Dining Out: Blue Bell Creamery Factory Tour">Blue Bell Creamery Factory Tour</a></td><td id="nl301" onclick="window.location='/article/301/Chicago-2011-Part-6-Noodles-by-Takashi-Yagihashi-Frontera-Fresco-Marc-Burger'" onMouseOver="lb('nl301')" onMouseOut="db('nl301')" ><a href="/article/301/Chicago-2011-Part-6-Noodles-by-Takashi-Yagihashi-Frontera-Fresco-Marc-Burger" title="Dining Out: Chicago 2011 Part 6 - Noodles by Takashi Yagihashi, Frontera Fresco, Marc Burger">Chicago 2011 Part 6 - Noodles by Takashi Yagihashi, Frontera Fresco, Marc Burger</a></td><td id="nl316" onclick="window.location='/article/316/Georges-San-Francisco-California'" onMouseOver="lb('nl316')" onMouseOut="db('nl316')" ><a href="/article/316/Georges-San-Francisco-California" title="Dining Out: Georges (San Francisco, California)">Georges (San Francisco, California)</a></td><td id="nl281" onclick="window.location='/article/281/Per-Se-New-York-New-York'" onMouseOver="lb('nl281')" onMouseOut="db('nl281')" ><a href="/article/281/Per-Se-New-York-New-York" title="Dining Out: Per Se (New York, New York)">Per Se (New York, New York)</a></td></tr><tr><td id="nl91" onclick="window.location='/article/91/Cafe-Terigo-Park-City-Utah'" onMouseOver="lb('nl91')" onMouseOut="db('nl91')" ><a href="/article/91/Cafe-Terigo-Park-City-Utah" title="Dining Out: Cafe Terigo (Park City, Utah)">Cafe Terigo (Park City, Utah)</a></td><td id="nl302" onclick="window.location='/article/302/Chicago-2011-Part-7-Alinea'" onMouseOver="lb('nl302')" onMouseOut="db('nl302')" ><a href="/article/302/Chicago-2011-Part-7-Alinea" title="Dining Out: Chicago 2011 Part 7 - Alinea">Chicago 2011 Part 7 - Alinea</a></td><td id="nl240" onclick="window.location='/article/240/Hard-Knox-Cafe-San-Francisco-California'" onMouseOver="lb('nl240')" onMouseOut="db('nl240')" ><a href="/article/240/Hard-Knox-Cafe-San-Francisco-California" title="Dining Out: Hard Knox Cafe (San Francisco, California)">Hard Knox Cafe (San Francisco, California)</a></td><td id="nl324" onclick="window.location='/article/324/Ramen-in-Austin-Michi-Ramen-and-Ramen-Tatsuya'" onMouseOver="lb('nl324')" onMouseOut="db('nl324')" ><a href="/article/324/Ramen-in-Austin-Michi-Ramen-and-Ramen-Tatsuya" title="Dining Out: Ramen in Austin (Michi Ramen and Ramen Tatsuya)">Ramen in Austin (Michi Ramen and Ramen Tatsuya)</a></td></tr><tr><td id="nl231" onclick="window.location='/article/231/Chads-Fish-Chips-Willits-California'" onMouseOver="lb('nl231')" onMouseOut="db('nl231')" ><a href="/article/231/Chads-Fish-Chips-Willits-California" title="Dining Out: Chad's Fish &amp; Chips (Willits, California)">Chad's Fish &amp; Chips (Willits, California)</a></td><td id="nl303" onclick="window.location='/article/303/Chicago-2011-Part-8-Vienna-Beef-Factory'" onMouseOver="lb('nl303')" onMouseOut="db('nl303')" ><a href="/article/303/Chicago-2011-Part-8-Vienna-Beef-Factory" title="Dining Out: Chicago 2011 Part 8 - Vienna Beef Factory">Chicago 2011 Part 8 - Vienna Beef Factory</a></td><td id="nl247" onclick="window.location='/article/247/Jai-Yun-San-Francisco'" onMouseOver="lb('nl247')" onMouseOut="db('nl247')" ><a href="/article/247/Jai-Yun-San-Francisco" title="Dining Out: Jai Yun (San Francisco)">Jai Yun (San Francisco)</a></td><td id="nl153" onclick="window.location='/article/153/Shadowbrook-Restaurant-Capitola-California'" onMouseOver="lb('nl153')" onMouseOut="db('nl153')" ><a href="/article/153/Shadowbrook-Restaurant-Capitola-California" title="Dining Out: Shadowbrook Restaurant (Capitola, California)">Shadowbrook Restaurant (Capitola, California)</a></td></tr><tr><td id="nl295" onclick="window.location='/article/295/Chicago-2011-Part-1a-Overview'" onMouseOver="lb('nl295')" onMouseOut="db('nl295')" ><a href="/article/295/Chicago-2011-Part-1a-Overview" title="Dining Out: Chicago 2011 Part 1a - Overview">Chicago 2011 Part 1a - Overview</a></td><td id="nl304" onclick="window.location='/article/304/Chicago-2011-Part-9-Girl-and-the-Goat'" onMouseOver="lb('nl304')" onMouseOut="db('nl304')" ><a href="/article/304/Chicago-2011-Part-9-Girl-and-the-Goat" title="Dining Out: Chicago 2011 Part 9 - Girl and the Goat">Chicago 2011 Part 9 - Girl and the Goat</a></td><td id="nl204" onclick="window.location='/article/204/Maverick-San-Francisco-California'" onMouseOver="lb('nl204')" onMouseOut="db('nl204')" ><a href="/article/204/Maverick-San-Francisco-California" title="Dining Out: Maverick (San Francisco, California)">Maverick (San Francisco, California)</a></td><td id="nl216" onclick="window.location='/article/216/Soul-Bar-Bistro-Auckland-New-Zealand'" onMouseOver="lb('nl216')" onMouseOut="db('nl216')" ><a href="/article/216/Soul-Bar-Bistro-Auckland-New-Zealand" title="Dining Out: Soul Bar &amp; Bistro (Auckland, New Zealand)">Soul Bar &amp; Bistro (Auckland, New Zealand)</a></td></tr><tr><td id="nl296" onclick="window.location='/article/296/Chicago-2011-Part-1b-Overview'" onMouseOver="lb('nl296')" onMouseOut="db('nl296')" ><a href="/article/296/Chicago-2011-Part-1b-Overview" title="Dining Out: Chicago 2011 Part 1b - Overview">Chicago 2011 Part 1b - Overview</a></td><td id="nl267" onclick="window.location='/article/267/Coi-San-Francisco-California'" onMouseOver="lb('nl267')" onMouseOut="db('nl267')" ><a href="/article/267/Coi-San-Francisco-California" title="Dining Out: Coi (San Francisco, California)">Coi (San Francisco, California)</a></td><td id="nl235" onclick="window.location='/article/235/Michelin-Rated-Restaurants-San-Francisco-2007'" onMouseOver="lb('nl235')" onMouseOut="db('nl235')" ><a href="/article/235/Michelin-Rated-Restaurants-San-Francisco-2007" title="Dining Out: Michelin Rated Restaurants (San Francisco 2007)">Michelin Rated Restaurants (San Francisco 2007)</a></td><td id="nl293" onclick="window.location='/article/293/The-Noble-Pig-Austin-Texas'" onMouseOver="lb('nl293')" onMouseOut="db('nl293')" ><a href="/article/293/The-Noble-Pig-Austin-Texas" title="Dining Out: The Noble Pig (Austin, Texas)">The Noble Pig (Austin, Texas)</a></td></tr><tr><td id="nl297" onclick="window.location='/article/297/Chicago-2011-Part-2-Shui-Wah-Santa-Anna-Bakery'" onMouseOver="lb('nl297')" onMouseOut="db('nl297')" ><a href="/article/297/Chicago-2011-Part-2-Shui-Wah-Santa-Anna-Bakery" title="Dining Out: Chicago 2011 Part 2 - Shui Wah, Santa Anna Bakery">Chicago 2011 Part 2 - Shui Wah, Santa Anna Bakery</a></td><td id="nl291" onclick="window.location='/article/291/Congress-Austin-Texas'" onMouseOver="lb('nl291')" onMouseOut="db('nl291')" ><a href="/article/291/Congress-Austin-Texas" title="Dining Out: Congress (Austin, Texas)">Congress (Austin, Texas)</a></td><td id="nl236" onclick="window.location='/article/236/Michelin-Rated-Restaurants-San-Francisco-2008'" onMouseOver="lb('nl236')" onMouseOut="db('nl236')" ><a href="/article/236/Michelin-Rated-Restaurants-San-Francisco-2008" title="Dining Out: Michelin Rated Restaurants (San Francisco 2008)">Michelin Rated Restaurants (San Francisco 2008)</a></td><td id="nl245" onclick="window.location='/article/245/Uchi-Austin-Texas'" onMouseOver="lb('nl245')" onMouseOut="db('nl245')" ><a href="/article/245/Uchi-Austin-Texas" title="Dining Out: Uchi (Austin, Texas)">Uchi (Austin, Texas)</a></td></tr><tr><td id="nl298" onclick="window.location='/article/298/Chicago-2011-Part-3-Pizzeria-Uno-Giordanos'" onMouseOver="lb('nl298')" onMouseOut="db('nl298')" ><a href="/article/298/Chicago-2011-Part-3-Pizzeria-Uno-Giordanos" title="Dining Out: Chicago 2011 Part 3 - Pizzeria Uno, Giordano's">Chicago 2011 Part 3 - Pizzeria Uno, Giordano's</a></td></tr></table></div>
+	<div id="navcat_EquipmentGear" style="display:none"><table width="100%" class="navlinks" cellpadding="0" cellspacing="1"><tr><td width="25%" id="nl319" onclick="window.location='/article/319/Anolon-Nouvelle-Copper-Stainless-Steel-3-qt-Covered-Saute-Pan'" onMouseOver="lb('nl319')" onMouseOut="db('nl319')" ><a href="/article/319/Anolon-Nouvelle-Copper-Stainless-Steel-3-qt-Covered-Saute-Pan" title="Equipment &amp; Gear: Anolon Nouvelle Copper Stainless Steel 3-qt Covered Saute Pan">Anolon Nouvelle Copper Stainless Steel 3-qt Covered Saute Pan</a></td><td width="25%" id="nl17" onclick="window.location='/article/17/Cutting-Boards'" onMouseOver="lb('nl17')" onMouseOut="db('nl17')" ><a href="/article/17/Cutting-Boards" title="Equipment &amp; Gear: Cutting Boards">Cutting Boards</a></td><td width="25%" id="nl95" onclick="window.location='/article/95/Kitchen-Thermometers'" onMouseOver="lb('nl95')" onMouseOut="db('nl95')" ><a href="/article/95/Kitchen-Thermometers" title="Equipment &amp; Gear: Kitchen Thermometers">Kitchen Thermometers</a></td><td width="25%" id="nl99" onclick="window.location='/article/99/Microwave-Safe-Containers'" onMouseOver="lb('nl99')" onMouseOut="db('nl99')" ><a href="/article/99/Microwave-Safe-Containers" title="Equipment &amp; Gear: Microwave Safe Containers">Microwave Safe Containers</a></td></tr><tr><td id="nl205" onclick="window.location='/article/205/Bakers-Edge'" onMouseOver="lb('nl205')" onMouseOut="db('nl205')" ><a href="/article/205/Bakers-Edge" title="Equipment &amp; Gear: Baker's Edge">Baker's Edge</a></td><td id="nl222" onclick="window.location='/article/222/Fathers-Day-Gift-Ideas'" onMouseOver="lb('nl222')" onMouseOut="db('nl222')" ><a href="/article/222/Fathers-Day-Gift-Ideas" title="Equipment &amp; Gear: Father's Day Gift Ideas">Father's Day Gift Ideas</a></td><td id="nl187" onclick="window.location='/article/187/Knife-and-Sharpening-Steel-Hardness'" onMouseOver="lb('nl187')" onMouseOut="db('nl187')" ><a href="/article/187/Knife-and-Sharpening-Steel-Hardness" title="Equipment &amp; Gear: Knife and Sharpening Steel Hardness">Knife and Sharpening Steel Hardness</a></td><td id="nl84" onclick="window.location='/article/84/NSF-Certification'" onMouseOver="lb('nl84')" onMouseOut="db('nl84')" ><a href="/article/84/NSF-Certification" title="Equipment &amp; Gear: NSF Certification">NSF Certification</a></td></tr><tr><td id="nl290" onclick="window.location='/article/290/Ceramic-Chefs-Knives-Rated'" onMouseOver="lb('nl290')" onMouseOut="db('nl290')" ><a href="/article/290/Ceramic-Chefs-Knives-Rated" title="Equipment &amp; Gear: Ceramic Chef's Knives Rated">Ceramic Chef's Knives Rated</a></td><td id="nl256" onclick="window.location='/article/256/GelPro-Mat'" onMouseOver="lb('nl256')" onMouseOut="db('nl256')" ><a href="/article/256/GelPro-Mat" title="Equipment &amp; Gear: GelPro Mat">GelPro Mat</a></td><td id="nl135" onclick="window.location='/article/135/Knife-Covers'" onMouseOver="lb('nl135')" onMouseOut="db('nl135')" ><a href="/article/135/Knife-Covers" title="Equipment &amp; Gear: Knife Covers">Knife Covers</a></td><td id="nl275" onclick="window.location='/article/275/Saber-Kitchen-Knives'" onMouseOver="lb('nl275')" onMouseOut="db('nl275')" ><a href="/article/275/Saber-Kitchen-Knives" title="Equipment &amp; Gear: Saber Kitchen Knives">Saber Kitchen Knives</a></td></tr><tr><td id="nl129" onclick="window.location='/article/129/Chefs-Knives-Rated'" onMouseOver="lb('nl129')" onMouseOut="db('nl129')" ><a href="/article/129/Chefs-Knives-Rated" title="Equipment &amp; Gear: Chef's Knives Rated">Chef's Knives Rated</a></td><td id="nl117" onclick="window.location='/article/117/Hefty-Serve-n-Store'" onMouseOver="lb('nl117')" onMouseOut="db('nl117')" ><a href="/article/117/Hefty-Serve-n-Store" title="Equipment &amp; Gear: Hefty Serve 'n Store">Hefty Serve 'n Store</a></td><td id="nl130" onclick="window.location='/article/130/Knife-Parts'" onMouseOver="lb('nl130')" onMouseOut="db('nl130')" ><a href="/article/130/Knife-Parts" title="Equipment &amp; Gear: Knife Parts">Knife Parts</a></td><td id="nl234" onclick="window.location='/article/234/Soda-Club-SodaStream'" onMouseOver="lb('nl234')" onMouseOut="db('nl234')" ><a href="/article/234/Soda-Club-SodaStream" title="Equipment &amp; Gear: Soda-Club (SodaStream)">Soda-Club (SodaStream)</a></td></tr><tr><td id="nl120" onclick="window.location='/article/120/Common-Materials-of-Cookware'" onMouseOver="lb('nl120')" onMouseOut="db('nl120')" ><a href="/article/120/Common-Materials-of-Cookware" title="Equipment &amp; Gear: Common Materials of Cookware">Common Materials of Cookware</a></td><td id="nl272" onclick="window.location='/article/272/Kapoosh-Knife-Block-not-recommended'" onMouseOver="lb('nl272')" onMouseOut="db('nl272')" ><a href="/article/272/Kapoosh-Knife-Block-not-recommended" title="Equipment &amp; Gear: Kapoosh Knife Block (not recommended)">Kapoosh Knife Block (not recommended)</a></td><td id="nl85" onclick="window.location='/article/85/Krups-Spice-Grinder'" onMouseOver="lb('nl85')" onMouseOut="db('nl85')" ><a href="/article/85/Krups-Spice-Grinder" title="Equipment &amp; Gear: Krups Spice Grinder">Krups Spice Grinder</a></td><td id="nl287" onclick="window.location='/article/287/Understanding-Blender-Specifications'" onMouseOver="lb('nl287')" onMouseOut="db('nl287')" ><a href="/article/287/Understanding-Blender-Specifications" title="Equipment &amp; Gear: Understanding Blender Specifications">Understanding Blender Specifications</a></td></tr><tr><td id="nl232" onclick="window.location='/article/232/Cooking-With-Aluminum'" onMouseOver="lb('nl232')" onMouseOut="db('nl232')" ><a href="/article/232/Cooking-With-Aluminum" title="Equipment &amp; Gear: Cooking With Aluminum">Cooking With Aluminum</a></td><td id="nl39" onclick="window.location='/article/39/Kitchen-Knives'" onMouseOver="lb('nl39')" onMouseOut="db('nl39')" ><a href="/article/39/Kitchen-Knives" title="Equipment &amp; Gear: Kitchen Knives">Kitchen Knives</a></td><td id="nl269" onclick="window.location='/article/269/Metrokane-Mighty-OJ-Not-recommended'" onMouseOver="lb('nl269')" onMouseOut="db('nl269')" ><a href="/article/269/Metrokane-Mighty-OJ-Not-recommended" title="Equipment &amp; Gear: Metrokane Mighty OJ (Not recommended)">Metrokane Mighty OJ (Not recommended)</a></td><td id="nl326" onclick="window.location='/article/326/Whats-In-Your-Non-Stick'" onMouseOver="lb('nl326')" onMouseOut="db('nl326')" ><a href="/article/326/Whats-In-Your-Non-Stick" title="Equipment &amp; Gear: What's In Your Non-Stick?">What's In Your Non-Stick?</a></td></tr><tr><td id="nl175" onclick="window.location='/article/175/CoolCover'" onMouseOver="lb('nl175')" onMouseOut="db('nl175')" ><a href="/article/175/CoolCover" title="Equipment &amp; Gear: CoolCover">CoolCover</a></td><td id="nl82" onclick="window.location='/article/82/Kitchen-Scales'" onMouseOver="lb('nl82')" onMouseOut="db('nl82')" ><a href="/article/82/Kitchen-Scales" title="Equipment &amp; Gear: Kitchen Scales">Kitchen Scales</a></td></tr></table></div>
+	<div id="navcat_KitchenNotes" style="display:none"><table width="100%" class="navlinks" cellpadding="0" cellspacing="1"><tr><td width="25%" id="nl90" onclick="window.location='/article/90/Additives'" onMouseOver="lb('nl90')" onMouseOut="db('nl90')" ><a href="/article/90/Additives" title="Kitchen Notes: Additives">Additives</a></td><td width="25%" id="nl131" onclick="window.location='/article/131/Clarified-Butter'" onMouseOver="lb('nl131')" onMouseOut="db('nl131')" ><a href="/article/131/Clarified-Butter" title="Kitchen Notes: Clarified Butter">Clarified Butter</a></td><td width="25%" id="nl51" onclick="window.location='/article/51/Glossary'" onMouseOver="lb('nl51')" onMouseOut="db('nl51')" ><a href="/article/51/Glossary" title="Kitchen Notes: Glossary">Glossary</a></td><td width="25%" id="nl40" onclick="window.location='/article/40/Saturated-Fats-Cholesterol-and-Heart-Disease'" onMouseOver="lb('nl40')" onMouseOut="db('nl40')" ><a href="/article/40/Saturated-Fats-Cholesterol-and-Heart-Disease" title="Kitchen Notes: Saturated Fats, Cholesterol, and Heart Disease">Saturated Fats, Cholesterol, and Heart Disease</a></td></tr><tr><td id="nl280" onclick="window.location='/article/280/Analyzing-a-Baking-Recipe'" onMouseOver="lb('nl280')" onMouseOut="db('nl280')" ><a href="/article/280/Analyzing-a-Baking-Recipe" title="Kitchen Notes: Analyzing a Baking Recipe">Analyzing a Baking Recipe</a></td><td id="nl198" onclick="window.location='/article/198/Clarified-Butter-II'" onMouseOver="lb('nl198')" onMouseOut="db('nl198')" ><a href="/article/198/Clarified-Butter-II" title="Kitchen Notes: Clarified Butter II">Clarified Butter II</a></td><td id="nl209" onclick="window.location='/article/209/Heat-Transfer-and-Browning-Foods'" onMouseOver="lb('nl209')" onMouseOut="db('nl209')" ><a href="/article/209/Heat-Transfer-and-Browning-Foods" title="Kitchen Notes: Heat Transfer and Browning Foods">Heat Transfer and Browning Foods</a></td><td id="nl78" onclick="window.location='/article/78/Scoville-Units'" onMouseOver="lb('nl78')" onMouseOut="db('nl78')" ><a href="/article/78/Scoville-Units" title="Kitchen Notes: Scoville Units">Scoville Units</a></td></tr><tr><td id="nl199" onclick="window.location='/article/199/Baguettes-Deconstructed'" onMouseOver="lb('nl199')" onMouseOut="db('nl199')" ><a href="/article/199/Baguettes-Deconstructed" title="Kitchen Notes: Baguettes Deconstructed">Baguettes Deconstructed</a></td><td id="nl184" onclick="window.location='/article/184/Curry'" onMouseOver="lb('nl184')" onMouseOut="db('nl184')" ><a href="/article/184/Curry" title="Kitchen Notes: Curry">Curry</a></td><td id="nl224" onclick="window.location='/article/224/Heat-Transfer-and-Cooking'" onMouseOver="lb('nl224')" onMouseOut="db('nl224')" ><a href="/article/224/Heat-Transfer-and-Cooking" title="Kitchen Notes: Heat Transfer and Cooking">Heat Transfer and Cooking</a></td><td id="nl50" onclick="window.location='/article/50/Smoke-Points-of-Various-Fats'" onMouseOver="lb('nl50')" onMouseOut="db('nl50')" ><a href="/article/50/Smoke-Points-of-Various-Fats" title="Kitchen Notes: Smoke Points of Various Fats">Smoke Points of Various Fats</a></td></tr><tr><td id="nl213" onclick="window.location='/article/213/Bakers-Yeast'" onMouseOver="lb('nl213')" onMouseOut="db('nl213')" ><a href="/article/213/Bakers-Yeast" title="Kitchen Notes: Baker's Yeast">Baker's Yeast</a></td><td id="nl97" onclick="window.location='/article/97/Cutting-Up-Chicken'" onMouseOver="lb('nl97')" onMouseOut="db('nl97')" ><a href="/article/97/Cutting-Up-Chicken" title="Kitchen Notes: Cutting Up Chicken">Cutting Up Chicken</a></td><td id="nl52" onclick="window.location='/article/52/Ingredient-Substitutions'" onMouseOver="lb('nl52')" onMouseOut="db('nl52')" ><a href="/article/52/Ingredient-Substitutions" title="Kitchen Notes: Ingredient Substitutions">Ingredient Substitutions</a></td><td id="nl155" onclick="window.location='/article/155/Tempering-Chocolate'" onMouseOver="lb('nl155')" onMouseOut="db('nl155')" ><a href="/article/155/Tempering-Chocolate" title="Kitchen Notes: Tempering Chocolate">Tempering Chocolate</a></td></tr><tr><td id="nl123" onclick="window.location='/article/123/Boning-Chicken-Breast'" onMouseOver="lb('nl123')" onMouseOut="db('nl123')" ><a href="/article/123/Boning-Chicken-Breast" title="Kitchen Notes: Boning Chicken Breast">Boning Chicken Breast</a></td><td id="nl211" onclick="window.location='/article/211/European-Designation-of-Quality-Labels'" onMouseOver="lb('nl211')" onMouseOut="db('nl211')" ><a href="/article/211/European-Designation-of-Quality-Labels" title="Kitchen Notes: European Designation of Quality Labels">European Designation of Quality Labels</a></td><td id="nl113" onclick="window.location='/article/113/Making-Butter'" onMouseOver="lb('nl113')" onMouseOut="db('nl113')" ><a href="/article/113/Making-Butter" title="Kitchen Notes: Making Butter">Making Butter</a></td><td id="nl30" onclick="window.location='/article/30/USDA-Beef-Quality-Grades'" onMouseOver="lb('nl30')" onMouseOut="db('nl30')" ><a href="/article/30/USDA-Beef-Quality-Grades" title="Kitchen Notes: USDA Beef Quality Grades">USDA Beef Quality Grades</a></td></tr><tr><td id="nl70" onclick="window.location='/article/70/Brining'" onMouseOver="lb('nl70')" onMouseOut="db('nl70')" ><a href="/article/70/Brining" title="Kitchen Notes: Brining">Brining</a></td><td id="nl244" onclick="window.location='/article/244/Fond-of-Fond'" onMouseOver="lb('nl244')" onMouseOut="db('nl244')" ><a href="/article/244/Fond-of-Fond" title="Kitchen Notes: Fond of Fond">Fond of Fond</a></td><td id="nl16" onclick="window.location='/article/16/Maple-Syrup-Grades'" onMouseOver="lb('nl16')" onMouseOut="db('nl16')" ><a href="/article/16/Maple-Syrup-Grades" title="Kitchen Notes: Maple Syrup Grades">Maple Syrup Grades</a></td><td id="nl63" onclick="window.location='/article/63/Wheat-Flour'" onMouseOver="lb('nl63')" onMouseOut="db('nl63')" ><a href="/article/63/Wheat-Flour" title="Kitchen Notes: Wheat Flour">Wheat Flour</a></td></tr><tr><td id="nl73" onclick="window.location='/article/73/Buying-Whole-Turkeys'" onMouseOver="lb('nl73')" onMouseOut="db('nl73')" ><a href="/article/73/Buying-Whole-Turkeys" title="Kitchen Notes: Buying Whole Turkeys">Buying Whole Turkeys</a></td><td id="nl27" onclick="window.location='/article/27/Freezing-Meats'" onMouseOver="lb('nl27')" onMouseOut="db('nl27')" ><a href="/article/27/Freezing-Meats" title="Kitchen Notes: Freezing Meats">Freezing Meats</a></td><td id="nl134" onclick="window.location='/article/134/Oven-Temperatures'" onMouseOver="lb('nl134')" onMouseOut="db('nl134')" ><a href="/article/134/Oven-Temperatures" title="Kitchen Notes: Oven Temperatures">Oven Temperatures</a></td><td id="nl294" onclick="window.location='/article/294/White-Wheat-Grinder-Comparison'" onMouseOver="lb('nl294')" onMouseOut="db('nl294')" ><a href="/article/294/White-Wheat-Grinder-Comparison" title="Kitchen Notes: White Wheat Grinder Comparison">White Wheat Grinder Comparison</a></td></tr><tr><td id="nl156" onclick="window.location='/article/156/Caviar'" onMouseOver="lb('nl156')" onMouseOut="db('nl156')" ><a href="/article/156/Caviar" title="Kitchen Notes: Caviar">Caviar</a></td><td id="nl315" onclick="window.location='/article/315/Fruit-Ripening'" onMouseOver="lb('nl315')" onMouseOut="db('nl315')" ><a href="/article/315/Fruit-Ripening" title="Kitchen Notes: Fruit Ripening">Fruit Ripening</a></td><td id="nl96" onclick="window.location='/article/96/Pears'" onMouseOver="lb('nl96')" onMouseOut="db('nl96')" ><a href="/article/96/Pears" title="Kitchen Notes: Pears">Pears</a></td></tr></table></div>
+	<div id="navcat_OffTopic" style="display:none"><table width="100%" class="navlinks" cellpadding="0" cellspacing="1"><tr><td width="25%" id="nl133" onclick="window.location='/article/133/African-Horned-Melon-or-Kiwano'" onMouseOver="lb('nl133')" onMouseOut="db('nl133')" ><a href="/article/133/African-Horned-Melon-or-Kiwano" title="Off Topic: African Horned Melon or Kiwano">African Horned Melon or Kiwano</a></td><td width="25%" id="nl206" onclick="window.location='/article/206/Fancy-Food-Show-Winter-2007'" onMouseOver="lb('nl206')" onMouseOut="db('nl206')" ><a href="/article/206/Fancy-Food-Show-Winter-2007" title="Off Topic: Fancy Food Show Winter 2007">Fancy Food Show Winter 2007</a></td><td width="25%" id="nl119" onclick="window.location='/article/119/Iron-Chef-America'" onMouseOver="lb('nl119')" onMouseOut="db('nl119')" ><a href="/article/119/Iron-Chef-America" title="Off Topic: Iron Chef America">Iron Chef America</a></td><td width="25%" id="nl25" onclick="window.location='/article/25/Some-Quotes'" onMouseOver="lb('nl25')" onMouseOut="db('nl25')" ><a href="/article/25/Some-Quotes" title="Off Topic: Some Quotes">Some Quotes</a></td></tr><tr><td id="nl279" onclick="window.location='/article/279/Amano-Chocolate-Contest'" onMouseOver="lb('nl279')" onMouseOut="db('nl279')" ><a href="/article/279/Amano-Chocolate-Contest" title="Off Topic: Amano Chocolate Contest">Amano Chocolate Contest</a></td><td id="nl262" onclick="window.location='/article/262/Fancy-Food-Show-Winter-2009'" onMouseOver="lb('nl262')" onMouseOut="db('nl262')" ><a href="/article/262/Fancy-Food-Show-Winter-2009" title="Off Topic: Fancy Food Show Winter 2009">Fancy Food Show Winter 2009</a></td><td id="nl286" onclick="window.location='/article/286/Johnsonville-Pastaville-Italian-Sausage-Recipe-Contest'" onMouseOver="lb('nl286')" onMouseOut="db('nl286')" ><a href="/article/286/Johnsonville-Pastaville-Italian-Sausage-Recipe-Contest" title="Off Topic: Johnsonville Pastaville Italian Sausage Recipe Contest">Johnsonville Pastaville Italian Sausage Recipe Contest</a></td><td id="nl57" onclick="window.location='/article/57/Surprises-In-Snacks'" onMouseOver="lb('nl57')" onMouseOut="db('nl57')" ><a href="/article/57/Surprises-In-Snacks" title="Off Topic: Surprises In Snacks">Surprises In Snacks</a></td></tr><tr><td id="nl321" onclick="window.location='/article/321/Anolon-Nouvelle-Copper-Stainless-Steel-Cookware-Set-2012-Giveaway'" onMouseOver="lb('nl321')" onMouseOut="db('nl321')" ><a href="/article/321/Anolon-Nouvelle-Copper-Stainless-Steel-Cookware-Set-2012-Giveaway" title="Off Topic: Anolon Nouvelle Copper Stainless Steel Cookware Set 2012 Giveaway!">Anolon Nouvelle Copper Stainless Steel Cookware Set 2012 Giveaway!</a></td><td id="nl334" onclick="window.location='/article/334/Fancy-Food-Show-Winter-2014'" onMouseOver="lb('nl334')" onMouseOut="db('nl334')" ><a href="/article/334/Fancy-Food-Show-Winter-2014" title="Off Topic: Fancy Food Show Winter 2014">Fancy Food Show Winter 2014</a></td><td id="nl165" onclick="window.location='/article/165/LASIK'" onMouseOver="lb('nl165')" onMouseOut="db('nl165')" ><a href="/article/165/LASIK" title="Off Topic: LASIK">LASIK</a></td><td id="nl149" onclick="window.location='/article/149/Thanksgiving-Dinner'" onMouseOver="lb('nl149')" onMouseOut="db('nl149')" ><a href="/article/149/Thanksgiving-Dinner" title="Off Topic: Thanksgiving Dinner">Thanksgiving Dinner</a></td></tr><tr><td id="nl179" onclick="window.location='/article/179/Asparagus-Festival'" onMouseOver="lb('nl179')" onMouseOut="db('nl179')" ><a href="/article/179/Asparagus-Festival" title="Off Topic: Asparagus Festival">Asparagus Festival</a></td><td id="nl182" onclick="window.location='/article/182/Fanpop'" onMouseOver="lb('nl182')" onMouseOut="db('nl182')" ><a href="/article/182/Fanpop" title="Off Topic: Fanpop">Fanpop</a></td><td id="nl312" onclick="window.location='/article/312/LEGO-Heavy-Weapons-Book-Review'" onMouseOver="lb('nl312')" onMouseOut="db('nl312')" ><a href="/article/312/LEGO-Heavy-Weapons-Book-Review" title="Off Topic: LEGO Heavy Weapons Book Review">LEGO Heavy Weapons Book Review</a></td><td id="nl251" onclick="window.location='/article/251/The-HP-Freshman-15-Contest-Win-a-Notebook-Computer'" onMouseOver="lb('nl251')" onMouseOut="db('nl251')" ><a href="/article/251/The-HP-Freshman-15-Contest-Win-a-Notebook-Computer" title="Off Topic: The HP Freshman 15 Contest - Win a Notebook Computer">The HP Freshman 15 Contest - Win a Notebook Computer</a></td></tr><tr><td id="nl243" onclick="window.location='/article/243/Chilis-Bacon-Burger'" onMouseOver="lb('nl243')" onMouseOut="db('nl243')" ><a href="/article/243/Chilis-Bacon-Burger" title="Off Topic: Chili's Bacon Burger">Chili's Bacon Burger</a></td><td id="nl323" onclick="window.location='/article/323/Food-Fete-2013'" onMouseOver="lb('nl323')" onMouseOut="db('nl323')" ><a href="/article/323/Food-Fete-2013" title="Off Topic: Food Fete 2013">Food Fete 2013</a></td><td id="nl67" onclick="window.location='/article/67/Lunar-Eclipse'" onMouseOver="lb('nl67')" onMouseOut="db('nl67')" ><a href="/article/67/Lunar-Eclipse" title="Off Topic: Lunar Eclipse">Lunar Eclipse</a></td><td id="nl322" onclick="window.location='/article/322/The-Unofficial-LEGO-Technic-Builders-Guide-Book-Review'" onMouseOver="lb('nl322')" onMouseOut="db('nl322')" ><a href="/article/322/The-Unofficial-LEGO-Technic-Builders-Guide-Book-Review" title="Off Topic: The Unofficial LEGO Technic Builder's Guide Book Review">The Unofficial LEGO Technic Builder's Guide Book Review</a></td></tr><tr><td id="nl284" onclick="window.location='/article/284/Christmas-Gift-Ideas'" onMouseOver="lb('nl284')" onMouseOut="db('nl284')" ><a href="/article/284/Christmas-Gift-Ideas" title="Off Topic: Christmas Gift Ideas">Christmas Gift Ideas</a></td><td id="nl335" onclick="window.location='/article/335/Food-Fete-2014'" onMouseOver="lb('nl335')" onMouseOut="db('nl335')" ><a href="/article/335/Food-Fete-2014" title="Off Topic: Food Fete 2014">Food Fete 2014</a></td><td id="nl309" onclick="window.location='/article/309/Michael-Ohenes-Cookie-Recipe-Generator'" onMouseOver="lb('nl309')" onMouseOut="db('nl309')" ><a href="/article/309/Michael-Ohenes-Cookie-Recipe-Generator" title="Off Topic: Michael Ohene's Cookie Recipe Generator">Michael Ohene's Cookie Recipe Generator</a></td><td id="nl336" onclick="window.location='/article/336/Thermoworks-Fathers-Day-2014-Giveaway'" onMouseOver="lb('nl336')" onMouseOut="db('nl336')" ><a href="/article/336/Thermoworks-Fathers-Day-2014-Giveaway" title="Off Topic: Thermoworks Father's Day 2014 Giveaway!">Thermoworks Father's Day 2014 Giveaway!</a></td></tr><tr><td id="nl328" onclick="window.location='/article/328/Codlo-Sous-Vide-Controller-Kickstarter'" onMouseOver="lb('nl328')" onMouseOut="db('nl328')" ><a href="/article/328/Codlo-Sous-Vide-Controller-Kickstarter" title="Off Topic: Codlo Sous Vide Controller Kickstarter">Codlo Sous Vide Controller Kickstarter</a></td><td id="nl271" onclick="window.location='/article/271/Food-Inc'" onMouseOver="lb('nl271')" onMouseOut="db('nl271')" ><a href="/article/271/Food-Inc" title="Off Topic: Food, Inc">Food, Inc</a></td><td id="nl7" onclick="window.location='/article/7/Orange-Juice-Shelf-Life'" onMouseOver="lb('nl7')" onMouseOut="db('nl7')" ><a href="/article/7/Orange-Juice-Shelf-Life" title="Off Topic: Orange Juice Shelf Life">Orange Juice Shelf Life</a></td><td id="nl332" onclick="window.location='/article/332/Thermoworks-Thermapen-2013-Giveaway'" onMouseOver="lb('nl332')" onMouseOut="db('nl332')" ><a href="/article/332/Thermoworks-Thermapen-2013-Giveaway" title="Off Topic: Thermoworks Thermapen 2013 Giveaway!">Thermoworks Thermapen 2013 Giveaway!</a></td></tr><tr><td id="nl116" onclick="window.location='/article/116/Comments-and-Forums'" onMouseOver="lb('nl116')" onMouseOut="db('nl116')" ><a href="/article/116/Comments-and-Forums" title="Off Topic: Comments and Forums">Comments and Forums</a></td><td id="nl263" onclick="window.location='/article/263/Foodoro'" onMouseOver="lb('nl263')" onMouseOut="db('nl263')" ><a href="/article/263/Foodoro" title="Off Topic: Foodoro">Foodoro</a></td><td id="nl217" onclick="window.location='/article/217/Orthogonal-Thought-A-New-Blog'" onMouseOver="lb('nl217')" onMouseOut="db('nl217')" ><a href="/article/217/Orthogonal-Thought-A-New-Blog" title="Off Topic: Orthogonal Thought - A New Blog">Orthogonal Thought - A New Blog</a></td><td id="nl318" onclick="window.location='/article/318/Thermoworks-Thermapen-and-Oven-Thermometer-2012-Giveaway'" onMouseOver="lb('nl318')" onMouseOut="db('nl318')" ><a href="/article/318/Thermoworks-Thermapen-and-Oven-Thermometer-2012-Giveaway" title="Off Topic: Thermoworks Thermapen and Oven Thermometer 2012 Giveaway!">Thermoworks Thermapen and Oven Thermometer 2012 Giveaway!</a></td></tr><tr><td id="nl118" onclick="window.location='/article/118/Comments-and-Forums-Back-Online'" onMouseOver="lb('nl118')" onMouseOut="db('nl118')" ><a href="/article/118/Comments-and-Forums-Back-Online" title="Off Topic: Comments and Forums Back Online">Comments and Forums Back Online</a></td><td id="nl278" onclick="window.location='/article/278/Free-Cookbook-from-Snubbr'" onMouseOver="lb('nl278')" onMouseOut="db('nl278')" ><a href="/article/278/Free-Cookbook-from-Snubbr" title="Off Topic: Free Cookbook from Snubbr">Free Cookbook from Snubbr</a></td><td id="nl228" onclick="window.location='/article/228/Pixars-Ratatouille'" onMouseOver="lb('nl228')" onMouseOut="db('nl228')" ><a href="/article/228/Pixars-Ratatouille" title="Off Topic: Pixar's Ratatouille">Pixar's Ratatouille</a></td><td id="nl214" onclick="window.location='/article/214/Two-New-Shows-on-Discovery-Health'" onMouseOver="lb('nl214')" onMouseOut="db('nl214')" ><a href="/article/214/Two-New-Shows-on-Discovery-Health" title="Off Topic: Two New Shows on Discovery Health">Two New Shows on Discovery Health</a></td></tr><tr><td id="nl196" onclick="window.location='/article/196/Cooking-With-Passion'" onMouseOver="lb('nl196')" onMouseOut="db('nl196')" ><a href="/article/196/Cooking-With-Passion" title="Off Topic: Cooking With Passion">Cooking With Passion</a></td><td id="nl282" onclick="window.location='/article/282/Hefty-Kitchen-Bags-with-Unscented-Odor-Block-Technology'" onMouseOver="lb('nl282')" onMouseOut="db('nl282')" ><a href="/article/282/Hefty-Kitchen-Bags-with-Unscented-Odor-Block-Technology" title="Off Topic: Hefty Kitchen Bags with Unscented Odor Block Technology">Hefty Kitchen Bags with Unscented Odor Block Technology</a></td><td id="nl1" onclick="window.location='/article/1/Pumpkin-Carving'" onMouseOver="lb('nl1')" onMouseOut="db('nl1')" ><a href="/article/1/Pumpkin-Carving" title="Off Topic: Pumpkin Carving">Pumpkin Carving</a></td><td id="nl143" onclick="window.location='/article/143/University-Chickens-911-Challenge'" onMouseOver="lb('nl143')" onMouseOut="db('nl143')" ><a href="/article/143/University-Chickens-911-Challenge" title="Off Topic: University Chicken's 911 Challenge">University Chicken's 911 Challenge</a></td></tr><tr><td id="nl183" onclick="window.location='/article/183/Cosentinos-Markets-Good-News-and-Bad-News'" onMouseOver="lb('nl183')" onMouseOut="db('nl183')" ><a href="/article/183/Cosentinos-Markets-Good-News-and-Bad-News" title="Off Topic: Cosentino's Markets - Good News and Bad News">Cosentino's Markets - Good News and Bad News</a></td><td id="nl197" onclick="window.location='/article/197/IEEE-Spectrum-Radio-Looking-for-Engineers-Who-Cook'" onMouseOver="lb('nl197')" onMouseOut="db('nl197')" ><a href="/article/197/IEEE-Spectrum-Radio-Looking-for-Engineers-Who-Cook" title="Off Topic: IEEE Spectrum Radio Looking for Engineers Who Cook">IEEE Spectrum Radio Looking for Engineers Who Cook</a></td><td id="nl29" onclick="window.location='/article/29/Recipe-Summaries-Standards-and-Microsoft'" onMouseOver="lb('nl29')" onMouseOut="db('nl29')" ><a href="/article/29/Recipe-Summaries-Standards-and-Microsoft" title="Off Topic: Recipe Summaries - Standards and Microsoft">Recipe Summaries - Standards and Microsoft</a></td><td id="nl22" onclick="window.location='/article/22/Welcome-to-the-New-Server'" onMouseOver="lb('nl22')" onMouseOut="db('nl22')" ><a href="/article/22/Welcome-to-the-New-Server" title="Off Topic: Welcome to the New Server">Welcome to the New Server</a></td></tr><tr><td id="nl64" onclick="window.location='/article/64/Details-of-the-Pumpkin-Carving'" onMouseOver="lb('nl64')" onMouseOut="db('nl64')" ><a href="/article/64/Details-of-the-Pumpkin-Carving" title="Off Topic: Details of the Pumpkin Carving">Details of the Pumpkin Carving</a></td><td id="nl24" onclick="window.location='/article/24/Increased-Readership-and-Traffic-Woes'" onMouseOver="lb('nl24')" onMouseOut="db('nl24')" ><a href="/article/24/Increased-Readership-and-Traffic-Woes" title="Off Topic: Increased Readership and Traffic Woes">Increased Readership and Traffic Woes</a></td><td id="nl331" onclick="window.location='/article/331/Robot-Turtles-Board-Game-Kickstarter'" onMouseOver="lb('nl331')" onMouseOut="db('nl331')" ><a href="/article/331/Robot-Turtles-Board-Game-Kickstarter" title="Off Topic: Robot Turtles Board Game Kickstarter">Robot Turtles Board Game Kickstarter</a></td><td id="nl192" onclick="window.location='/article/192/Whats-the-Most-Trans-Fat-Youve-Seen'" onMouseOver="lb('nl192')" onMouseOut="db('nl192')" ><a href="/article/192/Whats-the-Most-Trans-Fat-Youve-Seen" title="Off Topic: What's the Most Trans Fat You've Seen?">What's the Most Trans Fat You've Seen?</a></td></tr><tr><td id="nl23" onclick="window.location='/article/23/Donations-Please'" onMouseOver="lb('nl23')" onMouseOut="db('nl23')" ><a href="/article/23/Donations-Please" title="Off Topic: Donations Please!">Donations Please!</a></td><td id="nl210" onclick="window.location='/article/210/Inside-the-CIA'" onMouseOver="lb('nl210')" onMouseOut="db('nl210')" ><a href="/article/210/Inside-the-CIA" title="Off Topic: Inside the CIA">Inside the CIA</a></td><td id="nl167" onclick="window.location='/article/167/Santa-Cruz-Clam-Chowder-Cook-Off-2006'" onMouseOver="lb('nl167')" onMouseOut="db('nl167')" ><a href="/article/167/Santa-Cruz-Clam-Chowder-Cook-Off-2006" title="Off Topic: Santa Cruz Clam Chowder Cook Off 2006">Santa Cruz Clam Chowder Cook Off 2006</a></td><td id="nl325" onclick="window.location='/article/325/Wolfgang-Puck-Phone-Interview'" onMouseOver="lb('nl325')" onMouseOut="db('nl325')" ><a href="/article/325/Wolfgang-Puck-Phone-Interview" title="Off Topic: Wolfgang Puck Phone Interview">Wolfgang Puck Phone Interview</a></td></tr><tr><td id="nl157" onclick="window.location='/article/157/Fancy-Food-Show-Winter-2006'" onMouseOver="lb('nl157')" onMouseOut="db('nl157')" ><a href="/article/157/Fancy-Food-Show-Winter-2006" title="Off Topic: Fancy Food Show Winter 2006">Fancy Food Show Winter 2006</a></td></tr></table></div>
+	<div id="navcat_RecipeFile" style="display:none"><table width="100%" class="navlinks" cellpadding="0" cellspacing="1"><tr><td width="25%" id="nl188" onclick="window.location='/recipe/188/Anghelikas-Tsatsiki-Tzatziki'" onMouseOver="lb('nl188')" onMouseOut="db('nl188')" ><a href="/recipe/188/Anghelikas-Tsatsiki-Tzatziki" title="Recipe File: Anghelika's Tsatsiki (Tzatziki)">Anghelika's Tsatsiki (Tzatziki)</a></td><td width="25%" id="nl98" onclick="window.location='/recipe/98/Condensed-Milk-Fudge'" onMouseOver="lb('nl98')" onMouseOut="db('nl98')" ><a href="/recipe/98/Condensed-Milk-Fudge" title="Recipe File: Condensed Milk Fudge">Condensed Milk Fudge</a></td><td width="25%" id="nl305" onclick="window.location='/recipe/305/Honey-Pecan-Pralines'" onMouseOver="lb('nl305')" onMouseOut="db('nl305')" ><a href="/recipe/305/Honey-Pecan-Pralines" title="Recipe File: Honey Pecan Pralines">Honey Pecan Pralines</a></td><td width="25%" id="nl92" onclick="window.location='/recipe/92/Poached-Fish'" onMouseOver="lb('nl92')" onMouseOut="db('nl92')" ><a href="/recipe/92/Poached-Fish" title="Recipe File: Poached Fish">Poached Fish</a></td></tr><tr><td id="nl163" onclick="window.location='/recipe/163/Asparagus-with-Almonds'" onMouseOver="lb('nl163')" onMouseOut="db('nl163')" ><a href="/recipe/163/Asparagus-with-Almonds" title="Recipe File: Asparagus with Almonds">Asparagus with Almonds</a></td><td id="nl152" onclick="window.location='/recipe/152/Cooked-Egg-Nog'" onMouseOver="lb('nl152')" onMouseOut="db('nl152')" ><a href="/recipe/152/Cooked-Egg-Nog" title="Recipe File: Cooked Egg Nog">Cooked Egg Nog</a></td><td id="nl308" onclick="window.location='/recipe/308/Hot-Chocolate'" onMouseOver="lb('nl308')" onMouseOut="db('nl308')" ><a href="/recipe/308/Hot-Chocolate" title="Recipe File: Hot Chocolate">Hot Chocolate</a></td><td id="nl38" onclick="window.location='/recipe/38/Prime-Rib-or-Standing-Rib-Roast'" onMouseOver="lb('nl38')" onMouseOut="db('nl38')" ><a href="/recipe/38/Prime-Rib-or-Standing-Rib-Roast" title="Recipe File: Prime Rib or Standing Rib Roast">Prime Rib or Standing Rib Roast</a></td></tr><tr><td id="nl103" onclick="window.location='/recipe/103/Baked-Cinnamon-Apple'" onMouseOver="lb('nl103')" onMouseOut="db('nl103')" ><a href="/recipe/103/Baked-Cinnamon-Apple" title="Recipe File: Baked Cinnamon Apple">Baked Cinnamon Apple</a></td><td id="nl48" onclick="window.location='/recipe/48/Corn-Fritters'" onMouseOver="lb('nl48')" onMouseOut="db('nl48')" ><a href="/recipe/48/Corn-Fritters" title="Recipe File: Corn Fritters">Corn Fritters</a></td><td id="nl104" onclick="window.location='/recipe/104/Kelloggs-Rice-Krispies-Treats'" onMouseOver="lb('nl104')" onMouseOut="db('nl104')" ><a href="/recipe/104/Kelloggs-Rice-Krispies-Treats" title="Recipe File: Kellogg's Rice Krispies Treats">Kellogg's Rice Krispies Treats</a></td><td id="nl189" onclick="window.location='/recipe/189/Prosciutto-e-Melone'" onMouseOver="lb('nl189')" onMouseOut="db('nl189')" ><a href="/recipe/189/Prosciutto-e-Melone" title="Recipe File: Prosciutto e Melone">Prosciutto e Melone</a></td></tr><tr><td id="nl108" onclick="window.location='/recipe/108/Banana-Nut-Bread'" onMouseOver="lb('nl108')" onMouseOut="db('nl108')" ><a href="/recipe/108/Banana-Nut-Bread" title="Recipe File: Banana Nut Bread">Banana Nut Bread</a></td><td id="nl79" onclick="window.location='/recipe/79/Cranberry-Sauce'" onMouseOver="lb('nl79')" onMouseOut="db('nl79')" ><a href="/recipe/79/Cranberry-Sauce" title="Recipe File: Cranberry Sauce">Cranberry Sauce</a></td><td id="nl33" onclick="window.location='/recipe/33/Lemon-Bars'" onMouseOver="lb('nl33')" onMouseOut="db('nl33')" ><a href="/recipe/33/Lemon-Bars" title="Recipe File: Lemon Bars">Lemon Bars</a></td><td id="nl65" onclick="window.location='/recipe/65/Pumpkin-Pie'" onMouseOver="lb('nl65')" onMouseOut="db('nl65')" ><a href="/recipe/65/Pumpkin-Pie" title="Recipe File: Pumpkin Pie">Pumpkin Pie</a></td></tr><tr><td id="nl246" onclick="window.location='/recipe/246/Barbecue-Pork-Ribs-Baby-Back-or-Spare'" onMouseOver="lb('nl246')" onMouseOut="db('nl246')" ><a href="/recipe/246/Barbecue-Pork-Ribs-Baby-Back-or-Spare" title="Recipe File: Barbecue Pork Ribs (Baby Back or Spare)">Barbecue Pork Ribs (Baby Back or Spare)</a></td><td id="nl194" onclick="window.location='/recipe/194/Cream-of-Mushroom-Soup'" onMouseOver="lb('nl194')" onMouseOut="db('nl194')" ><a href="/recipe/194/Cream-of-Mushroom-Soup" title="Recipe File: Cream of Mushroom Soup">Cream of Mushroom Soup</a></td><td id="nl121" onclick="window.location='/recipe/121/Lemon-Iced-Tea'" onMouseOver="lb('nl121')" onMouseOut="db('nl121')" ><a href="/recipe/121/Lemon-Iced-Tea" title="Recipe File: Lemon Iced Tea">Lemon Iced Tea</a></td><td id="nl227" onclick="window.location='/recipe/227/Ratatouille'" onMouseOver="lb('nl227')" onMouseOut="db('nl227')" ><a href="/recipe/227/Ratatouille" title="Recipe File: Ratatouille">Ratatouille</a></td></tr><tr><td id="nl35" onclick="window.location='/recipe/35/Basic-Granita'" onMouseOver="lb('nl35')" onMouseOut="db('nl35')" ><a href="/recipe/35/Basic-Granita" title="Recipe File: Basic Granita">Basic Granita</a></td><td id="nl107" onclick="window.location='/recipe/107/Creamy-Garlic-Mashed-Potatoes'" onMouseOver="lb('nl107')" onMouseOut="db('nl107')" ><a href="/recipe/107/Creamy-Garlic-Mashed-Potatoes" title="Recipe File: Creamy Garlic Mashed Potatoes">Creamy Garlic Mashed Potatoes</a></td><td id="nl124" onclick="window.location='/recipe/124/Lime-Marinated-Grilled-Chicken'" onMouseOver="lb('nl124')" onMouseOut="db('nl124')" ><a href="/recipe/124/Lime-Marinated-Grilled-Chicken" title="Recipe File: Lime Marinated Grilled Chicken">Lime Marinated Grilled Chicken</a></td><td id="nl101" onclick="window.location='/recipe/101/Roasted-Asparagus-Spears'" onMouseOver="lb('nl101')" onMouseOut="db('nl101')" ><a href="/recipe/101/Roasted-Asparagus-Spears" title="Recipe File: Roasted Asparagus Spears">Roasted Asparagus Spears</a></td></tr><tr><td id="nl47" onclick="window.location='/recipe/47/Basic-Pancakes'" onMouseOver="lb('nl47')" onMouseOut="db('nl47')" ><a href="/recipe/47/Basic-Pancakes" title="Recipe File: Basic Pancakes">Basic Pancakes</a></td><td id="nl32" onclick="window.location='/recipe/32/Creme-Brulee-Cregraveme-Brucircleacutee'" onMouseOver="lb('nl32')" onMouseOut="db('nl32')" ><a href="/recipe/32/Creme-Brulee-Cregraveme-Brucircleacutee" title="Recipe File: Creme Brulee (Cr&egrave;me Br&ucirc;l&eacute;e)">Creme Brulee (Cr&egrave;me Br&ucirc;l&eacute;e)</a></td><td id="nl66" onclick="window.location='/recipe/66/Limeade'" onMouseOver="lb('nl66')" onMouseOut="db('nl66')" ><a href="/recipe/66/Limeade" title="Recipe File: Limeade">Limeade</a></td><td id="nl174" onclick="window.location='/recipe/174/Rosemary-Lamb-Chops'" onMouseOver="lb('nl174')" onMouseOut="db('nl174')" ><a href="/recipe/174/Rosemary-Lamb-Chops" title="Recipe File: Rosemary Lamb Chops">Rosemary Lamb Chops</a></td></tr><tr><td id="nl44" onclick="window.location='/recipe/44/Basic-Vinaigrette-Salad-Dressing'" onMouseOver="lb('nl44')" onMouseOut="db('nl44')" ><a href="/recipe/44/Basic-Vinaigrette-Salad-Dressing" title="Recipe File: Basic Vinaigrette Salad Dressing">Basic Vinaigrette Salad Dressing</a></td><td id="nl317" onclick="window.location='/recipe/317/Crunchy-Bloody-Mary'" onMouseOver="lb('nl317')" onMouseOut="db('nl317')" ><a href="/recipe/317/Crunchy-Bloody-Mary" title="Recipe File: Crunchy Bloody Mary">Crunchy Bloody Mary</a></td><td id="nl230" onclick="window.location='/recipe/230/Macaroni-and-Cheese-Bake'" onMouseOver="lb('nl230')" onMouseOut="db('nl230')" ><a href="/recipe/230/Macaroni-and-Cheese-Bake" title="Recipe File: Macaroni and Cheese Bake">Macaroni and Cheese Bake</a></td><td id="nl53" onclick="window.location='/recipe/53/Salsa-Cruda'" onMouseOver="lb('nl53')" onMouseOut="db('nl53')" ><a href="/recipe/53/Salsa-Cruda" title="Recipe File: Salsa Cruda">Salsa Cruda</a></td></tr><tr><td id="nl122" onclick="window.location='/recipe/122/Beef-Stroganoff'" onMouseOver="lb('nl122')" onMouseOut="db('nl122')" ><a href="/recipe/122/Beef-Stroganoff" title="Recipe File: Beef Stroganoff">Beef Stroganoff</a></td><td id="nl158" onclick="window.location='/recipe/158/Dark-Chocolate-Brownies'" onMouseOver="lb('nl158')" onMouseOut="db('nl158')" ><a href="/recipe/158/Dark-Chocolate-Brownies" title="Recipe File: Dark Chocolate Brownies">Dark Chocolate Brownies</a></td><td id="nl177" onclick="window.location='/recipe/177/Matzo-Matzah-Ball-Soup'" onMouseOver="lb('nl177')" onMouseOut="db('nl177')" ><a href="/recipe/177/Matzo-Matzah-Ball-Soup" title="Recipe File: Matzo (Matzah) Ball Soup">Matzo (Matzah) Ball Soup</a></td><td id="nl8" onclick="window.location='/recipe/8/Sauteed-Okra-with-Roasted-Red-Peppers'" onMouseOver="lb('nl8')" onMouseOut="db('nl8')" ><a href="/recipe/8/Sauteed-Okra-with-Roasted-Red-Peppers" title="Recipe File: Sauteed Okra with Roasted Red Peppers">Sauteed Okra with Roasted Red Peppers</a></td></tr><tr><td id="nl154" onclick="window.location='/recipe/154/Biscotti'" onMouseOver="lb('nl154')" onMouseOut="db('nl154')" ><a href="/recipe/154/Biscotti" title="Recipe File: Biscotti">Biscotti</a></td><td id="nl160" onclick="window.location='/recipe/160/Dark-Chocolate-Souffle'" onMouseOver="lb('nl160')" onMouseOut="db('nl160')" ><a href="/recipe/160/Dark-Chocolate-Souffle" title="Recipe File: Dark Chocolate Souffle">Dark Chocolate Souffle</a></td><td id="nl36" onclick="window.location='/recipe/36/Meat-Lasagna'" onMouseOver="lb('nl36')" onMouseOut="db('nl36')" ><a href="/recipe/36/Meat-Lasagna" title="Recipe File: Meat Lasagna">Meat Lasagna</a></td><td id="nl320" onclick="window.location='/recipe/320/Sauteed-Spinach'" onMouseOver="lb('nl320')" onMouseOut="db('nl320')" ><a href="/recipe/320/Sauteed-Spinach" title="Recipe File: Sauteed Spinach">Sauteed Spinach</a></td></tr><tr><td id="nl288" onclick="window.location='/recipe/288/Biscuits-Southern-Buttermilk-Biscuits'" onMouseOver="lb('nl288')" onMouseOut="db('nl288')" ><a href="/recipe/288/Biscuits-Southern-Buttermilk-Biscuits" title="Recipe File: Biscuits (Southern Buttermilk Biscuits)">Biscuits (Southern Buttermilk Biscuits)</a></td><td id="nl147" onclick="window.location='/recipe/147/Dirty-Rice'" onMouseOver="lb('nl147')" onMouseOut="db('nl147')" ><a href="/recipe/147/Dirty-Rice" title="Recipe File: Dirty Rice">Dirty Rice</a></td><td id="nl55" onclick="window.location='/recipe/55/Mini-Hamburgers'" onMouseOver="lb('nl55')" onMouseOut="db('nl55')" ><a href="/recipe/55/Mini-Hamburgers" title="Recipe File: Mini Hamburgers">Mini Hamburgers</a></td><td id="nl127" onclick="window.location='/recipe/127/Shepherds-Pie-Cottage-Pie'" onMouseOver="lb('nl127')" onMouseOut="db('nl127')" ><a href="/recipe/127/Shepherds-Pie-Cottage-Pie" title="Recipe File: Shepherd's Pie (Cottage Pie)">Shepherd's Pie (Cottage Pie)</a></td></tr><tr><td id="nl136" onclick="window.location='/recipe/136/Braised-Brussels-Sprouts'" onMouseOver="lb('nl136')" onMouseOut="db('nl136')" ><a href="/recipe/136/Braised-Brussels-Sprouts" title="Recipe File: Braised Brussels Sprouts">Braised Brussels Sprouts</a></td><td id="nl255" onclick="window.location='/recipe/255/Dulce-de-Leche'" onMouseOver="lb('nl255')" onMouseOut="db('nl255')" ><a href="/recipe/255/Dulce-de-Leche" title="Recipe File: Dulce de Leche">Dulce de Leche</a></td><td id="nl151" onclick="window.location='/recipe/151/Mulled-Cider-Spiced-Apple-Cider'" onMouseOver="lb('nl151')" onMouseOut="db('nl151')" ><a href="/recipe/151/Mulled-Cider-Spiced-Apple-Cider" title="Recipe File: Mulled Cider (Spiced Apple Cider)">Mulled Cider (Spiced Apple Cider)</a></td><td id="nl15" onclick="window.location='/recipe/15/Shrimp-Scampi'" onMouseOver="lb('nl15')" onMouseOut="db('nl15')" ><a href="/recipe/15/Shrimp-Scampi" title="Recipe File: Shrimp Scampi">Shrimp Scampi</a></td></tr><tr><td id="nl268" onclick="window.location='/recipe/268/Buffalo-Chicken-Chili'" onMouseOver="lb('nl268')" onMouseOut="db('nl268')" ><a href="/recipe/268/Buffalo-Chicken-Chili" title="Recipe File: Buffalo Chicken Chili">Buffalo Chicken Chili</a></td><td id="nl203" onclick="window.location='/recipe/203/Egg-Custard-with-Clams'" onMouseOver="lb('nl203')" onMouseOut="db('nl203')" ><a href="/recipe/203/Egg-Custard-with-Clams" title="Recipe File: Egg Custard with Clams">Egg Custard with Clams</a></td><td id="nl185" onclick="window.location='/recipe/185/Nestle-Toll-House-Chocolate-Chip-Cookies'" onMouseOver="lb('nl185')" onMouseOut="db('nl185')" ><a href="/recipe/185/Nestle-Toll-House-Chocolate-Chip-Cookies" title="Recipe File: Nestle Toll House Chocolate Chip Cookies">Nestle Toll House Chocolate Chip Cookies</a></td><td id="nl26" onclick="window.location='/recipe/26/Simple-Tiramisu'" onMouseOver="lb('nl26')" onMouseOut="db('nl26')" ><a href="/recipe/26/Simple-Tiramisu" title="Recipe File: Simple Tiramisu">Simple Tiramisu</a></td></tr><tr><td id="nl306" onclick="window.location='/recipe/306/Butter-Pecan-Ice-Cream'" onMouseOver="lb('nl306')" onMouseOut="db('nl306')" ><a href="/recipe/306/Butter-Pecan-Ice-Cream" title="Recipe File: Butter Pecan Ice Cream">Butter Pecan Ice Cream</a></td><td id="nl159" onclick="window.location='/recipe/159/English-Toffee'" onMouseOver="lb('nl159')" onMouseOut="db('nl159')" ><a href="/recipe/159/English-Toffee" title="Recipe File: English Toffee">English Toffee</a></td><td id="nl86" onclick="window.location='/recipe/86/Okra-Stew-Fast-Gumbo'" onMouseOver="lb('nl86')" onMouseOut="db('nl86')" ><a href="/recipe/86/Okra-Stew-Fast-Gumbo" title="Recipe File: Okra Stew (Fast Gumbo)">Okra Stew (Fast Gumbo)</a></td><td id="nl28" onclick="window.location='/recipe/28/Slow-Simmered-Spicy-Barbeque-Sauce'" onMouseOver="lb('nl28')" onMouseOut="db('nl28')" ><a href="/recipe/28/Slow-Simmered-Spicy-Barbeque-Sauce" title="Recipe File: Slow Simmered Spicy Barbeque Sauce">Slow Simmered Spicy Barbeque Sauce</a></td></tr><tr><td id="nl180" onclick="window.location='/recipe/180/Buttercream-Frosting-American'" onMouseOver="lb('nl180')" onMouseOut="db('nl180')" ><a href="/recipe/180/Buttercream-Frosting-American" title="Recipe File: Buttercream Frosting (American)">Buttercream Frosting (American)</a></td><td id="nl327" onclick="window.location='/recipe/327/Espresso-Brownies'" onMouseOver="lb('nl327')" onMouseOut="db('nl327')" ><a href="/recipe/327/Espresso-Brownies" title="Recipe File: Espresso Brownies">Espresso Brownies</a></td><td id="nl200" onclick="window.location='/recipe/200/Osso-Buco'" onMouseOver="lb('nl200')" onMouseOut="db('nl200')" ><a href="/recipe/200/Osso-Buco" title="Recipe File: Osso Buco">Osso Buco</a></td><td id="nl144" onclick="window.location='/recipe/144/Smoked-Beer-Can-Turkey'" onMouseOver="lb('nl144')" onMouseOut="db('nl144')" ><a href="/recipe/144/Smoked-Beer-Can-Turkey" title="Recipe File: Smoked Beer Can Turkey">Smoked Beer Can Turkey</a></td></tr><tr><td id="nl9" onclick="window.location='/recipe/9/Campbells-Green-Bean-Casserole'" onMouseOver="lb('nl9')" onMouseOut="db('nl9')" ><a href="/recipe/9/Campbells-Green-Bean-Casserole" title="Recipe File: Campbell's Green Bean Casserole">Campbell's Green Bean Casserole</a></td><td id="nl34" onclick="window.location='/recipe/34/Garlic-Roasted-Potatoes'" onMouseOver="lb('nl34')" onMouseOut="db('nl34')" ><a href="/recipe/34/Garlic-Roasted-Potatoes" title="Recipe File: Garlic Roasted Potatoes">Garlic Roasted Potatoes</a></td><td id="nl81" onclick="window.location='/recipe/81/Oven-Baked-Chicken-and-Rice'" onMouseOver="lb('nl81')" onMouseOut="db('nl81')" ><a href="/recipe/81/Oven-Baked-Chicken-and-Rice" title="Recipe File: Oven Baked Chicken and Rice">Oven Baked Chicken and Rice</a></td><td id="nl239" onclick="window.location='/recipe/239/Soft-Boiled-Eggs'" onMouseOver="lb('nl239')" onMouseOut="db('nl239')" ><a href="/recipe/239/Soft-Boiled-Eggs" title="Recipe File: Soft Boiled Eggs">Soft Boiled Eggs</a></td></tr><tr><td id="nl181" onclick="window.location='/recipe/181/Cheesecake-Cupcakes'" onMouseOver="lb('nl181')" onMouseOut="db('nl181')" ><a href="/recipe/181/Cheesecake-Cupcakes" title="Recipe File: Cheesecake Cupcakes">Cheesecake Cupcakes</a></td><td id="nl132" onclick="window.location='/recipe/132/Gravlax'" onMouseOver="lb('nl132')" onMouseOut="db('nl132')" ><a href="/recipe/132/Gravlax" title="Recipe File: Gravlax">Gravlax</a></td><td id="nl45" onclick="window.location='/recipe/45/Oven-Baked-Spare-Ribs-Two-Ways'" onMouseOver="lb('nl45')" onMouseOut="db('nl45')" ><a href="/recipe/45/Oven-Baked-Spare-Ribs-Two-Ways" title="Recipe File: Oven Baked Spare Ribs - Two Ways">Oven Baked Spare Ribs - Two Ways</a></td><td id="nl83" onclick="window.location='/recipe/83/Strawberry-Glazed-Angel-Food-Cake'" onMouseOver="lb('nl83')" onMouseOut="db('nl83')" ><a href="/recipe/83/Strawberry-Glazed-Angel-Food-Cake" title="Recipe File: Strawberry Glazed Angel Food Cake">Strawberry Glazed Angel Food Cake</a></td></tr><tr><td id="nl89" onclick="window.location='/recipe/89/Cheesecake-Plain-New-York-Style'" onMouseOver="lb('nl89')" onMouseOut="db('nl89')" ><a href="/recipe/89/Cheesecake-Plain-New-York-Style" title="Recipe File: Cheesecake, Plain New York Style">Cheesecake, Plain New York Style</a></td><td id="nl111" onclick="window.location='/recipe/111/Grilled-Artichokes'" onMouseOver="lb('nl111')" onMouseOut="db('nl111')" ><a href="/recipe/111/Grilled-Artichokes" title="Recipe File: Grilled Artichokes">Grilled Artichokes</a></td><td id="nl37" onclick="window.location='/recipe/37/Pan-Fried-Fish-Fillets'" onMouseOver="lb('nl37')" onMouseOut="db('nl37')" ><a href="/recipe/37/Pan-Fried-Fish-Fillets" title="Recipe File: Pan Fried Fish Fillets">Pan Fried Fish Fillets</a></td><td id="nl4" onclick="window.location='/recipe/4/Sweet-Corn-Bread'" onMouseOver="lb('nl4')" onMouseOut="db('nl4')" ><a href="/recipe/4/Sweet-Corn-Bread" title="Recipe File: Sweet Corn Bread">Sweet Corn Bread</a></td></tr><tr><td id="nl59" onclick="window.location='/recipe/59/Chicken-Mushroom-Marsala'" onMouseOver="lb('nl59')" onMouseOut="db('nl59')" ><a href="/recipe/59/Chicken-Mushroom-Marsala" title="Recipe File: Chicken &amp; Mushroom Marsala">Chicken &amp; Mushroom Marsala</a></td><td id="nl20" onclick="window.location='/recipe/20/Grilled-Pork-Chops'" onMouseOver="lb('nl20')" onMouseOut="db('nl20')" ><a href="/recipe/20/Grilled-Pork-Chops" title="Recipe File: Grilled Pork Chops">Grilled Pork Chops</a></td><td id="nl71" onclick="window.location='/recipe/71/Pan-Seared-Scallops-with-Roasted-Red-Pepper-Sauce'" onMouseOver="lb('nl71')" onMouseOut="db('nl71')" ><a href="/recipe/71/Pan-Seared-Scallops-with-Roasted-Red-Pepper-Sauce" title="Recipe File: Pan Seared Scallops with Roasted Red Pepper Sauce">Pan Seared Scallops with Roasted Red Pepper Sauce</a></td><td id="nl42" onclick="window.location='/recipe/42/Traditional-Chicken-Pot-Pie'" onMouseOver="lb('nl42')" onMouseOut="db('nl42')" ><a href="/recipe/42/Traditional-Chicken-Pot-Pie" title="Recipe File: Traditional Chicken Pot Pie">Traditional Chicken Pot Pie</a></td></tr><tr><td id="nl178" onclick="window.location='/recipe/178/Chocolate-Cake'" onMouseOver="lb('nl178')" onMouseOut="db('nl178')" ><a href="/recipe/178/Chocolate-Cake" title="Recipe File: Chocolate Cake">Chocolate Cake</a></td><td id="nl31" onclick="window.location='/recipe/31/Grilled-Porterhouse-or-T-Bone-Steak'" onMouseOver="lb('nl31')" onMouseOut="db('nl31')" ><a href="/recipe/31/Grilled-Porterhouse-or-T-Bone-Steak" title="Recipe File: Grilled Porterhouse or T-Bone Steak">Grilled Porterhouse or T-Bone Steak</a></td><td id="nl164" onclick="window.location='/recipe/164/Parmesan-Garlic-Bread'" onMouseOver="lb('nl164')" onMouseOut="db('nl164')" ><a href="/recipe/164/Parmesan-Garlic-Bread" title="Recipe File: Parmesan Garlic Bread">Parmesan Garlic Bread</a></td><td id="nl18" onclick="window.location='/recipe/18/Traditional-Pecan-Pie'" onMouseOver="lb('nl18')" onMouseOut="db('nl18')" ><a href="/recipe/18/Traditional-Pecan-Pie" title="Recipe File: Traditional Pecan Pie">Traditional Pecan Pie</a></td></tr><tr><td id="nl195" onclick="window.location='/recipe/195/Chocolate-Truffles'" onMouseOver="lb('nl195')" onMouseOut="db('nl195')" ><a href="/recipe/195/Chocolate-Truffles" title="Recipe File: Chocolate Truffles">Chocolate Truffles</a></td><td id="nl10" onclick="window.location='/recipe/10/Grilled-Salmon'" onMouseOver="lb('nl10')" onMouseOut="db('nl10')" ><a href="/recipe/10/Grilled-Salmon" title="Recipe File: Grilled Salmon">Grilled Salmon</a></td><td id="nl58" onclick="window.location='/recipe/58/Peanut-Butter-Cookies'" onMouseOver="lb('nl58')" onMouseOut="db('nl58')" ><a href="/recipe/58/Peanut-Butter-Cookies" title="Recipe File: Peanut Butter Cookies">Peanut Butter Cookies</a></td><td id="nl62" onclick="window.location='/recipe/62/Tuna-Noodle-Casserole'" onMouseOver="lb('nl62')" onMouseOut="db('nl62')" ><a href="/recipe/62/Tuna-Noodle-Casserole" title="Recipe File: Tuna Noodle Casserole">Tuna Noodle Casserole</a></td></tr><tr><td id="nl112" onclick="window.location='/recipe/112/Clam-Chowder-New-England-Style'" onMouseOver="lb('nl112')" onMouseOut="db('nl112')" ><a href="/recipe/112/Clam-Chowder-New-England-Style" title="Recipe File: Clam Chowder, New England Style">Clam Chowder, New England Style</a></td><td id="nl6" onclick="window.location='/recipe/6/Grilled-Skinless-Chicken-Breast'" onMouseOver="lb('nl6')" onMouseOut="db('nl6')" ><a href="/recipe/6/Grilled-Skinless-Chicken-Breast" title="Recipe File: Grilled Skinless Chicken Breast">Grilled Skinless Chicken Breast</a></td><td id="nl168" onclick="window.location='/recipe/168/Pecan-Coffee-Cake'" onMouseOver="lb('nl168')" onMouseOut="db('nl168')" ><a href="/recipe/168/Pecan-Coffee-Cake" title="Recipe File: Pecan Coffee Cake">Pecan Coffee Cake</a></td><td id="nl75" onclick="window.location='/recipe/75/Turkey-or-Chicken-Stock'" onMouseOver="lb('nl75')" onMouseOut="db('nl75')" ><a href="/recipe/75/Turkey-or-Chicken-Stock" title="Recipe File: Turkey or Chicken Stock">Turkey or Chicken Stock</a></td></tr><tr><td id="nl74" onclick="window.location='/recipe/74/Classic-Roast-Turkey'" onMouseOver="lb('nl74')" onMouseOut="db('nl74')" ><a href="/recipe/74/Classic-Roast-Turkey" title="Recipe File: Classic Roast Turkey">Classic Roast Turkey</a></td><td id="nl43" onclick="window.location='/recipe/43/Homemade-Mayonnaise'" onMouseOver="lb('nl43')" onMouseOut="db('nl43')" ><a href="/recipe/43/Homemade-Mayonnaise" title="Recipe File: Homemade Mayonnaise">Homemade Mayonnaise</a></td></tr></table></div>
+	<div id="navcat_SousVide" style="display:none"><table width="100%" class="navlinks" cellpadding="0" cellspacing="1"><tr><td width="25%" id="nl283" onclick="window.location='/article/283/An-Introduction-to-Sous-Vide-Cooking'" onMouseOver="lb('nl283')" onMouseOut="db('nl283')" ><a href="/article/283/An-Introduction-to-Sous-Vide-Cooking" title="Sous Vide: An Introduction to Sous Vide Cooking">An Introduction to Sous Vide Cooking</a></td><td width="25%" id="nl289" onclick="window.location='/article/289/Sous-Vide-Cooking-at-Home-Setup-Guide'" onMouseOver="lb('nl289')" onMouseOut="db('nl289')" ><a href="/article/289/Sous-Vide-Cooking-at-Home-Setup-Guide" title="Sous Vide: Sous Vide Cooking at Home Setup Guide">Sous Vide Cooking at Home Setup Guide</a></td></tr></table></div>
+	<div id="navcat_TestRecipes" style="display:none"><table width="100%" class="navlinks" cellpadding="0" cellspacing="1"><tr><td width="25%" id="nl14" onclick="window.location='/recipe/14/Albers-Corn-Bread'" onMouseOver="lb('nl14')" onMouseOut="db('nl14')" ><a href="/recipe/14/Albers-Corn-Bread" title="Test Recipes: Albers Corn Bread">Albers Corn Bread</a></td><td width="25%" id="nl19" onclick="window.location='/recipe/19/Erics-Chocolate-Pecan-Pie'" onMouseOver="lb('nl19')" onMouseOut="db('nl19')" ><a href="/recipe/19/Erics-Chocolate-Pecan-Pie" title="Test Recipes: Eric's Chocolate Pecan Pie">Eric's Chocolate Pecan Pie</a></td><td width="25%" id="nl215" onclick="window.location='/recipe/215/Hot-Cross-Buns-Delia-Smiths'" onMouseOver="lb('nl215')" onMouseOut="db('nl215')" ><a href="/recipe/215/Hot-Cross-Buns-Delia-Smiths" title="Test Recipes: Hot Cross Buns (Delia Smith's)">Hot Cross Buns (Delia Smith's)</a></td><td width="25%" id="nl172" onclick="window.location='/recipe/172/Pan-Pizza'" onMouseOver="lb('nl172')" onMouseOut="db('nl172')" ><a href="/recipe/172/Pan-Pizza" title="Test Recipes: Pan Pizza">Pan Pizza</a></td></tr><tr><td id="nl77" onclick="window.location='/recipe/77/Asian-Taco'" onMouseOver="lb('nl77')" onMouseOut="db('nl77')" ><a href="/recipe/77/Asian-Taco" title="Test Recipes: Asian Taco">Asian Taco</a></td><td id="nl46" onclick="window.location='/recipe/46/Faux-BBQ-Beef-Ribs'" onMouseOver="lb('nl46')" onMouseOut="db('nl46')" ><a href="/recipe/46/Faux-BBQ-Beef-Ribs" title="Test Recipes: Faux BBQ Beef Ribs">Faux BBQ Beef Ribs</a></td><td id="nl49" onclick="window.location='/recipe/49/Joy-of-Cookings-Peanut-Butter-Cookies-14-in-one'" onMouseOver="lb('nl49')" onMouseOut="db('nl49')" ><a href="/recipe/49/Joy-of-Cookings-Peanut-Butter-Cookies-14-in-one" title="Test Recipes: Joy of Cooking's Peanut Butter Cookies (14-in-one)">Joy of Cooking's Peanut Butter Cookies (14-in-one)</a></td><td id="nl252" onclick="window.location='/recipe/252/Quick-Gazpacho'" onMouseOver="lb('nl252')" onMouseOut="db('nl252')" ><a href="/recipe/252/Quick-Gazpacho" title="Test Recipes: Quick Gazpacho">Quick Gazpacho</a></td></tr><tr><td id="nl12" onclick="window.location='/recipe/12/Avocado-Pork-Stuffed-Peppers'" onMouseOver="lb('nl12')" onMouseOut="db('nl12')" ><a href="/recipe/12/Avocado-Pork-Stuffed-Peppers" title="Test Recipes: Avocado Pork Stuffed Peppers">Avocado Pork Stuffed Peppers</a></td><td id="nl76" onclick="window.location='/recipe/76/Giblet-Pan-Gravy'" onMouseOver="lb('nl76')" onMouseOut="db('nl76')" ><a href="/recipe/76/Giblet-Pan-Gravy" title="Test Recipes: Giblet Pan Gravy">Giblet Pan Gravy</a></td><td id="nl80" onclick="window.location='/recipe/80/Leftover-Cranberry-Sauce-Pie'" onMouseOver="lb('nl80')" onMouseOut="db('nl80')" ><a href="/recipe/80/Leftover-Cranberry-Sauce-Pie" title="Test Recipes: Leftover Cranberry Sauce Pie">Leftover Cranberry Sauce Pie</a></td><td id="nl13" onclick="window.location='/recipe/13/Sauteed-Zucchini-with-Mushrooms'" onMouseOver="lb('nl13')" onMouseOut="db('nl13')" ><a href="/recipe/13/Sauteed-Zucchini-with-Mushrooms" title="Test Recipes: Sauteed Zucchini with Mushrooms">Sauteed Zucchini with Mushrooms</a></td></tr><tr><td id="nl41" onclick="window.location='/recipe/41/Basic-Biscuits'" onMouseOver="lb('nl41')" onMouseOut="db('nl41')" ><a href="/recipe/41/Basic-Biscuits" title="Test Recipes: Basic Biscuits">Basic Biscuits</a></td><td id="nl72" onclick="window.location='/recipe/72/Good-Eats-Peanut-Brittle'" onMouseOver="lb('nl72')" onMouseOut="db('nl72')" ><a href="/recipe/72/Good-Eats-Peanut-Brittle" title="Test Recipes: Good Eats Peanut Brittle">Good Eats Peanut Brittle</a></td><td id="nl106" onclick="window.location='/recipe/106/Marshmallows'" onMouseOver="lb('nl106')" onMouseOut="db('nl106')" ><a href="/recipe/106/Marshmallows" title="Test Recipes: Marshmallows">Marshmallows</a></td><td id="nl60" onclick="window.location='/recipe/60/The-Classic-Tiramisu-original-recipe'" onMouseOver="lb('nl60')" onMouseOut="db('nl60')" ><a href="/recipe/60/The-Classic-Tiramisu-original-recipe" title="Test Recipes: The Classic Tiramisu (original recipe?)">The Classic Tiramisu (original recipe?)</a></td></tr><tr><td id="nl87" onclick="window.location='/recipe/87/Carrot-Pulp-Cake-Part-I'" onMouseOver="lb('nl87')" onMouseOut="db('nl87')" ><a href="/recipe/87/Carrot-Pulp-Cake-Part-I" title="Test Recipes: Carrot Pulp Cake, Part I">Carrot Pulp Cake, Part I</a></td><td id="nl69" onclick="window.location='/recipe/69/Halloween-Green-Slime-Spinach-Dip'" onMouseOver="lb('nl69')" onMouseOut="db('nl69')" ><a href="/recipe/69/Halloween-Green-Slime-Spinach-Dip" title="Test Recipes: Halloween Green Slime Spinach Dip">Halloween Green Slime Spinach Dip</a></td><td id="nl161" onclick="window.location='/recipe/161/Orzo-Risotto-with-Buttery-Shrimp'" onMouseOver="lb('nl161')" onMouseOut="db('nl161')" ><a href="/recipe/161/Orzo-Risotto-with-Buttery-Shrimp" title="Test Recipes: Orzo Risotto with Buttery Shrimp">Orzo Risotto with Buttery Shrimp</a></td><td id="nl193" onclick="window.location='/recipe/193/TrailBlaze-Bake-At-Home-Energy-Bars'" onMouseOver="lb('nl193')" onMouseOut="db('nl193')" ><a href="/recipe/193/TrailBlaze-Bake-At-Home-Energy-Bars" title="Test Recipes: TrailBlaze Bake-At-Home Energy Bars">TrailBlaze Bake-At-Home Energy Bars</a></td></tr><tr><td id="nl170" onclick="window.location='/recipe/170/Chinese-Almond-Cookies'" onMouseOver="lb('nl170')" onMouseOut="db('nl170')" ><a href="/recipe/170/Chinese-Almond-Cookies" title="Test Recipes: Chinese Almond Cookies">Chinese Almond Cookies</a></td><td id="nl274" onclick="window.location='/recipe/274/Hatch-Chile-Infused-Chocolate-Truffles'" onMouseOver="lb('nl274')" onMouseOut="db('nl274')" ><a href="/recipe/274/Hatch-Chile-Infused-Chocolate-Truffles" title="Test Recipes: Hatch Chile Infused Chocolate Truffles">Hatch Chile Infused Chocolate Truffles</a></td><td id="nl176" onclick="window.location='/recipe/176/Oven-Fried-Onion-Rings'" onMouseOver="lb('nl176')" onMouseOut="db('nl176')" ><a href="/recipe/176/Oven-Fried-Onion-Rings" title="Test Recipes: Oven-Fried Onion Rings">Oven-Fried Onion Rings</a></td></tr></table></div>
+	
+</div>
+<div class="navbarbottom"></div>
+			<table class="tl_table" cellpadding="0" cellspacing="1" border="0">
+	<tr align="center">
+		<td class="indexsummary">
+			<a href="/toc.php?sort=date">Table of Contents</a>
+		</td>
+		<td class="indexsummary">
+			<a href="/forums">Forums</a>
+		</td>
+		<td class="indexsummary">
+			<a href="/dictionary">Dictionary</a>
+		</td>
+		<td class="indexsummary">
+			<a href="/books">Recommended Reading</a>
+		</td>
+		<td class="indexsummary">
+			<a href="http://astore.amazon.com/themichaelupdate">Marketplace</a>
+		</td>
+		<td class="indexsummary">
+			<a href="http://www.cafepress.com/cookingengineer">Giftshop</a>
+		</td>
+		<td class="indexsummary">
+			<a href="/what_i_ate">What I Ate</a>
+		</td>
+		<td class="indexsummary" style="border:1px solid #C00000">
+			<a href="http://www.orthogonalthought.com/blog" title="Read Michael's Blog: Orthogonal Thought" style="background-color:#FFFFC0">Michael's Blog</a>
+		</td>
+	</tr>
+</table>
+
+
+		
+		
+		
+
+
+		
+	<div id="orthogonalthought" onclick="window.location='http://www.orthogonalthought.com/blog/index.php/2014/08/fall-television-season-2014-grid/';" style="cursor:pointer">
+		Latest Post on Michael's Blog: <a href="http://www.orthogonalthought.com/blog/index.php/2014/08/fall-television-season-2014-grid/">Fall Television Season 2014 Grid</a>
+	</div>	
+	
+
+
+		
+		<div class="mainbody">
+			
+
+<table cellpadding="0" cellspacing="2" border="0" style="margin:0 auto 0 auto">
+	<tr>
+		
+		<td style="background: #000000 url(http://www.cookingforengineers.com/pics2/160/DSC_1748_crop.jpg) no-repeat center center; cursor:pointer;border:2px solid #FFFFA0;padding:0">
+			<a href="/recipe/177/Matzo-Matzah-Ball-Soup" title="Recipe File: Matzo (Matzah) Ball Soup"><div style="height:100px;width:100px;cursor:pointer"></div></a>
+		</td>
+		
+		<td style="background: #000000 url(http://www.cookingforengineers.com/pics2/160/DSC_1352_crop.jpg) no-repeat center center; cursor:pointer;border:2px solid #FFFFA0;padding:0">
+			<a href="/recipe/174/Rosemary-Lamb-Chops" title="Recipe File: Rosemary Lamb Chops"><div style="height:100px;width:100px;cursor:pointer"></div></a>
+		</td>
+		
+		<td style="background: #000000 url(http://www.cookingforengineers.com/pics2/160/DSC_1011_crop.jpg) no-repeat center center; cursor:pointer;border:2px solid #FFFFA0;padding:0">
+			<a href="/recipe/154/Biscotti" title="Recipe File: Biscotti"><div style="height:100px;width:100px;cursor:pointer"></div></a>
+		</td>
+		
+		<td style="background: #000000 url(http://www.cookingforengineers.com/hello/259/958/160/IMG_3409_sharp.jpg) no-repeat center center; cursor:pointer;border:2px solid #FFFFA0;padding:0">
+			<a href="/recipe/20/Grilled-Pork-Chops" title="Recipe File: Grilled Pork Chops"><div style="height:100px;width:100px;cursor:pointer"></div></a>
+		</td>
+		
+		<td style="background: #000000 url(http://www.cookingforengineers.com/pics2/160/DSC_1282_crop.jpg) no-repeat center center; cursor:pointer;border:2px solid #FFFFA0;padding:0">
+			<a href="/recipe/170/Chinese-Almond-Cookies" title="Test Recipes: Chinese Almond Cookies"><div style="height:100px;width:100px;cursor:pointer"></div></a>
+		</td>
+		
+		<td style="background: #000000 url(http://www.cookingforengineers.com/pics2/160/DSC_1184_crop.jpg) no-repeat center center; cursor:pointer;border:2px solid #FFFFA0;padding:0">
+			<a href="/recipe/163/Asparagus-with-Almonds" title="Recipe File: Asparagus with Almonds"><div style="height:100px;width:100px;cursor:pointer"></div></a>
+		</td>
+		
+		<td style="background: #000000 url(http://www.cookingforengineers.com/pics/160/DSC_1806_crop.jpg) no-repeat center center; cursor:pointer;border:2px solid #FFFFA0;padding:0">
+			<a href="/recipe/80/Leftover-Cranberry-Sauce-Pie" title="Test Recipes: Leftover Cranberry Sauce Pie"><div style="height:100px;width:100px;cursor:pointer"></div></a>
+		</td>
+		
+		<td style="background: #000000 url(http://www.cookingforengineers.com/pics/160/DSC_1537_crop.jpg) no-repeat center center; cursor:pointer;border:2px solid #FFFFA0;padding:0">
+			<a href="/recipe/72/Good-Eats-Peanut-Brittle" title="Test Recipes: Good Eats Peanut Brittle"><div style="height:100px;width:100px;cursor:pointer"></div></a>
+		</td>
+		
+	</tr>
+</table>
+
+
+<div itemscope itemtype="http://data-vocabulary.org/Recipe">
+	<div id="articleheader">
+			<div class="headertitle"><div>
+				<span class="category">
+					Recipe File
+				</span><br />
+				<h1 class="title" style="display:inline" itemprop="name">
+					Shrimp Scampi
+				</h1>
+				<span class="author">
+					by <span itemprop="author">Michael Chu</span>
+				</span>
+			</div></div>
+		<div class="formatbutton"><a href="/recipe/15/Shrimp-Scampi/trn">Recipe Card</a></div>
+		<div class="formatbutton"><a href="/recipe/15/Shrimp-Scampi/print">Printer-friendly</a></div>
+		
+		<div class="selectedformatbutton">Normal view</div>
+		
+		<div class="hr"></div>
+	</div>
+
+	<div id="articlebody">
+		
+		
+			<div style="font-size:12pt;font-weight:bold;float:right;margin:0px -6px 0 0;padding:0 4px 6px 8px;background-color:#FFFFA0"><a href="/recipe/14/Albers-Corn-Bread">Next &#187;</a></div>
+			<div style="font-size:12pt;font-weight:bold;float:left;margin:0px 0 0 -6px;padding:0 8px 6px 4px;background-color:#FFFFA0"><a href="/article/16/Maple-Syrup-Grades">&#171; Prev</a></div>
+			
+			<div style="clear:both"></div>
+			<div style="float:right;clear:right;padding:4px 0 12px 8px;" class="nothing">
+				
+<!-- Google DFP Article_160x600-->
+<center>
+<div id='dfp_gpt_1' style='width:160px; height:600px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('dfp_gpt_1'); });
+</script>
+</div>
+</center>
+
+				<div style="margin:30px 0 0 0;line-height:0px"><!-- --></div>
+				
+			</div>
+			
+<!-- Google DFP Article_300x250-->
+<div class="adsense-left">
+<div id='dfp_gpt_2' style='width:300px; height:250px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('dfp_gpt_2'); });
+</script>
+</div>
+</div>
+
+
+		
+		
+			
+			Traditionally served over linguine, shrimp scampi makes a quick and easy dinner that works equally well eaten in front of the computer or as the main dish of a romantic candlelight dinner. I serve large shrimp (16-20 count) when I have company over, but for my own consumption, I use the less expensive 41-50 count variety. Cooking the shrimp in butter provides most of the flavor but garlic and parsley is essential to the dish. Linguine takes about the same amount of time to cook, which makes it the perfect compliment to shrimp scampi both culinarily and in terms of efficiency.<span class="fullpost"><?if($fullpost==1){?><br />
+<br />
+In the United States, shrimp is sold by "count". This is a rating of the size and weight of the shrimp. The count represents the number of shrimp in a pound for a given size category. For example, 41-50 count shrimp are composed of shrimp that weigh about 1/3 ounce each, while 16-20 count shrimp are an ounce each (or a little less) in weight. The lower the count, the larger the shrimp (and the more expensive).<br />
+<br />
+<div class="larticles">
+	<div class="title">Related Articles</div>
+	<div class="link">
+			<a href="/recipe/14/Albers-Corn-Bread">Albers Corn Bread</a>
+		</div><div class="link">
+			<a href="/article/16/Maple-Syrup-Grades">Maple Syrup Grades</a>
+		</div><div class="link">
+			<a href="/recipe/53/Salsa-Cruda">Salsa Cruda</a>
+		</div><div class="link">
+			<a href="/article/199/Baguettes-Deconstructed">Baguettes Deconstructed</a>
+		</div><div class="link">
+			<a href="/recipe/38/Prime-Rib-or-Standing-Rib-Roast">Prime Rib or Standing Rib Roast</a>
+		</div>
+	
+</div>
+	Bring six quarts of water in a large pot to a boil. While waiting for the water to boil, peel one pound of shrimp, leaving tails on. Butterfly the shrimp by cutting the backs of each shrimp. While butterflying I also remove the vein (I think it's actually the alimentary canal) to avoid having gritty shrimp waste in my scampi. Rinse the shrimp and blot dry with paper towels. Once the water is boiling, stir in 1/2 tablespoon table salt and add one pound of dried linguine. (Cooking times for pasta varies by manufacturer. Use the instructions on the box, but be aware that many pasta manufacturers recommend cooking times that are to long for al dente. I suggest subtracting a few minutes from the cooking time and testing the pasta by biting down on it and looking at the cross section. There should still be a tiny speck of uncooked pasta when the noodles are al dente. Drain the pasta immediately; they will finish cooking as they stand.)<br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/hello/259/958/640/DSC_0251_copy.jpg'><img border='0'  src='http://www.cookingforengineers.com/hello/259/958/320/DSC_0251_copy.jpg'  width='320' height='217' class='left' alt='' /></a>
+Melt four tablespoons of butter and two tablespoons of olive oil in the pan. Add about 2 teaspoons of minced garlic and 1/4 teaspoon salt (if using unsalted butter). Stir over medium-low heat until the garlic is lightly browned.<br /><div style='clear:left'></div><br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/hello/259/958/640/DSC_0252_copy.jpg'><img border='0'  src='http://www.cookingforengineers.com/hello/259/958/320/DSC_0252_copy.jpg'  width='320' height='192' class='left' alt='' /></a>
+The shrimp should be added in a single layer on the pan (cook two batches if necessary). The shrimp can be cooked over low or medium heat. Over medium heat, the shrimp will form a slight crust and be golden brown when cooked. When the shrimp color changes and the flesh touching the pan is no longer translucent (about two minutes), flip the shrimps over with a pair of tongs or spatula.<br /><div style='clear:left'></div><br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/hello/259/958/640/DSC_0254_copy.jpg'><img itemprop="photo" border='0'  src='http://www.cookingforengineers.com/hello/259/958/320/DSC_0254_copy.jpg'  width='320' height='249' class='left' alt='' /></a>
+Meanwhile, when the linguine is cooked to the desired level, pour the pasta into a collander to drain. Return the pasta to the pot or into a large bowl. When the second side of the shrimp is fully cooked (another two minutes), throw in one tablespoon chopped parsley and give it a quick stir. Remove from the heat and pour shrimp and butter over the pasta. Toss and serve with fresh grated parmesan, ground black pepper, and a slice of lemon.<?}?></span><br /><div style='clear:left'></div><br />
+<br />
+<b>Shrimp Scampi</b><br />
+<table><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">1 lb.</span> <span itemprop="name">shrimp</span></span></td><td colspan=2 class="righthide"></td><td rowspan=5 class="vertical">cook until opaque</td><td rowspan=5 class="vertical">flip; cook until opaque</td><td rowspan=6 class="vertical">add</td></tr><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">4 Tbs.</span> <span itemprop="name">butter</span></span></td><td rowspan=2>melt</td><td rowspan=4 class="vertical">brown</td></tr><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">2 Tbs.</span> <span itemprop="name">olive oil</span></span></td></tr><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">1/4 tsp.</span> <span itemprop="name">salt</span></span></td><td rowspan=2 class="righthide"></td></tr><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">2 tsp.</span> <span itemprop="name">minced garlic</span></span></td></tr><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">1 Tbs.</span> <span itemprop="name">chopped parsley</span></span></td><td colspan=4 class="righthide"></td></tr></table><span class="copy">Copyright Michael Chu 2004</span><br />
+<div class="larticles">
+	<div class="title">Related Articles</div>
+	<div class="link">
+			<a href="/recipe/14/Albers-Corn-Bread">Albers Corn Bread</a>
+		</div><div class="link">
+			<a href="/article/16/Maple-Syrup-Grades">Maple Syrup Grades</a>
+		</div><div class="link">
+			<a href="/recipe/53/Salsa-Cruda">Salsa Cruda</a>
+		</div><div class="link">
+			<a href="/article/199/Baguettes-Deconstructed">Baguettes Deconstructed</a>
+		</div><div class="link">
+			<a href="/recipe/38/Prime-Rib-or-Standing-Rib-Roast">Prime Rib or Standing Rib Roast</a>
+		</div>
+	
+</div>
+	<div style="clear:both;margin-bottom:8px"></div>
+			
+		
+		
+		<div class="clear"></div>
+		
+			<div style="font-size:12pt;font-weight:bold;float:right;margin:0 -6px -4px 0;padding:0 2px 2px 6px;background-color:#FFFFA0"><a href="/recipe/14/Albers-Corn-Bread">Next &#187;</a></div>
+			<div style="font-size:12pt;font-weight:bold;float:left;margin:0 0 -4px -6px;padding:0 6px 2px 2px;background-color:#FFFFA0"><a href="/article/16/Maple-Syrup-Grades">&#171; Prev</a></div>
+		
+		<div class="clear"></div>
+	</div>
+	
+	<div id="articlefooter">
+		<div class="author">Written by Michael Chu</div>
+		<div class="timestamp">Published on <time itemprop="publishDate" itemprop="published" datetime="2004-09-21">September 21, 2004 at 06:48 PM</time></div>
+		<div class="clear"></div>
+	</div>
+	
+</div>
+
+
+
+
+
+	<div class="spacer3"></div>
+		
+<!-- Google DFP Article_728x90-->
+<center>
+<div id='dfp_gpt_3' style='width:728px; height:90px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('dfp_gpt_3'); });
+</script>
+</div>
+</center>
+
+		
+	
+	
+  <div id="comments">
+		<div id="articlecomments">
+			<div class="header">87 comments on <b>Shrimp Scampi</b>:<span class="commentlink">(<a href="/forums/posting.php?mode=reply&t=266" style="font-size:12pt" title="Comments are managed in the Cooking For Engineers Forums">Post a comment</a>)</span></div>
+			
+					<hr size="1" noshade />
+					<div class="commentheading">On November 07, 2005 at 07:41 PM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">Awwwww, the pancetta is getting lonely. Pasta and shell fish just LOVE cured pork. I know, I seen them glisten.<br />
+<br />
+Dr. B / Meathenge</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 07, 2005 at 07:41 PM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">Why does the shrimp turn red?</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 07, 2005 at 07:42 PM, Michael Chu said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">re: Shrimp color change<br />
+<br />
+Shrimp (and lobsters, crabs, lagostines, crawfish, etc.) contain a pigment called astaxanthin. The astaxanthin is covered by proteins, so when you introduce enough heat, the proteins unravel and the astaxanthin is released. The astaxanthin provides the reddish orange coloring that we associate with cooked shrimp. Astaxanthin is also the pigmentation that makes salmon flesh pink or orange.<br />
+<br />
+Astaxanthin is produced by some plants and algae and it is the consumption of this plant matter that introduces the pigment into crustaceans and fish. (Commercial farms have also been known to add astaxanthin to feed in order to produce more vibrant color and promote proper growth.)<br />
+<br />
+Hope this helped,<br />
+Michael</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 07, 2005 at 07:42 PM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">what is butterflying?</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 07, 2005 at 07:43 PM, Chris_repost (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">Sounds delicious - however, why would you leave the tails on? It just makes the diner have to remove the tail before eating the shrimp.<br />
+<br />
+I usually remove the tail unless battering (so you can use the tail as a 'handle').<br />
+<br />
+Thanks!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 07, 2005 at 07:44 PM, Ben FrantzDale (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">Anonymous, I the answer appears to be <a href='http://en.wikipedia.org/wiki/Astaxanthin'>Astaxanthin</a>. (I looked it up, found it wasn't in Wikipedia, and added it. I put two links there.)</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 07, 2005 at 07:45 PM, Michael Chu said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">re: Butterflying<br />
+<br />
+Butterflying shrimp is simply to provide a shallow cut down the back (without cutting through the shrimp). This will help the shrimp cur<b></b>l more during cooking and the back will open up enabling more shrimp surface area for sauces and seasonings to coat.<br />
+<br />
+re: leaving the tails on<br />
+<br />
+I have no idea why the tails are left on in shrimp scampi. Seems to be a tradition (like serving with linguine). I too prefer if the tails are off because then I can eat the whole meal without thinking about shells or tails or inedible parts.<br />
+<br />
+Michael</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 07, 2005 at 07:46 PM, giulienk (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">IMHO I don't think grated parmisan really go well with scampi. At least in Italy it's a no no no. But YMMV.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 07, 2005 at 07:46 PM, Alredhead (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">We aren't in Italy are we? I like the recipe as it is. If you don't, or you would like to change something, why don't you do that when you are making the food for yourself?<br />
+<br />
+Alredhead<br />
+http://alredhead.blogspot.com</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 07, 2005 at 07:47 PM, A (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">thank you sooo much...you've got me cooking again!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 07, 2005 at 07:47 PM, fectin (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">actually, the smaller shrimp are the better kind, and the smallest you can et are best. Ironic, I know, but it's a question of flavor. Big shrimp are food like parsley is food. interesting, edible, but best as a garnish.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 07, 2005 at 07:47 PM, graceshu (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">i hunger.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 07, 2005 at 07:48 PM, supergood (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">I thought I might make some clarifications and points for your international readers (like myself)!<br />
+<br />
+The shrimp used in this recipe are actually Prawns, this is just another site of the old "Throw another shrimp no the barbie" thing that Australians endure. Not that I am arguing that the Americans are wrong here (I don't need to do I? hehe) just you wont be able to find big shrimps otherwise. Well in my neck of the woods you wouldn't.<br />
+<br />
+Also the name of the dish confuses me too. Because down here we have another shrimp/prawn like creature called Scampi (its halfway in size between a Tiger Prawn and a Crayfish). We don't really get to eat much of in New Zealand, as its exported possibly to Japan and Europe. But I guess thats by the by.<br />
+<br />
+Oh, and about leaving the tails on, I believe it gives you something to hold on to if you are going to eat them by hand. Also they're fine to eat and provide a nice textural contrast in your dish.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 07, 2005 at 07:49 PM, Michael Chu said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">re: Prawns vs. shrimp<br />
+<br />
+In different parts of the United States (and the world), the name shrimp has different meanings. In some cookbooks, restaurants, and markets, any large shrimp is called a prawn. As I understand it, this is not technically correct. I will explain how I choose to refer to these crustaceans:<br />
+Shrimp - The sea creatures pictured in this article regardless of size.<br />
+Prawns - Similar to shrimp but have little pinchers. Also called langoustines. In Italy, I believe these are referred to as scampi (thus the necessity of using large shrimp in this dish). These aren't usually sold at supermarkets (in my area).<br />
+Lobster - A really HUGE prawn with BIG pinchers. :)<br />
+<br />
+Michael</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 07, 2005 at 07:50 PM, Connie (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">Re: tails left on<br />
+<br />
+My understanding is that cooking with the shells on make the shrimp more flavourful. I had a similar dish last night at a Southern Italian restaurant and they had the entire shell on. I would have preferred to have the shell off with slightly less flavour; I was up to my wrists in sauce trying to wrestle the shells off them suckers. Next time I will ask them to peel them in advance!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 07, 2005 at 07:50 PM, supergood (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">Totally agree with the above about the shells, which is probably why the shells from shelled tails often get used in the stock for soups - perhaps a starter before the linguine above?</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 07, 2005 at 07:51 PM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">Calling a recipe "Shrimp Scampi" is like calling it "Shrimp Shrimp" since (as Michael even points out) "scampi" is an Italian word for shrimp; contrary to popular opinion and thousands of bad American restaurant menus, "scampi" does not imply any particular method of preparation.<br />
+<br />
+Saying the dish is "traditionally served over linguine" is silly because there is no traditional dish named "shrimp scampi". And although I agree that linguine goes well with shrimp and garlic, it is a perfect complement (that's with an E), not "compliment" (with an I).<br />
+<br />
+Nice looking Website but I hate it when amateurs pretend to know cooking and publishing.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 07, 2005 at 07:51 PM, Michael Chu said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">Hey, I'm not the one who named the dish. This is what it's called in the United States - I just wanted to share how I cook the equivalent dish.<br />
+<br />
+If there's too much confusion over the title of the dish, I'll change it, but I was under the impression that calling this dish "Shrimp Scampi" would immediately bring forth images of shrimp in butter garlic sauce. Let me know if I am mistaken and what the title of this dish is supposed to be called. (And yes, I did think it was odd for a dish to be called shrimp shrimp, but there are plenty of food names that don't make sense...)<br />
+<br />
+Michael</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 07, 2005 at 07:51 PM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">I'm not an engineer but I thought this website with its recipe formats/presentation was interesting but people you are killing me with your stupid commentary in the reviews!<br />
+What I want to know when I read a recipe review is how does it taste? would you make it again? what might you change or what did you do differently from the stated recipe? How would you rate this on a scale of 1-5 with 5 being the best?<br />
+Check out other cooking sites(www.allrecipe.com, www.epicurious.com) to see what a thoughtful recipe review looks like.<br />
+I think this site has great potential but reviews like what's posted for this recipe will turn a lot of people away.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 07, 2005 at 07:52 PM, supergood (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">Well there's no reason to be rude is there? Why don't you ask Michael if he approves of comments like this or not. And while you're at it you could ask if his hits have gone down or not because of these comments.<br />
+<br />
+Sheesh.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 07, 2005 at 07:52 PM, liz (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">Oh bosh. This is a great site. I didn't take it to be meant as some commercial, "professional" venture, but someone's earnest personal food sharing! (With nifty original format for recipes!) I hate slick commercial stuff anyway.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 07, 2005 at 07:53 PM, liz (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">(PS: I meant "bosh" to Anonymous Coward's comment about the site.)</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 07, 2005 at 07:53 PM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">oooooohhhh, I am only anonymous, because am incredibly lazy in all other areas but cookery. While I work with many P.eng.'s what I appreciate is the asethetic of the prep., I was drawn to the mechanics and machinations. I agree, it would be nice to say, "oh, that was lovery", or "what a symphony of choices", but, that is not this site. The beauty of this site, is like classic art. Because of the intellect of the interpeter, we know more than when we originally began. Love the work. Would never cook avocados... But would by wooden cutting boards, good knives and good salt because of you. Good work, keep it up....</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 07, 2005 at 07:54 PM, jm (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">For this Midwesterner, shrimps/garlic/butter/pasta is *exactly* what Shrimp Scampi means.<br />
+However I had a friend in college whose father was Italian and we once went out to a place in Little Italy in the Bronx where one of the items on the menu was Shrimp Scampi.<br />
+Friend's father was perplexed and asked the waiter, what's this? I think for him scampi was a shrimp-related creature but of a different size, so a dish named Shrimp Scampi was crazy, stupid or meaningless. The unctuous waiter patronizingly explained to him that it was an Italian dish, blah, blah, the father insisted it was nonsense, he'd lived many years in Italy and had never heard of the stuff, and the waiter muttered under his breath as he turned to go, "Va Fa Napoli!" which for some reason means "Go to hell!"</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 07, 2005 at 07:54 PM, Eric Chin (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">Thanks for having such a great site up. Makes cooking look interesting again for me.<br />
+<br />
+I especially like how you present the recipe in chart form, makes the sequence look so much simpler.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 07, 2005 at 07:54 PM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">any one herr</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 07, 2005 at 07:55 PM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">In the UK, scampi is a prawn / shrimp - type creature, deep fried in breadcrumbs (or perhaps batter) and often served with chips! (referred to as "scampi and chips") So, completely different from the "shrimp scampi" mentioned here (all versions). Typical British food - take anything, deep-fry it and serve it with chips! (chips = fat French Fries). Tastes good, though!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 07, 2005 at 07:55 PM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">Re the question about leaving a portion of the shell at the tail: The process of removing the "vein" cannot remove the terminal portion as it dives deep through the body of the shrimp and ends at what is the equivalent of the anus. Yes, Michael is correct that the "vein" is not a vascular structure but is in fact the alimentary canal or gut. All of the shell can be removed, and you can eat the entire shrimp, tail and all, but when you do you will be eating the terminal portion of the gut and the anus. This may or may not offend you.<br />
+<br />
+As to shrimp versus prawn, the distinction is not important in any scientific sense. There are some 300 species of shrimp, but most common is the species Penaeus. As a matter of usage, the term prawn is often applied to larger specimens but does not mean that it is a different critter. Perhaps the term serves best as a justification for higher prices on menus.<br />
+<br />
+Two comments were made about the role of the left-on shell at the tail in improving the flavor of the dish. Whether there is a large contribution to the flavor from this small portion of shell is arguable, but it certainly is possible to deepen the intensity of flavor by making the dish with the addition of a quarter cup or so of quick shrimp stock added to the mixture. Take removed shrimp shells, any lemon rinds, and any parsley stems, put them in a small saucepan, mash them down, add 3/4 cup of water, some salt and (white) pepper, bring it to a boil, reduce it by about half, and add that to the mixture. Do this especially if you like your dish a bit broth-y.<br />
+<br />
+Buy big shrimp if you want to show off, but they get very tough very easily. Use smaller shrimp for better flavor and more tenderness. It means more work shelling, but the result is finer.<br />
+<br />
+Cooked lemon juice loses its edge very quickly. If you use lemon juice in your recipe, and you should, add it at the very last minute, after you have added all the rest to the pasta in the pot. Bright lemon flavor is key to this dish.<br />
+<br />
+Whether you use any Parmesan cheese is a matter of taste. If you use Parmesan, use the good stuff, Parmigiano-Reggiano. Grate it with a microplane grater or a fine wood rasp reserved for kitchen use only. The first time around, add the cheese as a sprinkle on a portion of your plate and see if you like it.<br />
+<br />
+I'm anonymous only because I did not want to set up a blogger account. I am neither an engineer nor a chef, but I cook a lot of shrimp, and these are thoughts from my own personal quest for the ultimate Linguine con Scampi al Limone.<br />
+<br />
+rhpmd@sbcglobal.net</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 07, 2005 at 07:56 PM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">when i poured the shrimp on the pasta it wasn't as salty...why was that so.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 07, 2005 at 07:56 PM, Michael Chu said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">re: saltiness<br />
+<br />
+The shrimp is less salty when you pour it onto the pasta? I'm not sure what's going on there. Maybe it's because the salt on the shrimp is mixing with lots of linguine, so the saltiness that you taste is less than if you had tasted the shrimp by itself.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 07, 2005 at 07:56 PM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">My family loved this - with the tails on I might add. Both my husband and son love the tails, especially when you remove the tail with the little bit of shrimp still in it and saute them in butter, garlic and a little lemon. Too bad they don't sell the tails!!!!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 07, 2005 at 07:57 PM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">You sautee and eat the tails themselves?? Amazing! I've never actually thought to try this, though I've time and again eaten the shell of sauteed shrimp with the shrimp itself, when too lazy to get dirty and peel. The next time I'm cooking shrimp, I'll remember to try frying the tails. Kind of like a genuine form of "shrimp chip" eh? Incidentally, the heads of shrimp can also be used to make broth, rendering a much stronger flavour than simply using the tails.<br />
+<br />
+And Michael: I've been to your site many a time, but this is my first comment posting. THANK YOU for sharing all of this with us -- you are a true proponent of free information exchange in what is fast becoming the era of intellectual commerce. Thanks for continuing to add new and delicious recipes to your site, in spite of the occasional rude comment by passing ingrates and ignoramuses. The vast majority of us truly appreciate your work.<br />
+<br />
+I'll be back!<br />
+<br />
+- JT</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 07, 2005 at 07:57 PM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">This is the recipe I have been looking for, rather it is shrimp shrimp or with or without tails, I will rate it at 5. Yum. Glad I found this website. br</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 07, 2005 at 07:57 PM, Mishee (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">I think this recipe is great...I also like to add some chardonnay and fresh grated lemon peel to add some zest to the sauce....I think the wine helps bring out the flavor in the shimp as well as the seasonings.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 07, 2005 at 07:58 PM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">I make a variation of this recipe that is quite tasty, although I dont think it can be considered Shrimp Scampi anymore.<br />
+<br />
+I melt butter and fry minced garlic and diced onions, add a pinch of cayenne pepper and hot pepper flakes. I'll then add the shrimp, I prefer to remove the tails and if the shrimp are large I'll cut them in half. when the shrimp are done I'll add heavy cream and grated cheese. serve over linguine. the hot peppers go a long way so be careful.<br />
+-Ken.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 07, 2005 at 07:58 PM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">All this fuss about what we Americans decided to name something, goodness! I do think that is one of the most interesting parts of this site is learning what y'all overseas don't have and the different names used for things we have in common. Like digestion biscuits, a homologue to grahm crackers, that sounds kinda scary. I think saying it is traditionally served over liguini is perfectly legit, can't Americans have traditions too for goodness sake, it is how we serve the dish and all. I think that is a cool thing about this country, we take dishes and style from other countries and adapt them to our tastes and make a whole new style, but enough of the flag waving.<br />
+<br />
+As for the site I just discovered it and have become hooked quite quickly. I think that the snobby comments about the site are uncalled for, I have seen nothing claiming this to be a "professional chef site", heck the name itself says exactally what it is and who the intended audience is (the microbiologist daughter of an engineer is welcome though right =)). If one wants to go to a traditional cooking site then by all means go but leave sites like this alone, the internet is big enough for both! This site is more than a cooking site it is a place for people express ideas and such, and that is cool. Great work Michael!<br />
+<br />
+kskerr</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 07, 2005 at 07:58 PM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">Going slightly off topic, but if the last poster was referring to the UK, we have digestIVE biscuits, not digestION biscuits. Maybe it's familiarity, but digestive biscuits sound considerably more palatable and less medical - to a Brit, anyway ;-)</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 07, 2005 at 07:58 PM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">I think the site is very good. who cares what you call it as long as it taste good</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 11, 2005 at 12:52 PM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">My shrimp scampi recipe is close to yours.  Try adding a little lemon zest, it gives it a little zing. I also prepare a shrimp scampi with white rice in place of linguine and sprinkle some bread crumbs in with the shrimp just before serving.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 20, 2005 at 02:24 PM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">I like to thicken mine up a little by adding cornstarch or something similar, or dredging the shrimp in flour. Just a personal preference.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 20, 2005 at 09:05 PM, the_bleachman said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">Here in Panama <i>Camerones ajillo</i>is common and is made with shrimp in a sauce made with garlic, culantro and either wine or beer.  <br />
+<br />
+This is not for the garlic-shy though, an entire head of garlic may be crushed and added for about a pound of shrimp.  <br />
+<br />
+It's served with either white rice or sometimes <i>patacones</i> (fried green plantain).</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 29, 2005 at 05:02 PM, Jill (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Variation, if you want it</span><br /></div>
+					<div class="commentbody">This dish, no matter what you call it, is also good with a little dry white wine -- cut the amounts of butter and olive oil by half and add about a quarter cup of wine instead. If you do that, I wouldn't advise adding any grated cheese; that's just a personal preference, though.<br />
+<br />
+I love this site, by the way. I use it all the time.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 30, 2005 at 05:36 PM, the_bleachman said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">There is a resteraunt out here that makes a version of <i>camerones ajillo</i> with a little difference.  The call it <i>camerones en salsa de vino blanco</i> (shrimp in white wine sauce).  They add white wine and  heavy cream so as to totally destroy any health benefits anyone thought they were getting from eating seafood, but it tastes really good.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On January 09, 2006 at 10:53 PM, an anonymous reader said...</div>
+					<div class="commentsubject">Subject: <span>Shrimp Scampi</span><br /></div>
+					<div class="commentbody">Whether or not it is correct to call it Shrimp Scampi, thats how I searched for a recipie for tonights dinner and found this one which is very simple but good.  Right or wrong its something we Americans relate to shrimp with butter and garlic.   :)</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On February 15, 2006 at 03:05 PM, americaningermany (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Shrimp Scampi</span><br /></div>
+					<div class="commentbody">I just found this site and I must say that the recipe tastes fabulous!!  I also did a search for Shrimp Scampi and found this site.  I've never had the experience of this type of site before...Certainly interesting!!  As for what the recipe should be called, who cares as long as there's a description of what's in it!!  I'm from the south(living in Germany:)) and everybody knows how southerners like to rename dishes and call them their own!!  I've tasted the Italian version of this dish in Italy and I there's just no way to tell the difference as long as you use fresh seafood no matter what you call it!!  Excellent job and I love the layout.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On April 09, 2006 at 09:01 AM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">So, as to the us americans being wrong about "shrimp v. prawn"... do a little research, and find out that there are physical differences between the two, but not dealing with size,(the gill structure is different), and get <br />
+"stuffed!!".  :angry:</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On April 10, 2006 at 02:01 AM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">I just don't get what the big deal is. There is not right or wrong, there are just cultural differences. Here in Britain we would call them prawns, over in the US they call them shrimp. Yes, scampi is the word for shrimp/prawns in Italian but that is the American name for the dish. Scampi to a Brit would refer to a langoustine.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On April 10, 2006 at 02:07 AM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">oh and i forgot to mention.. even if there are supposed to be physical differences between shrimp and prawns.. it's still a cultural thing in terms of language. English and American English may be similar but they are by no means the same. so some words have different meanings.. people need to accept that! In Finland, they have 7 different words for snow which describe different types of snow. Does that mean we are wrong to say it is just "snow"?</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On May 02, 2006 at 06:55 PM, JohnInCanada (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Names mean a lot!</span><br /></div>
+					<div class="commentbody">Not to quibble (much), but there are significant differences between a shrimp and a scampi. Not the dish - the critter. A scampi (langoustine) is more closely related to a lobster than a shrimp - at least that is what I think. When I go down the st. Lawrnce river in the summer, we eat at a litle restaurant in Tadoussac which serves filet avec langoustine (tenderloin and scampi) - and while the tails they serve (broiled with garlic butter on the side) are tiny - like a medium sized shrimp - the shells are quite hard and thick - more like a lobster.<br />
+<br />
+How did I get here? well it's my GF's 50th bday tomorrow and I want to get her "real" scampi tails - and before I go to the market I wanted to be sure I had the nomenclature down. Saddly, I fear they will not be available here, and I will have to settle for rock lobster tails.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On May 06, 2006 at 11:54 PM, Louise (guest) (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">This is another clearly-explained and delicious recipe.  I think next time I will make less linguine or more shrimp and garlic though.  It's also good with a bit of basil in it.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On May 22, 2006 at 01:45 PM, Sherrick said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">This looks wonderful and I would very much like to prepare the dish for my family.  My only reservation is that I've never cooked shrimp in any form before.  Due to my inexperience, I am a bit concerned about removing "the vein" without either destroying the look of the shrimp or inadvertently removing too much of the meat.  Is the de-veining process difficult?  Any tips on performing this portion of the preparation properly?<br />
+<br />
+<br />
+Oh yes, I just remembered something else that I wanted to ask.  I may have missed it, but I don't see a listing for the number of servings in this dish.  I am the rather large father of three even larger teenage boys.  My wife is a lovely, petite woman who can - on occasion - eat us all under the table.  I need to make sure these folks are full before the bottom of the plate appears. Again, I would appreciate any insight.  <br />
+<br />
+Thanks!<br />
+Sherrick</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On July 03, 2006 at 08:29 PM, an anonymous reader said...</div>
+					<div class="commentsubject">Subject: <span>deveining</span><br /></div>
+					<div class="commentbody">You can buy them deveined at many markets. I have been eating shrimp all of my life probably 20 times a year times 50 years and I have never deveined a shrimp. As long as the shrimp is cooked I don't think there is any health risk. I don't buy the very large shrimp because they can be tough. With the larger ones I am sure you would want to devein.<br />
+Hope I helped</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On July 06, 2006 at 05:32 AM, JKyrala (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Shrimp Scampi :)</span><br /></div>
+					<div class="commentbody">What a neat site! I thought the carved pumpkin was very  appropriate. :)<br />
+<br />
+This recipe is really good and I love the recipe charts.<br />
+<br />
+One thing I do differently is that I use rice noodles instead of the usual wheat ones. I tend to have allergies but I also like rice noodles.  Use the translucent noodles from China - some of the ones from the US that are opaque tend to fall apart. I have a Chinese food store near my neighborhood so this is not hard for me.  One advantage of the rice noodles - they cook really fast.<br />
+<br />
+Shrimp, even if it is called lobster, is very good served this way. :&gt;<br />
+<br />
+The physics of snapping noodles is in this podcast from Quirks and Quarks - the podcast. <br />
+<br />
+04-Snapping Spaghetti<br />
+<br />
+The physics of the way spaghetti breaks under strain.<br />
+<a href='http://www.cbc.ca/quirks/archives/05-06/images/spaghetti.jpg' title='Click to see full-size image'><img src='http://www.cbc.ca/quirks/archives/05-06/images/spaghetti.jpg' width='253' height='209' alt='http://www.cbc.ca/quirks/archives/05-06/images/spaghetti.jpg' border='0' /></a><br />
+<br />
+f you've ever tried to break up dry spaghetti, you may have noticed that it doesn't snap into two even pieces. Usually it'll break into three, four or even more sections. It's a problem that's plagued engineers, that is, until recently. Dr. Andrew Belmonte is a mathematician at Pennsylvania State University. He's spent hours dropping weights on top of strands of spaghetti and taking high speed photographs. Thanks to his destruction of pasta, he's been able to work out the mathematics of breaking in thin rods. It turns out everything depends on how fast sound waves will travel through the object, and how large the rod's diameter is. All this is valuable if you're thinking of constructing new materials. For his next project, Dr. Belmonte plans to smash plates.<br />
+<br />
+The article was published in Phys Rev.<br />
+<br />
+<a href='http://www.cbc.ca/quirks/archives/05-06/nov19.html'>http://www.cbc.ca/quirks/archives/05-06/nov19.html</a><br />
+<br />
+Quirks and Quarks is available via podcasts too.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On July 17, 2006 at 10:17 PM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">this was my first time cooking. i did it for my boyfriends birthday because it seems pretty easy.<br />
+<br />
+it came out very good and he enjoyed it.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On July 24, 2006 at 07:29 PM, CA Engineer (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Silliness</span><br /></div>
+					<div class="commentbody">Engineers, why must we argue over non-sentical points? My personal preference is to scan the comments quickly, ignore the lame ones that argue over things that have no reference to the recipe or whether it is good or not and then select the link to HIDE COMMENTS, so they don't bother me so! :) <br />
+<br />
+I spent many years living in Italy and they have a dish there (in a little town called Aldelphia) called Aglio Scampi con Linguine and it is basically the same as our dish, but always is served with wine in the sauce...typically a Pinot Grigio. :) My nona makes it all the time!<br />
+<br />
+Wonderful job on the diagram showing the recipe!! My husband and I are both engineers and this makes a lot of sense to both of us...</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On July 27, 2006 at 04:47 AM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">For a little kick, add to the garlic/butter a pinch of red pepper and/or a dash of Tobasco/Frank's Red Hot sauce.  To thicken the sauce up a bit and give it even more flavor, lightly dust the shrimp with fine breadcrumb after you first put them in the pan.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 31, 2006 at 03:09 PM, cottonpatch (guest) said...</div>
+					<div class="commentsubject">Subject: <span>posting food comments</span><br /></div>
+					<div class="commentbody">I have to agree with the poster above, I was looking for a good recipe, found one, and was wanting to know how it tasted and how others cooked it, and all I got was a lesson on culture, how sad.  Thanks to all the posters who did post about how the food tasted, not the google search for<br />
+the word scampi or etc etc.  I'm not being ugly, but most food posters say how the recipe worked for them.......<br />
+oh yeah and this recipe was excellent!  I like alot of salt and garlic so I uped it a little pit and added some basil and parsley.  If this recipe were not called shrimp scampi, I would have not found it, that's just what it's called.  We don't know why, we just eat it cause it's good.  I don't care if we called it slop, if it looks good we will eat it!  (or at least I will)</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 27, 2006 at 12:20 AM, Mary (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Comment Complaints</span><br /></div>
+					<div class="commentbody">The name of the website is "Cooking for Engineers." Not "Cooking for Food Critics," "Cooking for Gourmands," or "Cooking for those who want to be reassured beforehand."<br />
+<br />
+The thing that matters most is that the recipe works. Provides a blueprint for a decent (or better) version of the dish in question. There's your reassurance. If you don't like the  tangential conversations, stick to sites where engineers aren't around to post minutiae. <br />
+<br />
+I add a dash of cayenne pepper, by the way. Gives it a nice bite.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On January 03, 2007 at 05:43 PM, P2H (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Excellent!</span><br /></div>
+					<div class="commentbody">I made this last night and it turned out fantastic. I made scampi once without the tails and I must agree that the tails do make the dish more tasty. Not sure why, either.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On January 27, 2007 at 08:42 PM, sheehanje (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Variation</span><br /></div>
+					<div class="commentbody">First, to some of the inane crtique.  Everywhere you go, food terminology is different.  Chili peppers for example can mean one of many types of peppers, usually depending on what is available in a locale.  In a lot of the U.S., if you order Shrimp Scampi, you get something similar to this dish.  So, clarification is fine, but bashing shows your mentality and bias.<br />
+<br />
+With that said, I usually make this with a twist.  I add about 1/4 cup of dry white cooking wine during the last 2 - 3 minutes of cooking.  Really gives this recipe a great twist.  Try it sometime.  Great easy recipe.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On March 12, 2007 at 01:00 AM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">I also think this recipe should include the serving size.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On April 19, 2007 at 12:02 AM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">I made some alterations to this recipe.  I'm not saying it's better, just that I'm a freak for flavor and sauces.  I sautéed 3 imported shallots, thinly sliced in butter and olive oil (amount depends on how much shrimp is used). I did 2 1/2 lbs shrimp so I used 5-6 TBS butter 2-3 TBS oil.  Then 2-3-tsp minced garlic, put in shrimp (tails on :)  I then added 1TBS crushed parsley, grated pepper, paprika and fresh grated parmesan cheese (coating top layer of shrimp) and lemon juice (preferred fresh squeezed), flipped the shrimp after 2 min or so, repeated same process with 1 TBS parsley, pepper, paprika, cheese and lemon juice.  When shrimp starts to turn pink I do a quick flip and then add some light cream (not much, a couple of TBS).  I toss it with seasoned linguini (olive oil, butter, pepper and small amount of salt-to taste)  Lots of flavor is sealed in the shrimp!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On September 03, 2007 at 12:53 AM, EngineeringProfessor said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody"><div class='commentquote'>Michael Chu wrote:<div class='commentquotebody'>Hey, I'm not the one who named the dish. This is what it's called in the United States - I just wanted to share how I cook the equivalent dish.<br />
+<br />
+If there's too much confusion over the title of the dish, I'll change it, but I was under the impression that calling this dish "Shrimp Scampi" would immediately bring forth images of shrimp in butter garlic sauce. Let me know if I am mistaken and what the title of this dish is supposed to be called. (And yes, I did think it was odd for a dish to be called shrimp shrimp, but there are plenty of food names that don't make sense...)<br />
+<br />
+Michael</div></div><br />
+<br />
+You are right-on with the title, don't change. The only thing I would add is "Shrimp scampi with &lt;name of pasta&gt;" since I like scampi with angel hair pasta instead of linguine. To each his own, that's the American way. The pundit from Epicurious needs to go back there.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On October 13, 2007 at 05:39 PM, Just Me (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Shrimp Scampi</span><br /></div>
+					<div class="commentbody">Geesh.  Personally I loved the recipe Michael, thanks so much for sharing such a quick, delicious recipe for shrimp scampi.  Lotta anal retentive folks out there though, I just wanted some shrimp and got a huge dose of cranky...lolol.  We KNOW there are different types of crustations people, we simply wanna make some dang shrimp with garlic and butter, relax!!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 29, 2007 at 10:09 PM, kaye (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Unpeeled shrimp in France &amp; England</span><br /></div>
+					<div class="commentbody">I always order Scampi if it's on the menu but in Britain (and most recently) France they don't seem to peel the shrimp before serving it.  My english friend said the shells are edible but my reply was "why would I want to eat them".  Has anyone else run into this?  I don't want to be an ignorant American but  it seems a bit lazy on the part of the cook and very unappealing  to my senses.  Any comment? 8|</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 30, 2007 at 01:12 PM, Dilbert said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">kaye -<br />
+[[Has anyone else run into this? <br />
+<br />
+yes - an Italian colleague ate shrimp in the shells, shells and all . . .</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 02, 2007 at 10:34 PM, an American in France (guest) said...</div>
+					<div class="commentsubject">Subject: <span>re: Unpeeled shrimp in France &amp; England</span><br /></div>
+					<div class="commentbody">"On November 29, 2007 at 10:09 PM, kaye (guest) said...<br />
+Subject: Unpeeled shrimp in France &amp; England<br />
+I always order Scampi if it's on the menu but in Britain (and most recently) France they don't seem to peel the shrimp before serving it. My english friend said the shells are edible but my reply was "why would I want to eat them". Has anyone else run into this?<b> I don't want to be an ignorant American but it seems a bit lazy on the part of the cook and very unappealing to my senses.</b> Any comment? 8|"<br />
+<br />
+Well, while I don't want to call you ignorant, your comment does come off that way (a little, sorry).  My passive observation of general food preparation in France (I'm afraid I can't comment on Britain's preparations) and in the States shows me this (now keep in mind, I said GENERAL):<br />
+<br />
+In France, food is culture.  And so, flavor is HUGE.  (Seriously.  You should see the way French people describe food -- their most recent meal, a new restaurant, etc.  It's amazing...and kind of endearing.)  Food that's cooked bone-in, shell-on, etc. is usually found to be more flavorful.  Perhaps that's why they do that in France.  Even if that's not the case, I don't believe that it's laziness.  That's not to say all meals in France are perfect.  But I've had more good meals than bad :)  I really appreciate France's ties to its agriculture.  Granted it's a MUCH smaller country, so I suppose it's easier, but they (the people I know anyway) want to know where something comes from.  They take pride in how they raise their livestock and REALLY enjoy what they eat.  I've never met a French person who feels guilty after enjoying a crême brûlée or a buttery pain au chocolat.<br />
+<br />
+In America, food's practically sterilized and made overly convenient.  Or at least, had been for many years.  That is, people can't stand to be reminded that meat comes from actual animals (I know people like this, but, of course, your p.o.v. may be different  depending on what your origins are).  People go for the safe and ready-to-cook stuff.  And when you're pressed for time, it's great.  But sometimes it seems like a sort of refusal to deal with the real thing.  We want things that are skinless, featherless, bloodless, boneless, etc.  Agriculture has become so industrialized in the US.  But I guess when you're trying to fill the demand of a country as massive as ours, it was inevitable.  That's not to say that there are no more ma &amp; pop farms.  (There are!  There are even such farms in NJ.  I should know, I'm from NJ -- we're The Garden State, you know :))  Luckily, people are starting to be more adventurous with food and becoming more interested in cooking.  I'm thinking that (at least) part of that has to do with the popularity of the Food Network (I miss it!).  That said, I would, kill for a good, juicy burger and fresh cut (with the skin still on!), peppery fries and a nice, plump, crispy dill pickle.  Holy crap.  That kind of thing I feel Americans do best :)<br />
+<br />
+I had a point, but I'm not sure if I got there.  I ended up writing more than I meant to and in doing so, I kind of lost track...but, hopefully I don't come across as anti-American, because that'd be silly.  I AM American and I love my country.  But I do have to admit, I was getting really bored with the general humdrumness of "American cuisine" the last year or so before I left for France.  Luckily, I had my mom's cooking to fall back on.  She makes some AMAZING Korean food.  YUM!  (..although, unfortunately, the majority of French people seem to not be able to handle their spicy food too well and so a lot of the Korean food here is "dumbed" down)  <br />
+<br />
+Anyway, sorry for the rambling!  Happy eating &amp; cooking to you all.<br />
+<br />
+I really love and appreciate your site here, Michael.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On July 19, 2008 at 06:03 PM, TaratheFoodie (guest) said...</div>
+					<div class="commentsubject">Subject: <span>mmmmmm....</span><br /></div>
+					<div class="commentbody">Easy, decadent, and pretty all in one dish.  I LOVE shrimp scampi, but it's literally been years since I've eaten it and I've actually never made it.  I have a tendency to skip over dishes that have been "done a million times before" or that are "easy".  Sometimes that's a downfall of mine because I end up missing out on noshing on the classics.  I consider this dish a classic.  Thanks for the recipe as I will be whiping some of this up very soon!   :P</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 15, 2008 at 03:08 PM, EE_Cook said...</div>
+					<div class="commentsubject">Subject: <span>Shrimp Scampi</span><br /></div>
+					<div class="commentbody">I had to spice up this recipe...as is it is very bland...I added about a cup of scallions and a few sweet red peppers and tomatos from the garden...It works well with chicken also.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 10, 2008 at 12:25 AM, Not so complicated (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Scampi</span><br /></div>
+					<div class="commentbody">Scampi in the US refers to the cooking method not the ingredient.  Thus you can have shrimp scampi, chicken scampi, etc.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 13, 2008 at 05:15 AM, an anonymous reader said...</div>
+					<div class="commentsubject">Subject: <span>Trolling</span><br /></div>
+					<div class="commentbody">Troll:	One who posts a deliberately provocative message to a newsgroup or message board with the intention of causing maximum disruption and argument.<br />
+<br />
+The best thing to do is ignore them, like an attention whore.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On February 12, 2009 at 04:23 AM, biomimetical (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Italian seasoning?</span><br /></div>
+					<div class="commentbody">For a poor college kid, this is actually very inexpensive and tasty! I don't use parsley, though. When the shrimp are flipped and the second side is being cooked, I dash garlic salt and Italian seasoning onto the shrimp - it really brings out this amazing flavor that hits the spot perfectly. I also use angel hair pasta because it's the quickest to cook and doesn't stick together (the flatter pastas, like linguini, always do no matter how often I stir!). <br />
+<br />
+Thanks for the recipe!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On March 22, 2009 at 10:13 PM, sarah (guest) said...</div>
+					<div class="commentsubject">Subject: <span>good recipe</span><br /></div>
+					<div class="commentbody">Well, philosophical discussion and semantics aside, this is a great recipe (scampi) and I appreciate you sharing it with everyone. I will be using it tonight!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On April 25, 2009 at 12:14 PM, an anonymous reader said...</div>
+					<div class="commentsubject">Subject: <span>mmmm sounds like a great recipe!!!</span><br /></div>
+					<div class="commentbody">I'm making this tonight:)  I'll be sure to come back and post how my family liked it.  <br />
+<br />
+The one thing you can do to add more shrimp flavor to the dish would be to make a stock to cook the pasta in.  I take a couple of carrots, couple stalks of celery, 1/2 a small onion, a few garlic cloves, some peppercorns, a few bay leaves and about 8 cups of water.  Simmer that down for a few hours, then toss in the shrimp shells and cook for another 15 minutes or so, adding more water if needed.  Strain all that stuff out, reserving the liquid of course;)put the stock back into the pasta pot, and add enough water to cook the pasta in.  It's not a ton of water either, like the directions on the pastas will say, because you WANT that starchiness so you can add about 1/2 cup of the pasta water to the dish, it helps thicken the sauce ;)   I use about half the recommended water and never have trouble with stickiness or the flavor.<br />
+<br />
+I'll also be doubling the garlic, we're garlic freaks, lol!<br />
+<br />
+Thanks for a great recipe!~</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On May 18, 2009 at 04:02 PM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody"><div class='commentquote'>Quote:<div class='commentquotebody'>On November 07, 2005 at 07:46 PM, Alredhead (guest) said...<br />
+We aren't in Italy are we? I like the recipe as it is. If you don't, or you would like to change something, why don't you do that when you are making the food for yourself? <br />
+<br />
+Alredhead <br />
+http://alredhead.blogspot.com</div></div><br />
+<br />
+Asshole, he said IMHO.  And Americans are idiots what do you expect</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On June 04, 2009 at 11:18 PM, Chemist/Engineer's Mom (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Awesome</span><br /></div>
+					<div class="commentbody">I am surprised and happy this thread is still going! My daughter is an awesome student of chemistry and engineering - and reading some of your posts reminds me of how she would comment! It's a great, simple recipe - and I'm passing on the website to her. She's at Kettering in Michigan. Thanks!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On June 20, 2009 at 11:43 PM, dickrebel said...</div>
+					<div class="commentsubject">Subject: <span>Anonymous above is right regarding shrimp, tails, anuses...</span><br /></div>
+					<div class="commentbody">Just chiming in.<br />
+<br />
+You either must remove the tail or cook with it on because the digestive track dives deep into the tail and comes out the underside.  It's not really possible to remove the vein past the last segment due to this.<br />
+<br />
+The shells *do* add flavor.  Shrimp stock is made from shells, feet, and tails of shrimp.<br />
+<br />
+If you don't like the tails, you should peel and devein, then cut just at or just into the last segment.<br />
+<br />
+Regarding naming:  Isn't Gambero/Gamgerelli the name for shrimp in itallian?  Isn't butter "burro"?    And limone for lemon.  Wouldn't the name be some combination of those?  I don't wanna call my mimi and ask as she's almost 90 and it takes 20 minutes to get a straight answer out of her.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On June 21, 2009 at 05:46 AM, Michael Chu said...</div>
+					<div class="commentsubject">Subject: <span>Re: Anonymous above is right regarding shrimp, tails, anuses</span><br /></div>
+					<div class="commentbody"><div class='commentquote'>dickrebel wrote:<div class='commentquotebody'>Regarding naming:  Isn't Gambero/Gamgerelli the name for shrimp in itallian?  Isn't butter "burro"?    And limone for lemon.  Wouldn't the name be some combination of those?  I don't wanna call my mimi and ask as she's almost 90 and it takes 20 minutes to get a straight answer out of her.</div></div><br />
+But asking an Italian would be like asking a person from China what the proper name for chop suey is...</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 25, 2009 at 06:00 AM, Sara (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Shrimp Scampi</span><br /></div>
+					<div class="commentbody">Hi, would like to make one comment.  I have seen the Shrimp Scampi under a different name, that is:  Scampi Maison it has the same ingredients plus vermouth or white wine and a little bit of brandy but with no linguini.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On January 30, 2010 at 08:10 PM, Chet (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Cooked Shrimp</span><br /></div>
+					<div class="commentbody">I would like to know if it is ok to use cooked shrimp instead of raw shrimp when making this dish? I am referring to buying shrimp in the store that is already cooked and frozen. I was thinking that it would save time and work in the cooking process and there would be less shrinkage.<br />
+<br />
+But if cooked shrimp is used, how long would you cook it with the other ingredients to give it the proper flavor for Shrimp Scampi?<br />
+<br />
+1</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On January 30, 2010 at 08:28 PM, Dilbert said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">&gt;&gt;proper flavor<br />
+<br />
+ah, there's the rub.<br />
+<br />
+fresh(*) shrimp do not take more than 4-6 minutes to cook thru.  after that they start getting tough.  <br />
+<br />
+(*) fresh is a dicey term - most shrimp you see in the seafood case have been caught, cleaned and frozen.  they are thawed at the store - often right in the seafood case. . . .  unless the shrimp boats dock in your backyard, it is unusual to find 'truly fresh' shrimp in the market.<br />
+<br />
+not exactly sure how valuable the "time savings" of used pre-cooked, frozen and thawed shrimp would be under these circumstances, but could you use "pre-cooked, frozen and thawed shrimp" - yes - be sure they are thoroughly thawed - just put them in the pan to get hot, they're already 'cooked'</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On March 26, 2010 at 08:58 PM, an anonymous reader said...</div>
+					<div class="commentsubject">Subject: <span>Guys, about the tails</span><br /></div>
+					<div class="commentbody">Yes, the tails have lots of flavour in them. However, since most people prefer not to eat them (for whatever reason, many people don't believe the shell is an edible part of the shrimp), I remove the full shell and the tail, then use all of that material to make a quick shrimp stock, which I then use to season the dish I'm making.<br />
+<br />
+This way, you get the full depth of flavour that the tails offer, and you also have a bit of stock left over for whatever purpose you fancy. I usually just pull out the shells, dilute the stock as needed, and use the same pot to cook rice in, which infuses it with a nice shrimp aroma.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On September 10, 2010 at 11:25 AM, hellop (guest) said...</div>
+					<div class="commentsubject">Subject: <span>shells on</span><br /></div>
+					<div class="commentbody"><font color='red'>In my experience, leaving the shells on when cooking shrimp leaves them much plumper, juicier, and more flavorful.</font></div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On September 28, 2010 at 11:55 PM, Brian (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Scampi</span><br /></div>
+					<div class="commentbody">Not overcooking the prawns is what makes them plump and juicy. A short 2 - 3 minutes is all that is needed unless you like the rubbery texture of overcooked prawns.<br />
+In the end I always pour the pasta into the saucepan and mix on the stove top transferring from the saucepan to the plate. Better sauce coverage, the flavors meld better and the food stays warm longer.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On September 28, 2010 at 11:57 PM, Brian (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Scampi</span><br /></div>
+					<div class="commentbody">...and for a nice twist use Orzo instead of Linguini. Oh man!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 09, 2010 at 05:13 AM, darci.1990 (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">ok so who cares what it is called or if his ratings on his site when up or down due to pointless and idiotic comments.. i didnt know how to cook shrimp and now i do. thats all that matters. so thank you michael for the good and helpful site. :) <br />
+<br />
+and who cares if it is called shrimp shrimp, shrimp scampi or just plain shrimp... we are in america and almost every restaurant you go to here will say shrimp scampi.. so therefore, michael, it was appropriate to name your recipe shrimp scampi, as that was what i (and probably dozens of other people) had searched to find a recipe. <br />
+<br />
+thanks again!!! <br />
+darci</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On June 16, 2011 at 05:08 AM, Guest (guest) said...</div>
+					<div class="commentsubject">Subject: <span>the word scampi means shrimp or prawns</span><br /></div>
+					<div class="commentbody">how come they use the term Shrimp Scampi? Its like saying shrimp shrimp ?</div>
+					<hr size="1" noshade />
+				
+		<div class="commentlink">
+			<a href="/forums/posting.php?mode=reply&t=266" title="Comments are managed in the Cooking For Engineers Forums">Post a comment on <i>Shrimp Scampi</i></a>
+		</div>
+	</div>
+	
+</div>
+	
+  
+	<div class="spacer3"></div>
+	
+<!-- Google DFP Article_Footer_728x90-->
+<center>
+<div id='dfp_gpt_4' style='width:728px; height:90px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('dfp_gpt_4'); });
+</script>
+</div>
+</center>
+
+	<div class="spacer3"></div>
+
+
+		</div>
+		
+		
+			
+<table class="fl_table" cellspacing="2" cellpadding="0" border="0">
+	<tr>
+		<td width="16%">
+			<a href="/article/138/About-Cooking-For-Engineers" title="About Cooking For Engineers">About CfE</a>
+		</td>
+		<td width="17%">
+			<a href="/article/139/Contact-Cooking-For-Engineers" title="Contact Cooking For Engineers">Contact</a>
+		</td>
+		<td width="17%">
+			<a href="/article/190/User-Agreement" title="User Agreement">User Agreement</a>
+		</td>
+		<td width="16%">
+			<a href="/article/140/Frequently-Asked-Questions" title="Frequently Asked Questions">FAQ's</a>
+		</td>
+		<td width="17%">
+			<a href="/article/141/In-the-Press" title="Cooking For Engineers in the Press">In the Press</a>
+		</td>
+		<td width="17%">
+			<a href="/article/191/Article-Submission-Program" title="Article Submission Program">Write for CfE</a>
+		</td>
+	</tr>
+</table>
+			
+		
+		<div id="footer">
+	
+  <center><span style="font-size: 85%; line-height: 110%;">All content published by CFE Enterprises, Inc. under license with copyright holders<br>Tabular Recipe Notation Patent Pending (Michael Chu)</span></center>
+
+	<center><a href="/atom.xml">Syndicate</a> <a href="/atom.xml"><img src="/pics/xml.gif" alt="(XML)" style="vertical-align: middle;" border="0" /></a></center>
+
+	
+
+	
+
+	
+	
+	  <!-- Google Analytics -->
+	<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+	</script>
+	<script type="text/javascript">
+	_uacct = "UA-254248-1";
+	urchinTracker();
+	</script>
+
+		
+	<script type="text/javascript">stLight.options({publisher: "b3ed4fb7-bc1d-41a0-b780-15d3cf6b7561"});</script>
+<script>
+var options={ "publisher": "b3ed4fb7-bc1d-41a0-b780-15d3cf6b7561", "position": "left", "ad": { "visible": false, "openDelay": 5, "closeDelay": 0}, "chicklets": { "items": ["facebook", "pinterest", "twitter", "googleplus", "stumbleupon", "email"]}};
+var st_hover_widget = new sharethis.widgets.hoverbuttons(options);
+</script>
+ </div>
+		
+	</body>
+</html>

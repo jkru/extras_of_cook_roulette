@@ -1,0 +1,1198 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+	<head>
+		<title>Beef Stroganoff - Recipe File - Cooking For Engineers</title>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="description" content="Step by step recipe instructions for beef stroganoff complete with photographs and reader comments and discussion" />
+		<meta name="keywords" content="cooking,recipes,techniques,photos,discussion,beef stroganoff" />
+		
+		
+		<link href="/stylesheets/style.css?1381092548" media="screen" rel="Stylesheet" type="text/css" /><link href="/stylesheets/frontpage.css?1204359954" media="screen" rel="Stylesheet" type="text/css" />
+		
+		
+		
+		<script src="/javascripts/prototype.js?1204375576" type="text/javascript"></script><script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript" src="http://s.sharethis.com/loader.js"></script>
+
+		
+<script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + 
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
+
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+
+googletag.defineSlot('/1057967/Article_160x600', [160, 600], 'dfp_gpt_1').addService(googletag.pubads());
+
+googletag.defineSlot('/1057967/Article_300x250', [300, 250], 'dfp_gpt_2').addService(googletag.pubads());
+
+googletag.defineSlot('/1057967/Article_728x90', [728, 90], 'dfp_gpt_3').addService(googletag.pubads());
+
+googletag.defineSlot('/1057967/Article_Footer_728x90', [728, 90], 'dfp_gpt_4').addService(googletag.pubads());
+
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+});
+</script>
+
+		<link href="http://www.cookingforengineers.com/atom.xml" rel="alternate" title="Atom 1.0 Feed" type="application/atom+xml" />
+		
+		<link rel="shortcut icon" href="http://www.cookingforengineers.com/favicon.ico" />
+	</head>
+	<body>
+		
+		
+		
+			<div class="navbar">
+	<div style="float:left">
+		<div class="sitetitle"><a href="/">Cooking For Engineers<span class="trademark">&reg;</span></a></div>
+		<div class="subtitle">Have an analytical mind? Like to cook? This is the site to read!</div>
+	</div>
+	<div style="float:right; margin: 15px 8px 0 0">
+		<form method="get" action="/searchform" style="margin: 0pt; display: inline;">
+		  <input style="margin: 0pt 0pt 2px; font-size: 90%;" name="terms" size="25" maxlength="255" value="" type="text">
+		  <input style="margin: 0pt 0pt 2px; font-size: 90%;" name="search" value="Search" type="submit">
+	  </form>
+	  <br>
+	  <!-- Google Search -->
+	  <form target="_blank" action="http://www.google.com/search" style="margin: 0pt; display: inline;">
+		  <input style="font-size: 90%;" size="24" maxlength="255" value="half cup in milliliters" name="q" type="text">
+		  <input style="font-size: 90%;" name="sa" value="Convert" type="submit">
+		</form>
+	</div>	
+	<div class="clear"></div>
+	<table class="nav" cellpadding="0" cellspacing="1">
+		<tr><td width="11%" id="categorytd_Books"><a href="#" onClick="showcat('Books');return false">Books</a></td>
+			<td width="11%" id="categorytd_CookingTests"><a href="#" onClick="showcat('CookingTests');return false">Cooking&nbsp;Tests</a></td>
+			<td width="11%" id="categorytd_DiningOut"><a href="#" onClick="showcat('DiningOut');return false">Dining&nbsp;Out</a></td>
+			<td width="11%" id="categorytd_EquipmentGear"><a href="#" onClick="showcat('EquipmentGear');return false">Equipment&nbsp;&amp;&nbsp;Gear</a></td>
+			<td width="11%" id="categorytd_KitchenNotes"><a href="#" onClick="showcat('KitchenNotes');return false">Kitchen&nbsp;Notes</a></td>
+			<td width="11%" id="categorytd_OffTopic"><a href="#" onClick="showcat('OffTopic');return false">Off&nbsp;Topic</a></td>
+			<td width="11%" id="categorytd_RecipeFile"><a href="#" onClick="showcat('RecipeFile');return false">Recipe&nbsp;File</a></td>
+			<td width="11%" id="categorytd_SousVide"><a href="#" onClick="showcat('SousVide');return false">Sous&nbsp;Vide</a></td>
+			<td width="12%" id="categorytd_TestRecipes"><a href="#" onClick="showcat('TestRecipes');return false">Test&nbsp;Recipes</a></td>
+			</tr>
+	</table>
+	<script type="text/javascript">
+//<![CDATA[
+
+	function lb(id)
+	{
+		document.getElementById(id).style.border='1px solid #FFFF00';
+	}
+	function db(id)
+	{
+		document.getElementById(id).style.border='1px solid #99FF99';
+	}
+	function showcat(id)
+	{
+		var curdisplay = document.getElementById('navcat_'+id).style.display;
+		document.getElementById('navcat_Books').style.display='none';
+document.getElementById('navcat_CookingTests').style.display='none';
+document.getElementById('navcat_DiningOut').style.display='none';
+document.getElementById('navcat_EquipmentGear').style.display='none';
+document.getElementById('navcat_KitchenNotes').style.display='none';
+document.getElementById('navcat_OffTopic').style.display='none';
+document.getElementById('navcat_RecipeFile').style.display='none';
+document.getElementById('navcat_SousVide').style.display='none';
+document.getElementById('navcat_TestRecipes').style.display='none';
+
+		document.getElementById('categorytd_Books').style.border='1px solid #99FF99';
+document.getElementById('categorytd_Books').style.backgroundColor='transparent';
+document.getElementById('categorytd_CookingTests').style.border='1px solid #99FF99';
+document.getElementById('categorytd_CookingTests').style.backgroundColor='transparent';
+document.getElementById('categorytd_DiningOut').style.border='1px solid #99FF99';
+document.getElementById('categorytd_DiningOut').style.backgroundColor='transparent';
+document.getElementById('categorytd_EquipmentGear').style.border='1px solid #99FF99';
+document.getElementById('categorytd_EquipmentGear').style.backgroundColor='transparent';
+document.getElementById('categorytd_KitchenNotes').style.border='1px solid #99FF99';
+document.getElementById('categorytd_KitchenNotes').style.backgroundColor='transparent';
+document.getElementById('categorytd_OffTopic').style.border='1px solid #99FF99';
+document.getElementById('categorytd_OffTopic').style.backgroundColor='transparent';
+document.getElementById('categorytd_RecipeFile').style.border='1px solid #99FF99';
+document.getElementById('categorytd_RecipeFile').style.backgroundColor='transparent';
+document.getElementById('categorytd_SousVide').style.border='1px solid #99FF99';
+document.getElementById('categorytd_SousVide').style.backgroundColor='transparent';
+document.getElementById('categorytd_TestRecipes').style.border='1px solid #99FF99';
+document.getElementById('categorytd_TestRecipes').style.backgroundColor='transparent';
+
+		if (curdisplay != 'block')
+		{
+			document.getElementById('categorytd_'+id).style.border='1px solid #9999FF';
+			document.getElementById('categorytd_'+id).style.backgroundColor='#000060';
+			document.getElementById('navcat_'+id).style.display='block';
+		}
+		else
+		{
+			document.getElementById('navcat_'+id).style.display='none';
+		}
+	}
+	
+//]]>
+</script>
+	<div id="navcat_Books" style="display:none"><table width="100%" class="navlinks" cellpadding="0" cellspacing="1"><tr><td width="25%" id="nl248" onclick="window.location='/article/248/Everybody-Eats-Lunch-by-Cricket-Azima'" onMouseOver="lb('nl248')" onMouseOut="db('nl248')" ><a href="/article/248/Everybody-Eats-Lunch-by-Cricket-Azima" title="Books: Everybody Eats Lunch by Cricket Azima">Everybody Eats Lunch by Cricket Azima</a></td><td width="25%" id="nl229" onclick="window.location='/article/229/Joy-of-Cooking-75th-Anniversary-Edition-2006'" onMouseOver="lb('nl229')" onMouseOut="db('nl229')" ><a href="/article/229/Joy-of-Cooking-75th-Anniversary-Edition-2006" title="Books: Joy of Cooking (75th Anniversary Edition; 2006)">Joy of Cooking (75th Anniversary Edition; 2006)</a></td><td width="25%" id="nl307" onclick="window.location='/article/307/Ten-Great-Gifts-for-Cooking-For-Engineers-Fans'" onMouseOver="lb('nl307')" onMouseOut="db('nl307')" ><a href="/article/307/Ten-Great-Gifts-for-Cooking-For-Engineers-Fans" title="Books: Ten Great Gifts for Cooking For Engineers' Fans">Ten Great Gifts for Cooking For Engineers' Fans</a></td><td width="25%" id="nl241" onclick="window.location='/article/241/The-Story-of-Tea-by-Mary-Lou-and-Robert-Heiss'" onMouseOver="lb('nl241')" onMouseOut="db('nl241')" ><a href="/article/241/The-Story-of-Tea-by-Mary-Lou-and-Robert-Heiss" title="Books: The Story of Tea by Mary Lou and Robert Heiss">The Story of Tea by Mary Lou and Robert Heiss</a></td></tr><tr><td id="nl270" onclick="window.location='/article/270/Fun-Food-Facts-by-Mike-Bellino'" onMouseOver="lb('nl270')" onMouseOut="db('nl270')" ><a href="/article/270/Fun-Food-Facts-by-Mike-Bellino" title="Books: Fun Food Facts by Mike Bellino">Fun Food Facts by Mike Bellino</a></td><td id="nl242" onclick="window.location='/article/242/Kitchen-Mysteries-by-Herve-This'" onMouseOver="lb('nl242')" onMouseOut="db('nl242')" ><a href="/article/242/Kitchen-Mysteries-by-Herve-This" title="Books: Kitchen Mysteries by Herve This">Kitchen Mysteries by Herve This</a></td><td id="nl254" onclick="window.location='/article/254/The-Science-of-Good-Food'" onMouseOver="lb('nl254')" onMouseOut="db('nl254')" ><a href="/article/254/The-Science-of-Good-Food" title="Books: The Science of Good Food">The Science of Good Food</a></td><td id="nl220" onclick="window.location='/article/220/Toast-by-Nigel-Slater'" onMouseOver="lb('nl220')" onMouseOut="db('nl220')" ><a href="/article/220/Toast-by-Nigel-Slater" title="Books: Toast by Nigel Slater">Toast by Nigel Slater</a></td></tr><tr><td id="nl201" onclick="window.location='/article/201/Heat-by-Bill-Buford'" onMouseOver="lb('nl201')" onMouseOut="db('nl201')" ><a href="/article/201/Heat-by-Bill-Buford" title="Books: Heat by Bill Buford">Heat by Bill Buford</a></td><td id="nl333" onclick="window.location='/article/333/Modernist-Cuisine-at-Home-on-Inkling'" onMouseOver="lb('nl333')" onMouseOut="db('nl333')" ><a href="/article/333/Modernist-Cuisine-at-Home-on-Inkling" title="Books: Modernist Cuisine at Home on Inkling">Modernist Cuisine at Home on Inkling</a></td><td id="nl292" onclick="window.location='/article/292/The-Sorcerers-Apprentices-by-Lisa-Abend'" onMouseOver="lb('nl292')" onMouseOut="db('nl292')" ><a href="/article/292/The-Sorcerers-Apprentices-by-Lisa-Abend" title="Books: The Sorcerer's Apprentices by Lisa Abend">The Sorcerer's Apprentices by Lisa Abend</a></td><td id="nl233" onclick="window.location='/article/233/Vegetables-The-Culinary-Institute-of-America'" onMouseOver="lb('nl233')" onMouseOut="db('nl233')" ><a href="/article/233/Vegetables-The-Culinary-Institute-of-America" title="Books: Vegetables (The Culinary Institute of America)">Vegetables (The Culinary Institute of America)</a></td></tr></table></div>
+	<div id="navcat_CookingTests" style="display:none"><table width="100%" class="navlinks" cellpadding="0" cellspacing="1"><tr><td width="25%" id="nl3" onclick="window.location='/article/3/Bacon-Part-I'" onMouseOver="lb('nl3')" onMouseOut="db('nl3')" ><a href="/article/3/Bacon-Part-I" title="Cooking Tests: Bacon (Part I)">Bacon (Part I)</a></td><td width="25%" id="nl171" onclick="window.location='/article/171/Beer-Can-Chicken'" onMouseOver="lb('nl171')" onMouseOut="db('nl171')" ><a href="/article/171/Beer-Can-Chicken" title="Cooking Tests: Beer Can Chicken">Beer Can Chicken</a></td><td width="25%" id="nl173" onclick="window.location='/article/173/HFCS-Free-Cream-Sodas'" onMouseOver="lb('nl173')" onMouseOut="db('nl173')" ><a href="/article/173/HFCS-Free-Cream-Sodas" title="Cooking Tests: HFCS-Free Cream Sodas">HFCS-Free Cream Sodas</a></td><td width="25%" id="nl249" onclick="window.location='/article/249/Soft-Boiled-Eggs'" onMouseOver="lb('nl249')" onMouseOut="db('nl249')" ><a href="/article/249/Soft-Boiled-Eggs" title="Cooking Tests: Soft Boiled Eggs">Soft Boiled Eggs</a></td></tr><tr><td id="nl110" onclick="window.location='/article/110/Bacon-Part-II'" onMouseOver="lb('nl110')" onMouseOut="db('nl110')" ><a href="/article/110/Bacon-Part-II" title="Cooking Tests: Bacon (Part II)">Bacon (Part II)</a></td><td id="nl5" onclick="window.location='/article/5/Eggplant-Taste-Test'" onMouseOver="lb('nl5')" onMouseOut="db('nl5')" ><a href="/article/5/Eggplant-Taste-Test" title="Cooking Tests: Eggplant Taste Test">Eggplant Taste Test</a></td></tr></table></div>
+	<div id="navcat_DiningOut" style="display:none"><table width="100%" class="navlinks" cellpadding="0" cellspacing="1"><tr><td width="25%" id="nl202" onclick="window.location='/article/202/Ad-Hoc-Yountville-California'" onMouseOver="lb('nl202')" onMouseOut="db('nl202')" ><a href="/article/202/Ad-Hoc-Yountville-California" title="Dining Out: Ad Hoc (Yountville, California)">Ad Hoc (Yountville, California)</a></td><td width="25%" id="nl299" onclick="window.location='/article/299/Chicago-2011-Part-4-Gibsons-Bar-Steakhouse'" onMouseOver="lb('nl299')" onMouseOut="db('nl299')" ><a href="/article/299/Chicago-2011-Part-4-Gibsons-Bar-Steakhouse" title="Dining Out: Chicago 2011 Part 4 - Gibson's Bar &amp; Steakhouse">Chicago 2011 Part 4 - Gibson's Bar &amp; Steakhouse</a></td><td width="25%" id="nl330" onclick="window.location='/article/330/Cook-Taste-Barcelona-Spain'" onMouseOver="lb('nl330')" onMouseOut="db('nl330')" ><a href="/article/330/Cook-Taste-Barcelona-Spain" title="Dining Out: Cook &amp; Taste (Barcelona, Spain)">Cook &amp; Taste (Barcelona, Spain)</a></td><td width="25%" id="nl329" onclick="window.location='/article/329/Pakta-Barcelona-Spain'" onMouseOver="lb('nl329')" onMouseOut="db('nl329')" ><a href="/article/329/Pakta-Barcelona-Spain" title="Dining Out: Pakta (Barcelona, Spain)">Pakta (Barcelona, Spain)</a></td></tr><tr><td id="nl88" onclick="window.location='/article/88/Ahwahnee-Hotel-Kitchen-Yosemite-California'" onMouseOver="lb('nl88')" onMouseOut="db('nl88')" ><a href="/article/88/Ahwahnee-Hotel-Kitchen-Yosemite-California" title="Dining Out: Ahwahnee Hotel Kitchen (Yosemite, California)">Ahwahnee Hotel Kitchen (Yosemite, California)</a></td><td id="nl300" onclick="window.location='/article/300/Chicago-2011-Part-5-Frontera-Grill-XOCO'" onMouseOver="lb('nl300')" onMouseOut="db('nl300')" ><a href="/article/300/Chicago-2011-Part-5-Frontera-Grill-XOCO" title="Dining Out: Chicago 2011 Part 5 - Frontera Grill, XOCO">Chicago 2011 Part 5 - Frontera Grill, XOCO</a></td><td id="nl253" onclick="window.location='/article/253/Elements-Napa-California'" onMouseOver="lb('nl253')" onMouseOut="db('nl253')" ><a href="/article/253/Elements-Napa-California" title="Dining Out: Elements (Napa, California)">Elements (Napa, California)</a></td><td id="nl260" onclick="window.location='/article/260/Parcel-104-Santa-Clara-California'" onMouseOver="lb('nl260')" onMouseOut="db('nl260')" ><a href="/article/260/Parcel-104-Santa-Clara-California" title="Dining Out: Parcel 104 (Santa Clara, California)">Parcel 104 (Santa Clara, California)</a></td></tr><tr><td id="nl311" onclick="window.location='/article/311/Blue-Bell-Creamery-Factory-Tour'" onMouseOver="lb('nl311')" onMouseOut="db('nl311')" ><a href="/article/311/Blue-Bell-Creamery-Factory-Tour" title="Dining Out: Blue Bell Creamery Factory Tour">Blue Bell Creamery Factory Tour</a></td><td id="nl301" onclick="window.location='/article/301/Chicago-2011-Part-6-Noodles-by-Takashi-Yagihashi-Frontera-Fresco-Marc-Burger'" onMouseOver="lb('nl301')" onMouseOut="db('nl301')" ><a href="/article/301/Chicago-2011-Part-6-Noodles-by-Takashi-Yagihashi-Frontera-Fresco-Marc-Burger" title="Dining Out: Chicago 2011 Part 6 - Noodles by Takashi Yagihashi, Frontera Fresco, Marc Burger">Chicago 2011 Part 6 - Noodles by Takashi Yagihashi, Frontera Fresco, Marc Burger</a></td><td id="nl316" onclick="window.location='/article/316/Georges-San-Francisco-California'" onMouseOver="lb('nl316')" onMouseOut="db('nl316')" ><a href="/article/316/Georges-San-Francisco-California" title="Dining Out: Georges (San Francisco, California)">Georges (San Francisco, California)</a></td><td id="nl281" onclick="window.location='/article/281/Per-Se-New-York-New-York'" onMouseOver="lb('nl281')" onMouseOut="db('nl281')" ><a href="/article/281/Per-Se-New-York-New-York" title="Dining Out: Per Se (New York, New York)">Per Se (New York, New York)</a></td></tr><tr><td id="nl91" onclick="window.location='/article/91/Cafe-Terigo-Park-City-Utah'" onMouseOver="lb('nl91')" onMouseOut="db('nl91')" ><a href="/article/91/Cafe-Terigo-Park-City-Utah" title="Dining Out: Cafe Terigo (Park City, Utah)">Cafe Terigo (Park City, Utah)</a></td><td id="nl302" onclick="window.location='/article/302/Chicago-2011-Part-7-Alinea'" onMouseOver="lb('nl302')" onMouseOut="db('nl302')" ><a href="/article/302/Chicago-2011-Part-7-Alinea" title="Dining Out: Chicago 2011 Part 7 - Alinea">Chicago 2011 Part 7 - Alinea</a></td><td id="nl240" onclick="window.location='/article/240/Hard-Knox-Cafe-San-Francisco-California'" onMouseOver="lb('nl240')" onMouseOut="db('nl240')" ><a href="/article/240/Hard-Knox-Cafe-San-Francisco-California" title="Dining Out: Hard Knox Cafe (San Francisco, California)">Hard Knox Cafe (San Francisco, California)</a></td><td id="nl324" onclick="window.location='/article/324/Ramen-in-Austin-Michi-Ramen-and-Ramen-Tatsuya'" onMouseOver="lb('nl324')" onMouseOut="db('nl324')" ><a href="/article/324/Ramen-in-Austin-Michi-Ramen-and-Ramen-Tatsuya" title="Dining Out: Ramen in Austin (Michi Ramen and Ramen Tatsuya)">Ramen in Austin (Michi Ramen and Ramen Tatsuya)</a></td></tr><tr><td id="nl231" onclick="window.location='/article/231/Chads-Fish-Chips-Willits-California'" onMouseOver="lb('nl231')" onMouseOut="db('nl231')" ><a href="/article/231/Chads-Fish-Chips-Willits-California" title="Dining Out: Chad's Fish &amp; Chips (Willits, California)">Chad's Fish &amp; Chips (Willits, California)</a></td><td id="nl303" onclick="window.location='/article/303/Chicago-2011-Part-8-Vienna-Beef-Factory'" onMouseOver="lb('nl303')" onMouseOut="db('nl303')" ><a href="/article/303/Chicago-2011-Part-8-Vienna-Beef-Factory" title="Dining Out: Chicago 2011 Part 8 - Vienna Beef Factory">Chicago 2011 Part 8 - Vienna Beef Factory</a></td><td id="nl247" onclick="window.location='/article/247/Jai-Yun-San-Francisco'" onMouseOver="lb('nl247')" onMouseOut="db('nl247')" ><a href="/article/247/Jai-Yun-San-Francisco" title="Dining Out: Jai Yun (San Francisco)">Jai Yun (San Francisco)</a></td><td id="nl153" onclick="window.location='/article/153/Shadowbrook-Restaurant-Capitola-California'" onMouseOver="lb('nl153')" onMouseOut="db('nl153')" ><a href="/article/153/Shadowbrook-Restaurant-Capitola-California" title="Dining Out: Shadowbrook Restaurant (Capitola, California)">Shadowbrook Restaurant (Capitola, California)</a></td></tr><tr><td id="nl295" onclick="window.location='/article/295/Chicago-2011-Part-1a-Overview'" onMouseOver="lb('nl295')" onMouseOut="db('nl295')" ><a href="/article/295/Chicago-2011-Part-1a-Overview" title="Dining Out: Chicago 2011 Part 1a - Overview">Chicago 2011 Part 1a - Overview</a></td><td id="nl304" onclick="window.location='/article/304/Chicago-2011-Part-9-Girl-and-the-Goat'" onMouseOver="lb('nl304')" onMouseOut="db('nl304')" ><a href="/article/304/Chicago-2011-Part-9-Girl-and-the-Goat" title="Dining Out: Chicago 2011 Part 9 - Girl and the Goat">Chicago 2011 Part 9 - Girl and the Goat</a></td><td id="nl204" onclick="window.location='/article/204/Maverick-San-Francisco-California'" onMouseOver="lb('nl204')" onMouseOut="db('nl204')" ><a href="/article/204/Maverick-San-Francisco-California" title="Dining Out: Maverick (San Francisco, California)">Maverick (San Francisco, California)</a></td><td id="nl216" onclick="window.location='/article/216/Soul-Bar-Bistro-Auckland-New-Zealand'" onMouseOver="lb('nl216')" onMouseOut="db('nl216')" ><a href="/article/216/Soul-Bar-Bistro-Auckland-New-Zealand" title="Dining Out: Soul Bar &amp; Bistro (Auckland, New Zealand)">Soul Bar &amp; Bistro (Auckland, New Zealand)</a></td></tr><tr><td id="nl296" onclick="window.location='/article/296/Chicago-2011-Part-1b-Overview'" onMouseOver="lb('nl296')" onMouseOut="db('nl296')" ><a href="/article/296/Chicago-2011-Part-1b-Overview" title="Dining Out: Chicago 2011 Part 1b - Overview">Chicago 2011 Part 1b - Overview</a></td><td id="nl267" onclick="window.location='/article/267/Coi-San-Francisco-California'" onMouseOver="lb('nl267')" onMouseOut="db('nl267')" ><a href="/article/267/Coi-San-Francisco-California" title="Dining Out: Coi (San Francisco, California)">Coi (San Francisco, California)</a></td><td id="nl235" onclick="window.location='/article/235/Michelin-Rated-Restaurants-San-Francisco-2007'" onMouseOver="lb('nl235')" onMouseOut="db('nl235')" ><a href="/article/235/Michelin-Rated-Restaurants-San-Francisco-2007" title="Dining Out: Michelin Rated Restaurants (San Francisco 2007)">Michelin Rated Restaurants (San Francisco 2007)</a></td><td id="nl293" onclick="window.location='/article/293/The-Noble-Pig-Austin-Texas'" onMouseOver="lb('nl293')" onMouseOut="db('nl293')" ><a href="/article/293/The-Noble-Pig-Austin-Texas" title="Dining Out: The Noble Pig (Austin, Texas)">The Noble Pig (Austin, Texas)</a></td></tr><tr><td id="nl297" onclick="window.location='/article/297/Chicago-2011-Part-2-Shui-Wah-Santa-Anna-Bakery'" onMouseOver="lb('nl297')" onMouseOut="db('nl297')" ><a href="/article/297/Chicago-2011-Part-2-Shui-Wah-Santa-Anna-Bakery" title="Dining Out: Chicago 2011 Part 2 - Shui Wah, Santa Anna Bakery">Chicago 2011 Part 2 - Shui Wah, Santa Anna Bakery</a></td><td id="nl291" onclick="window.location='/article/291/Congress-Austin-Texas'" onMouseOver="lb('nl291')" onMouseOut="db('nl291')" ><a href="/article/291/Congress-Austin-Texas" title="Dining Out: Congress (Austin, Texas)">Congress (Austin, Texas)</a></td><td id="nl236" onclick="window.location='/article/236/Michelin-Rated-Restaurants-San-Francisco-2008'" onMouseOver="lb('nl236')" onMouseOut="db('nl236')" ><a href="/article/236/Michelin-Rated-Restaurants-San-Francisco-2008" title="Dining Out: Michelin Rated Restaurants (San Francisco 2008)">Michelin Rated Restaurants (San Francisco 2008)</a></td><td id="nl245" onclick="window.location='/article/245/Uchi-Austin-Texas'" onMouseOver="lb('nl245')" onMouseOut="db('nl245')" ><a href="/article/245/Uchi-Austin-Texas" title="Dining Out: Uchi (Austin, Texas)">Uchi (Austin, Texas)</a></td></tr><tr><td id="nl298" onclick="window.location='/article/298/Chicago-2011-Part-3-Pizzeria-Uno-Giordanos'" onMouseOver="lb('nl298')" onMouseOut="db('nl298')" ><a href="/article/298/Chicago-2011-Part-3-Pizzeria-Uno-Giordanos" title="Dining Out: Chicago 2011 Part 3 - Pizzeria Uno, Giordano's">Chicago 2011 Part 3 - Pizzeria Uno, Giordano's</a></td></tr></table></div>
+	<div id="navcat_EquipmentGear" style="display:none"><table width="100%" class="navlinks" cellpadding="0" cellspacing="1"><tr><td width="25%" id="nl319" onclick="window.location='/article/319/Anolon-Nouvelle-Copper-Stainless-Steel-3-qt-Covered-Saute-Pan'" onMouseOver="lb('nl319')" onMouseOut="db('nl319')" ><a href="/article/319/Anolon-Nouvelle-Copper-Stainless-Steel-3-qt-Covered-Saute-Pan" title="Equipment &amp; Gear: Anolon Nouvelle Copper Stainless Steel 3-qt Covered Saute Pan">Anolon Nouvelle Copper Stainless Steel 3-qt Covered Saute Pan</a></td><td width="25%" id="nl17" onclick="window.location='/article/17/Cutting-Boards'" onMouseOver="lb('nl17')" onMouseOut="db('nl17')" ><a href="/article/17/Cutting-Boards" title="Equipment &amp; Gear: Cutting Boards">Cutting Boards</a></td><td width="25%" id="nl95" onclick="window.location='/article/95/Kitchen-Thermometers'" onMouseOver="lb('nl95')" onMouseOut="db('nl95')" ><a href="/article/95/Kitchen-Thermometers" title="Equipment &amp; Gear: Kitchen Thermometers">Kitchen Thermometers</a></td><td width="25%" id="nl99" onclick="window.location='/article/99/Microwave-Safe-Containers'" onMouseOver="lb('nl99')" onMouseOut="db('nl99')" ><a href="/article/99/Microwave-Safe-Containers" title="Equipment &amp; Gear: Microwave Safe Containers">Microwave Safe Containers</a></td></tr><tr><td id="nl205" onclick="window.location='/article/205/Bakers-Edge'" onMouseOver="lb('nl205')" onMouseOut="db('nl205')" ><a href="/article/205/Bakers-Edge" title="Equipment &amp; Gear: Baker's Edge">Baker's Edge</a></td><td id="nl222" onclick="window.location='/article/222/Fathers-Day-Gift-Ideas'" onMouseOver="lb('nl222')" onMouseOut="db('nl222')" ><a href="/article/222/Fathers-Day-Gift-Ideas" title="Equipment &amp; Gear: Father's Day Gift Ideas">Father's Day Gift Ideas</a></td><td id="nl187" onclick="window.location='/article/187/Knife-and-Sharpening-Steel-Hardness'" onMouseOver="lb('nl187')" onMouseOut="db('nl187')" ><a href="/article/187/Knife-and-Sharpening-Steel-Hardness" title="Equipment &amp; Gear: Knife and Sharpening Steel Hardness">Knife and Sharpening Steel Hardness</a></td><td id="nl84" onclick="window.location='/article/84/NSF-Certification'" onMouseOver="lb('nl84')" onMouseOut="db('nl84')" ><a href="/article/84/NSF-Certification" title="Equipment &amp; Gear: NSF Certification">NSF Certification</a></td></tr><tr><td id="nl290" onclick="window.location='/article/290/Ceramic-Chefs-Knives-Rated'" onMouseOver="lb('nl290')" onMouseOut="db('nl290')" ><a href="/article/290/Ceramic-Chefs-Knives-Rated" title="Equipment &amp; Gear: Ceramic Chef's Knives Rated">Ceramic Chef's Knives Rated</a></td><td id="nl256" onclick="window.location='/article/256/GelPro-Mat'" onMouseOver="lb('nl256')" onMouseOut="db('nl256')" ><a href="/article/256/GelPro-Mat" title="Equipment &amp; Gear: GelPro Mat">GelPro Mat</a></td><td id="nl135" onclick="window.location='/article/135/Knife-Covers'" onMouseOver="lb('nl135')" onMouseOut="db('nl135')" ><a href="/article/135/Knife-Covers" title="Equipment &amp; Gear: Knife Covers">Knife Covers</a></td><td id="nl275" onclick="window.location='/article/275/Saber-Kitchen-Knives'" onMouseOver="lb('nl275')" onMouseOut="db('nl275')" ><a href="/article/275/Saber-Kitchen-Knives" title="Equipment &amp; Gear: Saber Kitchen Knives">Saber Kitchen Knives</a></td></tr><tr><td id="nl129" onclick="window.location='/article/129/Chefs-Knives-Rated'" onMouseOver="lb('nl129')" onMouseOut="db('nl129')" ><a href="/article/129/Chefs-Knives-Rated" title="Equipment &amp; Gear: Chef's Knives Rated">Chef's Knives Rated</a></td><td id="nl117" onclick="window.location='/article/117/Hefty-Serve-n-Store'" onMouseOver="lb('nl117')" onMouseOut="db('nl117')" ><a href="/article/117/Hefty-Serve-n-Store" title="Equipment &amp; Gear: Hefty Serve 'n Store">Hefty Serve 'n Store</a></td><td id="nl130" onclick="window.location='/article/130/Knife-Parts'" onMouseOver="lb('nl130')" onMouseOut="db('nl130')" ><a href="/article/130/Knife-Parts" title="Equipment &amp; Gear: Knife Parts">Knife Parts</a></td><td id="nl234" onclick="window.location='/article/234/Soda-Club-SodaStream'" onMouseOver="lb('nl234')" onMouseOut="db('nl234')" ><a href="/article/234/Soda-Club-SodaStream" title="Equipment &amp; Gear: Soda-Club (SodaStream)">Soda-Club (SodaStream)</a></td></tr><tr><td id="nl120" onclick="window.location='/article/120/Common-Materials-of-Cookware'" onMouseOver="lb('nl120')" onMouseOut="db('nl120')" ><a href="/article/120/Common-Materials-of-Cookware" title="Equipment &amp; Gear: Common Materials of Cookware">Common Materials of Cookware</a></td><td id="nl272" onclick="window.location='/article/272/Kapoosh-Knife-Block-not-recommended'" onMouseOver="lb('nl272')" onMouseOut="db('nl272')" ><a href="/article/272/Kapoosh-Knife-Block-not-recommended" title="Equipment &amp; Gear: Kapoosh Knife Block (not recommended)">Kapoosh Knife Block (not recommended)</a></td><td id="nl85" onclick="window.location='/article/85/Krups-Spice-Grinder'" onMouseOver="lb('nl85')" onMouseOut="db('nl85')" ><a href="/article/85/Krups-Spice-Grinder" title="Equipment &amp; Gear: Krups Spice Grinder">Krups Spice Grinder</a></td><td id="nl287" onclick="window.location='/article/287/Understanding-Blender-Specifications'" onMouseOver="lb('nl287')" onMouseOut="db('nl287')" ><a href="/article/287/Understanding-Blender-Specifications" title="Equipment &amp; Gear: Understanding Blender Specifications">Understanding Blender Specifications</a></td></tr><tr><td id="nl232" onclick="window.location='/article/232/Cooking-With-Aluminum'" onMouseOver="lb('nl232')" onMouseOut="db('nl232')" ><a href="/article/232/Cooking-With-Aluminum" title="Equipment &amp; Gear: Cooking With Aluminum">Cooking With Aluminum</a></td><td id="nl39" onclick="window.location='/article/39/Kitchen-Knives'" onMouseOver="lb('nl39')" onMouseOut="db('nl39')" ><a href="/article/39/Kitchen-Knives" title="Equipment &amp; Gear: Kitchen Knives">Kitchen Knives</a></td><td id="nl269" onclick="window.location='/article/269/Metrokane-Mighty-OJ-Not-recommended'" onMouseOver="lb('nl269')" onMouseOut="db('nl269')" ><a href="/article/269/Metrokane-Mighty-OJ-Not-recommended" title="Equipment &amp; Gear: Metrokane Mighty OJ (Not recommended)">Metrokane Mighty OJ (Not recommended)</a></td><td id="nl326" onclick="window.location='/article/326/Whats-In-Your-Non-Stick'" onMouseOver="lb('nl326')" onMouseOut="db('nl326')" ><a href="/article/326/Whats-In-Your-Non-Stick" title="Equipment &amp; Gear: What's In Your Non-Stick?">What's In Your Non-Stick?</a></td></tr><tr><td id="nl175" onclick="window.location='/article/175/CoolCover'" onMouseOver="lb('nl175')" onMouseOut="db('nl175')" ><a href="/article/175/CoolCover" title="Equipment &amp; Gear: CoolCover">CoolCover</a></td><td id="nl82" onclick="window.location='/article/82/Kitchen-Scales'" onMouseOver="lb('nl82')" onMouseOut="db('nl82')" ><a href="/article/82/Kitchen-Scales" title="Equipment &amp; Gear: Kitchen Scales">Kitchen Scales</a></td></tr></table></div>
+	<div id="navcat_KitchenNotes" style="display:none"><table width="100%" class="navlinks" cellpadding="0" cellspacing="1"><tr><td width="25%" id="nl90" onclick="window.location='/article/90/Additives'" onMouseOver="lb('nl90')" onMouseOut="db('nl90')" ><a href="/article/90/Additives" title="Kitchen Notes: Additives">Additives</a></td><td width="25%" id="nl131" onclick="window.location='/article/131/Clarified-Butter'" onMouseOver="lb('nl131')" onMouseOut="db('nl131')" ><a href="/article/131/Clarified-Butter" title="Kitchen Notes: Clarified Butter">Clarified Butter</a></td><td width="25%" id="nl51" onclick="window.location='/article/51/Glossary'" onMouseOver="lb('nl51')" onMouseOut="db('nl51')" ><a href="/article/51/Glossary" title="Kitchen Notes: Glossary">Glossary</a></td><td width="25%" id="nl40" onclick="window.location='/article/40/Saturated-Fats-Cholesterol-and-Heart-Disease'" onMouseOver="lb('nl40')" onMouseOut="db('nl40')" ><a href="/article/40/Saturated-Fats-Cholesterol-and-Heart-Disease" title="Kitchen Notes: Saturated Fats, Cholesterol, and Heart Disease">Saturated Fats, Cholesterol, and Heart Disease</a></td></tr><tr><td id="nl280" onclick="window.location='/article/280/Analyzing-a-Baking-Recipe'" onMouseOver="lb('nl280')" onMouseOut="db('nl280')" ><a href="/article/280/Analyzing-a-Baking-Recipe" title="Kitchen Notes: Analyzing a Baking Recipe">Analyzing a Baking Recipe</a></td><td id="nl198" onclick="window.location='/article/198/Clarified-Butter-II'" onMouseOver="lb('nl198')" onMouseOut="db('nl198')" ><a href="/article/198/Clarified-Butter-II" title="Kitchen Notes: Clarified Butter II">Clarified Butter II</a></td><td id="nl209" onclick="window.location='/article/209/Heat-Transfer-and-Browning-Foods'" onMouseOver="lb('nl209')" onMouseOut="db('nl209')" ><a href="/article/209/Heat-Transfer-and-Browning-Foods" title="Kitchen Notes: Heat Transfer and Browning Foods">Heat Transfer and Browning Foods</a></td><td id="nl78" onclick="window.location='/article/78/Scoville-Units'" onMouseOver="lb('nl78')" onMouseOut="db('nl78')" ><a href="/article/78/Scoville-Units" title="Kitchen Notes: Scoville Units">Scoville Units</a></td></tr><tr><td id="nl199" onclick="window.location='/article/199/Baguettes-Deconstructed'" onMouseOver="lb('nl199')" onMouseOut="db('nl199')" ><a href="/article/199/Baguettes-Deconstructed" title="Kitchen Notes: Baguettes Deconstructed">Baguettes Deconstructed</a></td><td id="nl184" onclick="window.location='/article/184/Curry'" onMouseOver="lb('nl184')" onMouseOut="db('nl184')" ><a href="/article/184/Curry" title="Kitchen Notes: Curry">Curry</a></td><td id="nl224" onclick="window.location='/article/224/Heat-Transfer-and-Cooking'" onMouseOver="lb('nl224')" onMouseOut="db('nl224')" ><a href="/article/224/Heat-Transfer-and-Cooking" title="Kitchen Notes: Heat Transfer and Cooking">Heat Transfer and Cooking</a></td><td id="nl50" onclick="window.location='/article/50/Smoke-Points-of-Various-Fats'" onMouseOver="lb('nl50')" onMouseOut="db('nl50')" ><a href="/article/50/Smoke-Points-of-Various-Fats" title="Kitchen Notes: Smoke Points of Various Fats">Smoke Points of Various Fats</a></td></tr><tr><td id="nl213" onclick="window.location='/article/213/Bakers-Yeast'" onMouseOver="lb('nl213')" onMouseOut="db('nl213')" ><a href="/article/213/Bakers-Yeast" title="Kitchen Notes: Baker's Yeast">Baker's Yeast</a></td><td id="nl97" onclick="window.location='/article/97/Cutting-Up-Chicken'" onMouseOver="lb('nl97')" onMouseOut="db('nl97')" ><a href="/article/97/Cutting-Up-Chicken" title="Kitchen Notes: Cutting Up Chicken">Cutting Up Chicken</a></td><td id="nl52" onclick="window.location='/article/52/Ingredient-Substitutions'" onMouseOver="lb('nl52')" onMouseOut="db('nl52')" ><a href="/article/52/Ingredient-Substitutions" title="Kitchen Notes: Ingredient Substitutions">Ingredient Substitutions</a></td><td id="nl155" onclick="window.location='/article/155/Tempering-Chocolate'" onMouseOver="lb('nl155')" onMouseOut="db('nl155')" ><a href="/article/155/Tempering-Chocolate" title="Kitchen Notes: Tempering Chocolate">Tempering Chocolate</a></td></tr><tr><td id="nl123" onclick="window.location='/article/123/Boning-Chicken-Breast'" onMouseOver="lb('nl123')" onMouseOut="db('nl123')" ><a href="/article/123/Boning-Chicken-Breast" title="Kitchen Notes: Boning Chicken Breast">Boning Chicken Breast</a></td><td id="nl211" onclick="window.location='/article/211/European-Designation-of-Quality-Labels'" onMouseOver="lb('nl211')" onMouseOut="db('nl211')" ><a href="/article/211/European-Designation-of-Quality-Labels" title="Kitchen Notes: European Designation of Quality Labels">European Designation of Quality Labels</a></td><td id="nl113" onclick="window.location='/article/113/Making-Butter'" onMouseOver="lb('nl113')" onMouseOut="db('nl113')" ><a href="/article/113/Making-Butter" title="Kitchen Notes: Making Butter">Making Butter</a></td><td id="nl30" onclick="window.location='/article/30/USDA-Beef-Quality-Grades'" onMouseOver="lb('nl30')" onMouseOut="db('nl30')" ><a href="/article/30/USDA-Beef-Quality-Grades" title="Kitchen Notes: USDA Beef Quality Grades">USDA Beef Quality Grades</a></td></tr><tr><td id="nl70" onclick="window.location='/article/70/Brining'" onMouseOver="lb('nl70')" onMouseOut="db('nl70')" ><a href="/article/70/Brining" title="Kitchen Notes: Brining">Brining</a></td><td id="nl244" onclick="window.location='/article/244/Fond-of-Fond'" onMouseOver="lb('nl244')" onMouseOut="db('nl244')" ><a href="/article/244/Fond-of-Fond" title="Kitchen Notes: Fond of Fond">Fond of Fond</a></td><td id="nl16" onclick="window.location='/article/16/Maple-Syrup-Grades'" onMouseOver="lb('nl16')" onMouseOut="db('nl16')" ><a href="/article/16/Maple-Syrup-Grades" title="Kitchen Notes: Maple Syrup Grades">Maple Syrup Grades</a></td><td id="nl63" onclick="window.location='/article/63/Wheat-Flour'" onMouseOver="lb('nl63')" onMouseOut="db('nl63')" ><a href="/article/63/Wheat-Flour" title="Kitchen Notes: Wheat Flour">Wheat Flour</a></td></tr><tr><td id="nl73" onclick="window.location='/article/73/Buying-Whole-Turkeys'" onMouseOver="lb('nl73')" onMouseOut="db('nl73')" ><a href="/article/73/Buying-Whole-Turkeys" title="Kitchen Notes: Buying Whole Turkeys">Buying Whole Turkeys</a></td><td id="nl27" onclick="window.location='/article/27/Freezing-Meats'" onMouseOver="lb('nl27')" onMouseOut="db('nl27')" ><a href="/article/27/Freezing-Meats" title="Kitchen Notes: Freezing Meats">Freezing Meats</a></td><td id="nl134" onclick="window.location='/article/134/Oven-Temperatures'" onMouseOver="lb('nl134')" onMouseOut="db('nl134')" ><a href="/article/134/Oven-Temperatures" title="Kitchen Notes: Oven Temperatures">Oven Temperatures</a></td><td id="nl294" onclick="window.location='/article/294/White-Wheat-Grinder-Comparison'" onMouseOver="lb('nl294')" onMouseOut="db('nl294')" ><a href="/article/294/White-Wheat-Grinder-Comparison" title="Kitchen Notes: White Wheat Grinder Comparison">White Wheat Grinder Comparison</a></td></tr><tr><td id="nl156" onclick="window.location='/article/156/Caviar'" onMouseOver="lb('nl156')" onMouseOut="db('nl156')" ><a href="/article/156/Caviar" title="Kitchen Notes: Caviar">Caviar</a></td><td id="nl315" onclick="window.location='/article/315/Fruit-Ripening'" onMouseOver="lb('nl315')" onMouseOut="db('nl315')" ><a href="/article/315/Fruit-Ripening" title="Kitchen Notes: Fruit Ripening">Fruit Ripening</a></td><td id="nl96" onclick="window.location='/article/96/Pears'" onMouseOver="lb('nl96')" onMouseOut="db('nl96')" ><a href="/article/96/Pears" title="Kitchen Notes: Pears">Pears</a></td></tr></table></div>
+	<div id="navcat_OffTopic" style="display:none"><table width="100%" class="navlinks" cellpadding="0" cellspacing="1"><tr><td width="25%" id="nl133" onclick="window.location='/article/133/African-Horned-Melon-or-Kiwano'" onMouseOver="lb('nl133')" onMouseOut="db('nl133')" ><a href="/article/133/African-Horned-Melon-or-Kiwano" title="Off Topic: African Horned Melon or Kiwano">African Horned Melon or Kiwano</a></td><td width="25%" id="nl206" onclick="window.location='/article/206/Fancy-Food-Show-Winter-2007'" onMouseOver="lb('nl206')" onMouseOut="db('nl206')" ><a href="/article/206/Fancy-Food-Show-Winter-2007" title="Off Topic: Fancy Food Show Winter 2007">Fancy Food Show Winter 2007</a></td><td width="25%" id="nl119" onclick="window.location='/article/119/Iron-Chef-America'" onMouseOver="lb('nl119')" onMouseOut="db('nl119')" ><a href="/article/119/Iron-Chef-America" title="Off Topic: Iron Chef America">Iron Chef America</a></td><td width="25%" id="nl25" onclick="window.location='/article/25/Some-Quotes'" onMouseOver="lb('nl25')" onMouseOut="db('nl25')" ><a href="/article/25/Some-Quotes" title="Off Topic: Some Quotes">Some Quotes</a></td></tr><tr><td id="nl279" onclick="window.location='/article/279/Amano-Chocolate-Contest'" onMouseOver="lb('nl279')" onMouseOut="db('nl279')" ><a href="/article/279/Amano-Chocolate-Contest" title="Off Topic: Amano Chocolate Contest">Amano Chocolate Contest</a></td><td id="nl262" onclick="window.location='/article/262/Fancy-Food-Show-Winter-2009'" onMouseOver="lb('nl262')" onMouseOut="db('nl262')" ><a href="/article/262/Fancy-Food-Show-Winter-2009" title="Off Topic: Fancy Food Show Winter 2009">Fancy Food Show Winter 2009</a></td><td id="nl286" onclick="window.location='/article/286/Johnsonville-Pastaville-Italian-Sausage-Recipe-Contest'" onMouseOver="lb('nl286')" onMouseOut="db('nl286')" ><a href="/article/286/Johnsonville-Pastaville-Italian-Sausage-Recipe-Contest" title="Off Topic: Johnsonville Pastaville Italian Sausage Recipe Contest">Johnsonville Pastaville Italian Sausage Recipe Contest</a></td><td id="nl57" onclick="window.location='/article/57/Surprises-In-Snacks'" onMouseOver="lb('nl57')" onMouseOut="db('nl57')" ><a href="/article/57/Surprises-In-Snacks" title="Off Topic: Surprises In Snacks">Surprises In Snacks</a></td></tr><tr><td id="nl321" onclick="window.location='/article/321/Anolon-Nouvelle-Copper-Stainless-Steel-Cookware-Set-2012-Giveaway'" onMouseOver="lb('nl321')" onMouseOut="db('nl321')" ><a href="/article/321/Anolon-Nouvelle-Copper-Stainless-Steel-Cookware-Set-2012-Giveaway" title="Off Topic: Anolon Nouvelle Copper Stainless Steel Cookware Set 2012 Giveaway!">Anolon Nouvelle Copper Stainless Steel Cookware Set 2012 Giveaway!</a></td><td id="nl334" onclick="window.location='/article/334/Fancy-Food-Show-Winter-2014'" onMouseOver="lb('nl334')" onMouseOut="db('nl334')" ><a href="/article/334/Fancy-Food-Show-Winter-2014" title="Off Topic: Fancy Food Show Winter 2014">Fancy Food Show Winter 2014</a></td><td id="nl165" onclick="window.location='/article/165/LASIK'" onMouseOver="lb('nl165')" onMouseOut="db('nl165')" ><a href="/article/165/LASIK" title="Off Topic: LASIK">LASIK</a></td><td id="nl149" onclick="window.location='/article/149/Thanksgiving-Dinner'" onMouseOver="lb('nl149')" onMouseOut="db('nl149')" ><a href="/article/149/Thanksgiving-Dinner" title="Off Topic: Thanksgiving Dinner">Thanksgiving Dinner</a></td></tr><tr><td id="nl179" onclick="window.location='/article/179/Asparagus-Festival'" onMouseOver="lb('nl179')" onMouseOut="db('nl179')" ><a href="/article/179/Asparagus-Festival" title="Off Topic: Asparagus Festival">Asparagus Festival</a></td><td id="nl182" onclick="window.location='/article/182/Fanpop'" onMouseOver="lb('nl182')" onMouseOut="db('nl182')" ><a href="/article/182/Fanpop" title="Off Topic: Fanpop">Fanpop</a></td><td id="nl312" onclick="window.location='/article/312/LEGO-Heavy-Weapons-Book-Review'" onMouseOver="lb('nl312')" onMouseOut="db('nl312')" ><a href="/article/312/LEGO-Heavy-Weapons-Book-Review" title="Off Topic: LEGO Heavy Weapons Book Review">LEGO Heavy Weapons Book Review</a></td><td id="nl251" onclick="window.location='/article/251/The-HP-Freshman-15-Contest-Win-a-Notebook-Computer'" onMouseOver="lb('nl251')" onMouseOut="db('nl251')" ><a href="/article/251/The-HP-Freshman-15-Contest-Win-a-Notebook-Computer" title="Off Topic: The HP Freshman 15 Contest - Win a Notebook Computer">The HP Freshman 15 Contest - Win a Notebook Computer</a></td></tr><tr><td id="nl243" onclick="window.location='/article/243/Chilis-Bacon-Burger'" onMouseOver="lb('nl243')" onMouseOut="db('nl243')" ><a href="/article/243/Chilis-Bacon-Burger" title="Off Topic: Chili's Bacon Burger">Chili's Bacon Burger</a></td><td id="nl323" onclick="window.location='/article/323/Food-Fete-2013'" onMouseOver="lb('nl323')" onMouseOut="db('nl323')" ><a href="/article/323/Food-Fete-2013" title="Off Topic: Food Fete 2013">Food Fete 2013</a></td><td id="nl67" onclick="window.location='/article/67/Lunar-Eclipse'" onMouseOver="lb('nl67')" onMouseOut="db('nl67')" ><a href="/article/67/Lunar-Eclipse" title="Off Topic: Lunar Eclipse">Lunar Eclipse</a></td><td id="nl322" onclick="window.location='/article/322/The-Unofficial-LEGO-Technic-Builders-Guide-Book-Review'" onMouseOver="lb('nl322')" onMouseOut="db('nl322')" ><a href="/article/322/The-Unofficial-LEGO-Technic-Builders-Guide-Book-Review" title="Off Topic: The Unofficial LEGO Technic Builder's Guide Book Review">The Unofficial LEGO Technic Builder's Guide Book Review</a></td></tr><tr><td id="nl284" onclick="window.location='/article/284/Christmas-Gift-Ideas'" onMouseOver="lb('nl284')" onMouseOut="db('nl284')" ><a href="/article/284/Christmas-Gift-Ideas" title="Off Topic: Christmas Gift Ideas">Christmas Gift Ideas</a></td><td id="nl335" onclick="window.location='/article/335/Food-Fete-2014'" onMouseOver="lb('nl335')" onMouseOut="db('nl335')" ><a href="/article/335/Food-Fete-2014" title="Off Topic: Food Fete 2014">Food Fete 2014</a></td><td id="nl309" onclick="window.location='/article/309/Michael-Ohenes-Cookie-Recipe-Generator'" onMouseOver="lb('nl309')" onMouseOut="db('nl309')" ><a href="/article/309/Michael-Ohenes-Cookie-Recipe-Generator" title="Off Topic: Michael Ohene's Cookie Recipe Generator">Michael Ohene's Cookie Recipe Generator</a></td><td id="nl336" onclick="window.location='/article/336/Thermoworks-Fathers-Day-2014-Giveaway'" onMouseOver="lb('nl336')" onMouseOut="db('nl336')" ><a href="/article/336/Thermoworks-Fathers-Day-2014-Giveaway" title="Off Topic: Thermoworks Father's Day 2014 Giveaway!">Thermoworks Father's Day 2014 Giveaway!</a></td></tr><tr><td id="nl328" onclick="window.location='/article/328/Codlo-Sous-Vide-Controller-Kickstarter'" onMouseOver="lb('nl328')" onMouseOut="db('nl328')" ><a href="/article/328/Codlo-Sous-Vide-Controller-Kickstarter" title="Off Topic: Codlo Sous Vide Controller Kickstarter">Codlo Sous Vide Controller Kickstarter</a></td><td id="nl271" onclick="window.location='/article/271/Food-Inc'" onMouseOver="lb('nl271')" onMouseOut="db('nl271')" ><a href="/article/271/Food-Inc" title="Off Topic: Food, Inc">Food, Inc</a></td><td id="nl7" onclick="window.location='/article/7/Orange-Juice-Shelf-Life'" onMouseOver="lb('nl7')" onMouseOut="db('nl7')" ><a href="/article/7/Orange-Juice-Shelf-Life" title="Off Topic: Orange Juice Shelf Life">Orange Juice Shelf Life</a></td><td id="nl332" onclick="window.location='/article/332/Thermoworks-Thermapen-2013-Giveaway'" onMouseOver="lb('nl332')" onMouseOut="db('nl332')" ><a href="/article/332/Thermoworks-Thermapen-2013-Giveaway" title="Off Topic: Thermoworks Thermapen 2013 Giveaway!">Thermoworks Thermapen 2013 Giveaway!</a></td></tr><tr><td id="nl116" onclick="window.location='/article/116/Comments-and-Forums'" onMouseOver="lb('nl116')" onMouseOut="db('nl116')" ><a href="/article/116/Comments-and-Forums" title="Off Topic: Comments and Forums">Comments and Forums</a></td><td id="nl263" onclick="window.location='/article/263/Foodoro'" onMouseOver="lb('nl263')" onMouseOut="db('nl263')" ><a href="/article/263/Foodoro" title="Off Topic: Foodoro">Foodoro</a></td><td id="nl217" onclick="window.location='/article/217/Orthogonal-Thought-A-New-Blog'" onMouseOver="lb('nl217')" onMouseOut="db('nl217')" ><a href="/article/217/Orthogonal-Thought-A-New-Blog" title="Off Topic: Orthogonal Thought - A New Blog">Orthogonal Thought - A New Blog</a></td><td id="nl318" onclick="window.location='/article/318/Thermoworks-Thermapen-and-Oven-Thermometer-2012-Giveaway'" onMouseOver="lb('nl318')" onMouseOut="db('nl318')" ><a href="/article/318/Thermoworks-Thermapen-and-Oven-Thermometer-2012-Giveaway" title="Off Topic: Thermoworks Thermapen and Oven Thermometer 2012 Giveaway!">Thermoworks Thermapen and Oven Thermometer 2012 Giveaway!</a></td></tr><tr><td id="nl118" onclick="window.location='/article/118/Comments-and-Forums-Back-Online'" onMouseOver="lb('nl118')" onMouseOut="db('nl118')" ><a href="/article/118/Comments-and-Forums-Back-Online" title="Off Topic: Comments and Forums Back Online">Comments and Forums Back Online</a></td><td id="nl278" onclick="window.location='/article/278/Free-Cookbook-from-Snubbr'" onMouseOver="lb('nl278')" onMouseOut="db('nl278')" ><a href="/article/278/Free-Cookbook-from-Snubbr" title="Off Topic: Free Cookbook from Snubbr">Free Cookbook from Snubbr</a></td><td id="nl228" onclick="window.location='/article/228/Pixars-Ratatouille'" onMouseOver="lb('nl228')" onMouseOut="db('nl228')" ><a href="/article/228/Pixars-Ratatouille" title="Off Topic: Pixar's Ratatouille">Pixar's Ratatouille</a></td><td id="nl214" onclick="window.location='/article/214/Two-New-Shows-on-Discovery-Health'" onMouseOver="lb('nl214')" onMouseOut="db('nl214')" ><a href="/article/214/Two-New-Shows-on-Discovery-Health" title="Off Topic: Two New Shows on Discovery Health">Two New Shows on Discovery Health</a></td></tr><tr><td id="nl196" onclick="window.location='/article/196/Cooking-With-Passion'" onMouseOver="lb('nl196')" onMouseOut="db('nl196')" ><a href="/article/196/Cooking-With-Passion" title="Off Topic: Cooking With Passion">Cooking With Passion</a></td><td id="nl282" onclick="window.location='/article/282/Hefty-Kitchen-Bags-with-Unscented-Odor-Block-Technology'" onMouseOver="lb('nl282')" onMouseOut="db('nl282')" ><a href="/article/282/Hefty-Kitchen-Bags-with-Unscented-Odor-Block-Technology" title="Off Topic: Hefty Kitchen Bags with Unscented Odor Block Technology">Hefty Kitchen Bags with Unscented Odor Block Technology</a></td><td id="nl1" onclick="window.location='/article/1/Pumpkin-Carving'" onMouseOver="lb('nl1')" onMouseOut="db('nl1')" ><a href="/article/1/Pumpkin-Carving" title="Off Topic: Pumpkin Carving">Pumpkin Carving</a></td><td id="nl143" onclick="window.location='/article/143/University-Chickens-911-Challenge'" onMouseOver="lb('nl143')" onMouseOut="db('nl143')" ><a href="/article/143/University-Chickens-911-Challenge" title="Off Topic: University Chicken's 911 Challenge">University Chicken's 911 Challenge</a></td></tr><tr><td id="nl183" onclick="window.location='/article/183/Cosentinos-Markets-Good-News-and-Bad-News'" onMouseOver="lb('nl183')" onMouseOut="db('nl183')" ><a href="/article/183/Cosentinos-Markets-Good-News-and-Bad-News" title="Off Topic: Cosentino's Markets - Good News and Bad News">Cosentino's Markets - Good News and Bad News</a></td><td id="nl197" onclick="window.location='/article/197/IEEE-Spectrum-Radio-Looking-for-Engineers-Who-Cook'" onMouseOver="lb('nl197')" onMouseOut="db('nl197')" ><a href="/article/197/IEEE-Spectrum-Radio-Looking-for-Engineers-Who-Cook" title="Off Topic: IEEE Spectrum Radio Looking for Engineers Who Cook">IEEE Spectrum Radio Looking for Engineers Who Cook</a></td><td id="nl29" onclick="window.location='/article/29/Recipe-Summaries-Standards-and-Microsoft'" onMouseOver="lb('nl29')" onMouseOut="db('nl29')" ><a href="/article/29/Recipe-Summaries-Standards-and-Microsoft" title="Off Topic: Recipe Summaries - Standards and Microsoft">Recipe Summaries - Standards and Microsoft</a></td><td id="nl22" onclick="window.location='/article/22/Welcome-to-the-New-Server'" onMouseOver="lb('nl22')" onMouseOut="db('nl22')" ><a href="/article/22/Welcome-to-the-New-Server" title="Off Topic: Welcome to the New Server">Welcome to the New Server</a></td></tr><tr><td id="nl64" onclick="window.location='/article/64/Details-of-the-Pumpkin-Carving'" onMouseOver="lb('nl64')" onMouseOut="db('nl64')" ><a href="/article/64/Details-of-the-Pumpkin-Carving" title="Off Topic: Details of the Pumpkin Carving">Details of the Pumpkin Carving</a></td><td id="nl24" onclick="window.location='/article/24/Increased-Readership-and-Traffic-Woes'" onMouseOver="lb('nl24')" onMouseOut="db('nl24')" ><a href="/article/24/Increased-Readership-and-Traffic-Woes" title="Off Topic: Increased Readership and Traffic Woes">Increased Readership and Traffic Woes</a></td><td id="nl331" onclick="window.location='/article/331/Robot-Turtles-Board-Game-Kickstarter'" onMouseOver="lb('nl331')" onMouseOut="db('nl331')" ><a href="/article/331/Robot-Turtles-Board-Game-Kickstarter" title="Off Topic: Robot Turtles Board Game Kickstarter">Robot Turtles Board Game Kickstarter</a></td><td id="nl192" onclick="window.location='/article/192/Whats-the-Most-Trans-Fat-Youve-Seen'" onMouseOver="lb('nl192')" onMouseOut="db('nl192')" ><a href="/article/192/Whats-the-Most-Trans-Fat-Youve-Seen" title="Off Topic: What's the Most Trans Fat You've Seen?">What's the Most Trans Fat You've Seen?</a></td></tr><tr><td id="nl23" onclick="window.location='/article/23/Donations-Please'" onMouseOver="lb('nl23')" onMouseOut="db('nl23')" ><a href="/article/23/Donations-Please" title="Off Topic: Donations Please!">Donations Please!</a></td><td id="nl210" onclick="window.location='/article/210/Inside-the-CIA'" onMouseOver="lb('nl210')" onMouseOut="db('nl210')" ><a href="/article/210/Inside-the-CIA" title="Off Topic: Inside the CIA">Inside the CIA</a></td><td id="nl167" onclick="window.location='/article/167/Santa-Cruz-Clam-Chowder-Cook-Off-2006'" onMouseOver="lb('nl167')" onMouseOut="db('nl167')" ><a href="/article/167/Santa-Cruz-Clam-Chowder-Cook-Off-2006" title="Off Topic: Santa Cruz Clam Chowder Cook Off 2006">Santa Cruz Clam Chowder Cook Off 2006</a></td><td id="nl325" onclick="window.location='/article/325/Wolfgang-Puck-Phone-Interview'" onMouseOver="lb('nl325')" onMouseOut="db('nl325')" ><a href="/article/325/Wolfgang-Puck-Phone-Interview" title="Off Topic: Wolfgang Puck Phone Interview">Wolfgang Puck Phone Interview</a></td></tr><tr><td id="nl157" onclick="window.location='/article/157/Fancy-Food-Show-Winter-2006'" onMouseOver="lb('nl157')" onMouseOut="db('nl157')" ><a href="/article/157/Fancy-Food-Show-Winter-2006" title="Off Topic: Fancy Food Show Winter 2006">Fancy Food Show Winter 2006</a></td></tr></table></div>
+	<div id="navcat_RecipeFile" style="display:none"><table width="100%" class="navlinks" cellpadding="0" cellspacing="1"><tr><td width="25%" id="nl188" onclick="window.location='/recipe/188/Anghelikas-Tsatsiki-Tzatziki'" onMouseOver="lb('nl188')" onMouseOut="db('nl188')" ><a href="/recipe/188/Anghelikas-Tsatsiki-Tzatziki" title="Recipe File: Anghelika's Tsatsiki (Tzatziki)">Anghelika's Tsatsiki (Tzatziki)</a></td><td width="25%" id="nl98" onclick="window.location='/recipe/98/Condensed-Milk-Fudge'" onMouseOver="lb('nl98')" onMouseOut="db('nl98')" ><a href="/recipe/98/Condensed-Milk-Fudge" title="Recipe File: Condensed Milk Fudge">Condensed Milk Fudge</a></td><td width="25%" id="nl305" onclick="window.location='/recipe/305/Honey-Pecan-Pralines'" onMouseOver="lb('nl305')" onMouseOut="db('nl305')" ><a href="/recipe/305/Honey-Pecan-Pralines" title="Recipe File: Honey Pecan Pralines">Honey Pecan Pralines</a></td><td width="25%" id="nl92" onclick="window.location='/recipe/92/Poached-Fish'" onMouseOver="lb('nl92')" onMouseOut="db('nl92')" ><a href="/recipe/92/Poached-Fish" title="Recipe File: Poached Fish">Poached Fish</a></td></tr><tr><td id="nl163" onclick="window.location='/recipe/163/Asparagus-with-Almonds'" onMouseOver="lb('nl163')" onMouseOut="db('nl163')" ><a href="/recipe/163/Asparagus-with-Almonds" title="Recipe File: Asparagus with Almonds">Asparagus with Almonds</a></td><td id="nl152" onclick="window.location='/recipe/152/Cooked-Egg-Nog'" onMouseOver="lb('nl152')" onMouseOut="db('nl152')" ><a href="/recipe/152/Cooked-Egg-Nog" title="Recipe File: Cooked Egg Nog">Cooked Egg Nog</a></td><td id="nl308" onclick="window.location='/recipe/308/Hot-Chocolate'" onMouseOver="lb('nl308')" onMouseOut="db('nl308')" ><a href="/recipe/308/Hot-Chocolate" title="Recipe File: Hot Chocolate">Hot Chocolate</a></td><td id="nl38" onclick="window.location='/recipe/38/Prime-Rib-or-Standing-Rib-Roast'" onMouseOver="lb('nl38')" onMouseOut="db('nl38')" ><a href="/recipe/38/Prime-Rib-or-Standing-Rib-Roast" title="Recipe File: Prime Rib or Standing Rib Roast">Prime Rib or Standing Rib Roast</a></td></tr><tr><td id="nl103" onclick="window.location='/recipe/103/Baked-Cinnamon-Apple'" onMouseOver="lb('nl103')" onMouseOut="db('nl103')" ><a href="/recipe/103/Baked-Cinnamon-Apple" title="Recipe File: Baked Cinnamon Apple">Baked Cinnamon Apple</a></td><td id="nl48" onclick="window.location='/recipe/48/Corn-Fritters'" onMouseOver="lb('nl48')" onMouseOut="db('nl48')" ><a href="/recipe/48/Corn-Fritters" title="Recipe File: Corn Fritters">Corn Fritters</a></td><td id="nl104" onclick="window.location='/recipe/104/Kelloggs-Rice-Krispies-Treats'" onMouseOver="lb('nl104')" onMouseOut="db('nl104')" ><a href="/recipe/104/Kelloggs-Rice-Krispies-Treats" title="Recipe File: Kellogg's Rice Krispies Treats">Kellogg's Rice Krispies Treats</a></td><td id="nl189" onclick="window.location='/recipe/189/Prosciutto-e-Melone'" onMouseOver="lb('nl189')" onMouseOut="db('nl189')" ><a href="/recipe/189/Prosciutto-e-Melone" title="Recipe File: Prosciutto e Melone">Prosciutto e Melone</a></td></tr><tr><td id="nl108" onclick="window.location='/recipe/108/Banana-Nut-Bread'" onMouseOver="lb('nl108')" onMouseOut="db('nl108')" ><a href="/recipe/108/Banana-Nut-Bread" title="Recipe File: Banana Nut Bread">Banana Nut Bread</a></td><td id="nl79" onclick="window.location='/recipe/79/Cranberry-Sauce'" onMouseOver="lb('nl79')" onMouseOut="db('nl79')" ><a href="/recipe/79/Cranberry-Sauce" title="Recipe File: Cranberry Sauce">Cranberry Sauce</a></td><td id="nl33" onclick="window.location='/recipe/33/Lemon-Bars'" onMouseOver="lb('nl33')" onMouseOut="db('nl33')" ><a href="/recipe/33/Lemon-Bars" title="Recipe File: Lemon Bars">Lemon Bars</a></td><td id="nl65" onclick="window.location='/recipe/65/Pumpkin-Pie'" onMouseOver="lb('nl65')" onMouseOut="db('nl65')" ><a href="/recipe/65/Pumpkin-Pie" title="Recipe File: Pumpkin Pie">Pumpkin Pie</a></td></tr><tr><td id="nl246" onclick="window.location='/recipe/246/Barbecue-Pork-Ribs-Baby-Back-or-Spare'" onMouseOver="lb('nl246')" onMouseOut="db('nl246')" ><a href="/recipe/246/Barbecue-Pork-Ribs-Baby-Back-or-Spare" title="Recipe File: Barbecue Pork Ribs (Baby Back or Spare)">Barbecue Pork Ribs (Baby Back or Spare)</a></td><td id="nl194" onclick="window.location='/recipe/194/Cream-of-Mushroom-Soup'" onMouseOver="lb('nl194')" onMouseOut="db('nl194')" ><a href="/recipe/194/Cream-of-Mushroom-Soup" title="Recipe File: Cream of Mushroom Soup">Cream of Mushroom Soup</a></td><td id="nl121" onclick="window.location='/recipe/121/Lemon-Iced-Tea'" onMouseOver="lb('nl121')" onMouseOut="db('nl121')" ><a href="/recipe/121/Lemon-Iced-Tea" title="Recipe File: Lemon Iced Tea">Lemon Iced Tea</a></td><td id="nl227" onclick="window.location='/recipe/227/Ratatouille'" onMouseOver="lb('nl227')" onMouseOut="db('nl227')" ><a href="/recipe/227/Ratatouille" title="Recipe File: Ratatouille">Ratatouille</a></td></tr><tr><td id="nl35" onclick="window.location='/recipe/35/Basic-Granita'" onMouseOver="lb('nl35')" onMouseOut="db('nl35')" ><a href="/recipe/35/Basic-Granita" title="Recipe File: Basic Granita">Basic Granita</a></td><td id="nl107" onclick="window.location='/recipe/107/Creamy-Garlic-Mashed-Potatoes'" onMouseOver="lb('nl107')" onMouseOut="db('nl107')" ><a href="/recipe/107/Creamy-Garlic-Mashed-Potatoes" title="Recipe File: Creamy Garlic Mashed Potatoes">Creamy Garlic Mashed Potatoes</a></td><td id="nl124" onclick="window.location='/recipe/124/Lime-Marinated-Grilled-Chicken'" onMouseOver="lb('nl124')" onMouseOut="db('nl124')" ><a href="/recipe/124/Lime-Marinated-Grilled-Chicken" title="Recipe File: Lime Marinated Grilled Chicken">Lime Marinated Grilled Chicken</a></td><td id="nl101" onclick="window.location='/recipe/101/Roasted-Asparagus-Spears'" onMouseOver="lb('nl101')" onMouseOut="db('nl101')" ><a href="/recipe/101/Roasted-Asparagus-Spears" title="Recipe File: Roasted Asparagus Spears">Roasted Asparagus Spears</a></td></tr><tr><td id="nl47" onclick="window.location='/recipe/47/Basic-Pancakes'" onMouseOver="lb('nl47')" onMouseOut="db('nl47')" ><a href="/recipe/47/Basic-Pancakes" title="Recipe File: Basic Pancakes">Basic Pancakes</a></td><td id="nl32" onclick="window.location='/recipe/32/Creme-Brulee-Cregraveme-Brucircleacutee'" onMouseOver="lb('nl32')" onMouseOut="db('nl32')" ><a href="/recipe/32/Creme-Brulee-Cregraveme-Brucircleacutee" title="Recipe File: Creme Brulee (Cr&egrave;me Br&ucirc;l&eacute;e)">Creme Brulee (Cr&egrave;me Br&ucirc;l&eacute;e)</a></td><td id="nl66" onclick="window.location='/recipe/66/Limeade'" onMouseOver="lb('nl66')" onMouseOut="db('nl66')" ><a href="/recipe/66/Limeade" title="Recipe File: Limeade">Limeade</a></td><td id="nl174" onclick="window.location='/recipe/174/Rosemary-Lamb-Chops'" onMouseOver="lb('nl174')" onMouseOut="db('nl174')" ><a href="/recipe/174/Rosemary-Lamb-Chops" title="Recipe File: Rosemary Lamb Chops">Rosemary Lamb Chops</a></td></tr><tr><td id="nl44" onclick="window.location='/recipe/44/Basic-Vinaigrette-Salad-Dressing'" onMouseOver="lb('nl44')" onMouseOut="db('nl44')" ><a href="/recipe/44/Basic-Vinaigrette-Salad-Dressing" title="Recipe File: Basic Vinaigrette Salad Dressing">Basic Vinaigrette Salad Dressing</a></td><td id="nl317" onclick="window.location='/recipe/317/Crunchy-Bloody-Mary'" onMouseOver="lb('nl317')" onMouseOut="db('nl317')" ><a href="/recipe/317/Crunchy-Bloody-Mary" title="Recipe File: Crunchy Bloody Mary">Crunchy Bloody Mary</a></td><td id="nl230" onclick="window.location='/recipe/230/Macaroni-and-Cheese-Bake'" onMouseOver="lb('nl230')" onMouseOut="db('nl230')" ><a href="/recipe/230/Macaroni-and-Cheese-Bake" title="Recipe File: Macaroni and Cheese Bake">Macaroni and Cheese Bake</a></td><td id="nl53" onclick="window.location='/recipe/53/Salsa-Cruda'" onMouseOver="lb('nl53')" onMouseOut="db('nl53')" ><a href="/recipe/53/Salsa-Cruda" title="Recipe File: Salsa Cruda">Salsa Cruda</a></td></tr><tr><td id="nl122" onclick="window.location='/recipe/122/Beef-Stroganoff'" onMouseOver="lb('nl122')" onMouseOut="db('nl122')" ><a href="/recipe/122/Beef-Stroganoff" title="Recipe File: Beef Stroganoff">Beef Stroganoff</a></td><td id="nl158" onclick="window.location='/recipe/158/Dark-Chocolate-Brownies'" onMouseOver="lb('nl158')" onMouseOut="db('nl158')" ><a href="/recipe/158/Dark-Chocolate-Brownies" title="Recipe File: Dark Chocolate Brownies">Dark Chocolate Brownies</a></td><td id="nl177" onclick="window.location='/recipe/177/Matzo-Matzah-Ball-Soup'" onMouseOver="lb('nl177')" onMouseOut="db('nl177')" ><a href="/recipe/177/Matzo-Matzah-Ball-Soup" title="Recipe File: Matzo (Matzah) Ball Soup">Matzo (Matzah) Ball Soup</a></td><td id="nl8" onclick="window.location='/recipe/8/Sauteed-Okra-with-Roasted-Red-Peppers'" onMouseOver="lb('nl8')" onMouseOut="db('nl8')" ><a href="/recipe/8/Sauteed-Okra-with-Roasted-Red-Peppers" title="Recipe File: Sauteed Okra with Roasted Red Peppers">Sauteed Okra with Roasted Red Peppers</a></td></tr><tr><td id="nl154" onclick="window.location='/recipe/154/Biscotti'" onMouseOver="lb('nl154')" onMouseOut="db('nl154')" ><a href="/recipe/154/Biscotti" title="Recipe File: Biscotti">Biscotti</a></td><td id="nl160" onclick="window.location='/recipe/160/Dark-Chocolate-Souffle'" onMouseOver="lb('nl160')" onMouseOut="db('nl160')" ><a href="/recipe/160/Dark-Chocolate-Souffle" title="Recipe File: Dark Chocolate Souffle">Dark Chocolate Souffle</a></td><td id="nl36" onclick="window.location='/recipe/36/Meat-Lasagna'" onMouseOver="lb('nl36')" onMouseOut="db('nl36')" ><a href="/recipe/36/Meat-Lasagna" title="Recipe File: Meat Lasagna">Meat Lasagna</a></td><td id="nl320" onclick="window.location='/recipe/320/Sauteed-Spinach'" onMouseOver="lb('nl320')" onMouseOut="db('nl320')" ><a href="/recipe/320/Sauteed-Spinach" title="Recipe File: Sauteed Spinach">Sauteed Spinach</a></td></tr><tr><td id="nl288" onclick="window.location='/recipe/288/Biscuits-Southern-Buttermilk-Biscuits'" onMouseOver="lb('nl288')" onMouseOut="db('nl288')" ><a href="/recipe/288/Biscuits-Southern-Buttermilk-Biscuits" title="Recipe File: Biscuits (Southern Buttermilk Biscuits)">Biscuits (Southern Buttermilk Biscuits)</a></td><td id="nl147" onclick="window.location='/recipe/147/Dirty-Rice'" onMouseOver="lb('nl147')" onMouseOut="db('nl147')" ><a href="/recipe/147/Dirty-Rice" title="Recipe File: Dirty Rice">Dirty Rice</a></td><td id="nl55" onclick="window.location='/recipe/55/Mini-Hamburgers'" onMouseOver="lb('nl55')" onMouseOut="db('nl55')" ><a href="/recipe/55/Mini-Hamburgers" title="Recipe File: Mini Hamburgers">Mini Hamburgers</a></td><td id="nl127" onclick="window.location='/recipe/127/Shepherds-Pie-Cottage-Pie'" onMouseOver="lb('nl127')" onMouseOut="db('nl127')" ><a href="/recipe/127/Shepherds-Pie-Cottage-Pie" title="Recipe File: Shepherd's Pie (Cottage Pie)">Shepherd's Pie (Cottage Pie)</a></td></tr><tr><td id="nl136" onclick="window.location='/recipe/136/Braised-Brussels-Sprouts'" onMouseOver="lb('nl136')" onMouseOut="db('nl136')" ><a href="/recipe/136/Braised-Brussels-Sprouts" title="Recipe File: Braised Brussels Sprouts">Braised Brussels Sprouts</a></td><td id="nl255" onclick="window.location='/recipe/255/Dulce-de-Leche'" onMouseOver="lb('nl255')" onMouseOut="db('nl255')" ><a href="/recipe/255/Dulce-de-Leche" title="Recipe File: Dulce de Leche">Dulce de Leche</a></td><td id="nl151" onclick="window.location='/recipe/151/Mulled-Cider-Spiced-Apple-Cider'" onMouseOver="lb('nl151')" onMouseOut="db('nl151')" ><a href="/recipe/151/Mulled-Cider-Spiced-Apple-Cider" title="Recipe File: Mulled Cider (Spiced Apple Cider)">Mulled Cider (Spiced Apple Cider)</a></td><td id="nl15" onclick="window.location='/recipe/15/Shrimp-Scampi'" onMouseOver="lb('nl15')" onMouseOut="db('nl15')" ><a href="/recipe/15/Shrimp-Scampi" title="Recipe File: Shrimp Scampi">Shrimp Scampi</a></td></tr><tr><td id="nl268" onclick="window.location='/recipe/268/Buffalo-Chicken-Chili'" onMouseOver="lb('nl268')" onMouseOut="db('nl268')" ><a href="/recipe/268/Buffalo-Chicken-Chili" title="Recipe File: Buffalo Chicken Chili">Buffalo Chicken Chili</a></td><td id="nl203" onclick="window.location='/recipe/203/Egg-Custard-with-Clams'" onMouseOver="lb('nl203')" onMouseOut="db('nl203')" ><a href="/recipe/203/Egg-Custard-with-Clams" title="Recipe File: Egg Custard with Clams">Egg Custard with Clams</a></td><td id="nl185" onclick="window.location='/recipe/185/Nestle-Toll-House-Chocolate-Chip-Cookies'" onMouseOver="lb('nl185')" onMouseOut="db('nl185')" ><a href="/recipe/185/Nestle-Toll-House-Chocolate-Chip-Cookies" title="Recipe File: Nestle Toll House Chocolate Chip Cookies">Nestle Toll House Chocolate Chip Cookies</a></td><td id="nl26" onclick="window.location='/recipe/26/Simple-Tiramisu'" onMouseOver="lb('nl26')" onMouseOut="db('nl26')" ><a href="/recipe/26/Simple-Tiramisu" title="Recipe File: Simple Tiramisu">Simple Tiramisu</a></td></tr><tr><td id="nl306" onclick="window.location='/recipe/306/Butter-Pecan-Ice-Cream'" onMouseOver="lb('nl306')" onMouseOut="db('nl306')" ><a href="/recipe/306/Butter-Pecan-Ice-Cream" title="Recipe File: Butter Pecan Ice Cream">Butter Pecan Ice Cream</a></td><td id="nl159" onclick="window.location='/recipe/159/English-Toffee'" onMouseOver="lb('nl159')" onMouseOut="db('nl159')" ><a href="/recipe/159/English-Toffee" title="Recipe File: English Toffee">English Toffee</a></td><td id="nl86" onclick="window.location='/recipe/86/Okra-Stew-Fast-Gumbo'" onMouseOver="lb('nl86')" onMouseOut="db('nl86')" ><a href="/recipe/86/Okra-Stew-Fast-Gumbo" title="Recipe File: Okra Stew (Fast Gumbo)">Okra Stew (Fast Gumbo)</a></td><td id="nl28" onclick="window.location='/recipe/28/Slow-Simmered-Spicy-Barbeque-Sauce'" onMouseOver="lb('nl28')" onMouseOut="db('nl28')" ><a href="/recipe/28/Slow-Simmered-Spicy-Barbeque-Sauce" title="Recipe File: Slow Simmered Spicy Barbeque Sauce">Slow Simmered Spicy Barbeque Sauce</a></td></tr><tr><td id="nl180" onclick="window.location='/recipe/180/Buttercream-Frosting-American'" onMouseOver="lb('nl180')" onMouseOut="db('nl180')" ><a href="/recipe/180/Buttercream-Frosting-American" title="Recipe File: Buttercream Frosting (American)">Buttercream Frosting (American)</a></td><td id="nl327" onclick="window.location='/recipe/327/Espresso-Brownies'" onMouseOver="lb('nl327')" onMouseOut="db('nl327')" ><a href="/recipe/327/Espresso-Brownies" title="Recipe File: Espresso Brownies">Espresso Brownies</a></td><td id="nl200" onclick="window.location='/recipe/200/Osso-Buco'" onMouseOver="lb('nl200')" onMouseOut="db('nl200')" ><a href="/recipe/200/Osso-Buco" title="Recipe File: Osso Buco">Osso Buco</a></td><td id="nl144" onclick="window.location='/recipe/144/Smoked-Beer-Can-Turkey'" onMouseOver="lb('nl144')" onMouseOut="db('nl144')" ><a href="/recipe/144/Smoked-Beer-Can-Turkey" title="Recipe File: Smoked Beer Can Turkey">Smoked Beer Can Turkey</a></td></tr><tr><td id="nl9" onclick="window.location='/recipe/9/Campbells-Green-Bean-Casserole'" onMouseOver="lb('nl9')" onMouseOut="db('nl9')" ><a href="/recipe/9/Campbells-Green-Bean-Casserole" title="Recipe File: Campbell's Green Bean Casserole">Campbell's Green Bean Casserole</a></td><td id="nl34" onclick="window.location='/recipe/34/Garlic-Roasted-Potatoes'" onMouseOver="lb('nl34')" onMouseOut="db('nl34')" ><a href="/recipe/34/Garlic-Roasted-Potatoes" title="Recipe File: Garlic Roasted Potatoes">Garlic Roasted Potatoes</a></td><td id="nl81" onclick="window.location='/recipe/81/Oven-Baked-Chicken-and-Rice'" onMouseOver="lb('nl81')" onMouseOut="db('nl81')" ><a href="/recipe/81/Oven-Baked-Chicken-and-Rice" title="Recipe File: Oven Baked Chicken and Rice">Oven Baked Chicken and Rice</a></td><td id="nl239" onclick="window.location='/recipe/239/Soft-Boiled-Eggs'" onMouseOver="lb('nl239')" onMouseOut="db('nl239')" ><a href="/recipe/239/Soft-Boiled-Eggs" title="Recipe File: Soft Boiled Eggs">Soft Boiled Eggs</a></td></tr><tr><td id="nl181" onclick="window.location='/recipe/181/Cheesecake-Cupcakes'" onMouseOver="lb('nl181')" onMouseOut="db('nl181')" ><a href="/recipe/181/Cheesecake-Cupcakes" title="Recipe File: Cheesecake Cupcakes">Cheesecake Cupcakes</a></td><td id="nl132" onclick="window.location='/recipe/132/Gravlax'" onMouseOver="lb('nl132')" onMouseOut="db('nl132')" ><a href="/recipe/132/Gravlax" title="Recipe File: Gravlax">Gravlax</a></td><td id="nl45" onclick="window.location='/recipe/45/Oven-Baked-Spare-Ribs-Two-Ways'" onMouseOver="lb('nl45')" onMouseOut="db('nl45')" ><a href="/recipe/45/Oven-Baked-Spare-Ribs-Two-Ways" title="Recipe File: Oven Baked Spare Ribs - Two Ways">Oven Baked Spare Ribs - Two Ways</a></td><td id="nl83" onclick="window.location='/recipe/83/Strawberry-Glazed-Angel-Food-Cake'" onMouseOver="lb('nl83')" onMouseOut="db('nl83')" ><a href="/recipe/83/Strawberry-Glazed-Angel-Food-Cake" title="Recipe File: Strawberry Glazed Angel Food Cake">Strawberry Glazed Angel Food Cake</a></td></tr><tr><td id="nl89" onclick="window.location='/recipe/89/Cheesecake-Plain-New-York-Style'" onMouseOver="lb('nl89')" onMouseOut="db('nl89')" ><a href="/recipe/89/Cheesecake-Plain-New-York-Style" title="Recipe File: Cheesecake, Plain New York Style">Cheesecake, Plain New York Style</a></td><td id="nl111" onclick="window.location='/recipe/111/Grilled-Artichokes'" onMouseOver="lb('nl111')" onMouseOut="db('nl111')" ><a href="/recipe/111/Grilled-Artichokes" title="Recipe File: Grilled Artichokes">Grilled Artichokes</a></td><td id="nl37" onclick="window.location='/recipe/37/Pan-Fried-Fish-Fillets'" onMouseOver="lb('nl37')" onMouseOut="db('nl37')" ><a href="/recipe/37/Pan-Fried-Fish-Fillets" title="Recipe File: Pan Fried Fish Fillets">Pan Fried Fish Fillets</a></td><td id="nl4" onclick="window.location='/recipe/4/Sweet-Corn-Bread'" onMouseOver="lb('nl4')" onMouseOut="db('nl4')" ><a href="/recipe/4/Sweet-Corn-Bread" title="Recipe File: Sweet Corn Bread">Sweet Corn Bread</a></td></tr><tr><td id="nl59" onclick="window.location='/recipe/59/Chicken-Mushroom-Marsala'" onMouseOver="lb('nl59')" onMouseOut="db('nl59')" ><a href="/recipe/59/Chicken-Mushroom-Marsala" title="Recipe File: Chicken &amp; Mushroom Marsala">Chicken &amp; Mushroom Marsala</a></td><td id="nl20" onclick="window.location='/recipe/20/Grilled-Pork-Chops'" onMouseOver="lb('nl20')" onMouseOut="db('nl20')" ><a href="/recipe/20/Grilled-Pork-Chops" title="Recipe File: Grilled Pork Chops">Grilled Pork Chops</a></td><td id="nl71" onclick="window.location='/recipe/71/Pan-Seared-Scallops-with-Roasted-Red-Pepper-Sauce'" onMouseOver="lb('nl71')" onMouseOut="db('nl71')" ><a href="/recipe/71/Pan-Seared-Scallops-with-Roasted-Red-Pepper-Sauce" title="Recipe File: Pan Seared Scallops with Roasted Red Pepper Sauce">Pan Seared Scallops with Roasted Red Pepper Sauce</a></td><td id="nl42" onclick="window.location='/recipe/42/Traditional-Chicken-Pot-Pie'" onMouseOver="lb('nl42')" onMouseOut="db('nl42')" ><a href="/recipe/42/Traditional-Chicken-Pot-Pie" title="Recipe File: Traditional Chicken Pot Pie">Traditional Chicken Pot Pie</a></td></tr><tr><td id="nl178" onclick="window.location='/recipe/178/Chocolate-Cake'" onMouseOver="lb('nl178')" onMouseOut="db('nl178')" ><a href="/recipe/178/Chocolate-Cake" title="Recipe File: Chocolate Cake">Chocolate Cake</a></td><td id="nl31" onclick="window.location='/recipe/31/Grilled-Porterhouse-or-T-Bone-Steak'" onMouseOver="lb('nl31')" onMouseOut="db('nl31')" ><a href="/recipe/31/Grilled-Porterhouse-or-T-Bone-Steak" title="Recipe File: Grilled Porterhouse or T-Bone Steak">Grilled Porterhouse or T-Bone Steak</a></td><td id="nl164" onclick="window.location='/recipe/164/Parmesan-Garlic-Bread'" onMouseOver="lb('nl164')" onMouseOut="db('nl164')" ><a href="/recipe/164/Parmesan-Garlic-Bread" title="Recipe File: Parmesan Garlic Bread">Parmesan Garlic Bread</a></td><td id="nl18" onclick="window.location='/recipe/18/Traditional-Pecan-Pie'" onMouseOver="lb('nl18')" onMouseOut="db('nl18')" ><a href="/recipe/18/Traditional-Pecan-Pie" title="Recipe File: Traditional Pecan Pie">Traditional Pecan Pie</a></td></tr><tr><td id="nl195" onclick="window.location='/recipe/195/Chocolate-Truffles'" onMouseOver="lb('nl195')" onMouseOut="db('nl195')" ><a href="/recipe/195/Chocolate-Truffles" title="Recipe File: Chocolate Truffles">Chocolate Truffles</a></td><td id="nl10" onclick="window.location='/recipe/10/Grilled-Salmon'" onMouseOver="lb('nl10')" onMouseOut="db('nl10')" ><a href="/recipe/10/Grilled-Salmon" title="Recipe File: Grilled Salmon">Grilled Salmon</a></td><td id="nl58" onclick="window.location='/recipe/58/Peanut-Butter-Cookies'" onMouseOver="lb('nl58')" onMouseOut="db('nl58')" ><a href="/recipe/58/Peanut-Butter-Cookies" title="Recipe File: Peanut Butter Cookies">Peanut Butter Cookies</a></td><td id="nl62" onclick="window.location='/recipe/62/Tuna-Noodle-Casserole'" onMouseOver="lb('nl62')" onMouseOut="db('nl62')" ><a href="/recipe/62/Tuna-Noodle-Casserole" title="Recipe File: Tuna Noodle Casserole">Tuna Noodle Casserole</a></td></tr><tr><td id="nl112" onclick="window.location='/recipe/112/Clam-Chowder-New-England-Style'" onMouseOver="lb('nl112')" onMouseOut="db('nl112')" ><a href="/recipe/112/Clam-Chowder-New-England-Style" title="Recipe File: Clam Chowder, New England Style">Clam Chowder, New England Style</a></td><td id="nl6" onclick="window.location='/recipe/6/Grilled-Skinless-Chicken-Breast'" onMouseOver="lb('nl6')" onMouseOut="db('nl6')" ><a href="/recipe/6/Grilled-Skinless-Chicken-Breast" title="Recipe File: Grilled Skinless Chicken Breast">Grilled Skinless Chicken Breast</a></td><td id="nl168" onclick="window.location='/recipe/168/Pecan-Coffee-Cake'" onMouseOver="lb('nl168')" onMouseOut="db('nl168')" ><a href="/recipe/168/Pecan-Coffee-Cake" title="Recipe File: Pecan Coffee Cake">Pecan Coffee Cake</a></td><td id="nl75" onclick="window.location='/recipe/75/Turkey-or-Chicken-Stock'" onMouseOver="lb('nl75')" onMouseOut="db('nl75')" ><a href="/recipe/75/Turkey-or-Chicken-Stock" title="Recipe File: Turkey or Chicken Stock">Turkey or Chicken Stock</a></td></tr><tr><td id="nl74" onclick="window.location='/recipe/74/Classic-Roast-Turkey'" onMouseOver="lb('nl74')" onMouseOut="db('nl74')" ><a href="/recipe/74/Classic-Roast-Turkey" title="Recipe File: Classic Roast Turkey">Classic Roast Turkey</a></td><td id="nl43" onclick="window.location='/recipe/43/Homemade-Mayonnaise'" onMouseOver="lb('nl43')" onMouseOut="db('nl43')" ><a href="/recipe/43/Homemade-Mayonnaise" title="Recipe File: Homemade Mayonnaise">Homemade Mayonnaise</a></td></tr></table></div>
+	<div id="navcat_SousVide" style="display:none"><table width="100%" class="navlinks" cellpadding="0" cellspacing="1"><tr><td width="25%" id="nl283" onclick="window.location='/article/283/An-Introduction-to-Sous-Vide-Cooking'" onMouseOver="lb('nl283')" onMouseOut="db('nl283')" ><a href="/article/283/An-Introduction-to-Sous-Vide-Cooking" title="Sous Vide: An Introduction to Sous Vide Cooking">An Introduction to Sous Vide Cooking</a></td><td width="25%" id="nl289" onclick="window.location='/article/289/Sous-Vide-Cooking-at-Home-Setup-Guide'" onMouseOver="lb('nl289')" onMouseOut="db('nl289')" ><a href="/article/289/Sous-Vide-Cooking-at-Home-Setup-Guide" title="Sous Vide: Sous Vide Cooking at Home Setup Guide">Sous Vide Cooking at Home Setup Guide</a></td></tr></table></div>
+	<div id="navcat_TestRecipes" style="display:none"><table width="100%" class="navlinks" cellpadding="0" cellspacing="1"><tr><td width="25%" id="nl14" onclick="window.location='/recipe/14/Albers-Corn-Bread'" onMouseOver="lb('nl14')" onMouseOut="db('nl14')" ><a href="/recipe/14/Albers-Corn-Bread" title="Test Recipes: Albers Corn Bread">Albers Corn Bread</a></td><td width="25%" id="nl19" onclick="window.location='/recipe/19/Erics-Chocolate-Pecan-Pie'" onMouseOver="lb('nl19')" onMouseOut="db('nl19')" ><a href="/recipe/19/Erics-Chocolate-Pecan-Pie" title="Test Recipes: Eric's Chocolate Pecan Pie">Eric's Chocolate Pecan Pie</a></td><td width="25%" id="nl215" onclick="window.location='/recipe/215/Hot-Cross-Buns-Delia-Smiths'" onMouseOver="lb('nl215')" onMouseOut="db('nl215')" ><a href="/recipe/215/Hot-Cross-Buns-Delia-Smiths" title="Test Recipes: Hot Cross Buns (Delia Smith's)">Hot Cross Buns (Delia Smith's)</a></td><td width="25%" id="nl172" onclick="window.location='/recipe/172/Pan-Pizza'" onMouseOver="lb('nl172')" onMouseOut="db('nl172')" ><a href="/recipe/172/Pan-Pizza" title="Test Recipes: Pan Pizza">Pan Pizza</a></td></tr><tr><td id="nl77" onclick="window.location='/recipe/77/Asian-Taco'" onMouseOver="lb('nl77')" onMouseOut="db('nl77')" ><a href="/recipe/77/Asian-Taco" title="Test Recipes: Asian Taco">Asian Taco</a></td><td id="nl46" onclick="window.location='/recipe/46/Faux-BBQ-Beef-Ribs'" onMouseOver="lb('nl46')" onMouseOut="db('nl46')" ><a href="/recipe/46/Faux-BBQ-Beef-Ribs" title="Test Recipes: Faux BBQ Beef Ribs">Faux BBQ Beef Ribs</a></td><td id="nl49" onclick="window.location='/recipe/49/Joy-of-Cookings-Peanut-Butter-Cookies-14-in-one'" onMouseOver="lb('nl49')" onMouseOut="db('nl49')" ><a href="/recipe/49/Joy-of-Cookings-Peanut-Butter-Cookies-14-in-one" title="Test Recipes: Joy of Cooking's Peanut Butter Cookies (14-in-one)">Joy of Cooking's Peanut Butter Cookies (14-in-one)</a></td><td id="nl252" onclick="window.location='/recipe/252/Quick-Gazpacho'" onMouseOver="lb('nl252')" onMouseOut="db('nl252')" ><a href="/recipe/252/Quick-Gazpacho" title="Test Recipes: Quick Gazpacho">Quick Gazpacho</a></td></tr><tr><td id="nl12" onclick="window.location='/recipe/12/Avocado-Pork-Stuffed-Peppers'" onMouseOver="lb('nl12')" onMouseOut="db('nl12')" ><a href="/recipe/12/Avocado-Pork-Stuffed-Peppers" title="Test Recipes: Avocado Pork Stuffed Peppers">Avocado Pork Stuffed Peppers</a></td><td id="nl76" onclick="window.location='/recipe/76/Giblet-Pan-Gravy'" onMouseOver="lb('nl76')" onMouseOut="db('nl76')" ><a href="/recipe/76/Giblet-Pan-Gravy" title="Test Recipes: Giblet Pan Gravy">Giblet Pan Gravy</a></td><td id="nl80" onclick="window.location='/recipe/80/Leftover-Cranberry-Sauce-Pie'" onMouseOver="lb('nl80')" onMouseOut="db('nl80')" ><a href="/recipe/80/Leftover-Cranberry-Sauce-Pie" title="Test Recipes: Leftover Cranberry Sauce Pie">Leftover Cranberry Sauce Pie</a></td><td id="nl13" onclick="window.location='/recipe/13/Sauteed-Zucchini-with-Mushrooms'" onMouseOver="lb('nl13')" onMouseOut="db('nl13')" ><a href="/recipe/13/Sauteed-Zucchini-with-Mushrooms" title="Test Recipes: Sauteed Zucchini with Mushrooms">Sauteed Zucchini with Mushrooms</a></td></tr><tr><td id="nl41" onclick="window.location='/recipe/41/Basic-Biscuits'" onMouseOver="lb('nl41')" onMouseOut="db('nl41')" ><a href="/recipe/41/Basic-Biscuits" title="Test Recipes: Basic Biscuits">Basic Biscuits</a></td><td id="nl72" onclick="window.location='/recipe/72/Good-Eats-Peanut-Brittle'" onMouseOver="lb('nl72')" onMouseOut="db('nl72')" ><a href="/recipe/72/Good-Eats-Peanut-Brittle" title="Test Recipes: Good Eats Peanut Brittle">Good Eats Peanut Brittle</a></td><td id="nl106" onclick="window.location='/recipe/106/Marshmallows'" onMouseOver="lb('nl106')" onMouseOut="db('nl106')" ><a href="/recipe/106/Marshmallows" title="Test Recipes: Marshmallows">Marshmallows</a></td><td id="nl60" onclick="window.location='/recipe/60/The-Classic-Tiramisu-original-recipe'" onMouseOver="lb('nl60')" onMouseOut="db('nl60')" ><a href="/recipe/60/The-Classic-Tiramisu-original-recipe" title="Test Recipes: The Classic Tiramisu (original recipe?)">The Classic Tiramisu (original recipe?)</a></td></tr><tr><td id="nl87" onclick="window.location='/recipe/87/Carrot-Pulp-Cake-Part-I'" onMouseOver="lb('nl87')" onMouseOut="db('nl87')" ><a href="/recipe/87/Carrot-Pulp-Cake-Part-I" title="Test Recipes: Carrot Pulp Cake, Part I">Carrot Pulp Cake, Part I</a></td><td id="nl69" onclick="window.location='/recipe/69/Halloween-Green-Slime-Spinach-Dip'" onMouseOver="lb('nl69')" onMouseOut="db('nl69')" ><a href="/recipe/69/Halloween-Green-Slime-Spinach-Dip" title="Test Recipes: Halloween Green Slime Spinach Dip">Halloween Green Slime Spinach Dip</a></td><td id="nl161" onclick="window.location='/recipe/161/Orzo-Risotto-with-Buttery-Shrimp'" onMouseOver="lb('nl161')" onMouseOut="db('nl161')" ><a href="/recipe/161/Orzo-Risotto-with-Buttery-Shrimp" title="Test Recipes: Orzo Risotto with Buttery Shrimp">Orzo Risotto with Buttery Shrimp</a></td><td id="nl193" onclick="window.location='/recipe/193/TrailBlaze-Bake-At-Home-Energy-Bars'" onMouseOver="lb('nl193')" onMouseOut="db('nl193')" ><a href="/recipe/193/TrailBlaze-Bake-At-Home-Energy-Bars" title="Test Recipes: TrailBlaze Bake-At-Home Energy Bars">TrailBlaze Bake-At-Home Energy Bars</a></td></tr><tr><td id="nl170" onclick="window.location='/recipe/170/Chinese-Almond-Cookies'" onMouseOver="lb('nl170')" onMouseOut="db('nl170')" ><a href="/recipe/170/Chinese-Almond-Cookies" title="Test Recipes: Chinese Almond Cookies">Chinese Almond Cookies</a></td><td id="nl274" onclick="window.location='/recipe/274/Hatch-Chile-Infused-Chocolate-Truffles'" onMouseOver="lb('nl274')" onMouseOut="db('nl274')" ><a href="/recipe/274/Hatch-Chile-Infused-Chocolate-Truffles" title="Test Recipes: Hatch Chile Infused Chocolate Truffles">Hatch Chile Infused Chocolate Truffles</a></td><td id="nl176" onclick="window.location='/recipe/176/Oven-Fried-Onion-Rings'" onMouseOver="lb('nl176')" onMouseOut="db('nl176')" ><a href="/recipe/176/Oven-Fried-Onion-Rings" title="Test Recipes: Oven-Fried Onion Rings">Oven-Fried Onion Rings</a></td></tr></table></div>
+	
+</div>
+<div class="navbarbottom"></div>
+			<table class="tl_table" cellpadding="0" cellspacing="1" border="0">
+	<tr align="center">
+		<td class="indexsummary">
+			<a href="/toc.php?sort=date">Table of Contents</a>
+		</td>
+		<td class="indexsummary">
+			<a href="/forums">Forums</a>
+		</td>
+		<td class="indexsummary">
+			<a href="/dictionary">Dictionary</a>
+		</td>
+		<td class="indexsummary">
+			<a href="/books">Recommended Reading</a>
+		</td>
+		<td class="indexsummary">
+			<a href="http://astore.amazon.com/themichaelupdate">Marketplace</a>
+		</td>
+		<td class="indexsummary">
+			<a href="http://www.cafepress.com/cookingengineer">Giftshop</a>
+		</td>
+		<td class="indexsummary">
+			<a href="/what_i_ate">What I Ate</a>
+		</td>
+		<td class="indexsummary" style="border:1px solid #C00000">
+			<a href="http://www.orthogonalthought.com/blog" title="Read Michael's Blog: Orthogonal Thought" style="background-color:#FFFFC0">Michael's Blog</a>
+		</td>
+	</tr>
+</table>
+
+
+		
+		
+		
+
+
+		
+	<div id="orthogonalthought" onclick="window.location='http://www.orthogonalthought.com/blog/index.php/2014/08/fall-television-season-2014-grid/';" style="cursor:pointer">
+		Latest Post on Michael's Blog: <a href="http://www.orthogonalthought.com/blog/index.php/2014/08/fall-television-season-2014-grid/">Fall Television Season 2014 Grid</a>
+	</div>	
+	
+
+
+		
+		<div class="mainbody">
+			
+
+<table cellpadding="0" cellspacing="2" border="0" style="margin:0 auto 0 auto">
+	<tr>
+		
+		<td style="background: #000000 url(http://www.cookingforengineers.com/pics/160/DSC_8715_crop.jpg) no-repeat center center; cursor:pointer;border:2px solid #FFFFA0;padding:0">
+			<a href="/recipe/124/Lime-Marinated-Grilled-Chicken" title="Recipe File: Lime Marinated Grilled Chicken"><div style="height:100px;width:100px;cursor:pointer"></div></a>
+		</td>
+		
+		<td style="background: #000000 url(http://www.cookingforengineers.com/hello/259/958/160/IMG_3409_sharp.jpg) no-repeat center center; cursor:pointer;border:2px solid #FFFFA0;padding:0">
+			<a href="/recipe/20/Grilled-Pork-Chops" title="Recipe File: Grilled Pork Chops"><div style="height:100px;width:100px;cursor:pointer"></div></a>
+		</td>
+		
+		<td style="background: #000000 url(http://www.cookingforengineers.com/hello/259/958/160/DSC_1163_crop.jpg) no-repeat center center; cursor:pointer;border:2px solid #FFFFA0;padding:0">
+			<a href="/recipe/58/Peanut-Butter-Cookies" title="Recipe File: Peanut Butter Cookies"><div style="height:100px;width:100px;cursor:pointer"></div></a>
+		</td>
+		
+		<td style="background: #000000 url(http://www.cookingforengineers.com/pics/160/DSC_4625_crop.jpg) no-repeat center center; cursor:pointer;border:2px solid #FFFFA0;padding:0">
+			<a href="/article/110/Bacon-Part-II" title="Cooking Tests: Bacon (Part II)"><div style="height:100px;width:100px;cursor:pointer"></div></a>
+		</td>
+		
+		<td style="background: #000000 url(http://www.cookingforengineers.com/pics/160/DSC_8356_crop.jpg) no-repeat center center; cursor:pointer;border:2px solid #FFFFA0;padding:0">
+			<a href="/article/117/Hefty-Serve-n-Store" title="Equipment & Gear: Hefty Serve 'n Store"><div style="height:100px;width:100px;cursor:pointer"></div></a>
+		</td>
+		
+		<td style="background: #000000 url(http://www.cookingforengineers.com/pics2/160/DSC_3019_crop.jpg) no-repeat center center; cursor:pointer;border:2px solid #FFFFA0;padding:0">
+			<a href="/recipe/107/Creamy-Garlic-Mashed-Potatoes" title="Recipe File: Creamy Garlic Mashed Potatoes"><div style="height:100px;width:100px;cursor:pointer"></div></a>
+		</td>
+		
+		<td style="background: #000000 url(http://www.cookingforengineers.com/hello/259/958/160/DSC_0959_crop.jpg) no-repeat center center; cursor:pointer;border:2px solid #FFFFA0;padding:0">
+			<a href="/recipe/77/Asian-Taco" title="Test Recipes: Asian Taco"><div style="height:100px;width:100px;cursor:pointer"></div></a>
+		</td>
+		
+		<td style="background: #000000 url(http://www.cookingforengineers.com/pics2/160/DSC_1573_crop.jpg) no-repeat center center; cursor:pointer;border:2px solid #FFFFA0;padding:0">
+			<a href="/recipe/26/Simple-Tiramisu" title="Recipe File: Simple Tiramisu"><div style="height:100px;width:100px;cursor:pointer"></div></a>
+		</td>
+		
+	</tr>
+</table>
+
+
+<div itemscope itemtype="http://data-vocabulary.org/Recipe">
+	<div id="articleheader">
+			<div class="headertitle"><div>
+				<span class="category">
+					Recipe File
+				</span><br />
+				<h1 class="title" style="display:inline" itemprop="name">
+					Beef Stroganoff
+				</h1>
+				<span class="author">
+					by <span itemprop="author">Michael Chu</span>
+				</span>
+			</div></div>
+		<div class="formatbutton"><a href="/recipe/122/Beef-Stroganoff/trn">Recipe Card</a></div>
+		<div class="formatbutton"><a href="/recipe/122/Beef-Stroganoff/print">Printer-friendly</a></div>
+		
+		<div class="selectedformatbutton">Normal view</div>
+		
+		<div class="hr"></div>
+	</div>
+
+	<div id="articlebody">
+		
+		
+			<div style="font-size:12pt;font-weight:bold;float:right;margin:0px -6px 0 0;padding:0 4px 6px 8px;background-color:#FFFFA0"><a href="/recipe/111/Grilled-Artichokes">Next &#187;</a></div>
+			<div style="font-size:12pt;font-weight:bold;float:left;margin:0px 0 0 -6px;padding:0 8px 6px 4px;background-color:#FFFFA0"><a href="/article/120/Common-Materials-of-Cookware">&#171; Prev</a></div>
+			
+			<div style="clear:both"></div>
+			<div style="float:right;clear:right;padding:4px 0 12px 8px;" class="nothing">
+				
+<!-- Google DFP Article_160x600-->
+<center>
+<div id='dfp_gpt_1' style='width:160px; height:600px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('dfp_gpt_1'); });
+</script>
+</div>
+</center>
+
+				<div style="margin:30px 0 0 0;line-height:0px"><!-- --></div>
+				
+			</div>
+			
+<!-- Google DFP Article_300x250-->
+<div class="adsense-left">
+<div id='dfp_gpt_2' style='width:300px; height:250px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('dfp_gpt_2'); });
+</script>
+</div>
+</div>
+
+
+		
+		
+			
+			Beef Stroganoff, in its simplest form, is simply tender beef with a mushroom and sour cream sauce served over rice or noodles. Although several magazines and cookbooks claim this dish has been served for centuries in Russia, the current accepted history of this dish dates back to the 1890's when a chef working for Count Pavel Alexandrovich Stroganov (the famous Russian general) invented the recipe for a cooking competition in St. Petersburg. After the fall of Imperial Russia, the recipe was popularly served in the hotels and restaurants of China before the start of the Second World War. Russian and Chinese immigrants, as well as U.S. servicemen stationed in pre-communist China, brought several variants of the dish to the United States, which may account for its popularity during the 1950's. I like to prepare beef stroganoff with Dijon mustard, cognac, and dill weed to add some extra depth to this flavorful dish.<span class="fullpost"><?if($fullpost==1){?><br />
+<br />
+Begin by assembling the ingredients: 1-1/2 lb. beef tenderloin (if using another cut, select a lean cut and remove any excess fat, gristle, or membranes), 1/2 medium onion, 1/2 lb. button mushrooms,  3/4 cup to 1 cup beef broth (preferably low sodium - salt can always be added but is difficult to take out), 2 tablespoons of cognac, 1 cup sour cream, 1 tablespoon of Dijon mustard, and 1 teaspoon of dried dill weed.<br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/pics/640/DSC_8375_crop.jpg'><img src='http://www.cookingforengineers.com/pics/320/DSC_8375_crop.jpg'  width='320' height='212' class='left' alt='' /></a>
+Thickly slice the mushrooms and finely dice the onions. Cut the beef into thinly against the grain, and then slice into 1 inch (2.5 cm) by 2 inch (5.1 cm) rectangles. (Freezing the beef for about an hour and using a sharp knife will make the slicing easier.)<br /><div style='clear:left'></div><br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/pics/640/DSC_8376_crop.jpg'><img src='http://www.cookingforengineers.com/pics/320/DSC_8376_crop.jpg'  width='320' height='212' class='left' alt='' /></a>
+Place a large pot filled with 4 quarts of water over high heat (for the egg noodles). While the water is coming to a boil, place two tablespoons of butter in a large saute pan or skillet (preferably a traditional pan or cast iron, not non-stick) over medium heat.<br /><div style='clear:left'></div><br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/pics/640/DSC_8377_crop.jpg'><img src='http://www.cookingforengineers.com/pics/320/DSC_8377_crop.jpg'  width='320' height='212' class='left' alt='' /></a>
+Once the butter stops foaming, place the strips of beef onto the hot pan. Try not crowd the pan - most likely you'll need to brown the beef in at least two batches. Once the beef has been laid down on the pan, allow it to brown, about one minute. Once the beef has browned, flip the pieces over and let the other side brown. Remove the beef and repeat as needed to brown all the beef. (It is okay to add a bit of vegetable oil if the pan starts to dry up.) If done properly, the beef should still have a medium rare interior after this browning process. By browning the meat first, we give the beef tenderloin a stronger flavor and also leave some flavorful, browned, caramelized bits (fond) in the pan for making the sauce.<br /><div style='clear:left'></div><br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/pics/640/DSC_8378_crop.jpg'><img src='http://www.cookingforengineers.com/pics/320/DSC_8378_crop.jpg'  width='320' height='212' class='left' alt='' /></a>
+Once all the beef have been browned, place the diced onions in the pan over low heat. Move the onions around a bit to coat evenly in the remaining fat in the pan, then spread out the onions and allow them to cook. The onions will release liquid as they cook down, about four minutes. While the onions are cooking, use a wooden spoon or spatula to scrape the fond off the bottom of the pan and mix into the onions.<br /><div style='clear:left'></div><br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/pics/640/DSC_8379_crop.jpg'><img src='http://www.cookingforengineers.com/pics/320/DSC_8379_crop.jpg'  width='320' height='212' class='left' alt='' /></a>
+Add the thickly sliced mushrooms to the onions and stir to evenly coat with fat. Add a pinch os salt to the mushrooms. Seasoning with salt at this stage will help the mushrooms release their water faster. Allow the mushrooms to cook, tossing occassionally, until all the liquid evaporates, about 10 minutes.<br /><div style='clear:left'></div><br />
+<br />
+<div class="larticles">
+	<div class="title">Related Articles</div>
+	<div class="link">
+			<a href="/recipe/111/Grilled-Artichokes">Grilled Artichokes</a>
+		</div><div class="link">
+			<a href="/recipe/59/Chicken-Mushroom-Marsala">Chicken & Mushroom Marsala</a>
+		</div><div class="link">
+			<a href="/article/120/Common-Materials-of-Cookware">Common Materials of Cookware</a>
+		</div><div class="link">
+			<a href="/recipe/81/Oven-Baked-Chicken-and-Rice">Oven Baked Chicken and Rice</a>
+		</div><div class="link">
+			<a href="/recipe/42/Traditional-Chicken-Pot-Pie">Traditional Chicken Pot Pie</a>
+		</div>
+	
+</div>
+	Add the beef broth and cognac to the pan and turn up the heat to medium or medium-high and allow it to reduce. When reduced, the liquid should coat the back of a spoon (or your mushrooms). This will take about 15 minutes.<br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/pics/640/DSC_8381_crop.jpg'><img src='http://www.cookingforengineers.com/pics/320/DSC_8381_crop.jpg'  width='320' height='212' class='left' alt='' /></a>
+While waiting for the mushrooms to cook, cook the egg noodles (a 12 ounce bag is a good amount). Hopefully, the water should be boiling at this point. Add the egg noodles and cook to the desired texture. Remove the noodles from the pot and toss with 2 tablespoons butter to keep them from sticking and to add some flavor. Rinsing the noodles will make it more difficult for sauces to cling to the noodles.<br /><div style='clear:left'></div><br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/pics/640/DSC_8383_crop.jpg'><img src='http://www.cookingforengineers.com/pics/320/DSC_8383_crop.jpg'  width='320' height='212' class='left' alt='' /></a>
+Back to the stroganoff: Lower the heat and add the sour cream and Dijon mustard.<br /><div style='clear:left'></div><br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/pics/640/DSC_8384_crop.jpg'><img src='http://www.cookingforengineers.com/pics/320/DSC_8384_crop.jpg'  width='320' height='212' class='left' alt='' /></a>
+Stir the mixture together and bring to a light simmer.<br /><div style='clear:left'></div><br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/pics/640/DSC_8385_crop.jpg'><img src='http://www.cookingforengineers.com/pics/320/DSC_8385_crop.jpg'  width='320' height='212' class='left' alt='' /></a>
+Add the beef (and any juices that have collected in the plate) to the mixture and stir in. Allow the sauce to simmer, reheating the beef. Do not heat the beef too long, or you could overcook it - about two minutes should do it.<br /><div style='clear:left'></div><br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/pics/640/DSC_8386_crop.jpg'><img src='http://www.cookingforengineers.com/pics/320/DSC_8386_crop.jpg'  width='320' height='212' class='left' alt='' /></a>
+Stir in some dill and season with salt and black pepper to taste.<br /><div style='clear:left'></div><br /><br /><div style='clear:left'></div><a href='http://www.cookingforengineers.com/pics/640/DSC_8400_crop.jpg'><img itemprop="photo" src='http://www.cookingforengineers.com/pics/320/DSC_8400_crop.jpg'  width='320' height='184' class='left' alt='' /></a>
+Serve immediately over the egg noodles. The sauce is thick, rich, and flavorful, so there's no reason to drench the noodles with the sauce. Simply place a pile of egg noddles on a plate and scoop some beef stroganoff over it.<?}?></span><br /><div style='clear:left'></div><br />
+<br />
+<b>Beef Stroganoff</b> (serves <span itemprop="yield">4 when served over noodles or rice</span>)<br />
+<table><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">1-1/2 lb. (700 g)</span> <span itemprop="name">beef tenderloin</span></span></td><td>cut into thin 1 x 2-in. (2.5 x 5.1-cm) strips</td><td rowspan=2 class="vertical">brown</td><td colspan=4 class="righthide"></td><td rowspan=8 class="vertical">simmer until beef is reheated</td><td rowspan=10 class="vertical">add dill and season to taste</td></tr><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">2 Tbs.</span> <span itemprop="name">butter</span></span></td><td class="righthide"></td><td rowspan=2 class="vertical">cook until translucent; deglaze pan</td><td rowspan=3 class="vertical">cook until liquid evaporates, 15 min.</td><td rowspan=5 class="vertical">reduce until sauce coats mushrooms</td><td rowspan=7 class="vertical">stir in</td></tr><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">1/2 medium (60 g)</span> <span itemprop="name">onion</span></span></td><td>fine dice</td><td class="righthide"></td></tr><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">8 oz. (225 g)</span> <span itemprop="name">button mushrooms</span></span></td><td>slice thickly</td><td colspan=2 class="righthide"></td></tr><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">3/4 cup (180 mL)</span> <span itemprop="name">beef broth</span></span></td><td rowspan=2 colspan=4 class="righthide"></td></tr><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">2 Tbs. (30 mL)</span> <span itemprop="name">cognac</span></span></td></tr><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">1 cup (230 g)</span> <span itemprop="name">sour cream</span></span></td><td rowspan=2 colspan=5 class="righthide"></td></tr><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">1 Tbs. (15 g)</span> <span itemprop="name">Dijon mustard</span></span></td></tr><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">1 tsp. (1 g)</span> <span itemprop="name">dried dill weed</span></span></td><td rowspan=2 colspan=6 class="righthide"></td></tr><tr><td><span itemprop="ingredient" itemscope itemtype="http://data-vocabulary.org/RecipeIngredient"><span itemprop="amount">salt</span> <span itemprop="name">& pepper</span></span></td></tr></table><br />
+<div class="larticles">
+	<div class="title">Related Articles</div>
+	<div class="link">
+			<a href="/recipe/111/Grilled-Artichokes">Grilled Artichokes</a>
+		</div><div class="link">
+			<a href="/recipe/59/Chicken-Mushroom-Marsala">Chicken & Mushroom Marsala</a>
+		</div><div class="link">
+			<a href="/article/120/Common-Materials-of-Cookware">Common Materials of Cookware</a>
+		</div><div class="link">
+			<a href="/recipe/81/Oven-Baked-Chicken-and-Rice">Oven Baked Chicken and Rice</a>
+		</div><div class="link">
+			<a href="/recipe/42/Traditional-Chicken-Pot-Pie">Traditional Chicken Pot Pie</a>
+		</div>
+	
+</div>
+	<div style="clear:both;margin-bottom:8px"></div>
+			
+		
+		
+		<div class="clear"></div>
+		
+			<div style="font-size:12pt;font-weight:bold;float:right;margin:0 -6px -4px 0;padding:0 2px 2px 6px;background-color:#FFFFA0"><a href="/recipe/111/Grilled-Artichokes">Next &#187;</a></div>
+			<div style="font-size:12pt;font-weight:bold;float:left;margin:0 0 -4px -6px;padding:0 6px 2px 2px;background-color:#FFFFA0"><a href="/article/120/Common-Materials-of-Cookware">&#171; Prev</a></div>
+		
+		<div class="clear"></div>
+	</div>
+	
+	<div id="articlefooter">
+		<div class="author">Written by Michael Chu</div>
+		<div class="timestamp">Published on <time itemprop="publishDate" itemprop="published" datetime="2005-07-26">July 26, 2005 at 03:34 PM</time></div>
+		<div class="clear"></div>
+	</div>
+	
+</div>
+
+
+
+
+
+	<div class="spacer3"></div>
+		
+<!-- Google DFP Article_728x90-->
+<center>
+<div id='dfp_gpt_3' style='width:728px; height:90px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('dfp_gpt_3'); });
+</script>
+</div>
+</center>
+
+		
+	
+	
+  <div id="comments">
+		<div id="articlecomments">
+			<div class="header">74 comments on <b>Beef Stroganoff</b>:<span class="commentlink">(<a href="/forums/posting.php?mode=reply&t=119" style="font-size:12pt" title="Comments are managed in the Cooking For Engineers Forums">Post a comment</a>)</span></div>
+			
+					<hr size="1" noshade />
+					<div class="commentheading">On July 27, 2005 at 04:20 AM, an anonymous reader said...</div>
+					<div class="commentsubject">Subject: <span>Stroganoff's origins</span><br /></div>
+					<div class="commentbody">the story i heard from the tour guide in St. Petersburg was that the chef created it when his master could no longer chew well.  dunno if it's true.<br />
+<br />
+-tony</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On July 27, 2005 at 04:23 AM, jimjimjim9 said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">Looks great! Dill is a wonderful addition, and folks often say "I've wondered how else to use that".  I also add about 1/2 tsp caraway and 1/2 tsp dill Seed, ground fine, to enrich the "Northen Caucasus" effect.<br />
+<br />
+For Economy, I use tenderized Rump Roast for this.  Yes, Tenderloin is superior, but RR is $1.88 this week, while T is $12.99.  The results are more "al dente", but if the price of tenderloin keeps you away, then try the following:  (Since the time is in the prep, I usually do 3 pounds, for 1 night stir-fry and 1 night stroggie).<br />
+<br />
+1) Cut the rump into logs, with the grain.  The size of the roast you purchase will dictate the length of the log, but go for 2" by 2" width. (The grain is easy to see on rump:  the endgrain should stare at you from the 2x2 face.<br />
+<br />
+2) Freeze, on plate, separated.  Turn at 20 minutes to facilitate even freezing.  When semi frozen and still a bit resilient, it's ready to slice.<br />
+<br />
+3) Sharp knife, heavy knife:  I use the 12" Chef or the medium cleaver, depending on which one is clean.  Sharp.  Sharp.<br />
+<br />
+4) Cut the 2x2 log into thin slices, across grain.  Use a forward-moving stroke rather than a straight down.  Try for 1/6" for stir fry.  Stroggie can be thicker.  <br />
+<br />
+5) Tenderize:  a)  Beat with meat tenderizer.  This can be really fun.  I like to step out to my concrete step-landing, lay down 1/2" of newspaper to absorb shock, use large polycarbonate board, put plastic wrap on top of meat, and start slamming with the 4 quart Calphalon saucepan.  Then, remove plastic and use the toothed face of a hefty meat tenderizer (A good tenderizer should weigh at least 8 ounces, metal and not wood.  I got one at the local Asian store for $4, identical to the Williams Sonoma at $15. Usually NOT dishwasher safe).  Nice finish is to puncture with spike tool of 6 penny nails spaced on a head.<br />
+<br />
+6) Meat is now well pounded, and thus larger than 2" x 2".  Slice in half.<br />
+<br />
+7) Put meat in small ziploc with enough canola or olive oil to fully saturate, with a littleextra. Refrigerate and massage/shift occasionally (will last for several days).  The oil lubricates between the muscle cables that you have opened, and mimics the function of marbling.  Don't add acid as it retards browning/fonding.<br />
+<br />
+Thanks for the great forum, Mike!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On July 27, 2005 at 08:44 PM, TheLoneCabbage (guest) said...</div>
+					<div class="commentsubject">Subject: <span>it's a heart attack!</span><br /></div>
+					<div class="commentbody">1.5lb of beef, butter, sour cream...<br />
+I can feel my arteries hardening now.  I'm sure it's a classic recipie but yeech!!<br />
+<br />
+is there any way of doing this without risking a coranary?<br />
+<br />
+Say replacing the sour cream with plain yogurt (tastes suprisingly like sour cream).   <br />
+<br />
+Droping half the butter, and replacing it with garlic &amp; olive oil?<br />
+<br />
+Or is this just blasphemy?</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On July 27, 2005 at 11:04 PM, Michael Chu said...</div>
+					<div class="commentsubject">Subject: <span>Re: it's a heart attack!</span><br /></div>
+					<div class="commentbody"><div class='commentquote'>TheLoneCabbage wrote:<div class='commentquotebody'>1.5lb of beef, butter, sour cream...<br />
+I can feel my arteries hardening now.  I'm sure it's a classic recipie but yeech!!<br />
+<br />
+is there any way of doing this without risking a coranary?</div></div><br />
+It is doubtful that eating this dish (even consistently as part of your diet) will contribute to your risk of coronary heart disease. I assume since you are adverse to the ingredients you have listed, you are fairly health conscious and are avoiding fast foods and trans fats and live a fairly healthy lifestyle (regular exercise, varied meals, low stress, etc.). Those choices will make a much greater impact on your potential longevity (sometimes you just can't fight your destiny) than consuming lean beef, a few tablespoons on butter, and a cup of sour cream. Also, you're not supposed to eat the whole thing, just a serving.<br />
+<br />
+I'm not sure which part of the recipe you have concerns over (is it the total fat intake? the cholesterol? the saturated fat? number of calories?) but I'm going to assume it's the saturated fat aspect because you mention beef, butter, and sour cream and suggest replacing some of the butter with olive oil and garlic.<br />
+<br />
+This sounds like a good suggestion - I prefer the flavor that butter brings (and the heathful properties of butter and cream since I do not drink milk regularly anymore) but olive oil and garlic are great for this dish as well. The blend of 1 Tbs. butter with 1 Tbs. olive oil and 1 minced clove works well with this dish.<br />
+<br />
+If you choose to, the replacement of non-fat sour cream for the sour cream can be made, but you'll lose out on the nutritional properties of the fat found in the sour cream (some fat soluble vitamins, essential amino acids, and powerful antioxidants).<br />
+<br />
+For the beef, there's really no substitute there... However, tenderloin is a fairly lean cut, and you can use rump or round as jimjimjim9 mentioned.<br />
+<br />
+(For the record, I do not personally believe that <a href='http://cookingforengineers.com/article.php?id=40'>saturated fat and cholesterol</a> are primary antecedants for coronary heart disease. There has recently been a lot of research in this area that bring previously accepted hypotheses into question. However, since this issue is far from settled, I understand that many, many of my readers believe otherwise, so I encourage readers to suggest alternative ways of preparing dishes.)</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On July 28, 2005 at 04:02 AM, jimjimjim9 said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">Good point from TheLoneCabbage.  We spend $3-30? billion annually on dietary research, and definative answers are slow. The latest is that sat fat ain't as bad as the engineered trans-fat that the body does not recognize (evolutionary history of ingestion).<br />
+<br />
+A few months ago I did this dish (stroganoff) for some lacto-vegans, with 2 major modifications:<br />
+<br />
+1) Use "Yochee"  (= "yogurt cheese") instead of sour cream.  Yochee is simply "drained yogurt".  To find info, Google for "yochee" and also check out the library books of Nikki and David Goldberg, longtime and dedicated health proponents and authors of the "yochee" name. This dish looks for a <br />
+"sour" component, and both sour cream (hi sat fat) and yochee (lo sat) provide the LACTIC ACID sour that is required.  So, check the yochee recipes, or simply drain a quart of yogurt thru the coffeemaker basket (filtered) to provide the dairy.  The "mouth feel" will not be as rich as the <br />
+original sour cream recipe, but, you asked for substitutes.  Caution on adding to heated sauce for curdling/breaking.<br />
+<br />
+2)  Use Tofu, fried, as a sub for Beef.  Extra firm tofu (press what ya got in paper towels to draw the last vestiges of moisture), fried hard, mimics the mouth-feel of beef, for those who are seeking to avoid the Cow.  Slice 1/8" before frying, as it will puff.<br />
+<br />
+3)  Like Mike said, Tenderloin is a very fat-free cut.  So is Rump.  Google the stats, decide where you stand, and start slicing something and cooking this wonderful dish.<br />
+<br />
+4)  The real solution is:  "Achieving Peace of Mind".  Julia Child has just died at age 91, chortling about the beauties of butter and beef all the way to her grave. We can demand better results from our dietary researchers as to the Real Story on "sat fat/trans fat/cholesterol", and demand better utilization of "small-system closed-system" grazing to produce healthier beef.<br />
+<br />
+5)  And for now, tonight, as an Okie gazing out the window on un-utilized grazing systems; as a lover and also a fabricator of tofu;  as a guy who has Yochee draining in my frig:  I'm gonna smother down on some beef stroganoff, with beef, sour cream, and some homemade wholewheat noodles.<br />
+<br />
+Itedakimasu.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On July 28, 2005 at 09:58 PM, tenunda (guest) said...</div>
+					<div class="commentsubject">Subject: <span>stroganoff</span><br /></div>
+					<div class="commentbody">Beef Stroganoff?  On the doorstep of August?  Do you have no sense of occasion?</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On July 31, 2005 at 09:04 PM, mbs (guest) said...</div>
+					<div class="commentsubject">Subject: <span>butter</span><br /></div>
+					<div class="commentbody">Wow, if someone is really that concerned about using 2 tablespoons of butter and a little sour cream in a recipe, I'd say they should stick to microwaving Lean Cuisines. Good cooking, in many styles,  is almost always going to involve a decent amount of fat (and another bogeyman, salt). <br />
+<br />
+It doesn't matter, though. Cooking for yourself starting with whole foods puts you light years ahead of someone that's eating processed food, even 'healthy' processed food, and with a little exercise and balance there's no problem staying healthy.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 05, 2005 at 08:35 AM, Stephan said...</div>
+					<div class="commentsubject">Subject: <span>Pickled Cucumber!</span><br /></div>
+					<div class="commentbody">Hi,<br />
+<br />
+I'm certain that your recipe yields a very nice ragout. But for me, it is not Boeuf Stroganoff, if it does not contain pickled cucumber (Cornichons). Just dice them and add them 2-3 minutes before the end of cooking. Also, some lemon juice rounds out the taste.<br />
+<br />
+My (German Language) version is here:<br />
+<br />
+http://www.garlic-gang.de/REZEPTE/boeuf_stroganoff.html<br />
+<br />
+Stephan</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 08, 2005 at 02:19 PM, Bob Slocum (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Beef Stroganoff Sour Cream Substitute</span><br /></div>
+					<div class="commentbody">I wanted to mention a milk product that can be used in place of sour cream: Kefir. I live in Hungary right now and it is very common here. I think it is of Central Asian origin and I have seen it in groceries in Boston. It is much lighter in fat, at the same level as whole milk, if I recall correctly, has the probiotics of yogurt, and can give you the creaminess of sour cream. It can be a bit liquidy though.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 12, 2005 at 02:57 PM, fraveydank (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Not to be a stickler, but...</span><br /></div>
+					<div class="commentbody">I hate to be so pedantic, but quick note to jimjimjim9...<br />
+<br />
+It's "it<b>a</b>dakimasu" (can't put the Japanese on this forum, apparently).  Sorry, sometimes my inner Japanese student peeks out.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 13, 2005 at 08:27 PM, Stephan said...</div>
+					<div class="commentsubject">Subject: <span>Recipe translated...</span><br /></div>
+					<div class="commentbody">Hi,<br />
+<br />
+I've managed to put an english language version of my recipe (mentioned above) online now. Check out<br />
+<br />
+http://www.garlic-gang.de/RECIPES/boeuf_stroganoff.html<br />
+<br />
+Stephan</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 13, 2005 at 09:42 PM, jimjimjim9 said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">Thanks, Stephan.  Jimjimjim9 here. <br />
+<br />
+The addition of pickled cucumbers to a hot dish is something that adds a whole new dimension to this (stroganoff) and other recipes.<br />
+<br />
+We americans traditionally use pickles mostly for 1) ingredients in cold salads such as tuna salad and potato salad, or 2) as a solo side condiment to to a sandwich plate with potato chips.<br />
+<br />
+Yet, anyone who gardens and cans the early summer bounty of cucumbers looks for ways to use up that bounty of home-packed pickles.<br />
+<br />
+As to "dill" or "sweet", I find that I often cannot decide which to use, and end up doing a 50/50 of both, with interesting results.<br />
+<br />
+"Cornichon" is a term that seems to run the gamut from gourmet petite gherkins to any canned cucumber.  When I first encountered it years ago, I was afraid I'd have to search the specialty stores as closely as for finding capers.  Nope... just experiment with pickles, both sweet and sour.<br />
+<br />
+Thanks again for the expansion of horizon into considering ways to use pickles in a heated sauce.<br />
+<br />
+I'd include a discussion of the marvelous variety of salt-pickled veggies (rather than brine fermented or vinegar preserved) that Japanese pickles<br />
+can offer.  But I need to get a spellchecker first, so that comments and feedback can remain on-topic toward our mutual goal of sharing the science and breadth of cooking.<br />
+<br />
+Ee-teh-dah-kee-mas.   (That's the phrase that Japanese say when they gather at the table and begin.  It means "Let's Eat!)  Let's keep it on cooking.  This forum is attracting people who want to learn method and technique and interchangabilty in recipes.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 18, 2005 at 09:21 PM, Stephan said...</div>
+					<div class="commentsubject">Subject: <span>Pickeled cucumber</span><br /></div>
+					<div class="commentbody">Pickled cucumber in sauces or soups is rather unusual in Germany, too. It is more common farther east, as far as I can tell.<br />
+<br />
+It is used over here in some hearty dishes, e.g. "peasants breakfast" (an omlett filled with fried potatos, ham, onions, and pickles.<br />
+<br />
+Stephan</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 25, 2005 at 04:16 PM, Mikey said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">I tried making this last night and found the mustard taste to be overpowering, even though I only used a tablespoon.  It wasn't that noticable when having a piece of beef, but any bite without beef in it was much too tangy for my taste.  I think remaking this with less (or no) mustard would probably make this much more enjoyable to me.  The dill weed definitely added a good flavor to it, so it's definitely staying in!<br />
+<br />
+Thanks!<br />
+Mikey</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On October 01, 2005 at 02:58 AM, Luke Grant (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Add some flavour</span><br /></div>
+					<div class="commentbody">Hi guys,<br />
+<br />
+I grew up in a Russian/Australian family and this is how we make strogonough.<br />
+<br />
+With your 1cup sour cream, use garlic (2 - 3 cloves), 1/4cup tomato paste and 3tbsp lemon juice. This will add a much richer flavor.....maybe too much flavor for the American palette</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 09, 2005 at 09:28 PM, luba (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Re: Beef Stroganoff Sour Cream Substitute</span><br /></div>
+					<div class="commentbody">Please never use Kefir or plain yogurt as a substitute of the sour cream.<br />
+It is very hard to find a good sour cream in USA (by the way I am Russian) and Kefir or yogurt will ruin everything. That is not about fat, cholesterol or calories, the food that we eat should taste good and in order to enjoy it never try to calculate calories or think about fat.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 09, 2005 at 01:01 AM, John (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Deglazing?</span><br /></div>
+					<div class="commentbody">I made this tonight and my wife and I loved it.<br />
+<br />
+In the flow chart you have "deglazing" after cooking the onions.  This usually requires adding a liquid.  The text above does not mention this, but does talk about scraping the fond.  Are these equivalent terms/processes?</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 09, 2005 at 06:28 AM, Michael Chu said...</div>
+					<div class="commentsubject">Subject: <span>Re: Deglazing?</span><br /></div>
+					<div class="commentbody"><div class='commentquote'>John wrote:<div class='commentquotebody'>In the flow chart you have "deglazing" after cooking the onions.  This usually requires adding a liquid.  The text above does not mention this, but does talk about scraping the fond.  Are these equivalent terms/processes?</div></div><br />
+<br />
+Yes, deglazing requires liquid. In the case of this recipe, the onions provide the liquid as they cook down. The water they release is more than enough to loosen up the fond on the pan.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On January 03, 2006 at 02:23 PM, robin (guest) said...</div>
+					<div class="commentsubject">Subject: <span>beef stroganof</span><br /></div>
+					<div class="commentbody">Is there something that can be used to substitute sour cream? I live in Brazil now and have never seen any. if you add a little lime (no lemons here that I've found) to a canned cream would that work?</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On January 03, 2006 at 05:01 PM, Michael Chu said...</div>
+					<div class="commentsubject">Subject: <span>Re: beef stroganof</span><br /></div>
+					<div class="commentbody"><div class='commentquote'>robin wrote:<div class='commentquotebody'>Is there something that can be used to substitute sour cream? I live in Brazil now and have never seen any. if you add a little lime (no lemons here that I've found) to a canned cream would that work?</div></div><br />
+I'm not sure what canned cream is, but using a one to one substitution with plain yogurt should yield good results.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On January 18, 2006 at 09:35 PM, Beverly13Anderson (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Beef Stroganoff Recipe</span><br /></div>
+					<div class="commentbody">My husband tells me that he likes Beef Stroganoff.  I went looking for recipes and found several.  I read them to him and he told me that the Beef Stroganoff he remembers had some type of cheese (perhaps swiss).  I am open for suggestions.  Thanks!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On February 04, 2006 at 04:44 PM, andycwb said...</div>
+					<div class="commentsubject">Subject: <span>Re: it's a heart attack!</span><br /></div>
+					<div class="commentbody"><div class='commentquote'>TheLoneCabbage wrote:<div class='commentquotebody'>1.5lb of beef, butter, sour cream...<br />
+I can feel my arteries hardening now.  I'm sure it's a classic recipie but yeech!!<br />
+<br />
+is there any way of doing this without risking a coranary?<br />
+</div></div><br />
+<br />
+Weightwatchers has variations on this recipe (which I can't post here without infringing their copyright).  Essentially, the main variation is to stir in creme fraiche once the rest of the ingredients are cooked and removed from the heat.  If you want to keep the points down (or cholesterol), you can also do a chicken stroganoff - not as good, but not bad, either.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On February 17, 2006 at 03:39 PM, Miss_Eva (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Add Garlic</span><br /></div>
+					<div class="commentbody">I always add garlic to this dish when I make it.  It especially tastes good if you roast the garlic first, crush it up and add to the onions and mushrooms when you are sauteeing.  As far as having a coronary goes, the way I see it, I'm going to die anyway and I'm not going without tasting beef stroganoff, Turtle cheesecake or Chunky Monkey ice cream.<font color='cyan'></font></div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On March 04, 2006 at 09:50 PM, Valerie (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Re: No Sour Cream</span><br /></div>
+					<div class="commentbody"><div class='commentquote'>Quote:<div class='commentquotebody'>Is there something that can be used to substitute sour cream? I live in Brazil now and have never seen any. if you add a little lime (no lemons here that I've found) to a canned cream would that work? </div></div><br />
+<br />
+Robin- I live in Brazil too. You're right- creme de leite with some limão makes a pretty decent substitute for sour cream. Not quite as thick, but it's pretty good . It's what's used in the Brazilian version of stroganoff (which is completely different than anything posted so far). Anyway, FYI, if you want a sour cream substitute for making dips or putting on Mexican food, try creme de leite, cream cheese and limão. It takes a little work to get the balance right, but it's pretty acceptable.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On March 09, 2006 at 02:38 AM, Jörg said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">Mmm.  I made this tonight.   Excellent dish.  I thought the dill was a bit too strong, but it turned out I just needed a bit more salt.  The salt really brought out the rest of the flavors and balanced things nicely.<br />
+<br />
+I disagree that the sauce is so powerful that there's no need to drench the noodles in it.  I think it's less visually appealing to toss the noodles with the sauce, but I think it'll taste better.  Some of the noodles just seemed too dry, and honestly, the sauce isn't that strong.  It's fairly rich, but it's not at all overpowering.<br />
+<br />
+<br />
+Oh, and I used chuck tender roast for the beef.  I sliced it crossways against the grain pretty thin (thickest was probably a quarter of an inch or a little more, thinnest was nearly transparent, average was somewhere toward the thinner side, but opaque) and beat it with the textured side of the mallet.  Turned out tasty and tender.<br />
+<br />
+Overall, I loved it.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On March 11, 2006 at 01:49 PM, roosa (guest) said...</div>
+					<div class="commentsubject">Subject: <span>dillmeat not stroganoff</span><br /></div>
+					<div class="commentbody">Stroganoff is not stroganoff without pickled cucumber. Similar stews have been cooked for centuries in russia (and finland) and the pickled cucumber is what makes it stroganoff. The recepie you wrote is called dillmeat in finland and quite common but has nothing to do with stroganoff.  It should also stew a lot  longer. 1 hour minimum.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On May 14, 2006 at 02:55 PM, Ivan (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">Very nice dish, but the recipe doesn't seem original to me. I have searched through many russian cooking sites and the original recipe is as follows (Luke Grant has mentioned it above):<br />
+<br />
+Cut meat as suggested in the recipe.<br />
+Cut onions in rings (or half-rings)<br />
+If you want to use mushrooms, they should be fried independently (I do not use mushrooms at all)<br />
+<br />
+Take a skillet, melt butter and add oil (1:1). You need quite a lot, because it should cover the onions. Put onions to cover the bottom of the skillet (that's why we needed rings). Put meat onto the onions, so that it doesn't touch the skillet! Do not mix! Add salt, pepper, spices, close the skillet. Allow it to stew on the high flame for 5-7 minutes until the meat is brown and (it will not burn don't worry).<br />
+<br />
+Now you can stir it, add sour creme (1 cup), tomato sauce (1 tablespoon) or ketchup, garlick, mustard (2-3 teespoons) and mushrooms (if you prepared them). Stir well and close again. It should simmer for 15-30 minutes depending on the meat. It is ready when the meat is soft and you almost cannot see the onions.<br />
+<br />
+Before serving add some lemon juice.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On September 06, 2006 at 07:11 PM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">I find all these variations on Beef Stroganof facinating.  The version I grew up with has no dill or mustard, but Worcestershire sauce for seasoning.<br />
+<br />
+I know stroganof is usually served over noodles, but I 've also served it over rice or couscous, with couscous being my prefered method.<br />
+<br />
+For those who wanted to replace the beef, you can make an excellent mushroom stroganof if you use a nice variety of mushrooms instead.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On October 22, 2006 at 02:15 AM, PD (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Excellent stroganoff</span><br /></div>
+					<div class="commentbody">Experienced a brainfart -- okay, maybe it was due to a few beers and six dogs snaking around me while cooking -- but I forgot the beef broth step. However, when I sauteed the beef, I left two or three small oddly shaped pieces in the pan so that I might get a bit more beef flavor while cooking the onions and mushrooms. These were "throwaway" bits of beef for the sake of the sauce. I hope their flavor helped compensate for my lack of broth. (Sure wondered why that can of broth was just sitting there on my counter -- a smug grin on it's tin face). I tend to favor more spices in recipes than are usually called for -- I think we Americans like our foods too bland -- so I actually bumped up the bit of dill. (Dill + beef = exquisite taste sensation... I'm sure there's a mathematical/scientific formula for that somewhere). Didn't have cognac (cheap date that I am) so I used a bit of cooking sherry. Very nice version of stroganoff that's easy to prepare and is a wonderful comfort food. I will make it properly next time (out of curiousity more than anything now), but I was very pleased with what I had created sans-broth anyway. Bon appetite friends! And for those that misguidedly fixate on cholesteral/sat fats... just remember all the women that skipped dessert after dinner on the Titanic... you only live once, so enjoy life's pleasures.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On October 25, 2006 at 09:01 AM, Jeremy (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Wondefvul, but...</span><br /></div>
+					<div class="commentbody">I made this dish last night and I have to say it wan't the best - a bit dry and the flavour was their and it was passable, but a bit of a disappointment. <br />
+<br />
+Leftovers in the fridge overnight, back in the pan - stroganoff and pasta together - added a little more sour cream and a little more dill (I used the real thing) heated for three minutes, and wow! One of the best dishes I have had. <br />
+<br />
+The overnight stay in the fridge made a ton of difference.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On January 19, 2007 at 08:18 AM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">First off, I would like to tell you what a wonderfull forum you are maintaining.<br />
+However, I have some comments on this reciepe.<br />
+I would like to second the gherkins. Mushrooms are a nice additon, but it is not a Stroganoff if it does not contain gherkins.<br />
+Another point is the stew time. It should simmer a good while longer, which, as a bonus, makes the cheaper beef cuts a better choice.<br />
+I usually serve Stroganoff over fresh, homemade Spätzle.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On February 06, 2007 at 06:40 PM, Grendal (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Thanks</span><br /></div>
+					<div class="commentbody">I used this as a starting point for some Beef Stroganoff this weekend. I didn't remember the mustard, and I used Leeks instead of Onion, but it turned out great.<br />
+<br />
+I've been reading your site for about a year, thanks for all the work you put into it.<br />
+Zane (audio engineer)</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On July 05, 2007 at 01:19 PM, an anonymous reader said...</div>
+					<div class="commentsubject">Subject: <span>Real stroganof does not need to cook for a long time !</span><br /></div>
+					<div class="commentbody">I know several have mention that it should cook for several hours... but that is a modern way =by using cheaper meat = not so tender meat = long cooking ! <br />
+Use tenderloin or filet and only cook very briefly- meat should be pink in the midle when dish is done ! <br />
+I like the dill added to this recipe - never tried t before - thanks</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 17, 2007 at 06:27 PM, guest (guest) said...</div>
+					<div class="commentsubject">Subject: <span>food</span><br /></div>
+					<div class="commentbody">how interesting that there would be so many comments about authentic foods.  I try to be authentic.  However, what is an authentic American hamburger?  Does it have cheese or no?  sesame seed bun or no?  Thousand island dressing or no?  There is no acceptable way other than a bun, ketchup/mustard, and a pattie...that is a very boring american hamburger, but would be 'authentic'.<br />
+<br />
+<br />
+California Brandon.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 30, 2007 at 07:55 PM, capone (guest) said...</div>
+					<div class="commentsubject">Subject: <span>substitute cognac n beef</span><br /></div>
+					<div class="commentbody">hello all<br />
+<br />
+firstly .. great site<br />
+<br />
+2ndly ... id go with beef but im a student and the hostelmate i cook with doesn't take beef .. cud i substitute it with pork? .. of course it'd taste different and the recipe might then assume a different name .. well .. maybe anyone cud comment ...<br />
+<br />
+3rdly ... a student budget doesnt allow cognac .. dang .. so cud i do without it or wat wud be a budget friendly substitute?<br />
+<br />
+4thly ... im studying in russia .. im not so sure if i can find beefstock at the supermarkets .. or maybe im mistaken .. or does anyone have an idea how i cud go about it ?<br />
+<br />
+well .. looking forward to hearing from anyone .. <br />
+<br />
+bon apetite</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On January 04, 2008 at 06:25 PM, gastronomica (guest) said...</div>
+					<div class="commentsubject">Subject: <span>substitute cognac in beef</span><br /></div>
+					<div class="commentbody">Cool that your expierimenting with dishes even if forcefully so.  lets start with the bottem point.<br />
+<br />
+4) beef broth or stock might not be availible in russia(perhapse so, i've never been there) but a simple beef or veal stock would work... although it would go against your mates requestof a beef free dish.  look up a recipie for a brown veal stock and make some for yourself.  it isn't that hard...<br />
+<br />
+3)Cognac is just brandy(distilled wine) from a specific region of france.  you could substitute a nice quality red wine instead or any brandy.  omitiong this ingrediant wont change the dish but may detract from the complexity of the flavors.  on a students budget go without it.<br />
+<br />
+2) Pork would work ( whats in a name anyhow) but would change the flavor of the dish some.  cooking isn't like baking, ingrediants can be changed and the dish (for the most part) will stay the same(for example rillets or consume').  if it taists good to you then do it!  <br />
+<br />
+1) yes i agree this is a quality site (would Piersig approve of that last statement?)</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On January 04, 2008 at 07:04 PM, Guest (guest) said...</div>
+					<div class="commentsubject">Subject: <span>use kobe beef</span><br /></div>
+					<div class="commentbody">this may come as no suprise, but you should use <a href='http://www.exoticmeats.com/catdescmain.aspx?f=10'> Kobe Beef </a>.  The quality of the beef really improves the dish...</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On January 16, 2008 at 02:38 AM, tahrey (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">be that as maybe, this is quite a versatile recipe, and if you just cook it a little slower you can get away with cheaper ingredients (maybe not the $1.88/lb rump as mentioned above, but certainly not the $13/lb sirloin...), as my mother has done since time immemorial (to myself), always coming out with something delicious and not too difficult to chew.<br />
+<br />
+perhaps i'd change my mind after having kobe beef, but i haven't yet had the debatable pleasure* of trying it yet, so i'm happy with it as it stands<br />
+<br />
+however, i'm saving this page to, one day soon, surprise her with the deluxe version. saying nothing about the additional ingredients (which we thankfully already have all of), but seeing if anyone notices the difference :)<br />
+<br />
+also, whoever complained about this being full of cholesterol....... get a life! you may extend your lifespan another few minutes by skipping the odd delightful stroganoff.... to what end if it's just another flat salad you're waiting for? I eat healthily most of the time, I recognise the value of it even on a day to day basis (energy levels, future health, and what you might call ease of digestion) but don't deny the sensory pleasure of the occasional full english breakfast or cream-laden delicacy when the (sadly rare) opportunity comes around. It's not something that will cause a terrible impact on your health so long as you don't have it for every meal and stay nominally active. I'm feeling fairly confident that my overall health at age 50 will be likely better than that of either of my grandfathers, and probably my father for that matter.<br />
+<br />
+(* pleasure, or life-ruining experience if you can't afford to have it more than once / every few years, with all the previously lovely meals in-between now being tainted with an air of inferiority?)</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On January 26, 2008 at 06:57 PM, Sweetbabette (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Great Stroganff</span><br /></div>
+					<div class="commentbody">I made this last week with some tenderloin I got on sale, and it was great. I only added the smallest amount of dill, and I am glad because that is not how I think of Stroganoff, and I followed this advice from a previous post <br />
+<br />
+&gt;&gt;Subject: Add some flavour<br />
+Hi guys, <br />
+<br />
+I grew up in a Russian/Australian family and this is how we make strogonough. <br />
+<br />
+With your 1cup sour cream, use garlic (2 - 3 cloves), 1/4cup tomato paste and 3tbsp lemon juice. This will add a much richer flavor.....maybe too much flavor for the American palette<br />
+<br />
+the tomato paste added flavor, and the lemon made the creamy sauce not so heavy. I will definitely make this again.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On March 15, 2008 at 09:07 PM, an anonymous reader said...</div>
+					<div class="commentsubject">Subject: <span>Sans onions?</span><br /></div>
+					<div class="commentbody">My husband is allergic to onions. Is it possible to make this dish without it? Thanks.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On March 15, 2008 at 09:48 PM, Dilbert said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">&gt;&gt;without onions<br />
+<br />
+absolutely.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On April 08, 2008 at 12:06 AM, Magnum said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">I love beef stroganoff. I have always seen it as the white and the red version which my mother introduced me to. The white version, to me, is the mustard, onion and sour cream version. The red is the tomato version and it takes so much butter I am ashamed. I always like to mix it up and try something a little different. I guess I need to try some pickles. I agree the cheaper meat and the longer cook time is better to me as the meat is my favorite. I like it over noodles or rice with the red. <br />
+Thanks for maintaining the site. B) <br />
+PS - Stroganoff wasn't in my spell checker! How ludicrous.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On April 19, 2008 at 05:55 PM, GoodEats (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Stroganoff</span><br /></div>
+					<div class="commentbody">I have made the dish two times and it is a very good recipe.  It is now my favorite stroganoff because it is simple and has a unique flavor.  The dill is a brilliant idea.  <br />
+<br />
+As for the Aussie's comment that the his version might be too rich for the American palette, add a little Vegemite and maybe that would tone it down a bit so that we yanks could stomach it.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On October 12, 2008 at 04:23 PM, cslider8 (guest) said...</div>
+					<div class="commentsubject">Subject: <span>printer friendly?</span><br /></div>
+					<div class="commentbody">Hi - thanks for the great site and wonderful recipes. Just one minor hiccup, when printing the recipe card, it prints on 3 pages...? Perhaps its my settings or something but if not, could you look into that... <br />
+<br />
+Appreciate the work you put into maintaining this site and hope this comment makes the site even more user friendly.   :)</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On October 13, 2008 at 05:33 AM, Michael Chu said...</div>
+					<div class="commentsubject">Subject: <span>Re: printer friendly?</span><br /></div>
+					<div class="commentbody"><div class='commentquote'>cslider8 wrote:<div class='commentquotebody'>Hi - thanks for the great site and wonderful recipes. Just one minor hiccup, when printing the recipe card, it prints on 3 pages...? Perhaps its my settings or something but if not, could you look into that...</div></div><br />
+I just checked it in Firefox and Internet Explorer. Looks like there's a weird problem with how Internet Explorer wants to print the page (it refuses to shrink the table down to fit!). On this particular article - you can get it to print on one page by changing the layout to Landscape. Sorry for the trouble (and the much too large table once it prints).</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On October 16, 2008 at 03:47 AM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">VERY NICE FORUM<br />
+<br />
+SEE A LOT A VARIATIONS ON BEEF STROGANOFF... <br />
+HERE IS ONE (MORE) VARIATION I HAVE USED, TENDERLOIN STRIPS, PAPRIKA POWDER, WHITE WINE, TOMATO PASTE, ONIONS, MUSHROOM, GOOD BUTTER &amp; SOUR CREAM...<br />
+<br />
+**BEEF CAN BE SUSBSTITUTED WITH BNL TURKEY LEGS IF AVAILABLE, TREAT SAME AS TENDERLOIN BEEF IS LEANER THAN BEEF TASTE LIKE BEEF</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 12, 2008 at 02:34 PM, Luna (guest) said...</div>
+					<div class="commentsubject">Subject: <span>awesome!</span><br /></div>
+					<div class="commentbody">i made this for my daughter's school project last year and everyone enjoyed it. her teacher invited a bunch of other teachers to try some too and many of then asked for the recipe. when i made it at home, even my husband who hates sour cream and onions had more than anyone. i found that if you refridgerate it over night and then reheat it the next day it tastes better though. it sharpens the flavor.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On November 21, 2008 at 11:09 PM, an anonymous reader said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">Interesting discussion in the comments here.  Googling around for a stroganoff recipe for tonight - has to be non-dairy though.  I'm going to try goat yogurt instead of sour cream and cross my fingers.  Thanks, too, for the recommendations of pickled cucumber by various commentors - I believe that will add some nice zip!.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On January 19, 2009 at 01:28 AM, bookwich (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">I am from Slovakia, with Slovak and Austrian background.  We NEVER use garlic in cooking stroganaff, nor tomato paste, or other odd items.  It is beef, mushrooms, onions, and sour cream.  Salt and pepper, is all right.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On February 15, 2009 at 02:39 PM, guest (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Comment on Beef Stroganoff recipe by Michael Chu</span><br /></div>
+					<div class="commentbody">There are so many Beef Stroganoff recipes on the Internet, it must be a favorite dish with a lot of people. I don't think that it's a sacrilege that people modify a recipe to their own taste.  I think a recipe is more of a guide, a rule of thumb, rather than some chemical mixture which must be followed to the letter for the desired effect.<br />
+<br />
+I liked Michael's addition of Dijon mustard and the cognac.  I also liked some of the ingredients I found in a Stroganoff recipe on the Simply Recipes web site (ex. nutmeg and tarragon).  I was hesitant about the dill.  Perhaps I'll use it in the future.  I decided to use sirloin instead of tenderloin, as suggested by Simply Recipes.  The former being much less expensive.<br />
+<br />
+So I basically combined the two recipes.  The result was very good.  Perhaps it wouldn't live up to Count Stroganov's expectations, but then again I was making a dinner for me and my wife and not the Count.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On May 22, 2009 at 04:09 PM, twocats2many (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Amazing Stroganoff</span><br /></div>
+					<div class="commentbody">I'm no engineer, but I am so grateful to have stumbled on the site's Beef Stroganoff recipe! I followed the directions exactly (well, almost: I used beef bouillon instead of broth), and came up with the BEST Stroganoff I've ever made... or eaten! My partner and I are both good in the kitchen, yet we couldn't have improved on this recipe. Thank you so much!!!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On May 22, 2009 at 04:14 PM, twocats2many (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Stroganoff substitution</span><br /></div>
+					<div class="commentbody">I forgot to say I also used sirloin instead of tenderloin (which was $20/lb. at the market yesterday). I cut out every scrap of fat or gristle, and browned it as briefly as I could, and it was perfectly tender and delicious. If you heat the pan, melt the butter, lay the pieces down, and as soon as they're all down start turning them, and as soon as they're all turned start removing them --- you won't toughen the meat.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 25, 2009 at 03:45 PM, Daytonnc (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Love this recipe</span><br /></div>
+					<div class="commentbody">My whole family loves this recipe.  We have made it several times.  The only thing I change is we use fresh dill instead of dried dill.  I grew up with the tomato sauce/paste version, but I really prefer this one.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On August 28, 2009 at 07:01 PM, Barb (guest) said...</div>
+					<div class="commentsubject">Subject: <span>What a neat site!</span><br /></div>
+					<div class="commentbody">I just have to say, even though I am an old broad who's been cooking for years and no engineer, that I find this website absolutely delightful!  The clarity of the recipes is wonderful, and I love the little charty-things (I'm sure there is a proper name for the format) at the end.  Go, <br />
+Engineers!! :D</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On October 07, 2009 at 06:04 PM, christopholofgus said...</div>
+					<div class="commentsubject">Subject: <span>let's try goose meat</span><br /></div>
+					<div class="commentbody">This is a very nice recipe with great pictures and wonderful directions.  I will be trying this recipe with the substitution of goose breast (marinated in salt water, then in milk, now drained and frozen) this weekend.  I am debating if I should use chicken stock/broth instead.  Do you have any ideas or recommendations?</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On October 07, 2009 at 06:37 PM, Dilbert said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">when dealing with 'poultry' I often sub chicken / turkey stock - using turkey stock/broth in chicken, for example, adds a layer of flavor - it's like - okay it's chicken but there's something else tasty . . . .<br />
+<br />
+in this particular instance I'd say a poultry stock is a better choice with goose vs. a beef stock.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 16, 2009 at 10:46 PM, Mai (guest) said...</div>
+					<div class="commentsubject">Subject: <span>beef stroganoff</span><br /></div>
+					<div class="commentbody">Oh, Thank you. I can understand this. You are my Christmas dinner hero.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On March 03, 2010 at 01:22 AM, globie (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Beef Stroganoff</span><br /></div>
+					<div class="commentbody">OMG - this ROCKS.  I did however, add 1 T FRESH rosemary and it was an utter MO (mouth orgas....)   wow.  Thank you.   I used red wine in place of cognac and used about a 1/2 cup with the stock.  Served it over 1/2 whit and 1/2 brown rice.  utterly amazing.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On June 24, 2010 at 04:12 AM, Daniel7 said...</div>
+					<div class="commentsubject">Subject: <span>meat broth</span><br /></div>
+					<div class="commentbody">I've a question, the "meat broth", is this thing, kind of tablet/capsule of "meat" flavor <a href='http://www.telecompra.cl/components/com_virtuemart/shop_image/product/490b81669a042c53ac356d6753c83f55.jpg'>http://www.telecompra.cl/components/com_virtuemart/shop_image/product/490b816...jpg</a>, is it raw meat blood, the juices that the meat itself leaves when cooked or what?<br />
+<br />
+thanks and I know it kinda dumb but I'm from a spanish speaking country and it's not clear for me.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On June 29, 2010 at 05:21 PM, Pete Mac (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Beef Stroganoff . Comments over the past 5 years.</span><br /></div>
+					<div class="commentbody">I've enjoyed reading all this stuff and the many variations on...er...beef Stroganoff. I'm having friends for dinner tomorrow night and will cook my classic Strog with finely crossgrain-cut fillet steak, onion, thick sliced mushys, nutmeg, and creme fraiche. I might throw in a couple of shots of brandy but there the quirks end. Serve wqith Tilda basmati, which I reckon to be the best. It takes 10 minutes while we all slurp wine and moan about footy in my kitchen. Boringly basic but wonderful. Gets better as the wine flows. I like Michael Chu's recipe, but I'd get rid of the Dijon. Cheers!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 03, 2010 at 10:14 PM, marty mcguinn (guest) said...</div>
+					<div class="commentsubject">Subject: <span>request for information - error and omissions - stroganoff</span><br /></div>
+					<div class="commentbody">your ingredient list does not include noodles (or rice) (which are referenced later in the instructions). this poses a major problem as one would go to the store and not have a major component on their shopping list.<br />
+<br />
+ i understand you reference it in the overall content but it must be indicated in the actual list... its common sense. <br />
+<br />
+and for that reason, i hope you have errors and omissions insurance as an engineer. this kind of thing would get you sued or even worse someone could get hurt in the world on engineering. <br />
+<br />
+if you were put before my quality assurance program, this project would be a disapproved -revise and resubmit.<br />
+<br />
+also your confirmation code protocol is very weak. go back to the original pleae..<br />
+<br />
+Marty McGuinn, PE<br />
+Principal McGuinn and Associates. <br />
+Mastermind of the Astoreiel Structural Benefactor Program. <br />
+25 Patents in 15 Countries and Inventor of the world famous SkyHook (tm).</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 03, 2010 at 11:12 PM, Dilbert said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">Marty -<br />
+<br />
+what ingredient list?<br />
+<br />
+sentence one of the article digest:<br />
+/quote<br />
+Beef Stroganoff, in its simplest form, is simply tender beef with a mushroom and sour cream sauce served over rice or noodles. <br />
+/unquote<br />
+<br />
+&gt;&gt;(which are referenced later in the instructions).<br />
+later is worse than the first sentence?<br />
+<br />
+btw, real engineers read through all the specs before bidding.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 05, 2010 at 09:50 PM, marty-SKYHOOK (TM) (guest) said...</div>
+					<div class="commentsubject">Subject: <span>touche-</span><br /></div>
+					<div class="commentbody">nice retort.. i can admit when i am wrong but. you have a paragraph that indicates the ingredients:<br />
+<br />
+"Begin by assembling the ingredients: 1-1/2 lb. beef tenderloin (if using another cut, select a lean cut and remove any excess fat, gristle, or membranes), 1/2 medium onion, 1/2 lb. button mushrooms, 3/4 cup to 1 cup beef broth (preferably low sodium - salt can always be added but is difficult to take out), 2 tablespoons of cognac, 1 cup sour cream, 1 tablespoon of Dijon mustard, and 1 teaspoon of dried dill weed. "<br />
+<br />
+also, your graph does not indicate egg noodles.. <br />
+<br />
+as we are both engineers we can dispute the nuances till we are blue in the face.. i was just trying to poke a little fun at a comrade... take it lightly..<br />
+<br />
+all said and done the recipe was AWESOME.. totally delicious.. would make again, with egg noodles of course.. <br />
+<br />
+keep up the great work fellow engineer. <br />
+<br />
+GREAT SITE<br />
+<br />
+marty-<br />
+<br />
+skyhook (tm) us patent AE129030992</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 06, 2010 at 07:50 PM, Dilbert said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">Marty -<br />
+<br />
+nadda problem, I can do 'light' -<br />
+<br />
+as you intended no serious barb - I would add.... over rice or noodles means the chart must incorporate either / or / both - the plot thickens.  ps:  it's Michael that does the charts, not me - but I think they're pretty neat.<br />
+<br />
+the instructions also do not include "turn the knob to the right" to make heat on the cooktop.<br />
+bottom line:  at some point one must assume the cook has a passing knowledge of what the heck is going on.  <br />
+<br />
+the recipe does not also explicity state "use a spoon to stir...."<br />
+<br />
+where does it end?  how big a pot to put how much water in to cook how many noodles?<br />
+<br />
+is this the most appropriate set of directions for someone who has zip comma zero idea of how to cook or what "Beef Strongoff" is but thinks it sounds neat for dinner?  perhaps not - they may not know how to cook rice or noodles.  is that the point?  no, methinks.<br />
+<br />
+noodles, or rice, taste pretty much like noodles or rice for any other dish.  the point is how to "make the beef" - as Clara might have said.  <br />
+<br />
+and actually, pretty much all the noodle crowd has eggs - it's part of the pasta routine,,,, some are more eggie than others - and in the pasta aisle you'll find narrow, wide, extra wide egg noodles, curly noodles as well - so so far as most reasonable cooks go, "served over rice or noodles" is about 99.99998% all they need to be clued in on.  everyone has their favorite noodle type/shape/size/brand.  I'll skip the part about serving it over spaetzle...<br />
+<br />
+btw, I went to www.uspto.gov - was unable to come up with any reference to any part of AE129030992; nor does Google; might want to check into that.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 07, 2010 at 12:39 AM, Michael Chu said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">Sorry, for not chiming in earlier. I obviously agreed with Dilbert when I wrote this recipe over five years ago, but I also understand Marty's point about not showing the carb component in the final summary can lead to trouble. In light of the discussion, I was thinking about adding something, but beef stroganoff can be served over so many different "bases" like rice, noodles, dumplings, spaetzle (as Dilbert pointed out) that it seems like it would be difficult to add to the summary without seemingly limiting this recipe. Perhaps, I'll simply add to the serving size area - something like "(over rice or noodles, serves 4)".<br />
+<br />
+As for the skyhook patent, I was also curious to read it and unable to find it. The number portion is too long for a US Patent, isn't it? My last patent, from 2005, was just shy of #7,000,000, and more recent patents are around 11-12,000,000. Anyway, I'm guessing the skyhook part of Marty's sig is a joke. Skyhook references used to be popular with some older engineers I worked with (as a way to send the younger engineers on a wild goose chase after something that doesn't exist), but these days there are a couple dozen different companies out there that make a product with the registered trademark Skyhook... I feel silly falling for that (again). Unless, there is a specific Skyhook that Marty invented, then I'd be more interested in hearing about it!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 11, 2010 at 05:02 AM, turnbow1@aol.com (guest) said...</div>
+					<div class="commentsubject">Subject: <span>WOW!</span><br /></div>
+					<div class="commentbody">Just made this stroganoff recipe and served for dinner.  It is absolutely the best I have ever tasted and my guests are asking for the recipe.  I used Flat Iron Steak and it was tender and delicious.<br />
+I love your website - I am a newcomer but will be back.<br />
+Thank you.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On December 16, 2010 at 06:50 AM, CANDY LADY (guest) said...</div>
+					<div class="commentsubject">Subject: <span>secret recipe</span><br /></div>
+					<div class="commentbody">My family has a completely different recipe for the "classic" beef stroganoff.  My family's recipe comes from a Russian restaurant, in Hong Kong, circa 1954.  So I'll admit it probably isn't the most "authentic."  It is a tasty variation.<br />
+<br />
+Instead of dijon, we used dried mustard.  No booze, either. Extra secret ingredient instead of dill is marjoram. Yes on browning meat, onions, &amp; mushrooms.  We add water (or I guess stock would be easy), and cook until reduced and meat is tender.  Also the spices/herbs are added after browning.  Just before serving, add in sour cream.  When I make it, I do noodles.  When my grandmother makes it, it is always short grain white rice.  I don't know why, but this is the tastiest version that I know of. It is probably a little milder than Chu's recipe, relying more on the natural sweetness of the onions, earthy mushrooms, browned meat, etc., and only rounded out with the marjoram &amp; dried mustard (less vinegar, flavors compete less with beefiness). I love this as leftovers.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On March 06, 2011 at 12:58 AM, Sugar n Spice (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Beef Stroganoff</span><br /></div>
+					<div class="commentbody">I just cooked this tonight.  I used a left over standing rib roast which was original cooked on the rare side.  I trimmed all the fat and used the outside pieces of fat with the onions to establish that so desired brown bits on the bottom of the pan.  I didn't have any Cognac (but I will definately get some) - I used red wine, it made the sauce yummy still but turned it an awful purple.  I also didn't have any dijon mustard - I substituted hot horseradish.  I didn't have any noodles or rice but I had fresh Naan bread.  I will stick to the recipe here next time and comment again.  This was a very yummy meal.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On April 04, 2011 at 04:23 AM, daniel (guest) said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody">I once did this dish an its awesome. I belive i kinda failed in the cutting of the meat and it affected the final product tough. Lets say I have the cilindrical part of the T.m then, should I cut transversal sections of it and then cut each one of those into "bars" of meat?? Or how else??</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On April 04, 2011 at 07:10 PM, Michael Chu said...</div>
+					<div class="commentsubject"></div>
+					<div class="commentbody"><div class='commentquote'>daniel wrote:<div class='commentquotebody'>I once did this dish an its awesome. I belive i kinda failed in the cutting of the meat and it affected the final product tough. Lets say I have the cilindrical part of the T.m then, should I cut transversal sections of it and then cut each one of those into "bars" of meat?? Or how else??</div></div><br />
+That's the best way to do it - cut into transversal slices (ie. against the grain) and then into roughly equivalent sized bars about 1-in x 2-in. It doesn't take long to cook the slices, you want to do it only long enough to brown. Taste a piece as you cook each batch - if it's tough, you need to cook faster (higher heat). You should be looking for an extremely tender texture.</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On June 20, 2011 at 06:10 AM, fa (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Beef stroganoff</span><br /></div>
+					<div class="commentbody">my mom used to add a bit of red wine to the sauce, adds flavor and color</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On March 25, 2012 at 01:54 AM, Judycarol (guest) said...</div>
+					<div class="commentsubject">Subject: <span>Beef stroganoff</span><br /></div>
+					<div class="commentbody">Have prepared this four times and will be preparing again Monday Evening for the same guest that lived in Europe for  12 years.<br />
+He says it is the best!!!!!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On April 02, 2012 at 01:20 AM, sham (guest) said...</div>
+					<div class="commentsubject">Subject: <span>amazing!</span><br /></div>
+					<div class="commentbody">just followed the recipe - well, I followed the ingredients (left out the dill) and the process, but was not precise with measurements.<br />
+<br />
+anyways, it turned out amazing! thank you!!</div>
+					<hr size="1" noshade />
+				
+					<hr size="1" noshade />
+					<div class="commentheading">On February 14, 2014 at 06:56 PM, shoppe (guest) said...</div>
+					<div class="commentsubject">Subject: <span>This is the best!</span><br /></div>
+					<div class="commentbody">Beef Stroganoff has always been my favourite dish.  However, I lost my tried and true recipe for it over 30 years ago - just after university.  Since then, I've made lots and lots and loooots of just so-so beef stroganoff.<br />
+I've made this recipe twice now.  The first time was exactly as prescribed and the second was using stew beef.  I can now say with confidence that this is even better than my lost recipe.<br />
+Thanks!</div>
+					<hr size="1" noshade />
+				
+		<div class="commentlink">
+			<a href="/forums/posting.php?mode=reply&t=119" title="Comments are managed in the Cooking For Engineers Forums">Post a comment on <i>Beef Stroganoff</i></a>
+		</div>
+	</div>
+	
+</div>
+	
+  
+	<div class="spacer3"></div>
+	
+<!-- Google DFP Article_Footer_728x90-->
+<center>
+<div id='dfp_gpt_4' style='width:728px; height:90px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('dfp_gpt_4'); });
+</script>
+</div>
+</center>
+
+	<div class="spacer3"></div>
+
+
+		</div>
+		
+		
+			
+<table class="fl_table" cellspacing="2" cellpadding="0" border="0">
+	<tr>
+		<td width="16%">
+			<a href="/article/138/About-Cooking-For-Engineers" title="About Cooking For Engineers">About CfE</a>
+		</td>
+		<td width="17%">
+			<a href="/article/139/Contact-Cooking-For-Engineers" title="Contact Cooking For Engineers">Contact</a>
+		</td>
+		<td width="17%">
+			<a href="/article/190/User-Agreement" title="User Agreement">User Agreement</a>
+		</td>
+		<td width="16%">
+			<a href="/article/140/Frequently-Asked-Questions" title="Frequently Asked Questions">FAQ's</a>
+		</td>
+		<td width="17%">
+			<a href="/article/141/In-the-Press" title="Cooking For Engineers in the Press">In the Press</a>
+		</td>
+		<td width="17%">
+			<a href="/article/191/Article-Submission-Program" title="Article Submission Program">Write for CfE</a>
+		</td>
+	</tr>
+</table>
+			
+		
+		<div id="footer">
+	
+  <center><span style="font-size: 85%; line-height: 110%;">All content published by CFE Enterprises, Inc. under license with copyright holders<br>Tabular Recipe Notation Patent Pending (Michael Chu)</span></center>
+
+	<center><a href="/atom.xml">Syndicate</a> <a href="/atom.xml"><img src="/pics/xml.gif" alt="(XML)" style="vertical-align: middle;" border="0" /></a></center>
+
+	
+
+	
+
+	
+	
+	  <!-- Google Analytics -->
+	<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+	</script>
+	<script type="text/javascript">
+	_uacct = "UA-254248-1";
+	urchinTracker();
+	</script>
+
+		
+	<script type="text/javascript">stLight.options({publisher: "b3ed4fb7-bc1d-41a0-b780-15d3cf6b7561"});</script>
+<script>
+var options={ "publisher": "b3ed4fb7-bc1d-41a0-b780-15d3cf6b7561", "position": "left", "ad": { "visible": false, "openDelay": 5, "closeDelay": 0}, "chicklets": { "items": ["facebook", "pinterest", "twitter", "googleplus", "stumbleupon", "email"]}};
+var st_hover_widget = new sharethis.widgets.hoverbuttons(options);
+</script>
+ </div>
+		
+	</body>
+</html>
