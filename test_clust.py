@@ -3,7 +3,7 @@ import random
 
 def initialize_clusters():
     recipe, ingredients, data = clus.readfile('testgroup')
-    kclust = clus.kcluster(data,k=4)
+    kclust = clus.kcluster(data,k=7)
     return [recipe, ingredients, data, kclust]
 
 def initialize_ingredient_categories():
