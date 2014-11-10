@@ -3,7 +3,7 @@ import random
 
 def initialize_clusters():
     recipe, ingredients, data = clus.readfile('testgroup')
-    kclust = clus.kcluster(data,k=3)
+    kclust = clus.kcluster(data,k=4)
     return [recipe, ingredients, data, kclust]
 
 def initialize_ingredient_categories():
@@ -32,11 +32,17 @@ def get_ingr_list(ingredients, seed_data):
 def get_comp_ing_type(meal, new_ing, seed_ingr,ing_type,ingredients,new_data):
     #gets a new ingredient and checks its type against what's in the meal
     new_ing = random.choice(get_ingr_list(ingredients,new_data))
+    print meal, "this is the meal"
+    print meal[ing_type[new_ing][0]],"printed mealing"
     if meal[ing_type[new_ing][0]] != "":
         new_ing = random.choice(get_ingr_list(ingredients,new_data))
         return get_comp_ing_type(meal, new_ing,seed_ingr,ing_type,ingredients,new_data)
     return new_ing
 
+
+#for this cluster, the starches are potatoes, pasta, etc
+#for macro in protein, veg, starch:
+#go into dictionary and pick a random one from that category
 
 def add_next_ingr(seed_recipe,seed_cluster,ingredients,meal,seed_ingr,ing_type,recipe,data):
 
