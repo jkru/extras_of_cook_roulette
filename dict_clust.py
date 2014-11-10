@@ -72,29 +72,77 @@ def get_ing_type(cluster_data, ingredients):
 
     print cluster_ingredients
     raw_input()
-
 def main():
     recipe, ingredients, data, kclust = initialize_clusters()
     ing_type = initialize_ingredient_categories()
 
-
+################################################
+# The following is just test code to display   #
+# things that are in the first cluster.        #
+################################################
+#    cluster_recipes = []
+#    for i in range(len(kclust)):
+#        cluster_recipes_temp = []
+#        cluster_recipes_temp.append(str(i)+str(" "))
+#        for r in kclust[i]:
+#            cluster_recipes_temp.append(recipe[r])
+#        cluster_recipes.append(cluster_recipes_temp)
     print data        
+#    raw_input()
+#    print ingredients
+#    print kclust
+#    print "these are the clusters"
+#    print cluster_recipes
+#    raw_input()
+#
+#    print "let's see what's in the first cluster"
+#    print "kclust[0] is a list of the items in the first cluster"
+#
+#    for i in range(len(kclust[0])):
+#        print "recipe id: ",kclust[0][i]
+#        #print "recipe: ",recipe[kclust[0][i]]
+#        print "ingredients in",recipe[kclust[0][i]],"recipe"
+#        for j, ind in enumerate(data[kclust[0][i]]):
+#            if ind == 1:
+#                print ingredients[j]
+################################################
+#                                              #
+################################################
+
     print "*****************************************************"
     print "let's try this randomizer business"
+
+    #print ing_type
 
     seed_cluster = random.choice(kclust)
 
     print "seed cluster:",seed_cluster
+    #seed_recipe = random.choice(seed_cluster)
+    #seed_recipe_name = recipe[seed_cluster[seed_cluster.index(seed_recipe)]]
+    #seed_data = data[seed_cluster[seed_cluster.index(seed_recipe)]]
+    #print "seed recipe",seed_recipe, seed_recipe_name
+    #print "seed data",seed_data
 
     cluster_data = get_ing_cluster(seed_cluster,data)
     print cluster_data
     ingredients = get_ing_type(cluster_data, ingredients)
-
+    raw_input()
 ########################################
 
 
 
+    #seed_ingr_list = get_ingr_list(ingredients, seed_data)
+    #print "ingredients in seed recipe:",seed_ingr_list
+    #seed_ingr = random.choice(seed_ingr_list)
+    #print "random ingredient and type:",seed_ingr, ing_type[seed_ingr]
+
     meal = {'starch':'','protein':'','vegetable':''}
+
+   # meal[ing_type[seed_ingr][0]] = seed_ingr
+
+   # print "meal contents:",meal
+    #for i in range(len(meal)-1):
+    #    add_next_ingr(seed_recipe,seed_cluster,ingredients,meal,seed_ingr,ing_type,recipe,data)
 
 if __name__=="__main__":
     main()
