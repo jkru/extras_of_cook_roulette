@@ -9,7 +9,7 @@ def initialize_clusters():
 def write_clusters(kclust):
     for i, cluster in enumerate(kclust):
         name = "cluster"+str(i)+".txt"
-        f = open(name, 'w')
+        f = open("long/"+name, 'w')
         for item in cluster:
             f.write(str(item)+"\n")
 

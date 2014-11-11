@@ -1,6 +1,8 @@
 import clus
 import random
 
+GLOBAL_MEAL = {'vegetable':"",'protein':"",'starch':""}
+
 def initialize_clusters():
     recipe, ingredients, data = clus.readfile('testgroup')
     kclust = clus.kcluster(data,k=4)
@@ -14,48 +16,34 @@ def initialize_ingredient_categories():
         ingcat = ingcat.split()
         ing_type[ingcat[0]] = ingcat[1:]
     ingredient_categories.close()
+    #print ing_type
     return ing_type
 
-def get_new_recipe(seed_recipe,seed_cluster):
-    new_recipe = random.choice(seed_cluster)
-    if new_recipe == seed_recipe:
-        return get_new_recipe(seed_recipe,seed_cluster)
-    return new_recipe
 
-def get_ingr_list(ingredients, seed_data):
-    seed_ingr_list = []
-    for j, ind in enumerate(seed_data):
-        if ind == 1:
-            seed_ingr_list.append(ingredients[j])
-    return seed_ingr_list
+def append_well(food_type_list, amount, ingr):
+    for i in range(amount):
+        food_type_list.append(ingr)
+    return food_type_list
 
-def get_comp_ing_type(meal, new_ing, seed_ingr,ing_type,ingredients,new_data):
-    #gets a new ingredient and checks its type against what's in the meal
-    new_ing = random.choice(get_ingr_list(ingredients,new_data))
-    print meal, "this is the meal"
-    print meal[ing_type[new_ing][0]],"printed mealing"
-    if meal[ing_type[new_ing][0]] != "":
-        new_ing = random.choice(get_ingr_list(ingredients,new_data))
-        return get_comp_ing_type(meal, new_ing,seed_ingr,ing_type,ingredients,new_data)
-    return new_ing
+def get_ing_type(cluster_ingredients, ing_type):
+    ingr_sorted_type = {'vegetable':"",'protein':"",'starch':""}
+    vegetable = []
+    protein = []
+    starch = []
+    for ingr, amount in cluster_ingredients.iteritems():
+        if ing_type[ingr][0] == 'vegetable':
+            ingr_sorted_type[ing_type[ingr][0]] = append_well(vegetable, amount, ingr)
+        elif ing_type[ingr][0] == 'protein':
+            ingr_sorted_type[ing_type[ingr][0]] = append_well(protein, amount, ingr)
+        elif ing_type[ingr][0] == 'starch':
+            ingr_sorted_type[ing_type[ingr][0]] = append_well(starch, amount,ingr)
 
-
+    #print ingr_sorted_type
+    return ingr_sorted_type
 #for this cluster, the starches are potatoes, pasta, etc
 #for macro in protein, veg, starch:
 #go into dictionary and pick a random one from that category
 
-def add_next_ingr(seed_recipe,seed_cluster,ingredients,meal,seed_ingr,ing_type,recipe,data):
-
-    new_recipe = get_new_recipe(seed_recipe,seed_cluster)
-    print "new recipe:",new_recipe, recipe[seed_cluster[seed_cluster.index(new_recipe)]]
-
-    new_data = data[seed_cluster[seed_cluster.index(new_recipe)]]
-    new_ingr_list = get_ingr_list(ingredients, new_data)
-    new_ing = ""
-    new_ing = get_comp_ing_type(meal, new_ing, seed_ingr,ing_type,ingredients,new_data)
-    meal[ing_type[new_ing][0]]=new_ing
-    print meal
-#    return meal
 
 def get_ing_cluster(seed_cluster, data):
     cluster_data = []
@@ -63,38 +51,54 @@ def get_ing_cluster(seed_cluster, data):
         cluster_data.append(data[recipe_id])
     return cluster_data
 
-def get_ing_type(cluster_data, ingredients):
+def get_ing(cluster_data, ingredients):
     cluster_ingredients = {}
     for cluster_recipe in cluster_data:
         for pos, recipe_ingredient in enumerate(cluster_recipe):
             if recipe_ingredient == 1:
                 cluster_ingredients[ingredients[pos]] = cluster_ingredients.get(ingredients[pos], 0) + 1
 
-    print cluster_ingredients
-    raw_input()
+    return cluster_ingredients
 
-def main():
+def make_meal(ingr_sorted_type, meal=None):
+    if not meal:
+        global GLOBAL_MEAL
+        meal = GLOBAL_MEAL
+    for key, value in ingr_sorted_type.iteritems():
+        if value:
+            #print key, random.choice(ingr_sorted_type[key])
+            meal[key] = random.choice(ingr_sorted_type[key])
+        else:
+            #print "WARNING"
+            GLOBAL_MEAL = meal
+            algo_main(meal)
+
+    GLOBAL_MEAL = meal
+    return GLOBAL_MEAL
+
+def algo_main(meal=None):
+    ###########################################################
     recipe, ingredients, data, kclust = initialize_clusters()
     ing_type = initialize_ingredient_categories()
-
-
-    print data        
-    print "*****************************************************"
-    print "let's try this randomizer business"
-
+    ###########################################################
+    
     seed_cluster = random.choice(kclust)
-
-    print "seed cluster:",seed_cluster
-
     cluster_data = get_ing_cluster(seed_cluster,data)
-    print cluster_data
-    ingredients = get_ing_type(cluster_data, ingredients)
+    cluster_ingredients = get_ing(cluster_data, ingredients)
+    ingr_sorted_type = get_ing_type(cluster_ingredients, ing_type)
 
-########################################
+    if meal:
+        meal = make_meal(ingr_sorted_type, meal)
+    else:
+        meal = make_meal(ingr_sorted_type)
+    
+    return meal
+
+    ########################################
 
 
-
-    meal = {'starch':'','protein':'','vegetable':''}
+def main():
+    print algo_main()
 
 if __name__=="__main__":
     main()
