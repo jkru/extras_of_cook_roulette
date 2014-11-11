@@ -1,6 +1,7 @@
 from flask import Flask, request, render_template, make_response
 from flask import redirect, url_for
 import jinja2
+import model
 from dict_clust_flask import algo_main
 
 app = Flask(__name__)
