@@ -180,15 +180,6 @@ def kcluster(rows,distance=pearson,k=4):
   clusters=[[random.random()*(ranges[i][1]-ranges[i][0])+ranges[i][0] 
   for i in range(len(rows[0]))] for j in range(k)]
  
-  #clusters = []
-  #print len(rows[0])
-  #for j in range(k):
-  #  temp_cluster = []
-
-  #  raw_input()
-  #  for i in range(len(rows[0])):
-  #    temp_cluster.append(random.random())
-  #  clusters.append(temp_cluster)
 
  
   lastmatches=None
@@ -202,9 +193,9 @@ def kcluster(rows,distance=pearson,k=4):
       bestmatch=0
       for i in range(k):
         d=distance(clusters[i],row)
-        #d=tanamoto(clusters[i],row)
         if d<distance(clusters[bestmatch],row): bestmatch=i
-        #if d<tanamoto(clusters[bestmatch],row): bestmatch=i
+#row j is closest to centroid blah
+#bestmatches is a list of lists and each point is the one that's closest to centroid
       bestmatches[bestmatch].append(j)
 
     # If the results are the same as last time, this is complete
@@ -212,6 +203,8 @@ def kcluster(rows,distance=pearson,k=4):
     lastmatches=bestmatches
     
     # Move the centroids to the average of their members
+
+#reassigns center based on the average point of that cluster
     for i in range(k):
       avgs=[0.0]*len(rows[0])
       if len(bestmatches[i])>0:

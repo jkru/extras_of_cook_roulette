@@ -2,7 +2,9 @@ from flask import Flask, request, render_template, make_response
 from flask import redirect, url_for
 import jinja2
 import model
-from dict_clust_flask import algo_main
+from recipemachine import RecipeMachine
+
+
 
 app = Flask(__name__)
 secret_key = 'asdf'
@@ -18,9 +20,9 @@ def create_account_page():
 
 @app.route("/feedme")
 def random_meal():
-    ings  = algo_main()
-    print ings
-    return render_template("random_meal.html",vegetable=ings['vegetable'], starch=ings['starch'],protein=ings['protein'])
+    ings  = RecipeMachine()
+    print ings.meal
+    return render_template("random_meal.html",vegetable=ings.vegetable, starch=ings.starch,protein=ings.protein)
 
 if __name__ == "__main__":
     app.run(debug=True)

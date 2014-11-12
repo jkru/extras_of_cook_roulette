@@ -22,15 +22,15 @@ class User(Base):
     password = Column(String(64), nullable=False)
     settings = Column(String(64), nullable=True)
 
-class Saved_recipes(Base):
+class SavedRecipes(Base):
 
-    __tablename__= "saved_recipes"
+    __tablename__= "savedrecipes"
     id = Column(Integer, primary_key=True)
     user_id = Column(Integer, ForeignKey('users.id'))
     recipe = Column(String(500), nullable=False)
     rating = Column(String(10), nullable=True)
 
-    user = relationship("User", backref=backref('saved_recipes', order_by=id))
+    user = relationship("User", backref=backref('savedrecipes', order_by=id))
 
 
 class Recipe(Base):
@@ -38,17 +38,29 @@ class Recipe(Base):
 
     id = Column(Integer, primary_key=True)
     cluster = Column(Integer, nullable=False)
-    incl_ingr = Column(String(300))
+    incl_ingr = Column(String(300))   # FIXME: dont need?
+ 
+# Python
+# variable_names
+# ClassName
+# _variable_name
+# class_
 
-class Recipeingredient(Base):
-    __tablename__= "recipeingredients"
+# JS
+# ClassName
+# variableName
+
+#index sqla search sort join
+
+class RecipeIngredient(Base):
+    __tablename__= "recipes_ingredients"
 
     id = Column(Integer, primary_key=True)
-    recipe_id = Column(Integer, ForeignKey('recipes.id'))
-    ingredient_id = Column(Integer, ForeignKey('ingredients.id'))
+    recipe_id = Column(Integer, ForeignKey('recipes.id'))   # index
+    ingredient_id = Column(Integer, ForeignKey('ingredients.id'))   # index
 
-    recipe = relationship("Recipe", backref=backref('recipes', order_by=id))
-    ingredient = relationship("Ingredient", backref=backref('ingredients', order_by=id))
+    recipe = relationship("Recipe", backref=backref('recipes_ingredients', order_by=id))
+    ingredient = relationship("Ingredient", backref=backref('recipe_ingredients', order_by=id))
 
 class Ingredient(Base):
     __tablename__= "ingredients"
@@ -58,6 +70,10 @@ class Ingredient(Base):
     ingr_type = Column(String(40))
     ingr_type2 = Column(String(40))
     ingr_type3 = Column(String(40))
+
+# class IngredientType:
+# ingredient_id
+# type
 
 def connect():
     global ENGINE
