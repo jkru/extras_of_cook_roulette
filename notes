@@ -1,0 +1,17 @@
+after things are in a dictionary, put them in an array (something sorted)
+
+random.seed()
+
+seed the random number generator the same time. run randint and it
+will give same sequence of "random" numbers.
+
+continuous integration: travis ci
+
+http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf
+
+LDA
+
+heroku = postgres
+postgres port number 5432
+
+git hooks???

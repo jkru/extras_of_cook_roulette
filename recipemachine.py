@@ -1,7 +1,6 @@
 import clus
 import random
 
-
 def initialize_clusters():
     """Initialize the kmeans clusters and read in data. 
     This is going to get taken out soon.
@@ -49,20 +48,21 @@ class RecipeMachine(object):
         self.cluster_data =  get_cluster_data(self.seed_cluster,self.data)
         self.cluster_ingredients = populate_cluster_ingredient_names(self.cluster_data, self.all_ingredients)
         self.ingr_sorted_type = get_ing_type(self.cluster_ingredients, self.ingredient_type)
-        tempdict = self.ingr_sorted_type
-        self.meal = self.make_meal(tempdict)
+        self.meal = self.make_meal()
         self.vegetable = self.meal['vegetable']
         self.protein = self.meal['protein']
         self.starch = self.meal['starch']
 
-    def make_meal(self,ingr_sorted_type):
-        """This is probably going to change a lot, but it basically populates the meal dictionary            
+    def make_meal(self):
+        """populates the meal dictionary            
         """
         meal = {'vegetable':"",'protein':"",'starch':""}
-        for key, value in ingr_sorted_type.iteritems():
+        for key, value in self.ingr_sorted_type.iteritems():
             if value != "":
-                meal[key] = random.choice(ingr_sorted_type[key])
-            else:
+                meal[key] = random.choice(self.ingr_sorted_type[key])
+            if value == "":
+                print "DOING AN INIT"
+#            else:
                 self.__init__()
         return meal
 
