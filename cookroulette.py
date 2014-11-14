@@ -18,27 +18,14 @@ def welcome_page():
 def create_account_page():
     return render_template("create.html")
 
-def check_recipe(ings):
-    """check ings.meal attribute to see if there are all types
-    """
-    #for ingredient_type,random_ingredient in ings.meal.iteritems():
-    for ingredient_type in ['vegetable','protein','starch']:
-        random_ingredient = ings.ingredient_type
-        if random_ingredient != "":
-            return ings
-        else:
-            print "asdfasdf"
-            raw_input()
-            ings = RecipeMachine()
-            return check_recipe(ings)
-
-
 
 @app.route("/feedme")
 def random_meal():
-    ings  = RecipeMachine()
-    checked_ings = check_recipe(ings)
-    return render_template("random_meal.html",vegetable=checked_ings.vegetable, starch=checked_ings.starch,protein=checked_ings.protein)
+
+    recipe_maker = RecipeMachine()
+    ingredients = recipe_maker.generate_recipe()
+
+    return render_template("random_meal.html",vegetable=ingredients['vegetable'], protein=ingredients['protein'],starch=ingredients['starch'])
 
 if __name__ == "__main__":
 #call a function here

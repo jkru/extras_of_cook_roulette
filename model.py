@@ -5,7 +5,10 @@ from sqlalchemy.orm import sessionmaker, relationship, backref
 from sqlalchemy.orm import scoped_session
 from sqlalchemy import ForeignKey
 
-#magical shit that makes each session thread-safe
+
+
+#'postgresql://julie:ninjabear@localhost:5432/mydatabase'
+#thing that makes each session thread-safe
 engine = create_engine("sqlite:///cookroulette.db", echo=False)
 session = scoped_session(sessionmaker(bind=engine, autocommit=False, autoflush=False))
 
@@ -32,14 +35,6 @@ class SavedRecipes(Base):
 
     user = relationship("User", backref=backref('savedrecipes', order_by=id))
 
-
-class Recipe(Base):
-    __tablename__ = "recipes"
-
-    id = Column(Integer, primary_key=True)
-    cluster = Column(Integer, nullable=False)
-    incl_ingr = Column(String(300))   # FIXME: dont need?
- 
 # Python
 # variable_names
 # ClassName
@@ -51,6 +46,17 @@ class Recipe(Base):
 # variableName
 
 #index sqla search sort join
+
+###separated tables###
+
+class Recipe(Base):
+    __tablename__ = "recipes"
+
+    id = Column(Integer, primary_key=True)
+    cluster = Column(Integer, nullable=False)
+#    incl_ingr = Column(String(300))   # FIXME: dont need?
+ 
+
 
 class RecipeIngredient(Base):
     __tablename__= "recipes_ingredients"
@@ -66,10 +72,30 @@ class Ingredient(Base):
     __tablename__= "ingredients"
 
     id = Column(Integer, primary_key=True)
-    ingredient = Column(String(40))
-    ingr_type = Column(String(40))
-    ingr_type2 = Column(String(40))
-    ingr_type3 = Column(String(40))
+    name = Column(String(40))   # used to be called ingredient
+
+    types_ = relationship("Type", secondary="ingredients_types")
+
+
+#db.tables syntax
+#association_table relationships.html sqla
+class IngredientType:
+    __tablename__= "ingredients_types"
+
+    id = Column(Integer, primary_key=True)
+    ingredient_id = Column(Integer, ForeignKey('ingreiends.id', order_by=id))
+    type__id = Column(Integer, ForeignKey('types.id', order_by=id))
+
+    ingredient = relationship("Ingredient", backref=backref('ingredients_types', order_by=id))
+    type_ = relationship("Type", backref=backref('ingredients_types', order_by=id))
+
+class Type_:
+    __tablename__="types"
+
+    id = Column(Integer, primary_key=True)
+    type_ = Column(String(16), nullable=False)   # name
+
+    ingredients = relationship("Ingredient", secondary="ingredients_types")
 
 # class IngredientType:
 # ingredient_id
