@@ -56,7 +56,7 @@ class RecipeMachine(object):
 
     ###################This stuff stays in the class##############
 
-    def generate_recipe(self):
+    def generate_kmeans_recipe(self):
         while True:
             self.seed_cluster = random.choice(self.kclust)
             self.cluster_data =  self.get_cluster_data()

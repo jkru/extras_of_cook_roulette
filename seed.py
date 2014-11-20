@@ -1,22 +1,17 @@
-import model
-
+import newmodel
 
 def load_recipes(session):
-    rec_clus = open('short/recipe_cluster.txt')
+    rec_clus = open('short/recipe_cluster.lst')
     all_recipes = []
     for line in rec_clus:
         line = line.strip().split()
         recipe = line[0]
         cluster = line[1]
-        aRecipe = model.Recipe()
-        aRecipe.id = recipe
-        aRecipe.cluster = cluster
-        all_recipes.append(aRecipe)
-        session.add(all_recipes[i])
+        aRecipe = newmodel.Recipe(id=recipe, cluster=cluster)
+        newmodel.session.add(aRecipe)
+        newmodel.session.commit()
     rec_clus.close()
 
-def load_recipeingredients(session):
-    pass
 
 def load_ingredients(session):
     ingredient_list = open("categorized.lst", 'r')
@@ -24,37 +19,24 @@ def load_ingredients(session):
     for i, line in enumerate(ingredient_list):
         line = line.strip().split()
         ingredient = line[0]
-
-        anIngredient = model.Ingredient()
-        anIngredient.id = i
-        anIngredient.ingredient = ingredient
+        anIngredient =  newmodel.Ingredient(name=ingredient)
+        newmodel.session.add(anIngredient)
+        newmodel.session.commit()
     ingredient_list.close()
-
-def load_ingredients_types(session):
-    pass
 
 
 def load_types(session):
     all_types = []
-    for i, item in enumerate(['herbspice', 'fat','fruit', 'liquid', 'protein', 'starch', 'vegetable']):
-        aType = model.Type_()
-        aType.id = i
-        aType.type_ = item
-        all_types.append(aType)
-        session.add(all_types[i])
+    for item in ['herbspice', 'fat','fruit', 'liquid', 'protein', 'starch', 'vegetable']:
+        aType = newmodel.Type_(name=item)
+        newmodel.session.add(aType)
+        newmodel.session.commit()
 
+def main(session):
+#    load_types(session)
+#    load_ingredients(session)
+    load_recipes(session)
 
-
-def load_users(session):
-    f = open("seed_data/u.user", "r")
-    reader = csv.reader(f, delimiter="|")
-    all_users = []
-    for i, row in enumerate(reader):
-        aUser = model.User()
-        aUser.id = row[0]
-        aUser.age = row[1]
-        aUser.gender = row[2]
-        aUser.zipcode = row[4]
-        all_users.append(aUser)
-        session.add(all_users[i])
-
+if __name__ == "__main__":
+    s = newmodel.connect()
+    main(s)
