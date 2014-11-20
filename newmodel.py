@@ -80,10 +80,8 @@ class SavedRecipe(Base):
 
 #==================These are 3 tables with 2 association tables==========/
 
-recipes_ingredients_association = Table('recipes_ingredients', Base.metadata,
-    Column('ingredient_id', Integer, ForeignKey('ingredients.id')),
-    Column('recipe_id', Integer, ForeignKey('recipes.id'))
-)
+
+recipes_ingredients_association = Table('recipes_ingredients', Base.metadata, Column('recipe_id', Integer, ForeignKey('recipes.id')), Column('ingredient_id', Integer, ForeignKey('ingredients.id')))
 
 class Recipe(Base):
     __tablename__ = "recipes"
