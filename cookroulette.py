@@ -8,6 +8,7 @@ from recipemachine import RecipeMachine
 import json, requests
 from passlib.hash import sha256_crypt
 
+
 app = Flask(__name__)
 app.secret_key = 'asdf'
 
@@ -64,12 +65,54 @@ def actually_login_page():
         session['logged_in'] = True
         return redirect(url_for("random_meal"))
 
+@app.route("/account")
+def show_account_page():
+    return render_template("account.html", email=session['email'])
+
+@app.route("/changepw")
+def display_change_pw():
+    return render_template("changepw.html", email=session['email'])
+
+@app.route("/changepw", methods=['POST'])
+def actually_change_pw():
+    password_check = request.form.get("oldpassword")
+    password_in = request.form.get("newpassword")
+    password_in2 = request.form.get("checknewpassword")
+
+    #check old password
+    login = newmodel.login(session['email'],password_check)
+    if login != "Yay!":
+        flash ("Incorrect Password")
+        return redirect(url_for("display_change_pw"))
+
+    else:
+        if password_in!=password_in2:
+            print password_in
+            print password_in2
+            flash ("New Password Does Not Match")
+            return redirect(url_for("display_change_pw"))
+        else:
+            password_in_s_h = sha256_crypt.encrypt(password_in)
+            updatepw = newmodel.change_pw(session['email'],password_in_s_h)
+            flash (updatepw)
+            return redirect(url_for("show_account_page"))
+
+@app.route("/displaysaved")
+def display_saved_recipes():
+    user = newmodel.session.query(newmodel.User).filter_by(email=session['email']).first()
+    all_recipes = newmodel.session.query(newmodel.SavedRecipe).filter_by(user_id=user.id).all()
+
+    list_of_recipes = []
+    for a_recipe in all_recipes:
+        list_of_recipes.append(a_recipe)
+    
+    return render_template("saved_recipes.html", recipes=list_of_recipes)
+
+
 @app.route("/logout")
 def logout():
     session.clear()
-    #session['is_logged_in'] = False
     return render_template("index.html")
-
 
 
 @app.route("/feedme")
@@ -89,6 +132,8 @@ def random_meal():
         large_image = "http://upload.wikimedia.org/wikipedia/commons/1/18/Yummly_logo.png"
         yummly_rec_name = "Why don't you try"
     return render_template("random_meal.html",vegetable=ingredients['vegetable'], protein=ingredients['protein'],starch=ingredients['starch'],yummly_image_url=large_image,end_of_url=end_of_url,recipe_name=yummly_rec_name)
+
+
     #return render_template("random_meal.html",vegetable=ingredients['vegetable'], protein=ingredients['protein'],starch=ingredients['starch'],yummly_image_url="",end_of_url="",recipe_name="")
 
 
@@ -128,12 +173,13 @@ def random_api():
     mess2 = str(ingredients['protein'])
     mess3 = str(ingredients['starch'])
     stupid = '{"meal":{"protein":"'+mess2+'","vegetable":"'+mess1+'","starch":"'+mess3+'"}}'
+
     return render_template("api.html", meal_json=stupid)
 
 if __name__ == "__main__":
-#call a function here
-#or... look for the flask set up thing
+    
 
+    print "INIT"
     app.run(debug=True)
 
 

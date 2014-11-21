@@ -7,7 +7,7 @@ from sqlalchemy.orm import relationship, backref
 from passlib.hash import sha256_crypt
 
 
-engine = create_engine("sqlite:///newcookroulette.db", echo=True)
+engine = create_engine("sqlite:///newcookroulette.db", echo=False)
 session = scoped_session(sessionmaker(bind=engine, 
                                       autocommit=False,
                                       autoflush=False))
@@ -66,6 +66,13 @@ def login(email_in, password_in):
     except:
         return "Email does not exist"
 
+
+def change_pw(email_in,newpass):
+    u = session.query(User).filter_by(email=email_in).first()
+    u.password = newpass
+    session.add(u)
+    session.commit()
+    return "Password Successfully Updated!"
     
 class SavedRecipe(Base):
 

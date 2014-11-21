@@ -1,5 +1,6 @@
 import clus
 import random
+import config_db
 
 def initialize_clusters():
     """Initialize the kmeans clusters and read in data. 
@@ -50,8 +51,10 @@ class RecipeMachine(object):
 
     def __init__(self):
 ###################take these things out of the class#########
+#        self.cluster_ingredients = 
         self.recipe, self.all_ingredients, self.data, self.kclust, self.ingredient_type = temp_init_function()
-
+        self.cluster = config_db.getter()[0].keys()
+        print self.cluster
 #only have protein, veg, etc. in on entry point
 
     ###################This stuff stays in the class##############

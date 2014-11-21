@@ -4,8 +4,8 @@ def load_recipes_ingredients(session):
     rec_ing = open("recipes_ingredients.txt","r")
     for line in rec_ing:
         line = line.strip().split()
-        recipe_ind = line[1]
-        ing_ind = line[0]
+        recipe_ind = line[0]
+        ing_ind = line[1]
         newmodel.engine.execute(newmodel.recipes_ingredients_association.insert(), recipe_id=recipe_ind,ingredient_id=ing_ind)
     rec_ing.close()
 
@@ -37,7 +37,7 @@ def load_ingredients(session):
     for i, line in enumerate(ingredient_list):
         line = line.strip().split()
         ingredient = line[0]
-        anIngredient =  newmodel.Ingredient(name=ingredient)
+        anIngredient =  newmodel.Ingredient(id=i, name=ingredient)
         newmodel.session.add(anIngredient)
         newmodel.session.commit()
     ingredient_list.close()
@@ -54,8 +54,8 @@ def main(session):
 #    load_types(session)
 #    load_ingredients(session)
 #    load_recipes(session)
-#    load_recipes_ingredients(session)
-    load_ingredients_types(session)
+    load_recipes_ingredients(session)
+#    load_ingredients_types(session)
 
 if __name__ == "__main__":
     s = newmodel.connect()
