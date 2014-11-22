@@ -49,29 +49,29 @@ class RecipeMachine(object):
 #recipe = human readable recipe name
 #ingredient_type => chicken is a protein
 
-    def __init__(self):
-###################take these things out of the class#########
-#        self.cluster_ingredients = 
-        self.recipe, self.all_ingredients, self.data, self.kclust, self.ingredient_type = temp_init_function()
-        self.cluster = config_db.getter()[0].keys()
-        print self.cluster
-#only have protein, veg, etc. in on entry point
+#    def __init__(self):
 
-    ###################This stuff stays in the class##############
 
     def generate_kmeans_recipe(self):
         while True:
-            self.seed_cluster = random.choice(self.kclust)
-            self.cluster_data =  self.get_cluster_data()
-            self.cluster_ingredients = self.populate_cluster_ingredient_names()
+            self.cluster = config_db.getter()[0].keys()
+            self.seed_cluster = random.choice(self.cluster)
             self.ingr_sorted_type = self.get_ing_type()
             self.meal = self.make_meal()
             complete_meal = self.check_meal()
+            display_meal = self.nounder()
 
             if complete_meal:
                 return self.meal
                 break
 
+    def nounder(self):
+        
+        for type_, item in self.meal.iteritems():
+            self.meal[type_] = item.replace("_"," ")
+            print self.meal[type_], item.replace("_"," ")
+        return self.meal
+            
     def get_cluster_data(self):
         """Finds the associated data rows for the random cluster.
             
@@ -110,13 +110,34 @@ class RecipeMachine(object):
 
         """
 
+        #do something here where it makes the ingredient type based on the
+        #global type_dictionary, that has the ingredients categorized by type
+        #and then grabs at the ingredients that are in the particular cluster
+        #dictionary.
+
+        
+        thisclusterings = config_db.getter()[1][self.seed_cluster]
+        alltypes = config_db.getter()[2]
+        allingrs = config_db.getter()[3]
+        #print allingrs
         ingr_sorted_type = {}
 
-        for ingr, amount in self.cluster_ingredients.iteritems():
-            my_ingredient_type = self.ingredient_type[ingr][0]
-            ingr_sorted_type.setdefault(my_ingredient_type,[]).extend([ingr]*amount)
+        local_types = {}
+        
+        for ingr in thisclusterings:
+            ingr = ingr.replace(" ","_")
+            for alltypes in allingrs[ingr]:
+                local_types.setdefault(alltypes,[]).append(ingr)
+        print local_types
+            
+        return local_types
+        #raw_input()
 
-        return ingr_sorted_type
+        #for ingr, amount in self.cluster_ingredients.iteritems():
+        #    my_ingredient_type = self.ingredient_type[ingr][0]
+        #    ingr_sorted_type.setdefault(my_ingredient_type,[]).extend([ingr]*amount)
+
+        #return ingr_sorted_type
 
 
     def make_meal(self):

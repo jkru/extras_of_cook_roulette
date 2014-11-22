@@ -1,32 +1,39 @@
 {% extends 'base.html' %}
 
 {% block head %}
+<style>
+body{background: url("/static/img/pizza.JPG");
+background-size: 1408px 933px;
+background-repeat: no-repeat;
 
+}
 
+.seetext {
+	 width: 500px;
+	 height: 130px;
+	 background: white;
+     font-family: 'Comfortaa', cursive;
+  font-size: 30px;       
+
+}
+
+</style>
 {% endblock %}
 
 {% block body %}
 
-
-
-<!--- <button type="button" action="/login" id="loginbutton">Log In</button></li>
-<div class="login-form" id="thisisloginform"> -->
-
-
-
-        </div><!--/.nav-collapse -->
-      </div>
-    </nav>
-
+<div class="cols-sm-2"></div>
+<div class="cols-sm-8">
     <div class="container">
       <div class="starter-template">
-<h2>Welcome, {{email}}!</h2>
-<div><a href="/displaysaved">My Saved Meals</a></div>
-<div><a href="/changepw">Change Password</a></div>
-
-
+	<div class="seetext">
+	  <h2>Welcome, {{email}}!</h2>
+	  <div class="playfair"><a href="/displaysaved"><font size="5">My Saved Meals</font></a></div>
+	  <div class="playfair"><a href="/changepw"><font size="5">Change Password</font></a></div>
+	</div>
       </div>
-
+</div>
     </div><!-- /.container -->
+<div class="cols-sm-2"></div>
 {% endblock %}
 
