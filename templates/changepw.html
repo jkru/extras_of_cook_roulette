@@ -5,16 +5,23 @@
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-    <script src="../../dist/js/bootstrap.min.js"></script>
-    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-    <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+    <script src="static/css/dist/js/bootstrap.min.js"></script>
+<style>
+body {background: url("/static/img/wine.jpg");
+background-size: 1408px 933px;
+background-repeat: no-repeat;
+}
+</style>
+
+
+
 
 {% endblock %}
 
 {% block body %}
-
-<h3>Change Password</h3>
-<div><form class="sign-up-form" method="POST">
+<div class="col-sm-3">
+<h3 class="comfortaa"><font color="black">Change Password</font></h3>
+<div class="playfair"><form class="sign-up-form" method="POST">
     <div class="form-group"><label for="email"></label>
       <input type = "text" name ="email" id="first_name" class="form-control" placeholder={{session['email']}} /></div>
     <div class="form-group"><label for="password"></label>
@@ -24,9 +31,9 @@
     <div class="form-group"><label for="password"></label>
       <input type = "password" name="checknewpassword" id="password" class="form-control" placeholder="Verify New Password"/></div>
 
-<form action = "/changepw"><button type="submit"> Change Password </button></form>
-<form action = "/account"><button type="submit"> Cancel </button></form>
-
+<form action = "/changepw"><button type="submit" class="btn btn-default"> Change Password </button></form>
+<form action = "/account"><button type="submit" class="btn btn-default"> Cancel </button></form>
+</div>
 
 
 

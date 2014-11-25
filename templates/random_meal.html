@@ -7,57 +7,146 @@
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<!--    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script> -->
+
+<script src="/static/js/jquery-1.11.0.min.js"></script>
+
     <script src="/static/js/bootstrap.min.js"></script>
 
+<style>
 
+a:link {
+    color: #F68833;
+}
+
+
+#starb {
+   position: absolute;
+   margin-top: 20px;
+}
+
+.shorten {
+   background-color: blue;
+   height: 400px;
+   width: 450px;
+   overflow: hidden
+}
+
+.resize {
+   width: 400px;
+   height: 300px;
+   overflow: hidden;
+}
+
+
+
+</style>
 {% endblock %}
 
 {% block body %}
-
-<div class="playfair" class="row">
 <div  class="col-sm-7">
-<div class="comfortaa"><h1>Random Meal</h1></div>
-
-<div><div class="something"> <img src="/static/img/icons/2.png"> <div class="something"> {{vegetable}} </div></div></div>
-<br>
-<div><div class="something"> <img src="/static/img/icons/63.png"> <div class="something">{{protein}}   </div></div></div>
-<br>								            
-<div><div class="something"> <img src="/static/img/icons/55.png"> <div class="something">{{starch}}    </div></div></div>
-<br>
-<br>
-<div class="col-sm-3">
-  <form action="/feedme"><button class="btn btn-default"> MORE FOOD </button>
-</div> 
-<div class="col-sm-3">
-  <div class="moveup" class="checkbox"><label><input type="checkbox" name="yummlycheck" value="yes" checked="no" ><img src="static/img/Yummly_logo_coloured.png"></label>
+  <div class="col-sm-6">
+    <div class="comfortaa"><h1>Random Meal</h1>
+    </div>
   </div>
-</div> 
-  </form>
+  {% if "logged_in" in session %}
+  <div class="col-sm-6">
+ <form action = "/saveme">
+<div class="col-sm-2" id="nexttostar"></div>
+<div class="col-sm-10">
+      <button id="starb" class="btn btn-default btn-lg">
+      <span class="glyphicon glyphicon-star" aria-hidden="true">
+      </span>
+      </button>
+   </form>
 
-{% if "logged_in" in session %}
-    <form action = "/saveme">
-    <div class="col-sm-3"><button class="btn btn-default"> Save This Recipe </button></form></div></div> <div class="col-sm-2"></div></form>
+<script>
+var playfair="playfair"
+$( "#starb" ).hover(
+  function() {
+    // Mouse just entered
+    $( "#nexttostar" ).html("<div class="+playfair+">Save this Recipe</div>")
+  }, function() {
+    // Mouse just exited
+    $( "#nexttostar" ).html("")
+  });
+</script>
+
+  </div></div>
 {% endif %}
+
+<div class="col-sm-12"> 
+  <div class="playfair"><div class="something"> <img src="/static/img/icons/2.png"> <div class="something"> {{vegetable}} </div></div></div>
+  <br>
+  <div class="playfair"><div class="something"> <img src="/static/img/icons/63.png"> <div class="something">{{protein}}   </div></div></div>
+  <br>								            
+  <div class="playfair"><div class="something"> <img src="/static/img/icons/55.png"> <div class="something">{{starch}}    </div></div></div>
 </div>
+
+<div class="col-sm-2">
+<br>
+<br>
+  <form action="/feedme"><button class="btn btn-default"> <span class="comfortaa"><font size="2" color="black">MORE FOOD</font></span></button></div> 
+
+<div class="col-sm-4"><div class="form-group">
+<br>
+<br>
+    <select name="settings" class="form-control">
+    <option value="kmeans">k-means clustering</option>
+    <option value="markov">Markov chain</option>
+    <option value="random">random</option>
+    </select>
+</div></div>
+ <div class="col-sm-3">
+<br>
+<br>
+   <div class="moveup" class="checkbox">
+   <label>
+     <input type="checkbox" name="yummlycheck" value="yes" checked="no" ><img src="static/img/Yummly_logo_coloured.png">
+   </label>
+   </div>
+ </div> 
+  </form>
+<div class="col-sm-3"></div>
+
+<div class="col-sm-12">
+<h3>Method: {{recipe_method}}</h3>
+</div>
+</div>
+
+
 </div>
 
 
 <div class="col-sm-5">
-<h3 class="comfortaa">{{recipe_name}}</h3>
-<img src="{{yummly_image_url}}" class="img-responsive">
+
+
+<span id="headtoyummly"></span><a href="http://www.yummly.com/recipe/{{end_of_url}}"><h3 id="linktoyummly" class="comfortaa">{{recipe_name}}</h3></a>
+<div class="resize"><a href=""><img src="{{yummly_image_url}}" class="img-responsive"></div>
 <br>
-<div class=playfair>
-{% if end_of_url != "" %}
+<script>
+var playfair="playfair"
+$( "#linktoyummly" ).hover(
+  function() {
+    // Mouse just entered
+    $( "#headtoyummly" ).html("<div class="+playfair+">View this recipe on Yummly</div>")
+  }, function() {
+    // Mouse just exited
+    $( "#headtoyummly" ).html("")
+  });
+</script>
+
+
+<div class="playfair">
+
+<!--{% if end_of_url != "" %}
 
 <a href="http://www.yummly.com/recipe/{{end_of_url}}">Click here for a recipe that might use these ingredients</a>
 </br>
 <form action = "/"><button type="submit" class="btn btn-default"> woo </button></form></div>
-{% endif %}
+{% endif %}-->
 </div>
 </div>
-
-
 
     </div><!-- /.container -->
 

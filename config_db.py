@@ -8,6 +8,9 @@ global TYPE_DICTIONARY
 TYPE_DICTIONARY = None
 global INGR_TYPE
 INGR_TYPE = None
+global CHAINS
+CHAINS = None
+
 
 def get_recipes_in_clusters():
     """makes a dictionary of clusters
@@ -76,6 +79,25 @@ def types_ingredients():
     return ingr_dictionary
 
 
+def markov_db():
+    all_recipes = newmodel.session.query(newmodel.Recipe).all()
+    chains = {}
+    for a_recipe in all_recipes:
+        ingr_names = []
+        for ingr in a_recipe.ingredients:
+            ingr_names.append(ingr.name)
+
+        for ingr_name in ingr_names:
+            chains.setdefault(ingr.name,[]).extend(ingr_names)
+ 
+    for ingredient, coincident_ingredients in chains.iteritems():
+        de_duped=[]
+        for co_ing in coincident_ingredients:
+            if co_ing != ingredient:
+                de_duped.append(co_ing)
+        chains[ingredient]=de_duped
+    return chains
+
 
 def getter():
     """Getter function for the dictionaries that contain the meal generation dictionaries.
@@ -87,12 +109,14 @@ def getter():
     global CLUSTER_INGREDIENTS
     global TYPE_DICTIONARY
     global INGR_TYPE
+    global CHAINS
     if CLUSTERS is None:
         CLUSTERS = get_recipes_in_clusters()
         CLUSTER_INGREDIENTS = get_ingredients_in_clusters(CLUSTERS)
         TYPE_DICTIONARY = ingredient_types()
         INGR_TYPE = types_ingredients()
-    return [CLUSTERS, CLUSTER_INGREDIENTS, TYPE_DICTIONARY, INGR_TYPE]
+        CHAINS = markov_db()
+    return [CLUSTERS, CLUSTER_INGREDIENTS, TYPE_DICTIONARY, INGR_TYPE, CHAINS]
 
 
 #set globals = None

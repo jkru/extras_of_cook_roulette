@@ -63,6 +63,7 @@ def actually_login_page():
     else:
         session['email'] = email_in
         session['logged_in'] = True
+        session['default_setting'] = newmodel.session.query(newmodel.User).filter_by(email=email_in).first().settings
         return redirect(url_for("random_meal"))
 
 @app.route("/account")
@@ -118,13 +119,38 @@ def logout():
 @app.route("/feedme")
 def random_meal():
     recipe_maker = RecipeMachine()
-    ingredients = recipe_maker.generate_kmeans_recipe()
+
+    
+    recipe_method = request.args.get("settings")
+    if recipe_method == "kmeans":
+        ingredients = recipe_maker.generate_kmeans_recipe()
+    elif recipe_method == "markov":
+        ingredients = recipe_maker.generate_markov_recipe()
+    elif recipe_method=="random":
+        ingredients = recipe_maker.generate_random_recipe()
+    else:
+        recipe_method = session['default_setting']
+        if recipe_method == "kmeans":
+            ingredients = recipe_maker.generate_kmeans_recipe()
+        elif recipe_method == "markov":
+            ingredients = recipe_maker.generate_markov_recipe()
+        else:
+            ingredients = recipe_maker.generate_random_recipe()            
+    
+    #except:
+    #    recipe_method = session['default_setting']
+
+    print "in the first try"
+
     session['meal'] = ingredients
+
     if request.args.get("yummlycheck") == "yes":
         yummly_api_request = requests.get('http://api.yummly.com/v1/api/recipes?_app_id='+YUMMLY_APP_ID+'&_app_key='+YUMMLY_APP_KEY+'&q='+str(ingredients['vegetable'])+'%2C+'+str(ingredients['protein'])+'%2C+'+str(ingredients['starch'])+'&requirePictures=true')
         json_text = yummly_api_request.text
         json_object = json.loads(json_text)
+
         try:
+
             end_of_url = json_object['matches'][0][u'id']
             large_image =  json_object['matches'][0][u'imageUrlsBySize'][u'90'].replace('=s90-c','=s730-e365')
             yummly_rec_name = json_object['matches'][0][u'recipeName']
@@ -132,9 +158,10 @@ def random_meal():
             end_of_url = ""
             large_image = "http://upload.wikimedia.org/wikipedia/commons/1/18/Yummly_logo.png"
             yummly_rec_name = "Why don't you try"
-        return render_template("random_meal.html",vegetable=ingredients['vegetable'], protein=ingredients['protein'],starch=ingredients['starch'],yummly_image_url=large_image,end_of_url=end_of_url,recipe_name=yummly_rec_name)
-    else:                
-        return render_template("random_meal.html",vegetable=ingredients['vegetable'], protein=ingredients['protein'],starch=ingredients['starch'],yummly_image_url="",end_of_url="",recipe_name="")
+
+        return render_template("random_meal.html",vegetable=ingredients['vegetable'], protein=ingredients['protein'],starch=ingredients['starch'],yummly_image_url=large_image,end_of_url=end_of_url,recipe_name=yummly_rec_name,recipe_method=recipe_method)
+    else:              
+        return render_template("random_meal.html",vegetable=ingredients['vegetable'], protein=ingredients['protein'],starch=ingredients['starch'],yummly_image_url="",end_of_url="",recipe_method=recipe_method)
 
 
 
