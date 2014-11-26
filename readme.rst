@@ -6,13 +6,22 @@ Cook Roulette is a random meal generator that creates combinations of food so yo
 
 The premise
 -----
-This is a thing.
+Cook Roulette randomly generates meals.
 
-1. This the first thing in this list::
+The code is run with a shell script::
 
-     run some code
+     ./runscript.scr
 
+This isn't included here, but holds the keys to yummly and twilio.
 
-Another heading
+Features
 -----------------------
+1. Web app
+   1. Log in functionality
+   2. Save meals
+   3. Select type of meal generation (k-means, Markov chain, or random)
+   4. Uses Yummly API to find a recipe that uses those meal ingredients
 
+2. Text to twilio for a k-means generated meal
+
+3. Outward facing REST-ful API 
