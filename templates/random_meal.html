@@ -2,43 +2,25 @@
 
 {% block head %}
 
-
-
-    <!-- Bootstrap core JavaScript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
-<!--    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script> -->
-
 <script src="/static/js/jquery-1.11.0.min.js"></script>
-
-    <script src="/static/js/bootstrap.min.js"></script>
+<script src="/static/js/bootstrap.min.js"></script>
 
 <style>
 
-a:link {
-    color: #F68833;
-}
+  a:link {
+      color: #F68833;
+  }
 
+  #starb {
+      position: absolute;
+      margin-top: 20px;
+  }
 
-#starb {
-   position: absolute;
-   margin-top: 20px;
-}
-
-.shorten {
-   background-color: blue;
-   height: 400px;
-   width: 450px;
-   overflow: hidden
-}
-
-.resize {
-   width: 400px;
-   height: 300px;
-   overflow: hidden;
-}
-
-
+  .resize {
+      width: 400px;
+      height: 300px;
+      overflow: hidden;
+  }
 
 </style>
 {% endblock %}
@@ -76,22 +58,22 @@ $( "#starb" ).hover(
 {% endif %}
 
 <div class="col-sm-12"> 
-  <div class="playfair"><div class="something"> <img src="/static/img/icons/2.png"> <div class="something"> {{vegetable}} </div></div></div>
+  <div class="playfair"><div class="something"> <img src="/static/img/icons/2.png"> <div class="something" id="vegetable"> {{vegetable}} </div></div></div>
   <br>
-  <div class="playfair"><div class="something"> <img src="/static/img/icons/63.png"> <div class="something">{{protein}}   </div></div></div>
+  <div class="playfair"><div class="something"> <img src="/static/img/icons/63.png"> <div class="something" id="protein">{{protein}}   </div></div></div>
   <br>								            
-  <div class="playfair"><div class="something"> <img src="/static/img/icons/55.png"> <div class="something">{{starch}}    </div></div></div>
+  <div class="playfair"><div class="something"> <img src="/static/img/icons/55.png"> <div class="something" id="starch">{{starch}}    </div></div></div>
 </div>
 
 <div class="col-sm-2">
 <br>
 <br>
-  <form action="/feedme"><button class="btn btn-default"> <span class="comfortaa"><font size="2" color="black">MORE FOOD</font></span></button></div> 
+  <form ><button class="btn btn-default" id="morefoodbutton"> <span class="comfortaa"><font size="2" color="black">MORE FOOD</font></span></button></div> 
 
 <div class="col-sm-4"><div class="form-group">
 <br>
 <br>
-    <select name="settings" class="form-control">
+    <select id="settings" name="settings" class="form-control">
     <option value="kmeans">k-means clustering</option>
     <option value="markov">Markov chain</option>
     <option value="random">random</option>
@@ -102,16 +84,17 @@ $( "#starb" ).hover(
 <br>
    <div class="moveup" class="checkbox">
    <label>
-     <input type="checkbox" name="yummlycheck" value="yes" checked="no" ><img src="static/img/Yummly_logo_coloured.png">
+     <input type="checkbox" name="yummlycheck" id="yummlycheck" value="yes" checked="no"><img src="static/img/Yummly_logo_coloured.png">
    </label>
    </div>
  </div> 
   </form>
 <div class="col-sm-3"></div>
 
-<div class="col-sm-12">
-<h3>Method: {{recipe_method}}</h3>
-</div>
+
+
+<div class="col-sm-12"><div id="blah"><h3>Method: {{recipe_method}}</h3></div></div>
+
 </div>
 
 
@@ -120,40 +103,37 @@ $( "#starb" ).hover(
 
 <div class="col-sm-5">
 
-
-<span id="headtoyummly"></span><a href="http://www.yummly.com/recipe/{{end_of_url}}"><h3 id="linktoyummly" class="comfortaa">{{recipe_name}}</h3></a>
-<div class="resize"><a href=""><img src="{{yummly_image_url}}" class="img-responsive"></div>
+<span id="headtoyummly"><a href="http://www.yummly.com/recipe/{{end_of_url}}"><h3 id="linktoyummly" class="comfortaa">{{recipe_name}}</h3></a></span>
+<div class="resize" id="yummlyimage"><img src="{{yummly_image_url}}" class="img-responsive"></div>
 <br>
-<script>
-var playfair="playfair"
-$( "#linktoyummly" ).hover(
-  function() {
-    // Mouse just entered
-    $( "#headtoyummly" ).html("<div class="+playfair+">View this recipe on Yummly</div>")
-  }, function() {
-    // Mouse just exited
-    $( "#headtoyummly" ).html("")
-  });
-</script>
-
 
 <div class="playfair">
 
-<!--{% if end_of_url != "" %}
-
-<a href="http://www.yummly.com/recipe/{{end_of_url}}">Click here for a recipe that might use these ingredients</a>
-</br>
-<form action = "/"><button type="submit" class="btn btn-default"> woo </button></form></div>
-{% endif %}-->
 </div>
 </div>
 
     </div><!-- /.container -->
 
+<script>
+$("#morefoodbutton").click(function(event){
+    event.preventDefault();
+    var settings=$("#settings").val();
+    var yummlycheck=$("#yummlycheck").val();
+    $.get(
+        "/nextmeal",
+        {'settings':settings, 'yummlycheck':yummlycheck},
+        function response(data){
+            $("#vegetable").html(data['vegetable']);
+            $("#protein").html(data['protein']);
+            $("#starch").html(data['starch']);
+            var yummlyLink = '"http://www.yummly.com/recipe/"'+data['end_of_url'];
+            var yummlyImageUrl = data['yummly_image_url'];
+            $("#headtoyummly").html('<a href="+yummlyLink+"><h3 id="linkToYummly" class="comfortaa">'+data['recipe_name']+'</h3></a>');
+            $("#yummlyimage").html('<img src='+yummlyImageUrl+' class="img-responsive">');
+            $("#blah").html('<h3>Method:'+data['recipe_method']+'</h3>');
 
-
-
-
-
+   });
+})
+</script>
 
 {% endblock %}
