@@ -23,12 +23,8 @@ Web App Features
 
 User Experience
 -----------------------
-1. Main page
 .. image:: https://raw.githubusercontent.com/jkru/cook_roulette/master/hompage.png
-    :alt: main page
-    :width: 835
-    :height: 835
-    :align: center
+
 
 
 Extras
