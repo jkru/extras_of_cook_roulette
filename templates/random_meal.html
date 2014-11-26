@@ -126,9 +126,9 @@ $("#morefoodbutton").click(function(event){
             $("#vegetable").html(data['vegetable']);
             $("#protein").html(data['protein']);
             $("#starch").html(data['starch']);
-            var yummlyLink = '"http://www.yummly.com/recipe/"'+data['end_of_url'];
+            var yummlyLink = '"http://www.yummly.com/recipe/'+data['end_of_url']+'"';
             var yummlyImageUrl = data['yummly_image_url'];
-            $("#headtoyummly").html('<a href="+yummlyLink+"><h3 id="linkToYummly" class="comfortaa">'+data['recipe_name']+'</h3></a>');
+            $("#headtoyummly").html('<a href='+yummlyLink+'><h3 id="linkToYummly" class="comfortaa">'+data['recipe_name']+'</h3></a>');
             $("#yummlyimage").html('<img src='+yummlyImageUrl+' class="img-responsive">');
             $("#blah").html('<h3>Method:'+data['recipe_method']+'</h3>');
 

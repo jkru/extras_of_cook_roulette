@@ -21,6 +21,10 @@ Web App Features
 3. Select type of meal generation (k-means, Markov chain, or random)
 4. Uses Yummly API to find a recipe that uses those meal ingredients
 
+User Experience
+-----------------------
+.. image:: https://bythefallen.files.wordpress.com/2013/12/blahblah2.jpg
+
 Extras
 -----------------------
 1. Text to twilio for a k-means generated meal
