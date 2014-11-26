@@ -23,7 +23,13 @@ Web App Features
 
 User Experience
 -----------------------
-.. image:: https://bythefallen.files.wordpress.com/2013/12/blahblah2.jpg
+1. Main page
+.. image:: https://raw.githubusercontent.com/jkru/cook_roulette/master/hompage.png
+    :alt: main page
+    :width: 835
+    :height: 835
+    :align: center
+
 
 Extras
 -----------------------
