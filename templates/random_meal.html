@@ -22,6 +22,19 @@
       overflow: hidden;
   }
 
+	body {
+		background-color: #EEEEEE;
+	}
+
+	#putcolor{
+		background-color: #FF7619;
+	}
+
+	#settings{
+		width:175px;
+	}
+
+
 </style>
 {% endblock %}
 
@@ -58,11 +71,11 @@ $( "#starb" ).hover(
 {% endif %}
 
 <div class="col-sm-12"> 
-  <div class="playfair"><div class="something"> <img src="/static/img/icons/2.png"> <div class="something" id="vegetable"> {{vegetable}} </div></div></div>
+  <div class="playfair"><div class="something"> <img width="50px" src="/static/img/veg.png"> <div class="something" id="vegetable"> {{vegetable}} </div></div></div>
   <br>
-  <div class="playfair"><div class="something"> <img src="/static/img/icons/63.png"> <div class="something" id="protein">{{protein}}   </div></div></div>
+  <div class="playfair"><div class="something"> <img width="50px" src="/static/img/protein.png"> <div class="something" id="protein">{{protein}}   </div></div></div>
   <br>								            
-  <div class="playfair"><div class="something"> <img src="/static/img/icons/55.png"> <div class="something" id="starch">{{starch}}    </div></div></div>
+  <div class="playfair"><div class="something"> <img width="50px" src="/static/img/starch.png"> <div class="something" id="starch">{{starch}}    </div></div></div>
 </div>
 
 <div class="col-sm-2">
@@ -93,7 +106,7 @@ $( "#starb" ).hover(
 
 
 
-<div class="col-sm-12"><div id="blah"><h3>Method: {{recipe_method}}</h3></div></div>
+
 
 </div>
 
@@ -130,7 +143,6 @@ $("#morefoodbutton").click(function(event){
             var yummlyImageUrl = data['yummly_image_url'];
             $("#headtoyummly").html('<a href='+yummlyLink+'><h3 id="linkToYummly" class="comfortaa">'+data['recipe_name']+'</h3></a>');
             $("#yummlyimage").html('<img src='+yummlyImageUrl+' class="img-responsive">');
-            $("#blah").html('<h3>Method:'+data['recipe_method']+'</h3>');
 
    });
 })

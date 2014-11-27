@@ -1,4 +1,6 @@
-import model
+import newmodel 
+import unittest
+
 
 global CLUSTERS 
 CLUSTERS = None
@@ -19,7 +21,7 @@ def get_recipes_in_clusters():
     key = cluster, value = recipes in the cluster.
 
     """
-    allrecipes = model.session.query(model.Recipe).all()
+    allrecipes = newmodel.session.query(newmodel.Recipe).all()
     clusters = {}
     for recipe in allrecipes:
         if clusters.get(recipe.cluster,0) != 0:
@@ -29,7 +31,7 @@ def get_recipes_in_clusters():
             recipelist.append(recipe.id)
             clusters[recipe.cluster] = recipelist
     return clusters
-        
+
 def get_ingredients_in_clusters(clusters):
     """takes {recipe:cluster} dict and figures out what ingredients belong
     to each cluster.
@@ -39,7 +41,7 @@ def get_ingredients_in_clusters(clusters):
     for cluster, recipes in clusters.iteritems():
         cluster_recipes_ingredients = []
         for recipe in recipes:
-            a_recipe =  model.session.query(model.Recipe).filter_by(id=recipe).all()
+            a_recipe =  newmodel.session.query(newmodel.Recipe).filter_by(id=recipe).all()
             the_ingredients = a_recipe[0].ingredients
             ingredients_list = []
             for an_ingredient in the_ingredients:
@@ -50,13 +52,7 @@ def get_ingredients_in_clusters(clusters):
     return cluster_ingredients
 
 def ingredient_types():
-    """creates a dictionary of ingredients by type.
-
-    queries SQL database and then creates a dictionary with
-    {type:[ingredients]}
-
-    """
-    all_types = model.session.query(model.Type_).all()    
+    all_types = newmodel.session.query(newmodel.Type_).all()    
 
     type_dictionary = {}
 
@@ -67,26 +63,7 @@ def ingredient_types():
             types_list.append(my_ingredient.name)
         type_dictionary[a_type.name] = types_list
     return type_dictionary
-
-
-def types_ingredients():
-    """creates a dictioanry of types by ingredient
-
-    queries SQL database and then creates a dictionary with
-    {ingredient:[types]}
-    """
-
-    all_ingrs = model.session.query(model.Ingredient).all()    
-
-    ingr_dictionary = {}
-
-    for an_ingr in all_ingrs:
-        ingr_list = []
-        associated_types = an_ingr.types_
-        for my_type in associated_types:
-            ingr_list.append(my_type.name)
-        ingr_dictionary[an_ingr.name] = ingr_list
-    return ingr_dictionary
+       
 
 
 def markov_db():
@@ -97,7 +74,7 @@ def markov_db():
     recipe with. Sorry English grammar, you lose this round.
 
     """
-    all_recipes = model.session.query(model.Recipe).all()
+    all_recipes = newmodel.session.query(newmodel.Recipe).all()
     chains = {}
     for a_recipe in all_recipes:
         ingr_names = []
@@ -116,13 +93,33 @@ def markov_db():
     return chains
 
 
+def types_ingredients():
+    """creates a dictionary of ingredients by type.
+
+    queries SQL database and then creates a dictionary with
+
+    {ingredient:[types]}
+    """
+
+    all_ingrs = newmodel.session.query(newmodel.Ingredient).all()    
+
+    ingr_dictionary = {}
+
+    for an_ingr in all_ingrs:
+        ingr_list = []
+        associated_types = an_ingr.types_
+        for my_type in associated_types:
+            ingr_list.append(my_type.name)
+        ingr_dictionary[an_ingr.name] = ingr_list
+    return ingr_dictionary
+
+
+
 def getter():
     """Getter function for the dictionaries that contain the meal
     generation dictionaries.
     
-    looks for the global variables. If they don't exist, go run the
-    functions that creates them. Otherwise, return the global
-    variables.
+    looks for the global variables.
 
     """
 
@@ -140,15 +137,49 @@ def getter():
     return [CLUSTERS, CLUSTER_INGREDIENTS, TYPE_DICTIONARY, INGR_TYPE, CHAINS]
 
 
-#set globals = None
-#if globals = None
-#do the fucntions to get the dictionaries
-#else return globals
 
-#instead of returns, global blah blah = dictionary
 
-#getters to return variables
 
-if __name__=="__main__":
-    main()
-    
+class ConfigDbUnitTestCase(unittest.TestCase):
+
+
+
+    def testShouldGiveDictionaryWithRecipeCluster(self):
+        """ test make dictionary in clusters"""
+        cluster_test = {1: [1]}
+        self.assertEqual(get_recipes_in_clusters(),cluster_test)
+
+    def testShouldGiveDictionaryWithClusterIngredients(self):
+        """test get_ingredients_in_clusters"""
+        cluster_test = {1: [1]}
+        cluster_ingredients={1:[u'tomato', u'steak', u'potato']}
+        self.assertEqual(get_ingredients_in_clusters(cluster_test),cluster_ingredients)
+
+    def testShouldGiveDictionaryWithTypeIngredients(self):
+        """test ingredient_types"""
+        test_type_ingredient = {u'vegetable': [u'tomato'], u'protein': [u'steak'], u'starch': [u'potato']}
+        self.assertEqual(ingredient_types(),test_type_ingredient)
+
+    def testShouldGiveDictionaryWithIngredientTypes(self):
+        """test types_ingredients"""
+        test_ingredient_types = {u'tomato': [u'vegetable'], u'steak': [u'protein'], u'potato': [u'starch']} 
+        self.assertEqual(types_ingredients(),test_ingredient_types)
+
+    def testShouldGiveDictionaryWithIngredientIngredients(self):
+        """test markov_db"""
+        test_ingredient_ingredients = {u'potato': [u'tomato', u'steak', u'tomato', u'steak', u'tomato', u'steak']} 
+        self.assertEqual(markov_db(),test_ingredient_ingredients)
+
+    def testShouldGiveBackListOfPotentiallyGlobalVariables(self):
+        """test getter"""
+        cluster_test = {1: [1]}
+        cluster_ingredients={1:[u'tomato', u'steak', u'potato']}
+        test_type_ingredient = {u'vegetable': [u'tomato'], u'protein': [u'steak'], u'starch': [u'potato']}
+        test_ingredient_types = {u'tomato': [u'vegetable'], u'steak': [u'protein'], u'potato': [u'starch']} 
+        test_ingredient_ingredients = {u'potato': [u'tomato', u'steak', u'tomato', u'steak', u'tomato', u'steak']} 
+        test_getter = [cluster_test, cluster_ingredients, test_type_ingredient, test_ingredient_types,test_ingredient_ingredients]
+        self.assertEqual(getter(),test_getter)
+
+if __name__ =="__main__":
+    unittest.main()
+

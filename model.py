@@ -5,9 +5,19 @@ from sqlalchemy.orm import sessionmaker, scoped_session
 from sqlalchemy import ForeignKey
 from sqlalchemy.orm import relationship, backref
 from passlib.hash import sha256_crypt
+import os
+
+#create a shell script to do some basic configuratins to set environment to do it in python
+#so that model.py knows if it's in test or development mode
+#del test database, create a new one, create models that I might need
+#stub is a testing thing
 
 
-engine = create_engine("sqlite:///newcookroulette.db", echo=False)
+
+#engine = create_engine("sqlite:///newcookroulette.db", echo=False)
+
+SQLITEDB = os.environ.get('SQLITEDB')
+engine = create_engine(SQLITEDB, echo=False)
 session = scoped_session(sessionmaker(bind=engine, 
                                       autocommit=False,
                                       autoflush=False))
@@ -15,7 +25,9 @@ Base = declarative_base()
 Base.query = session.query_property
 
 def connect():
-    engine = create_engine("sqlite:///newcookroulette.db", echo=True)
+    #engine = create_engine("sqlite:///newcookroulette.db", echo=True)
+    SQLITEDB = os.environ.get('SQLITEDB')
+    engine = create_engine(SQLITEDB, echo=True)
     session = scoped_session(sessionmaker(bind=engine, 
                                       autocommit=False,
                                       autoflush=False))

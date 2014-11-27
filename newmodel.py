@@ -7,7 +7,7 @@ from sqlalchemy.orm import relationship, backref
 from passlib.hash import sha256_crypt
 
 
-engine = create_engine("sqlite:///newcookroulette.db", echo=False)
+engine = create_engine("sqlite:///testcookroulette.db", echo=False)
 session = scoped_session(sessionmaker(bind=engine, 
                                       autocommit=False,
                                       autoflush=False))
@@ -15,7 +15,7 @@ Base = declarative_base()
 Base.query = session.query_property
 
 def connect():
-    engine = create_engine("sqlite:///newcookroulette.db", echo=True)
+    engine = create_engine("sqlite:///testcookroulette.db", echo=True)
     session = scoped_session(sessionmaker(bind=engine, 
                                       autocommit=False,
                                       autoflush=False))
@@ -50,9 +50,8 @@ def create_user_account(email, password, settings="kmeans"):
         return "Successfully Added!"
 
 def login(email_in, password_in):
-    print email_in
+
     if email_in =="" or password_in =="":
-        print "stops here at no password"
         return "Fill Out All Fields"
     db_return = session.query(User).filter_by(email=email_in).first()
     try:
@@ -84,6 +83,25 @@ class SavedRecipe(Base):
     rating = Column(String(10))
 
     user = relationship("User", backref=backref('savedrecipes', order_by=id))
+
+def save_recipe(session_email,saved_meal):
+    user_id = session.query(User).filter_by(email=session_email).first().id
+    s = SavedRecipe(user_id=user_id, recipe=saved_meal)
+    session.add(s)
+    session.commit()
+
+
+
+def get_list_saved_recipes(session_email):
+    user = session.query(User).filter_by(email=session_email).first()
+    all_recipes = session.query(SavedRecipe).filter_by(user_id=user.id).all()
+
+    list_of_recipes = []
+    for a_recipe in all_recipes:
+        list_of_recipes.append(a_recipe)
+
+    return list_of_recipes
+
 
 #==================These are 3 tables with 2 association tables==========/
 

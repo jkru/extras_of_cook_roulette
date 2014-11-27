@@ -83,7 +83,6 @@ def actually_change_pw():
     if login != "Yay!":
         flash ("Incorrect Password")
         return redirect(url_for("display_change_pw"))
-
     else:
         if password_in!=password_in2:
             flash ("New Password Does Not Match")
@@ -93,6 +92,7 @@ def actually_change_pw():
             updatepw = model.change_pw(session['email'],password_in_s_h)
             flash (updatepw)
             return redirect(url_for("show_account_page"))
+
 
 @app.route("/displaysaved")
 def display_saved_recipes():

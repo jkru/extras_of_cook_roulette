@@ -4,6 +4,8 @@ Cook Roulette: A random meal generator
 
 Cook Roulette is a random meal generator that creates combinations of food so you don't have to think about what you should make for dinner.
 
+https://guides.github.com/features/mastering-markdown/
+
 
 The premise
 -----
