@@ -1,6 +1,7 @@
 Cook Roulette: A random meal generator
 =====================
-.. image:: https://raw.githubusercontent.com/jkru/cook_roulette/master/hompage.png
+![home page]
+(https://raw.githubusercontent.com/jkru/cook_roulette/master/hompage.png)
 
 Cook Roulette is a random meal generator that creates combinations of food so you don't have to think about what you should make for dinner.
 
@@ -27,14 +28,16 @@ Web App Features
 User Experience
 -----------------------
 Users can create an account:
-![login page]
+![create page]
 (https://raw.githubusercontent.com/jkru/cook_roulette/master/create_account.png)
 
 And then log into the page:
-.. image:: https://raw.githubusercontent.com/jkru/cook_roulette/master/login.png
+![login page]
+(https://raw.githubusercontent.com/jkru/cook_roulette/master/login.png)
 
 The main part of the page:
-.. image:: https://raw.githubusercontent.com/jkru/cook_roulette/master/main_part.png
+![main page]
+(https://raw.githubusercontent.com/jkru/cook_roulette/master/main_part.png)
 
 
 Extras
