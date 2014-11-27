@@ -27,7 +27,8 @@ Web App Features
 User Experience
 -----------------------
 Users can create an account:
-.. image:: https://raw.githubusercontent.com/jkru/cook_roulette/master/create_account.png
+![login page]
+(https://raw.githubusercontent.com/jkru/cook_roulette/master/create_account.png)
 
 And then log into the page:
 .. image:: https://raw.githubusercontent.com/jkru/cook_roulette/master/login.png
