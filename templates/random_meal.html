@@ -58,16 +58,14 @@
 <script>
 var playfair="playfair"
 $( "#starb" ).hover(
-  function() {
-    // Mouse just entered
-    $( "#nexttostar" ).html("<div class="+playfair+">Save this Recipe</div>")
-  }, function() {
-    // Mouse just exited
-    $( "#nexttostar" ).html("")
-  });
+   function() {
+      $( "#nexttostar" ).html("<div class="+playfair+">Save this Recipe</div>")
+   }, function() {
+      $( "#nexttostar" ).html("")
+   });
 </script>
 
-  </div></div>
+ </div></div>
 {% endif %}
 
 <div class="col-sm-12"> 
@@ -81,7 +79,7 @@ $( "#starb" ).hover(
 <div class="col-sm-2">
 <br>
 <br>
-  <form ><button class="btn btn-default" id="morefoodbutton"> <span class="comfortaa"><font size="2" color="black">MORE FOOD</font></span></button></div> 
+  <form><button class="btn btn-default" id="morefoodbutton"> <span class="comfortaa"><font size="2" color="black">MORE FOOD</font></span></button></div> 
 
 <div class="col-sm-4"><div class="form-group">
 <br>
@@ -97,52 +95,59 @@ $( "#starb" ).hover(
 <br>
    <div class="moveup" class="checkbox">
    <label>
-     <input type="checkbox" name="yummlycheck" id="yummlycheck" value="yes" checked="no"><img src="static/img/Yummly_logo_coloured.png">
+     <input type="checkbox" name="yummlycheck" id="yummlycheck" value="ON" checked="no"><img src="static/img/Yummly_logo_coloured.png">
    </label>
    </div>
  </div> 
   </form>
-<div class="col-sm-3"></div>
-
-
-
-
-
-</div>
-
-
-</div>
+<div class="col-sm-3"></div></div> </div>
 
 
 <div class="col-sm-5">
-
 <span id="headtoyummly"><a href="http://www.yummly.com/recipe/{{end_of_url}}"><h3 id="linktoyummly" class="comfortaa">{{recipe_name}}</h3></a></span>
 <div class="resize" id="yummlyimage"><img src="{{yummly_image_url}}" class="img-responsive"></div>
 <br>
 
-<div class="playfair">
-
-</div>
-</div>
-
-    </div><!-- /.container -->
+<div class="playfair"></div></div></div><!-- /.container -->
 
 <script>
 $("#morefoodbutton").click(function(event){
     event.preventDefault();
+    
     var settings=$("#settings").val();
     var yummlycheck=$("#yummlycheck").val();
+    if ($("#yummlycheck").is(":checked")){
+        var checked="yes";
+    }
+    else {
+        var checked="no";
+    };
+
     $.get(
         "/nextmeal",
-        {'settings':settings, 'yummlycheck':yummlycheck},
+        {'settings':settings, 'checked':checked},
         function response(data){
             $("#vegetable").html(data['vegetable']);
             $("#protein").html(data['protein']);
             $("#starch").html(data['starch']);
-            var yummlyLink = '"http://www.yummly.com/recipe/'+data['end_of_url']+'"';
-            var yummlyImageUrl = data['yummly_image_url'];
-            $("#headtoyummly").html('<a href='+yummlyLink+'><h3 id="linkToYummly" class="comfortaa">'+data['recipe_name']+'</h3></a>');
-            $("#yummlyimage").html('<img src='+yummlyImageUrl+' class="img-responsive">');
+
+            if (checked==="yes") {
+                var yummlyLink = '"http://www.yummly.com/recipe/'+data['end_of_url']+'"';
+                var yummlyImageUrl = data['yummly_image_url'];
+                $("#headtoyummly").html('<a href='+yummlyLink+'><h3 id="linkToYummly" class="comfortaa">'+data['recipe_name']+'</h3></a>');
+                if (yummlyImageUrl!=""){
+                     $("#yummlyimage").html('<img src='+yummlyImageUrl+' class="img-responsive">');
+                     }
+                ;}
+
+            else {
+                var yummlyLink = '"http://www.yummly.com/recipe/'+data['end_of_url']+'"';
+                var yummlyImageUrl = data['yummly_image_url'];
+                $("#headtoyummly").html("");
+                $("#yummlyimage").html("");
+            };
+
+
 
    });
 })

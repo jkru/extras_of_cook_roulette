@@ -3,7 +3,18 @@ import random
 import config_db
 
 class RecipeMachine(object):
+    #class that creates the meals
+
     def generate_markov_recipe(self):
+        """RM method that creates Markov chain meals.
+
+        Uses config getter to get the Markov chain dictionary, picks a
+        seed ingredient, calls a function that fills out the rest of
+        the meal based on the seed ingredient, formats the meal to
+        remove the underscores, and then returns the completed Markov
+        meal.
+
+        """
         self.markov_chain_dict = config_db.getter()[4]
         self.markov_seed_ingr = random.choice(self.markov_chain_dict.keys())
         self.markov_meal = self.populate_markov_meal()
@@ -12,6 +23,17 @@ class RecipeMachine(object):
         return self.meal
 
     def populate_markov_meal(self):
+        """Populates the meal skeleton for Markov meals.
+
+        Randomly selects an ingredient from the Markov chain
+        associated with random seed ingredient. Checks if the meal
+        skeleton is complete. Returns meal if it is, keeps going if
+        it's not. If more than 20 items have been generated, and the
+        meal is still not complete, it picks a new random seed
+        ingredient and uses that as the base for the Markov
+        chain. Currently an bi-gram.
+
+        """
 
         ingredient_by_type = config_db.getter()[3]
         
@@ -20,7 +42,7 @@ class RecipeMachine(object):
         my_ingredient = self.markov_seed_ingr
         counter = 0
 
-        while needs_more==True:
+        while needs_more:
             my_list_of_types = ingredient_by_type[my_ingredient]
             my_first_type = my_list_of_types[0]
             meal[my_first_type] = my_ingredient
@@ -35,7 +57,16 @@ class RecipeMachine(object):
         return meal
         
     def generate_random_recipe(self):
-        #congfig_db2 => {protein: chicken, steak}
+        """Generates the meal for the random meals.
+
+        Gets a list of types with every associated ingredient from the
+        entire recipe database. Calls the meal skeleton-filling
+        method. Checks to see if meal is completed. Passes it through
+        a formatter to take out underscores. Returns completed meal.
+
+        note: congfig_db2 => {protein: chicken, steak}
+        """
+
         self.all_types = config_db.getter()[2]
         while True:
             self.meal = self.make_random_meal()
@@ -47,6 +78,13 @@ class RecipeMachine(object):
                 break
 
     def make_random_meal(self):
+        """Fills in the meal skeleton for the random meal.
+
+        Randomly selects an ingredient associated with each
+        type. Returns meal.
+
+        """
+
         meal = {}
         for type_, ingredients in self.all_types.iteritems():
             meal[type_] = random.choice(ingredients)
@@ -54,6 +92,15 @@ class RecipeMachine(object):
 
 
     def generate_kmeans_recipe(self):
+        """Generates the k-means meals.
+        
+        Gets a dictionary filled with clusters and associated
+        ingredients. Randomly chooses a cluster. Sorts ingredients of
+        said cluster into types. Calls method that fills the meal
+        skeleton. Checks to see if the meal is complete. Calls
+        function to remove underscores. Returns completed meal.
+
+        """
         while True:
             self.cluster = config_db.getter()[0].keys()
             self.seed_cluster = random.choice(self.cluster)
@@ -64,9 +111,7 @@ class RecipeMachine(object):
 
             if complete_meal:
                 return self.meal
-                break
-
-    
+                break    
 
     def nounder(self):
         """takes out underscores from names.
@@ -79,6 +124,7 @@ class RecipeMachine(object):
             self.meal[type_] = item.replace("_"," ")
         return self.meal
             
+
     def get_ing_type(self):
         """returns a dictionary of all of the ingredients in a cluster that
         are sorted based on their type.
@@ -107,9 +153,10 @@ class RecipeMachine(object):
 
 
     def make_kmeans_meal(self):
-        """populates the meal dictionary. 
+        """populates the k-means meal dictionary. 
 
-        goes into the 
+        Picks a random ingredient from each ingredient type associated
+        with a particular cluster.
 
         """
 
@@ -125,79 +172,6 @@ class RecipeMachine(object):
 
         if "" not in self.meal.values():
             return True
-
-
-#    def get_cluster_data(self):
-#        """Finds the associated data rows for the random cluster.
-#            
-#        """
-#
-#        cluster_data = []
-#        for recipe_id in self.seed_cluster:
-#            cluster_data.append(self.data[recipe_id])
-#        return cluster_data
-#
-#
-#    def populate_cluster_ingredient_names(self):
-#        """Finds human-readable names for all the ingredients of the recipes
-#        of the random cluster.
-#
-#        It takes the dataset of the cluster 
-#
-#        """
-#
-#        cluster_ingredients = {}
-#        for cluster_recipe in self.cluster_data:
-#            for pos, recipe_ingredient in enumerate(cluster_recipe):
-#                if recipe_ingredient == 1:
-#                    cluster_ingredients[self.all_ingredients[pos]] = cluster_ingredients.get(self.all_ingredients[pos], 0) + 1
-#
-#        return cluster_ingredients
-
-
-
-
-def initialize_clusters():
-    """Initialize the kmeans clusters and read in data. 
-    This is going to get taken out soon.
-
-    This uses a kmeans clustering algorithm to classify recipes into
-    different clusters based on their ingredients. 
-
-    returns: a list of the recipes, ingredients, association of
-    ingredient inclusion to recipe, and cluster membership
-
-    """
-    recipe, all_ingredients, data = clus.readfile('testgroup')
-    kclust = clus.kcluster(data,k=4)
-    return [recipe, all_ingredients, data, kclust]
-
-def initialize_ingredient_categories():
-    """Initializes the individual ingredients by type. This will need to
-    be modified, but will likely make use of the dictionaries and not the
-    databases.
-
-    """
-
-
-    ingredient_categories = open('ing_cat.lst','r')
-
-    ingredient_type = {}
-    for ingcat in ingredient_categories:
-        ingcat = ingcat.split()
-        ingredient_type[ingcat[0]] = ingcat[1:]
-    ingredient_categories.close()
-    return ingredient_type
-
-def temp_init_function():
-    """temporary initialization code"""
-    recipe, all_ingredients, data, kclust = initialize_clusters()
-    ingredient_type = initialize_ingredient_categories()
-
-    return [recipe,all_ingredients,data,kclust,ingredient_type]
-
-
-
 
 if __name__=="__main__":
     import doctest
